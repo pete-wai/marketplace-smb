@@ -1,0 +1,3093 @@
+[
+  {
+    "providerId": "csp-5ef359c6ea22",
+    "providerName": "22nd Century Technologies Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://xtractiq.tscti.com"
+    ]
+  },
+  {
+    "providerId": "csp-5171a4001f10",
+    "providerName": "86Borders LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.86borders.com"
+    ]
+  },
+  {
+    "providerId": "csp-c6c3d3fbe4e9",
+    "providerName": "A-LIGN",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.a-lign.com/a-scend"
+    ]
+  },
+  {
+    "providerId": "csp-f98407019f8c",
+    "providerName": "Abbott, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.libreviewgov.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "LibreView terms identify Abbott Diabetes Care; Abbott reports $44.3 billion FY2025 sales. Product identity and corporate scale strongly support likely not small under plausible software or medical-device standards; an abbreviated Marketplace legal name is not substantive uncertainty."
+  },
+  {
+    "providerId": "csp-1539f5a62a13",
+    "providerName": "Abnormal AI",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://abnormal.ai/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The company-reported $200 million ARR milestone in 2024, reached after repeated annual doubling, implies substantial sustained software operations rather than a single newly launched run rate. This supports likely not small with medium confidence; the primary financial worksheet is unavailable and the milestone is reported through Forbes. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-1411b4dac053",
+    "providerName": "Absolute Security",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.absolute.com/"
+    ]
+  },
+  {
+    "providerId": "csp-8d5946703c38",
+    "providerName": "Acquia Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://acquia.com"
+    ]
+  },
+  {
+    "providerId": "csp-70d9ee3895f0",
+    "providerName": "Acuant, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.gbg.com/"
+    ]
+  },
+  {
+    "providerId": "csp-1cb67bba1016",
+    "providerName": "Adaptive Protocols, Inc. (Adaptiva)",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://adaptiva.com"
+    ]
+  },
+  {
+    "providerId": "csp-c7c694e07cb2",
+    "providerName": "Advent Business Company Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://enablement.company"
+    ]
+  },
+  {
+    "providerId": "csp-7565e220ea3f",
+    "providerName": "AINS dba OPEXUS",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "www.opexustech.com",
+      "https://www.opexustech.com"
+    ],
+    "classification": "unknown",
+    "reason": "Official sources confirm OPEXUS/Casepoint merger, majority Thoma Bravo investment, and subsequent mLINQS acquisition. Public revenue estimates differ widely and government contract-service invoicing covers only part of the enterprise. There is no reliable combined receipts basis or current small representation for this operator. Ownership complexity is documented; sponsor scale alone is not a size determination."
+  },
+  {
+    "providerId": "csp-1c14e5ea726c",
+    "providerName": "Alation",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.alation.com/"
+    ]
+  },
+  {
+    "providerId": "csp-96207d2ffa15",
+    "providerName": "Alclear Healthcare LLC (d/b/a CLEAR)",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://identity.clearme.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "CLEAR’s SEC subsidiary exhibit lists Alclear Healthcare LLC, resolving the contracting identity. CLEAR’s current consolidated filings show a large recurring identity-services business with hundreds of millions in annual revenue. Corporate control and financial scale strongly support likely not small."
+  },
+  {
+    "providerId": "csp-d1cc3a837247",
+    "providerName": "American Heart Association, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://pmp.heart.org/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The exact legal entity publicly identifies itself as a 501(c)(3) nonprofit. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-49329b4fa878",
+    "providerName": "Amplifire",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://amplifire.com/"
+    ]
+  },
+  {
+    "providerId": "csp-273a0ab7d791",
+    "providerName": "Anecdotes",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.anecdotes.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-c1258e04efc0",
+    "providerName": "Anitian",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.anitian.com/fedflex-platform-overview/"
+    ]
+  },
+  {
+    "providerId": "csp-06bb736f062f",
+    "providerName": "Anomali",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://anomali.com",
+      "https://www.anomali.com"
+    ]
+  },
+  {
+    "providerId": "csp-fc0e7984b437",
+    "providerName": "Anyreach, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://anyreach.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-d559958b0404",
+    "providerName": "Apply Government Solutions",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.monstergovernmentsolutions.com/",
+      "https://www.applygovernmentsolutions.com"
+    ]
+  },
+  {
+    "providerId": "csp-e8b45068fd65",
+    "providerName": "AppOmni",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://appomni.com/industry-solutions/public-sector/"
+    ]
+  },
+  {
+    "providerId": "csp-c705181c8d50",
+    "providerName": "Aprimo US, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.aprimo.com",
+      "https://www.aprimo.com"
+    ]
+  },
+  {
+    "providerId": "csp-f84bd0f20382",
+    "providerName": "Archive360 platform",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.archive360.com/"
+    ]
+  },
+  {
+    "providerId": "csp-75321934ff37",
+    "providerName": "Armis Federal LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.armis.com/"
+    ]
+  },
+  {
+    "providerId": "csp-570632046a8f",
+    "providerName": "Artera",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://artera.io/"
+    ]
+  },
+  {
+    "providerId": "csp-3b11c3af81fd",
+    "providerName": "Articulate Global LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://articulate.com/360"
+    ]
+  },
+  {
+    "providerId": "csp-81f78c642441",
+    "providerName": "Asato Corporation",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.asato.ai",
+      "https://www.asato.ai"
+    ]
+  },
+  {
+    "providerId": "csp-599ce2892cec",
+    "providerName": "AtomAI Solutions Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://atom-ai.com"
+    ]
+  },
+  {
+    "providerId": "csp-ac4d35d196e5",
+    "providerName": "Automattic, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://wpvip.com/"
+    ]
+  },
+  {
+    "providerId": "csp-266cfc407ad7",
+    "providerName": "Avature Federal Platform",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.avature.net"
+    ]
+  },
+  {
+    "providerId": "csp-817297f84d48",
+    "providerName": "Axonius Federal Systems",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.axoniusfed.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official federal-company materials establish the Axonius group relationship. Axonius reports $200 million ARR in 2026, doubled over two years, and a business operating since 2017. The corroborated group scale and operating history support likely not small rather than treating the federal subsidiary as standalone. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-dc2107e57740",
+    "providerName": "Aztec Software",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.aztecsoftware.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "Active September 2026 matched SBA record reports small in its educational-services primary NAICS 611710. Official materials confirm an education software operator, disclose NexPhase backing and prior acquisitions. The post-acquisition affirmative representation is useful related-business evidence, but cloud/software-code receipts and investment-control treatment remain unverified; likely small only."
+  },
+  {
+    "providerId": "csp-bb7b73cd3b82",
+    "providerName": "Bamboo Health, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://bamboohealth.com/"
+    ]
+  },
+  {
+    "providerId": "csp-96c523772cf2",
+    "providerName": "Baseten Labs, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.baseten.co"
+    ]
+  },
+  {
+    "providerId": "csp-98897d264d40",
+    "providerName": "Beam Up Ltd",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://beam.org/en-us"
+    ]
+  },
+  {
+    "providerId": "csp-7c2dddc2c258",
+    "providerName": "BeyondTrust",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.beyondtrust.com/solutions/compliance/fedramp"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Company-reported ARR already exceeded $400 million in 2024, alongside a mature enterprise product business and completed corporate consolidation. Sustained commercial scale supports likely not small. An older small representation is conflicting evidence; the unavailable secondary financial PDF is not relied upon. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-be1e7d8f5a99",
+    "providerName": "Bizagi Corp.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.bizagi.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "Matched SBA record last updated April 2025 reports small under software publishing and IT codes, but registration is expired. Current company materials confirm the same privately operated software business; 37% recent cloud growth and third-party estimates near thresholds leave uncertainty. The dated affirmative representation supports a low-confidence likely-small judgment; it is not current documented status."
+  },
+  {
+    "providerId": "csp-81937a7b4fb6",
+    "providerName": "Bizzdesign US",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://bizzdesign.com"
+    ]
+  },
+  {
+    "providerId": "csp-00c764f20f35",
+    "providerName": "Blackboard",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.blackboard.com/government"
+    ]
+  },
+  {
+    "providerId": "csp-545b1fe9c188",
+    "providerName": "BlackOhm",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "www.blackohm.com",
+      "https://www.blackohm.com"
+    ],
+    "classification": "likely-small",
+    "reason": "Active exact-identity SBA representation reports small under electronics/device manufacturing codes. Official terms and privacy notice confirm BlackOhm LLC provides integrated IoT hardware, manufacturing and software. The code scope is substantively related to this business, supporting likely small, but does not document size for a separately procured cloud software service."
+  },
+  {
+    "providerId": "csp-e2af7ef61da7",
+    "providerName": "BlueVoyant Government Services",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.bluevoyantgov.com/"
+    ]
+  },
+  {
+    "providerId": "csp-d0da6cb88094",
+    "providerName": "BMC Helix, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.helixops.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-e056c895e8f1",
+    "providerName": "Boomi",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://boomi.com/",
+      "https://boomi.com"
+    ]
+  },
+  {
+    "providerId": "csp-dbc36f06cf0a",
+    "providerName": "BP Pulse",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://bppulsefleet.com/fleet/products/charge-management-software/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "BP annual reporting identifies bp pulse as its charging business. The established BP group has overwhelming financial and workforce scale, supporting likely not small for its hosted fleet service. This is a corporate-business identity, not an inference from an unrelated similar name."
+  },
+  {
+    "providerId": "csp-5ca58c198f28",
+    "providerName": "Bridge Intelligence LLC. dba AssetIntel",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "www.assetintel.co",
+      "https://www.assetintel.co/"
+    ],
+    "classification": "unknown",
+    "reason": "Expired October 2025 small representation predates a June 2026 Riverside investment. Legal terms confirm exact operator identity, but the new control/affiliate scope is not disclosed. This is a substantive ownership gap; neither small nor not-small follows from private-equity investment alone."
+  },
+  {
+    "providerId": "csp-a9d2e24b00c0",
+    "providerName": "Broad Institute, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://app.terra.bio/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The official institutional history identifies Broad Institute as a 501(c)(3) nonprofit research organization. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-1153b46a665b",
+    "providerName": "Bugcrowd Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.bugcrowd.com/solutions/government/"
+    ]
+  },
+  {
+    "providerId": "csp-86dd49c14494",
+    "providerName": "Business Integra Technology Solutions, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://platform.gomoderniza.ai"
+    ]
+  },
+  {
+    "providerId": "csp-35c5a07f9ba7",
+    "providerName": "Butterfly Network Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.butterflynetwork.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "Marketplace offering is Butterfly Network Ultrasound. SEC filings establish a medical ultrasound device business with approximately 190 employees in January 2025 and 220 in January 2026, substantially below the 1,250-employee electromedical manufacturing standard. This supports likely small in the actual medical-device business context, while cloud-only procurement could use a receipts standard and the complete affiliate-adjusted 24-month employee average is not verified."
+  },
+  {
+    "providerId": "csp-83d152812bf0",
+    "providerName": "Cellebrite",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.cellebritefsi.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Cellebrite Federal Solutions’ official site confirms its corporate relationship, and the parent’s FY2025 results report $475.7 million actual revenue. That one year contributes over $95 million to a five-year revenue average. A proxy-board security arrangement does not establish small-business independence."
+  },
+  {
+    "providerId": "csp-910d4421e9a8",
+    "providerName": "Center for Translational Data Science (CTDS)",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://research.data-commons.org/",
+      "https://gen3.data-commons.org/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The University of Chicago identifies CTDS as its research center operating the Gen3 data platforms, rather than a standalone for-profit company. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-0c6dfb0bf1b2",
+    "providerName": "Ceribell",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://ceribell.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "Exact-UEI active SBA representation reports small under electromedical manufacturing 334510. SEC 2025 filing corroborates a medical EEG device business with 327 employees, well below the 1,250-employee industry standard, and explains integrated hardware/subscription operations. Likely small for its actual medical-device line of business; this does not establish small status for a standalone software procurement or independently verify the 24-month affiliate employee average."
+  },
+  {
+    "providerId": "csp-635325dd3df2",
+    "providerName": "Certivo, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.certivo.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "Exact-UEI 2025 SBA record represented small under computer-services codes; current founder disclosures describe a 2024 startup and $4 million 2026 seed round. These independent signals support likely small despite expired registration. Fortive/venture-studio backing raises an unresolved control question; investment is not automatically affiliation. This is not an active documented representation."
+  },
+  {
+    "providerId": "csp-0e3c379d15fb",
+    "providerName": "Chainalysis",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.chainalysis.com/"
+    ]
+  },
+  {
+    "providerId": "csp-c4bc9f13fc13",
+    "providerName": "Checkmarx",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://checkmarx.com/product/application-security-platform/"
+    ]
+  },
+  {
+    "providerId": "csp-d3566809b85a",
+    "providerName": "CircleCI",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://circleci.com/"
+    ]
+  },
+  {
+    "providerId": "csp-52d94f06d48c",
+    "providerName": "CirrusMD",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.cirrusmd.com/"
+    ]
+  },
+  {
+    "providerId": "csp-af58337f50b5",
+    "providerName": "Citrix",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.citrix.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Citrix reported $3.22 billion actual revenue in 2021. Current Cloud Software Group materials confirm Citrix remains a business unit following the TIBCO combination and describe its multibillion portfolio. Established operating scale and continuity support likely not small."
+  },
+  {
+    "providerId": "csp-5c423e457ba4",
+    "providerName": "Claroty",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://claroty.com/"
+    ]
+  },
+  {
+    "providerId": "csp-faf02883b4fd",
+    "providerName": "Cleartronic, Inc. dba. ReadyOp Communications, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.readyop.com"
+    ],
+    "classification": "likely-small",
+    "reason": "ReadyOp identifies its wholly owned Cleartronic relationship. Cleartronic’s audited 2025 consolidated SEC filing reports $4.103 million annual revenue versus $3.126 million in 2024. These actual consolidated figures, well below relevant software thresholds, support likely small despite public trading. Full five-year tax receipts and external controlling affiliations are not independently adjudicated."
+  },
+  {
+    "providerId": "csp-11d1854bc90c",
+    "providerName": "CLEATUS, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.cleat.ai"
+    ]
+  },
+  {
+    "providerId": "csp-b974e1f9d09a",
+    "providerName": "Cloudera Government Solutions, Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.cloudera.com",
+      "https://www.cloudera.com"
+    ]
+  },
+  {
+    "providerId": "csp-c553c6eb7ad4",
+    "providerName": "Cofense",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://cofense.com/solutions/industry/federal-government/"
+    ]
+  },
+  {
+    "providerId": "csp-9a7d072ac96c",
+    "providerName": "Cognition USG, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://cognition.com/"
+    ]
+  },
+  {
+    "providerId": "csp-1e3bd9448dc9",
+    "providerName": "CoLab",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.colabsoftware.com",
+      "https://www.colabsoftware.com"
+    ]
+  },
+  {
+    "providerId": "csp-4872513d4059",
+    "providerName": "Collibra",
+    "status": "not-yet-researched",
+    "websites": [
+      "http://www.publicsector.com/",
+      "https://www.publicsector.com/"
+    ]
+  },
+  {
+    "providerId": "csp-9d365ae21e2d",
+    "providerName": "ConnectSecure LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://Connectsecure.com"
+    ]
+  },
+  {
+    "providerId": "csp-927d9eba364d",
+    "providerName": "Contegix",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.valiantysfederal.com"
+    ]
+  },
+  {
+    "providerId": "csp-9bb148fd4b7b",
+    "providerName": "Content Guru",
+    "status": "not-yet-researched",
+    "websites": [
+      "contentguru.com/en-us",
+      "https://contentguru.com/en-us"
+    ]
+  },
+  {
+    "providerId": "csp-b16b03c9dbda",
+    "providerName": "Copado",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.copado.com/industries/public-sector"
+    ]
+  },
+  {
+    "providerId": "csp-d4a51069cba2",
+    "providerName": "Coralogix Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "http://coralogix.com/"
+    ]
+  },
+  {
+    "providerId": "csp-339b162de49c",
+    "providerName": "Corelight",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://corelight.com/ ",
+      "https://corelight.com/"
+    ]
+  },
+  {
+    "providerId": "csp-087539cedf84",
+    "providerName": "Cority Software Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.cority.com/"
+    ]
+  },
+  {
+    "providerId": "csp-6969dd7b169a",
+    "providerName": "Cornerstone OnDemand",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://www.cornerstoneondemand.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC reports $740.9 million actual 2020 revenue. Although outside the latest five-year window, official 2024 results describe continuing customer expansion and a mature global software operation. Together these support likely not small; historical revenue is not presented as a current statutory calculation."
+  },
+  {
+    "providerId": "csp-8d1ad0e53be7",
+    "providerName": "Covergent Solutions Inc dba Exiger Government Solutions (EGS)",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.exiger.com/industries/public-sector/"
+    ]
+  },
+  {
+    "providerId": "csp-80ebdb9dc336",
+    "providerName": "Crestron Electronics Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.crestron.com"
+    ]
+  },
+  {
+    "providerId": "csp-c67846c3f9f1",
+    "providerName": "Cribl Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "www.cribl.io",
+      "https://www.cribl.io"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official disclosures report $200 million ARR in December 2024 and $300 million during 2025. Consecutive high-scale operating milestones support likely not small for an established software provider. Exact five-year receipts remain unverified. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-462922cd73c6",
+    "providerName": "DailyPay",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.dailypay.com/industries/public-sector/#public-sector-tabs"
+    ]
+  },
+  {
+    "providerId": "csp-cbc92cdc93f7",
+    "providerName": "DataBank Holdings",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.databank.com/"
+    ]
+  },
+  {
+    "providerId": "csp-4a01fd8f06fe",
+    "providerName": "DataRobot",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.datarobot.com",
+      "https://www.datarobot.com"
+    ]
+  },
+  {
+    "providerId": "csp-3b83d5c31807",
+    "providerName": "Datavant",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://datavant.com/"
+    ]
+  },
+  {
+    "providerId": "csp-a0952472b4de",
+    "providerName": "Dayforce",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.dayforce.com/who-we-serve/US-Federal-Government-Payroll-Workforce-Management-Software"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC reports actual 2024 revenue of $1.760 billion and 2023 revenue of $1.514 billion for the HCM software company. Even a single disclosed year divided by five exceeds candidate software thresholds."
+  },
+  {
+    "providerId": "csp-4edeeb833a09",
+    "providerName": "Dejero Labs, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.dejero.com",
+      "https://www.dejero.com"
+    ]
+  },
+  {
+    "providerId": "csp-3e808ece8227",
+    "providerName": "Deloitte",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://www.deloitte.com/",
+      "https://www.deloitte.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Deloitte LLP and subsidiaries report $35.7 billion US FY2025 revenue. This establishes overwhelming consulting/cloud-services scale without assuming all global member firms are one affiliate. The Marketplace provider and website identify the US Deloitte business."
+  },
+  {
+    "providerId": "csp-74f12c21bfc1",
+    "providerName": "Deltek - Replicon",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.deltek.com/en/time-tracking/replicon"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Roper’s 2025 SEC annual report identifies Deltek as its operating business and Replicon as an acquisition integrated into Deltek. The consolidated software group has multibillion-dollar annual revenue. Corroborated control and product continuity support likely not small."
+  },
+  {
+    "providerId": "csp-6398af4db72b",
+    "providerName": "Deltek, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.deltek.com/en/government-contracting/costpoint/cloud"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Roper’s 2025 SEC annual report identifies Deltek as its operating business and Replicon as an acquisition integrated into Deltek. The consolidated software group has multibillion-dollar annual revenue. Corroborated control and product continuity support likely not small."
+  },
+  {
+    "providerId": "csp-77633e4c62e7",
+    "providerName": "DigiCert, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.digicert.com"
+    ]
+  },
+  {
+    "providerId": "csp-6a54a3ac754a",
+    "providerName": "Digital.ai",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://digital.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-cf08fccd9d8b",
+    "providerName": "Diligent, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.diligent.com/"
+    ]
+  },
+  {
+    "providerId": "csp-ebc1494640f8",
+    "providerName": "DNAnexus, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.dnanexus.com/"
+    ]
+  },
+  {
+    "providerId": "csp-79f0e91bc044",
+    "providerName": "Docebo",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.docebo.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official FY2025 results report US$242.687 million revenue and US$216.931 million for 2024. Those two years alone contribute over US$91 million to a five-year average, well above selected software receipts thresholds. The matched public software-provider identity is clear."
+  },
+  {
+    "providerId": "csp-c8ec03ed9ce7",
+    "providerName": "Dossier",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://dossier.com"
+    ]
+  },
+  {
+    "providerId": "csp-9224bb7dae2f",
+    "providerName": "Drata",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://drata.com/"
+    ],
+    "classification": "unknown",
+    "reason": "Drata reports $100 million ARR reached within its first four years and 60% recent growth. For a business launched in 2020, the earlier low-revenue years could keep a five-year average near or below a relevant software threshold despite present scale. This is a plausible threshold-borderline case; neither funding nor one ARR milestone resolves it."
+  },
+  {
+    "providerId": "csp-f8db95dc1a1b",
+    "providerName": "Druva, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.druva.com/brand"
+    ]
+  },
+  {
+    "providerId": "csp-9473d9eec8f9",
+    "providerName": "Egnyte",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.egnyte.com/products/governance",
+      "https://www.egnyte.com/industries/public-sector"
+    ]
+  },
+  {
+    "providerId": "csp-4e74b75506db",
+    "providerName": "Eightfold AI Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://eightfold.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-ce63f29292ac",
+    "providerName": "Eleven Labs Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://elevenlabs.io"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official disclosures report $350 million ARR at 2025 year-end and over $500 million in early 2026. The extreme commercial scale across consecutive milestones supports likely not small despite its young age. A UK subsidiary’s 53 employees/profit cannot represent the whole US cloud provider. This is a qualified inference, not an ARR-to-receipts conversion. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-e6c62e9a605a",
+    "providerName": "Elvo",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.elvohealth.com/"
+    ]
+  },
+  {
+    "providerId": "csp-9bbe82f34ce4",
+    "providerName": "Emburse",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.emburse.com/"
+    ]
+  },
+  {
+    "providerId": "csp-5289be6b0f01",
+    "providerName": "End To End Computing",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://eecomputing.com/singularity/"
+    ]
+  },
+  {
+    "providerId": "csp-593438e65f38",
+    "providerName": "Enel X North America",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.enelx.com/n-a/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The provider is the Enel-branded North American energy-services business and its listed website matches that corporate identity. Enel annual reporting establishes enormous international energy and services scale. A separate subsidiary worksheet is unnecessary for likely-not-small screening, although the exact service contracting entity and control perimeter require confirmation for a legal determination."
+  },
+  {
+    "providerId": "csp-1befca0298bc",
+    "providerName": "Entratus",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.entratus.us/"
+    ]
+  },
+  {
+    "providerId": "csp-c90b82eb749e",
+    "providerName": "Envisage Technologies LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.acadis.com/"
+    ]
+  },
+  {
+    "providerId": "csp-9d0dc93908a1",
+    "providerName": "Eptura, Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://eptura.com/industries/government/archibus-for-government/"
+    ]
+  },
+  {
+    "providerId": "csp-f2ed4886e20f",
+    "providerName": "Ericsson",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://cradlepoint.com/about/trust/",
+      "https://cradlepoint.ericsson.com/products/netcloud/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Ericsson’s official company facts report SEK236.7 billion FY2025 net sales. The matched corporate product/provider identity and enormous telecom/software group scale support likely not small; this is not a threshold comparison made by treating SEK as USD."
+  },
+  {
+    "providerId": "csp-15c0edb69e72",
+    "providerName": "Ernst & Young LLP",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.ey.com/en_us/alliances/ey-grants-accelerator"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The Marketplace identifies the established EY professional-services firm. Official FY2025 reporting describes a $53.2 billion global network and large US/Americas operations. This supports a strong practical likelihood that the US firm exceeds consulting receipts thresholds. The network total is not treated as a legally consolidated affiliate receipts calculation; US entity scope remains a qualification."
+  },
+  {
+    "providerId": "csp-0e6582c691e4",
+    "providerName": "ESRI",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "ArcGIS.com",
+      "https://ArcGIS.com",
+      "https://www.esri.com/en-us/arcgis/services/managed-cloud"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official company materials identify the ArcGIS operator as Esri, founded in 1969, with over 6,000 employees and 700,000 customer organizations. Its extreme sustained software operating scale supports likely not small. Headcount is corroborating scale evidence, not a replacement for a receipts-based NAICS test; independent international distributors are not automatically aggregated."
+  },
+  {
+    "providerId": "csp-845e9313df02",
+    "providerName": "ETHERFAX",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://etherfax.net/government ",
+      "https://etherfax.net/government"
+    ],
+    "classification": "unknown",
+    "reason": "Active March 2026 small representation covers telecommunications code 517810, but June 2026 official materials disclose a new investment and acquisition of Weave Cloud Solutions. Applicable service code and post-transaction affiliate-adjusted size require substantive clarification. Investment alone is not proof of other-than-small."
+  },
+  {
+    "providerId": "csp-6c41eefd93da",
+    "providerName": "Everfox",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.everfox.com/products/threat-protection-solutions/remote-browser-isolation"
+    ]
+  },
+  {
+    "providerId": "csp-7dd3555da0b9",
+    "providerName": "Evidence Prime",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://laser.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-877c48a4b7e8",
+    "providerName": "Ex Libris",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://exlibrisgroup.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Ex Libris’s official corporate story identifies it as a Clarivate product family. Clarivate’s current annual results show multibillion-dollar revenue. This controlled product business is likely not small even though the Marketplace uses a brand label."
+  },
+  {
+    "providerId": "csp-8e7fefbeb15e",
+    "providerName": "Exostar",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.exostar.com/"
+    ]
+  },
+  {
+    "providerId": "csp-fa32c29dcc30",
+    "providerName": "Exterro, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.exterro.com/solutions/government"
+    ]
+  },
+  {
+    "providerId": "csp-bb6188b81645",
+    "providerName": "ExtraHop Networks",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.extrahop.com/solutions/industry/public-sector"
+    ]
+  },
+  {
+    "providerId": "csp-55b0aeef8280",
+    "providerName": "Facility Grid, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://facilitygrid.com"
+    ]
+  },
+  {
+    "providerId": "csp-34feb3621f7b",
+    "providerName": "Feith Sytems and Software, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.feith.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "Active October 2026 SBA record affirmatively lists 513210, 518210 and 541519 as small, although the selected primary 541512 is not in its small list. Official careers material explicitly describes a small founder-led software company. This supports likely small for software publishing/cloud services, preserving NAICS-specific uncertainty rather than applying the primary-code filter universally."
+  },
+  {
+    "providerId": "csp-a7c4c5ead54c",
+    "providerName": "Files.com",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://www.files.com"
+    ],
+    "classification": "unknown",
+    "reason": "Rechecked official ownership, current operating identity, acquisition history, provider testimony and independent company-size estimates. The testimony describes roughly 60–70 employees, while revenue estimates conflict ($14.4 million versus a $50–100 million range) and are modeled. Majority Riverwood ownership and acquired businesses require a concrete affiliate scope. There is plausible small-business evidence but insufficient grounds to choose a side confidently; this is a researched financial/control gap rather than an unresearched company."
+  },
+  {
+    "providerId": "csp-1864ed6dfbaa",
+    "providerName": "Filevine",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.filevine.com/integrations/vinesign/"
+    ]
+  },
+  {
+    "providerId": "csp-f9b83b92da9f",
+    "providerName": "Flock Safety",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.flocksafety.com/"
+    ]
+  },
+  {
+    "providerId": "csp-e4a43dd4dc49",
+    "providerName": "FM:Systems",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://fmsystems.com/products/hybrid-workplace/room-scheduling/",
+      "https://fmsystems.com/industries/government/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "FM:Systems’ official corporate history confirms acquisition by Johnson Controls in July 2023 to expand OpenBlue. The identified multinational building-technology parent has overwhelming corporate scale. This control evidence resolves likely not small without treating a software brand as an independent small concern."
+  },
+  {
+    "providerId": "csp-a8a951d42851",
+    "providerName": "Forescout Technologies, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.forescout.com/"
+    ]
+  },
+  {
+    "providerId": "csp-f577060eba02",
+    "providerName": "Fulcrum",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.fulcrumpro.com"
+    ]
+  },
+  {
+    "providerId": "csp-e214fdf90c14",
+    "providerName": "Genesys",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.genesys.com/fedramp/genesys-cloud-cx"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official FY2026 results report nearly $3 billion total revenue, separately distinguishing $2.6 billion cloud ARR. Actual multibillion revenue strongly supports likely not small."
+  },
+  {
+    "providerId": "csp-5df0a07efe0c",
+    "providerName": "Geographic Solutions Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.geographicsolutions.com/"
+    ]
+  },
+  {
+    "providerId": "csp-d3e8a7566add",
+    "providerName": "Geotab",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.geotab.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Company-hosted ABI Research report states revenue grew from US$412.3 million in 2021 to over US$681 million in 2024. Its own financial-year-2024 statement confirms device and subscription operations. Sustained group scale supports likely not small, with medium confidence because hardware and service procurement NAICS may differ."
+  },
+  {
+    "providerId": "csp-c78ba09e91e1",
+    "providerName": "Get A-Head",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.keelmind.com/"
+    ]
+  },
+  {
+    "providerId": "csp-a0a31929735b",
+    "providerName": "GetWellNetwork",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.getwellnetwork.com/"
+    ]
+  },
+  {
+    "providerId": "csp-43dfb9fd947e",
+    "providerName": "Global Telehealth Services, inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.globaltelehealthservices.com/"
+    ]
+  },
+  {
+    "providerId": "csp-19bb233f1cbb",
+    "providerName": "Glytec, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://glytec.com/"
+    ]
+  },
+  {
+    "providerId": "csp-fcfd8b234ccb",
+    "providerName": "Gordian",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.gordian.com/solutions/industry/federal/fedramp/"
+    ]
+  },
+  {
+    "providerId": "csp-ae5a1213929a",
+    "providerName": "Govini",
+    "status": "not-yet-researched",
+    "websites": [
+      "ark.ai",
+      "https://ark.ai"
+    ]
+  },
+  {
+    "providerId": "csp-c8408805a687",
+    "providerName": "Granicus",
+    "status": "not-yet-researched",
+    "websites": [
+      "http://www.granicus.com",
+      "https://www.granicus.com"
+    ]
+  },
+  {
+    "providerId": "csp-7a19d8e812f5",
+    "providerName": "Ground Control Software Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://gndctl.com"
+    ],
+    "classification": "likely-small",
+    "reason": "Matched expired 2024 SBA representation reports small under 513210. Official site identifies Ground Control Software Inc. and the matching gndctl.com company; its Y Combinator profile corroborates a young small-team manufacturer-software startup. Together these support likely small, while revenue, affiliate control and current registration remain unverified."
+  },
+  {
+    "providerId": "csp-56817b335039",
+    "providerName": "H2O.AI for Government",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://h2o.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-c1c2b83ddc5d",
+    "providerName": "HackerOne",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.hackerone.com/"
+    ]
+  },
+  {
+    "providerId": "csp-a9d620996672",
+    "providerName": "Haivision Systems, Inc.",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://www.haivision.com/products/haivision-hub/"
+    ],
+    "classification": "unknown",
+    "reason": "Actual FY2025 revenue is CAD137.635 million, but Haivision combines video-networking hardware with software. A manufacturing NAICS could use employees instead of receipts. Unlike software-only companies, this is a material standard-selection uncertainty; retain unresolved pending the actual service/contract NAICS and workforce scope."
+  },
+  {
+    "providerId": "csp-49f756463ad9",
+    "providerName": "Harness, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.harness.io"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official disclosures show a $100 million commercial milestone before its Traceable combination and projected combined ARR above $250 million in 2025. The established multi-year software operation and completed combination support likely not small, with medium confidence because the newer figure is a forecast and ARR is not receipts. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-6fe7c22ccc60",
+    "providerName": "HB Healthcare Safety, SBC",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://hbhealthcaresafety.org/healthcare-safeware/"
+    ],
+    "classification": "likely-small",
+    "reason": "Active exact-UEI SBA record reports small under management consulting. Official materials and a direct founder customer case study corroborate a founder-led healthcare software/consulting business with a small team. Minnesota records establish social-benefit corporate status, which is not equivalent to nonprofit status. Mayo Clinic Ventures involvement leaves affiliate-control qualification; supported as likely small rather than documented cloud-NAICS small."
+  },
+  {
+    "providerId": "csp-548ba3ac02e5",
+    "providerName": "HealthVerity",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://healthverity.com/"
+    ]
+  },
+  {
+    "providerId": "csp-074f8921fb26",
+    "providerName": "HireVue",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.hirevue.com/"
+    ]
+  },
+  {
+    "providerId": "csp-bb56ce64d6cc",
+    "providerName": "Hootsuite",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.hootsuite.com/industries/government"
+    ]
+  },
+  {
+    "providerId": "csp-86cf5c1b73ed",
+    "providerName": "Huddle US",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www2.ideagen.com/us-government/"
+    ]
+  },
+  {
+    "providerId": "csp-38e7adf1dd69",
+    "providerName": "Hypori, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.hypori.com/"
+    ]
+  },
+  {
+    "providerId": "csp-be1293ff931f",
+    "providerName": "iBoss",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.iboss.com/"
+    ]
+  },
+  {
+    "providerId": "csp-07ad65c5afba",
+    "providerName": "Icertis Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.icertis.com/solutions/industry/public-sector/government/"
+    ]
+  },
+  {
+    "providerId": "csp-b1238abce01d",
+    "providerName": "Ideagen",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.ideagen.com ",
+      "https://www.ideagen.com"
+    ]
+  },
+  {
+    "providerId": "csp-31a2eaf79f57",
+    "providerName": "Illumio, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.illumio.com/solutions/government"
+    ]
+  },
+  {
+    "providerId": "csp-05271a882060",
+    "providerName": "Immuta",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.immuta.com"
+    ]
+  },
+  {
+    "providerId": "csp-b4e67d0567a8",
+    "providerName": "Incode Technologies Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://incode.com"
+    ]
+  },
+  {
+    "providerId": "csp-5c2772d0c9ef",
+    "providerName": "Infinite Convergence Solutions, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://netsfere.com/fedramp"
+    ]
+  },
+  {
+    "providerId": "csp-5feeabbf59b2",
+    "providerName": "Infoblox",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.infoblox.com/products/universal-ddi-management/"
+    ]
+  },
+  {
+    "providerId": "csp-c55e61c1ecae",
+    "providerName": "Infor",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.infor.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Infor’s current corporate history identifies it as wholly owned by Koch since 2020. Koch’s official scale disclosure reports over $125 billion annual revenue. Current control and decisive affiliate scale make this software provider likely not small."
+  },
+  {
+    "providerId": "csp-31ff403a64d8",
+    "providerName": "Informatica LLC",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.informatica.com/solutions/industry-solutions/public-sector.html"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Salesforce confirms its Informatica acquisition completed November 18, 2025. Product/domain identity and Salesforce’s multibillion-dollar financial scale establish a strong likely-not-small inference."
+  },
+  {
+    "providerId": "csp-814ad6551200",
+    "providerName": "Innovative Discovery, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.innovativedriven.com/"
+    ]
+  },
+  {
+    "providerId": "csp-96cefa0e6299",
+    "providerName": "Innovest Systems, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.innovestsystems.com/"
+    ]
+  },
+  {
+    "providerId": "csp-c8688596359f",
+    "providerName": "IntelliGRC, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://intelligrc.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "The matched privately held compliance-software company reports an 11–50-person team and an initial $3.5 million seed round in 2026. Its founder-led operating history and early commercial scale together make receipts below relevant software/services ceilings more likely than not. These are practical likelihood signals, not a headcount-based legal test or verified affiliate-adjusted receipts."
+  },
+  {
+    "providerId": "csp-2019f2597d26",
+    "providerName": "Ipsos America, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.ipsos.com/en-us/solutions/list?search=Public%20Affairs"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Ipsos corporate reports identify Ipsos America in its controlled corporate organization, with current group revenue of €2.525 billion in 2025. Continuing US group operations and multibillion consolidated scale support likely not small; legal personality of subsidiaries does not by itself establish independence for affiliation."
+  },
+  {
+    "providerId": "csp-174d73ec4266",
+    "providerName": "Iron Bow",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://ironbow.com/iron-bow-dhsi-va-triagexpert"
+    ]
+  },
+  {
+    "providerId": "csp-2604cbd60d88",
+    "providerName": "Ironclad Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://ironcladapp.com/request-demo"
+    ]
+  },
+  {
+    "providerId": "csp-28cd2c5c15d1",
+    "providerName": "Island",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.island.io"
+    ]
+  },
+  {
+    "providerId": "csp-537c700f6e61",
+    "providerName": "IT-CNP",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://www.govdatahosting.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "The matched independent government cloud-hosting provider published a small-business capability statement and continues to present the same company/services identity. This supports a tentative likely-small inference, with low confidence because the explicit statement is dated 2018 and current receipts/control are unverified."
+  },
+  {
+    "providerId": "csp-38bdf7a6039f",
+    "providerName": "Itamar Medical",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.itamar-medical.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Itamar’s current site identifies it as a ZOLL subsidiary; Asahi Kasei’s acquisition disclosure identifies ZOLL as its subsidiary and confirms the completed Itamar transaction. This is part of a large multinational industrial/medical group, making small-business status very unlikely under plausible medical and software standards."
+  },
+  {
+    "providerId": "csp-60a539de7bb0",
+    "providerName": "Ivanti",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.ivanti.com/"
+    ]
+  },
+  {
+    "providerId": "csp-cc87a9eb64b3",
+    "providerName": "Joint Commission Resources",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.jcrinc.com/what-we-offer/software/do-more-with-tracers-with-amp/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The provider’s official code of conduct and product fact sheet identify JCR as a wholly controlled not-for-profit affiliate of The Joint Commission. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-1a1ff455c550",
+    "providerName": "Judi Health™",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.judi.health/"
+    ]
+  },
+  {
+    "providerId": "csp-28cbc5a35638",
+    "providerName": "Juniper Networks",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.juniper.net/us/en/products/mist-ai.html"
+    ],
+    "classification": "likely-not-small",
+    "reason": "HPE completed its Juniper acquisition on July 2, 2025. HPE financials and subsidiary disclosures establish group scale well beyond plausible software/cloud or networking-hardware small-business standards."
+  },
+  {
+    "providerId": "csp-448c4d22f5b1",
+    "providerName": "JupiterOne, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.jupiterone.com"
+    ],
+    "classification": "likely-small",
+    "reason": "Exact-UEI SBA record last updated August 2025 affirmatively reports small under 513210 but is expired. September 2026 terms retain the same legal operator, with public vendor records corroborating the registration identity. The affirmative recent representation supports likely small; funding valuation and estimated revenues do not establish size, and consolidated receipts remain unverified."
+  },
+  {
+    "providerId": "csp-6a13050a4b3d",
+    "providerName": "Juvare, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.juvare.com/"
+    ]
+  },
+  {
+    "providerId": "csp-77b03c3b7bdc",
+    "providerName": "Kaseware, Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.kaseware.com/"
+    ]
+  },
+  {
+    "providerId": "csp-13eaa72609cd",
+    "providerName": "Keeper Security",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.keepersecurity.com/industries/public-sector.html"
+    ]
+  },
+  {
+    "providerId": "csp-12356b04ba2e",
+    "providerName": "Keyfactor",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.keyfactor.com/resources/content/keyfactor-for-federal-government"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Company disclosures show $100 million ARR in 2024, further 32% growth, and acquisition of additional cryptographic-software businesses in 2025. The established group’s sustained commercial scale supports likely not small, with medium confidence because annual recognized receipts are not disclosed. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-36b6d9566b60",
+    "providerName": "Kiteworks USA, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.kiteworks.com/solutions/government/"
+    ]
+  },
+  {
+    "providerId": "csp-67ca1878df93",
+    "providerName": "KnowBe4, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.knowbe4.com/federal"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC-filed company results show recurring contractual business of $285.4 million ARR at 2021 end and $367.7 million at 2022 end, with over 56,000 customers. Sustained established software scale supports likely not small; ARR is a likelihood signal rather than statutory receipts."
+  },
+  {
+    "providerId": "csp-8eb51230a50d",
+    "providerName": "Koniag Government Services",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.koniag-gs.com/health/"
+    ]
+  },
+  {
+    "providerId": "csp-4ad374c47b3b",
+    "providerName": "Laerdal Labs D.C.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://laerdal.com/products/simulation-training/operate-assess-debrief/simcapture/"
+    ]
+  },
+  {
+    "providerId": "csp-031ac995a40f",
+    "providerName": "LaunchDarkly",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://launchdarkly.com/solutions/federal-government-solutions/"
+    ]
+  },
+  {
+    "providerId": "csp-0f6ec3931aba",
+    "providerName": "Leadership Connect, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.leadershipconnect.io"
+    ],
+    "classification": "likely-small",
+    "reason": "Active April 2026 exact-UEI SBA record reports small under information-services code 519290. Official company materials corroborate the information-directory business, and a qualified third-party revenue estimate is below candidate software receipts thresholds. The current affirmative representation in its actual line of business supports likely small; the modeled revenue is corroborative only and affiliate-adjusted cloud receipts are unverified."
+  },
+  {
+    "providerId": "csp-28299cb41874",
+    "providerName": "Level Access",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.levelaccess.com/"
+    ]
+  },
+  {
+    "providerId": "csp-ad4e88b80352",
+    "providerName": "LevelBlue",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://levelblue.com/xdr/tdr-for-government"
+    ]
+  },
+  {
+    "providerId": "csp-68651c6711e4",
+    "providerName": "LexisNexis Risk Solutions",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://risk.lexisnexis.com/government"
+    ],
+    "classification": "likely-not-small",
+    "reason": "RELX 2025 annual report identifies LexisNexis Risk Solutions, including Government Solutions, within its Risk business. RELX reports £9.590 billion actual 2025 revenue. Verified corporate group and extreme operating scale support likely not small; no precise GBP-to-USD threshold calculation is claimed."
+  },
+  {
+    "providerId": "csp-f919ad813262",
+    "providerName": "Liferay, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.liferay.com"
+    ]
+  },
+  {
+    "providerId": "csp-2663d0bf60d2",
+    "providerName": "Linear Orbit, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://linear.app"
+    ]
+  },
+  {
+    "providerId": "csp-1d76dfe9876d",
+    "providerName": "Litmas, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://litmas.ai"
+    ]
+  },
+  {
+    "providerId": "csp-9637f80db970",
+    "providerName": "LMI Solutions",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://lmisolutions.com/"
+    ]
+  },
+  {
+    "providerId": "csp-aa07cbffef18",
+    "providerName": "LogicMonitor",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "www.logicmonitor.com",
+      "https://www.logicmonitor.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official disclosure reports over $300 million ARR and hundreds of enterprise customers for an established monitoring-software company. Combined maturity and commercial scale support likely not small even though no audited five-year receipts worksheet is public. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-abc9ac4c60ff",
+    "providerName": "Lookout, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.lookout.com/industries/federal-government"
+    ]
+  },
+  {
+    "providerId": "csp-febc7b0a7fac",
+    "providerName": "Lucid Software, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://lucid.co/solutions/government"
+    ]
+  },
+  {
+    "providerId": "csp-1385f241e449",
+    "providerName": "M.C. Dean, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.infralink.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "January 2026 official announcement describes the company as a $3 billion engineering enterprise and confirms a majority acquisition. Extreme established operating scale supports likely not small, rather than inferring from a contract ceiling or investment amount."
+  },
+  {
+    "providerId": "csp-c7941b6920e2",
+    "providerName": "Magenta",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.withmagenta.com/"
+    ]
+  },
+  {
+    "providerId": "csp-c128771337c2",
+    "providerName": "Magnet Forensics",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.magnetforensics.com/"
+    ]
+  },
+  {
+    "providerId": "csp-9e74ff9f4c7f",
+    "providerName": "MaintainX",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.getmaintainx.com"
+    ]
+  },
+  {
+    "providerId": "csp-4fe4c10f1018",
+    "providerName": "Mark43, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://mark43.com/"
+    ]
+  },
+  {
+    "providerId": "csp-69b80a765772",
+    "providerName": "MasterControl",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.mastercontrol.com/qxgov ",
+      "https://www.mastercontrol.com/qxgov"
+    ]
+  },
+  {
+    "providerId": "csp-5f3bcd125e89",
+    "providerName": "Mathematica Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.mathematica.org/"
+    ]
+  },
+  {
+    "providerId": "csp-1b182199e823",
+    "providerName": "MDRC",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.mdrc.org/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched provider explicitly describes itself as a nonprofit on its current institutional about page. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-74bec9be9c8f",
+    "providerName": "Medallia Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.medallia.com/",
+      "https://www.medallia.com/products/mindful/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC-filed FY2021 revenue was $477.2 million with additional FY2022 quarterly operations disclosed. This establishes substantial historical software scale. Continuing enterprise operations support likely not small; older fiscal periods are not represented as a complete current five-year receipts calculation."
+  },
+  {
+    "providerId": "csp-ffe20e00ebfa",
+    "providerName": "MediaLab, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://federal.medialab.com/"
+    ]
+  },
+  {
+    "providerId": "csp-8def3bf5d78a",
+    "providerName": "Melissa",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.melissa.com/govcloud-address-suite"
+    ]
+  },
+  {
+    "providerId": "csp-d40dbe04fe9d",
+    "providerName": "Menlo Security",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.menlosecurity.com/"
+    ]
+  },
+  {
+    "providerId": "csp-2fdb1be9c0b8",
+    "providerName": "Merlin International",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://cgc.cloud/"
+    ]
+  },
+  {
+    "providerId": "csp-aa705ca3c030",
+    "providerName": "Meterbox Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://meterbox.ai/"
+    ]
+  },
+  {
+    "providerId": "csp-2940d111d514",
+    "providerName": "Mimecast",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.mimecast.com/products/incydr/federal-agencies/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC reports actual FY2021 revenue of $501.4 million following $427.0 million in FY2020; completed acquisition announcement and current company materials establish continuity. This substantial sustained software business is likely not small, although older fiscal years are not a current statutory average."
+  },
+  {
+    "providerId": "csp-23d59a8662d6",
+    "providerName": "Mimic Networks, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://mimic.com"
+    ],
+    "classification": "likely-small",
+    "reason": "The exact UEI/name SBA record represented small for 541512 and 541519 in May 2025; the Marketplace-linked company remains the same cybersecurity vendor. Expired registration weakens currency but does not erase evidence of likely size. Retain as likely small, not currently documented small, pending current control and financial verification."
+  },
+  {
+    "providerId": "csp-1b9fc2dd04a8",
+    "providerName": "mLINQS",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "http://mlinqs.net/",
+      "https://mlinqs.net/"
+    ],
+    "classification": "unknown",
+    "reason": "July 2025 acquisition into the combined Casepoint/OPEXUS group is confirmed. The April 2026 GSA list still describes mLINQS as small/SDVOSB, but public group revenue estimates conflict and the current affiliate-adjusted basis of that representation is unavailable. Retain the explicit post-acquisition representation and ownership conflict; do not infer large solely from Thoma Bravo sponsorship."
+  },
+  {
+    "providerId": "csp-901d155a2aab",
+    "providerName": "Moveworks",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://moveworks.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official company notices and ServiceNow’s 2025 annual report confirm acquisition of all outstanding Moveworks shares in December 2025. ServiceNow’s current public financials show decisive large software-group scale."
+  },
+  {
+    "providerId": "csp-1614ce6ad253",
+    "providerName": "Movius Interactive Corporation",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://movius.ai"
+    ]
+  },
+  {
+    "providerId": "csp-6cbd5043adea",
+    "providerName": "MSM Group, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.isitellc.com/"
+    ]
+  },
+  {
+    "providerId": "csp-d239a300f337",
+    "providerName": "MuleSoft",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.mulesoft.com/integration-solutions/soa/government"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Salesforce completed the MuleSoft acquisition and continues to operate it. Salesforce annual financials establish multibillion-dollar group revenue, supporting likely not small for this controlled software business."
+  },
+  {
+    "providerId": "csp-8a6b488a8ad9",
+    "providerName": "Mural Tactivos Inc., DBA Mural",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.mural.co/"
+    ]
+  },
+  {
+    "providerId": "csp-73eae719baf0",
+    "providerName": "Mycroft Technologies Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://mycroft.io"
+    ]
+  },
+  {
+    "providerId": "csp-43093fd1007f",
+    "providerName": "NavigatorCRE",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.navigatorcre.com"
+    ]
+  },
+  {
+    "providerId": "csp-4b349a4b2988",
+    "providerName": "NCR Government, LLC",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.ncrvoyix.com/company/public-sector"
+    ],
+    "classification": "likely-not-small",
+    "reason": "NASA SEWP and the Marketplace both tie the abbreviated NCR Government label directly to NCR VOYIX GOVERNMENT CLOUD. SEC subsidiary records identify NCR Government Systems LLC; parent actual 2025 revenue is $2.687 billion. Product, group and federal listing continuity support likely not small despite the abbreviated legal-name mismatch; exact contracting-entity identity remains qualified."
+  },
+  {
+    "providerId": "csp-6fac3694d1fd",
+    "providerName": "NEOGOV",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.neogov.com/"
+    ]
+  },
+  {
+    "providerId": "csp-957707cc6b13",
+    "providerName": "NetDocuments Software, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.netdocuments.com/solutions/industries/government?utm_medium=referral&utm_source=fedramp&utm_campaign=directorylisting"
+    ]
+  },
+  {
+    "providerId": "csp-ce0b67f97268",
+    "providerName": "Neuramill, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://neuramill.co/"
+    ]
+  },
+  {
+    "providerId": "csp-a82261cfdc8e",
+    "providerName": "New Relic",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://newrelic.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC reports actual revenue of $925.6 million for FY2023 and $785.5 million for FY2022. Either year alone conservatively divided by five exceeds relevant candidate software receipts thresholds. Its subsequent acquisition preserves the operating business identity."
+  },
+  {
+    "providerId": "csp-029724022e53",
+    "providerName": "Nexthink",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://nexthink.com/platform/government"
+    ]
+  },
+  {
+    "providerId": "csp-e0dec03f1915",
+    "providerName": "NICE CXone",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://www.nice.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "CXone is the NiCE cloud platform, not a separate independent startup. NiCE’s FY2025 annual report reports approximately $2.9 billion revenue. Corporate product identity and group financial scale support likely not small."
+  },
+  {
+    "providerId": "csp-5c73e9b6e4d3",
+    "providerName": "NinjaOne",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.ninjaone.com/government/federal/",
+      "https://www.ninjaone.com/government/federal/ "
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official fiscal-2025 disclosure reports over $500 million ARR, nearly 70% growth, and the completed Dropsuite acquisition. Sustained software scale and corporate expansion support likely not small; the inference does not treat valuation or funding as revenue. ARR is a likelihood signal only, not the statutory five-year receipts measure; relevant exceptions/affiliate treatment remain unadjudicated."
+  },
+  {
+    "providerId": "csp-5d15b133d376",
+    "providerName": "Nintex",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.nintex.com/"
+    ]
+  },
+  {
+    "providerId": "csp-4338c9bff510",
+    "providerName": "Noblis",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "www.noblis.org",
+      "https://www.noblis.org"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched provider’s official corporate and contracting pages identify it as an independent nonprofit. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-d58999507a10",
+    "providerName": "Nominal, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.nominal.io"
+    ]
+  },
+  {
+    "providerId": "csp-13e37f4ef797",
+    "providerName": "NormShield, Inc. DBA Black Kite",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://gov.blackkitetech.com/"
+    ]
+  },
+  {
+    "providerId": "csp-116ceba96b7b",
+    "providerName": "Nozomi Networks Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.nozominetworks.com/"
+    ]
+  },
+  {
+    "providerId": "csp-d50f66261e7e",
+    "providerName": "Nucleus Security, Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://nucleussec.com/government/"
+    ]
+  },
+  {
+    "providerId": "csp-46f48e7103ca",
+    "providerName": "OCLC Incorporated",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.oclc.org/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched provider’s official finance page identifies OCLC as a nonprofit membership organization. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-2afca592f85c",
+    "providerName": "Omnissa",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.omnissa.com/trust-center/compliance/#Public_Sector"
+    ]
+  },
+  {
+    "providerId": "csp-666714c4fb2b",
+    "providerName": "OnSolve LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.onsolve.com/"
+    ]
+  },
+  {
+    "providerId": "csp-30c73757d835",
+    "providerName": "Ontario Systems, LLC d/b/a Finvi",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://finvi.com/"
+    ]
+  },
+  {
+    "providerId": "csp-5bd064fb0147",
+    "providerName": "Ontic Technologies",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://ontic.co/industries/government/"
+    ]
+  },
+  {
+    "providerId": "csp-f94bf11b177e",
+    "providerName": "Open Access Technology International, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.oati.com/"
+    ]
+  },
+  {
+    "providerId": "csp-fce309626826",
+    "providerName": "OpenText",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.opentext.com/products/fortify-on-demand",
+      "https://www.opentext.com/products/content-management-for-government#services-section",
+      "https://www.opentext.com/products/observability-service-management-cloud"
+    ],
+    "classification": "likely-not-small",
+    "reason": "OpenText reports $5.168 billion FY2025 revenue. Exact brand/domain identity and completed-year financial scale make small-business size overwhelmingly unlikely for this software provider."
+  },
+  {
+    "providerId": "csp-5cf86be0f342",
+    "providerName": "Orca Security",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://app.orcasecurity-gov.io"
+    ]
+  },
+  {
+    "providerId": "csp-ebc48871a1f2",
+    "providerName": "OwnBackup",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://www.owndata.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Salesforce completed the Own acquisition in November 2024; its current Own product page establishes brand continuity. Salesforce group scale makes this controlled software business likely not small. Exact current legal suffix uncertainty does not outweigh the corroborated identity/control chain."
+  },
+  {
+    "providerId": "csp-76b513f9ae7f",
+    "providerName": "Pagefreezer Software Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.pagefreezer.com/"
+    ]
+  },
+  {
+    "providerId": "csp-3afbd5577a87",
+    "providerName": "PDQ",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.pdq.com/"
+    ]
+  },
+  {
+    "providerId": "csp-9a80ee77a2d6",
+    "providerName": "PDRI by Pearson",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://pdri.com/platform/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Pearson confirms its completed acquisition of 100% of PDRI in March 2023. The current Pearson identity and billions in annual group sales strongly support likely not small for assessment software/services."
+  },
+  {
+    "providerId": "csp-e395d03e988d",
+    "providerName": "Peraton Corporation",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.peraton.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Company-published 2022 guide states over $7 billion annual revenue; its 2025 announcement confirms continued standing among the largest private companies based on 2024 revenue. This operating scale strongly supports likely not small. Small-code entries in several matched establishments are retained as conflicting, context-specific evidence, not treated as group-wide size determinations."
+  },
+  {
+    "providerId": "csp-9e15f7a83b31",
+    "providerName": "Perceptyx",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://go.perceptyx.com/platform/people-insights-platform"
+    ]
+  },
+  {
+    "providerId": "csp-5e815286bca5",
+    "providerName": "Persona",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://withpersona.com/"
+    ]
+  },
+  {
+    "providerId": "csp-a94b3fc8aa97",
+    "providerName": "Pexip Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.pexip.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Pexip’s official 2025 report shows NOK1.228 billion actual annual revenue versus NOK1.119 billion in 2024, distinct from its separately reported ARR. The sustained scale of this video-software group supports likely not small. Currency-adjusted five-year receipts and exact US subsidiary perimeter are not formally computed."
+  },
+  {
+    "providerId": "csp-b363e0296ba0",
+    "providerName": "Point Blue Conservation Science",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.pointblue.org/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched provider explicitly identifies itself as a registered 501(c)(3). Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-337500df8cab",
+    "providerName": "Power Settlements Consulting and Software, LLC (PSCS), a subsidiary of Yes Energy, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://powersettlements.com/solutions/overview/"
+    ]
+  },
+  {
+    "providerId": "csp-51e53f45f169",
+    "providerName": "PowerTrain Inc.",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://powertrain.com/"
+    ],
+    "classification": "unknown",
+    "reason": "Exact-UEI GSA HCaTS contract lists a small/WOSB representation for 611430, but the October 2026 SBA record does not list primary software-services 541519 or training 611430 among its small codes. This is substantive conflicting scope/currency evidence, not merely missing research. Retain unknown until the representation dates and applicable service code are reconciled."
+  },
+  {
+    "providerId": "csp-f909a903e45f",
+    "providerName": "Praxon Labs Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://praxonlabs.com/"
+    ]
+  },
+  {
+    "providerId": "csp-1d73beacb4e5",
+    "providerName": "Precisely Software",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.precisely.com/solution/data-integrity-suite-for-government"
+    ]
+  },
+  {
+    "providerId": "csp-ae57c57b0c2e",
+    "providerName": "Privoro LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.privoro.com"
+    ]
+  },
+  {
+    "providerId": "csp-75c526bf4c54",
+    "providerName": "ProjectTeam, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.projectteam.com/fedramp"
+    ]
+  },
+  {
+    "providerId": "csp-d48e1093a46f",
+    "providerName": "Proofpoint, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "http://www.proofpoint.com/",
+      "https://www.proofpoint.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official company history records over $1 billion actual revenue in 2020, with 2025 exit ARR of $2.45 billion. The older actual revenue is outside the current five-year window, but corroborated continuing multibillion operating scale supports high-confidence likely not small. ARR is not substituted for statutory receipts."
+  },
+  {
+    "providerId": "csp-d96c2e35373f",
+    "providerName": "PSI Services LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.psiexams.com/certification/government/"
+    ]
+  },
+  {
+    "providerId": "csp-128c1ce89542",
+    "providerName": "Public Health Foundation",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.train.org/main/welcome"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The organization’s matched Idealist profile describes PHF as a private nonprofit 501(c)(3), consistent with its foundation and TRAIN service identity. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-e65c29f26a01",
+    "providerName": "Qgenda, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.qgenda.com/federal/"
+    ]
+  },
+  {
+    "providerId": "csp-a3f3c86e6f3a",
+    "providerName": "Qlik Technologies Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.qlik.com/us/solutions/industries/public-sector/us-public-sector"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC-filed actual 2015 revenue was $612.7 million. Continued operations include a separate cloud-analytics business reaching $100 million ARR in 2023 and current enterprise products. Long-established large operating scale supports likely not small; old revenue is contextual evidence, not included in a claimed current five-year calculation."
+  },
+  {
+    "providerId": "csp-8370802aa06b",
+    "providerName": "Quadient inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://mail.quadient.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Quadient’s official FY2025 results report €1.036 billion revenue. The matched corporate software/communications provider has decisive large-group scale; the lower-case legal suffix is not a material identity obstacle."
+  },
+  {
+    "providerId": "csp-4ba972f6ca38",
+    "providerName": "QuestionMark",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.questionmark.com/"
+    ]
+  },
+  {
+    "providerId": "csp-39c6d02bff36",
+    "providerName": "QuestionPro, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.questionpro.com/govcloud"
+    ]
+  },
+  {
+    "providerId": "csp-9e557d81cec2",
+    "providerName": "Rackspace Government Solutions",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.rackspace.com/cloud/rackspace-government-cloud"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Rackspace identifies Government Solutions as its specialized division. Group revenue was $2.686 billion in 2025 and $2.737 billion in 2024, far beyond candidate cloud/IT receipts thresholds even under conservative averaging."
+  },
+  {
+    "providerId": "csp-f7d9f5a90479",
+    "providerName": "Ramp",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://ramp.com/government"
+    ]
+  },
+  {
+    "providerId": "csp-82b5282989fa",
+    "providerName": "Rave Mobile Safety",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.ravemobilesafety.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Motorola Solutions confirms its completed Rave acquisition; current group financial results report $11.7 billion FY2025 sales. Verified control and scale support likely not small."
+  },
+  {
+    "providerId": "csp-df38c38deeaf",
+    "providerName": "Red Rock Group Holdings",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://getekko.io/"
+    ]
+  },
+  {
+    "providerId": "csp-0fec097499f8",
+    "providerName": "Relativity ODA LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.relativity.com/"
+    ]
+  },
+  {
+    "providerId": "csp-227ccfe39a5b",
+    "providerName": "Remedio Technologies Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://remedio.io"
+    ]
+  },
+  {
+    "providerId": "csp-47ea218e03df",
+    "providerName": "Repario",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://repariodata.com/"
+    ]
+  },
+  {
+    "providerId": "csp-53b69ef92c83",
+    "providerName": "Replit, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://replit.com"
+    ]
+  },
+  {
+    "providerId": "csp-6d72a574585d",
+    "providerName": "Research Dataware LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://gov.irbnet.org"
+    ]
+  },
+  {
+    "providerId": "csp-35159d31ae3c",
+    "providerName": "Ripcord",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.ripcord.com/platform"
+    ]
+  },
+  {
+    "providerId": "csp-e7c9dc3ce5df",
+    "providerName": "Riverbed Technology",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.riverbed.com/solutions/platform-for-government/"
+    ]
+  },
+  {
+    "providerId": "csp-49d660e3eaf3",
+    "providerName": "Rohirrim, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://rohirrim.ai"
+    ]
+  },
+  {
+    "providerId": "csp-20943f504824",
+    "providerName": "Rosalind, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.rosalind.bio/"
+    ]
+  },
+  {
+    "providerId": "csp-d00a12b998e1",
+    "providerName": "RQI Partners LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://rqipartners.com/"
+    ]
+  },
+  {
+    "providerId": "csp-8825c07e1e67",
+    "providerName": "RSA Security LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.rsa.com/solutions/public-sector/"
+    ]
+  },
+  {
+    "providerId": "csp-41a697bc33e7",
+    "providerName": "SandboxAQ",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://aqtiveguard.com/"
+    ]
+  },
+  {
+    "providerId": "csp-0f9af09305b0",
+    "providerName": "SAP National Security Services Inc. (SAP NS2)",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.sapns2.com/cloud/",
+      "https://www.sapns2.com/ns2-secure-cloud/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SAP NS2 legal terms identify a SAP subsidiary and its official product-support document confirms wholly owned status. SAP annual financials show decisive group scale. Operational security independence is not small-business independence."
+  },
+  {
+    "providerId": "csp-91c2e0669804",
+    "providerName": "Saviynt",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://saviynt.com/"
+    ]
+  },
+  {
+    "providerId": "csp-0dc8f791ab4b",
+    "providerName": "Scale AI, Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://scale.com/federal"
+    ]
+  },
+  {
+    "providerId": "csp-815d26c750a4",
+    "providerName": "ScienceLogic, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://sciencelogic.com"
+    ]
+  },
+  {
+    "providerId": "csp-514b529a8c80",
+    "providerName": "Securin, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://securin.io"
+    ]
+  },
+  {
+    "providerId": "csp-434483c9664f",
+    "providerName": "SecurityScorecard, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.securityscorecard.com"
+    ]
+  },
+  {
+    "providerId": "csp-ba37fc2a5825",
+    "providerName": "Securonix, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.securonix.com/"
+    ]
+  },
+  {
+    "providerId": "csp-8c8bda0414c1",
+    "providerName": "SentiLink Corp",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.sentilink.com/"
+    ]
+  },
+  {
+    "providerId": "csp-30e363d3e8c5",
+    "providerName": "Siemens",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://www.siemens.com/us/en/products/energy/topics/transportation-electrification/depot-cloud-services.html",
+      "https://evgateway.com"
+    ],
+    "classification": "unknown",
+    "reason": "The provider identity merges DepotFinity and EVGateway Digital Environment, while its exact UEI identifies EVGateway, a Siemens partner rather than a proven subsidiary. GSA materials list the offerings separately. Siemens itself is plainly large, but assigning its size to this mixed record would misclassify the separate operator. Resolve source identity before classification; preserve the frozen provider denominator."
+  },
+  {
+    "providerId": "csp-ac66435b4ce2",
+    "providerName": "Signature Performance, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.signatureperformance.com",
+      "https://www.signatureperformance.com"
+    ]
+  },
+  {
+    "providerId": "csp-544b663e2336",
+    "providerName": "Signifi Solutions Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.signifi.com/"
+    ]
+  },
+  {
+    "providerId": "csp-e0f5c2c60fac",
+    "providerName": "Silkline, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://silkline.ai"
+    ]
+  },
+  {
+    "providerId": "csp-1ba15fe36b7f",
+    "providerName": "Simuhealth Technologies Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://simu.health"
+    ]
+  },
+  {
+    "providerId": "csp-da3809198e62",
+    "providerName": "Sirsi Corporation (SirsiDynix)",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.sirsidynix.com/"
+    ]
+  },
+  {
+    "providerId": "csp-014b361fe5f1",
+    "providerName": "Siteimprove Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.siteimprove.com"
+    ]
+  },
+  {
+    "providerId": "csp-a753983b5b6c",
+    "providerName": "Sixtyfourai",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://placeholder.invalid"
+    ],
+    "classification": "likely-small",
+    "reason": "The matched active YC Spring 2025 company is founder-operated, with a recent launch and small-team company profile. These firsthand accelerator/founder signals support a tentative likely-small software-business inference. Modeled revenue estimates are not treated as actual receipts and affiliation is unverified."
+  },
+  {
+    "providerId": "csp-9f6001078f46",
+    "providerName": "Skyhigh Security",
+    "status": "not-yet-researched",
+    "websites": [
+      "skyhighsecurity.com",
+      "https://skyhighsecurity.com"
+    ]
+  },
+  {
+    "providerId": "csp-6cf5e6317a23",
+    "providerName": "Smartsheet",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.smartsheet.com/solutions/federal-government"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The company reached $1 billion ARR in early 2024 and continued as the enterprise software operating company following its completed January 2025 acquisition. This extreme established commercial scale supports likely not small; ARR and acquisition price are not treated as statutory receipts."
+  },
+  {
+    "providerId": "csp-cf8f21041594",
+    "providerName": "SMX",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.smxtech.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official CFO biography says acquisitions and organic growth accelerated SMX revenue to approximately $1 billion. Company history confirms the combined operating group includes legacy Smartronix and cloud businesses. This sustained technical-services scale supports likely not small without using contract ceilings as receipts."
+  },
+  {
+    "providerId": "csp-8cb0f11dba8f",
+    "providerName": "Snyk",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://snyk.io/"
+    ]
+  },
+  {
+    "providerId": "csp-39918274b585",
+    "providerName": "Software AG Government Solutions",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://aris.com/"
+    ]
+  },
+  {
+    "providerId": "csp-874962b37508",
+    "providerName": "Somnoware Healthcare Systems",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.somnoware.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "ResMed’s official acquisition notice identifies Somnoware as its acquired diagnostic software business; ResMed’s FY2026 company overview continues to list the product. The established global public medical/software group has decisive large-company scale. A standalone product-company headcount would omit this affiliation."
+  },
+  {
+    "providerId": "csp-91e5d52f4bda",
+    "providerName": "Spider Strategies",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.spiderstrategies.com"
+    ]
+  },
+  {
+    "providerId": "csp-f85266e98d4b",
+    "providerName": "StackArmor",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.stackarmor.com/solutions/clarity",
+      "https://www.stackarmor.com/solutions/rally",
+      "https://stackarmor.com/armory/",
+      "https://stackarmor.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official acquisition announcement establishes stackArmor under Tyto Athene, renamed Quantum Sky in August 2026. A 2025 parent-group capability document explicitly identifies Tyto GSI as SAM-registered Large Business under 541519. The controlled-group relationship and explicit parent-group representation support likely not small; this is not automatic aggregation of unrelated sponsor investments."
+  },
+  {
+    "providerId": "csp-c9501add4202",
+    "providerName": "Sumo Logic",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.sumologic.com/public-sector/"
+    ]
+  },
+  {
+    "providerId": "csp-84c7693896c5",
+    "providerName": "SunStone Secure, LLC",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://sunstonesecure.com/platform"
+    ],
+    "classification": "likely-small",
+    "reason": "Exact-UEI SBA representation reports small under a different code, while the matched company has a five-person profile and boutique compliance-services history since 2019. The combined registry representation and operating scale support likely small. The code mismatch prevents documented-small status for the software service but need not force a practical inference to unknown."
+  },
+  {
+    "providerId": "csp-70f05124ec3d",
+    "providerName": "SuperGov, Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://Superfile.com"
+    ]
+  },
+  {
+    "providerId": "csp-5073dcb633fd",
+    "providerName": "Synack",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.synack.com/platform/fedramp/"
+    ]
+  },
+  {
+    "providerId": "csp-4cad2cc2778c",
+    "providerName": "Tactical Edge",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://tvasolution.com"
+    ],
+    "classification": "likely-small",
+    "reason": "Tactical Edge’s official site directly links the Marketplace TVA/tvasolution product, resolving identity. Its 2024 capability statement and current company profile identify an SDVOSB. This explicit provider claim supports likely small; current SBA certification and procurement-specific receipts are not independently verified."
+  },
+  {
+    "providerId": "csp-5a0ead490927",
+    "providerName": "Tactical Takedown LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://tacticaltakedown.com"
+    ]
+  },
+  {
+    "providerId": "csp-5529594bb5d3",
+    "providerName": "Talkdesk",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.talkdesk.com/call-center-solutions/government-education/government/"
+    ]
+  },
+  {
+    "providerId": "csp-7063d51d1b2d",
+    "providerName": "Tango",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://login.agilquest.com/"
+    ]
+  },
+  {
+    "providerId": "csp-b799578946b1",
+    "providerName": "Tanium",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.tanium.com/"
+    ]
+  },
+  {
+    "providerId": "csp-cdcc28ca84b3",
+    "providerName": "Tansi LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.tansi.app"
+    ]
+  },
+  {
+    "providerId": "csp-990bb270a89d",
+    "providerName": "TeamViewer",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.teamviewer.com/en-us/products/dex/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Official 2025 results show TeamViewer standalone revenue around €702 million, before the 1E acquisition contribution. This is actual software revenue, not just ARR; it decisively supports likely not small."
+  },
+  {
+    "providerId": "csp-536db393b658",
+    "providerName": "Tecsys, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.tecsys.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched software provider reports CAD176.5 million FY2025 revenue and CAD171.2 million FY2024 revenue. Sustained substantial software revenue supports likely not small. CAD is not compared directly with USD and a complete currency-adjusted five-year legal worksheet is not claimed."
+  },
+  {
+    "providerId": "csp-2e4d06f8fb6a",
+    "providerName": "TeleTech (TTEC) Services Corporation",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://ttecdigital.com/solutions/humanify-g"
+    ],
+    "classification": "likely-not-small",
+    "reason": "TTEC’s annual filing identifies the corporate business and reports $2.137 billion FY2025 revenue. The TeleTech/TTEC name continuity and overwhelming services group scale support likely not small."
+  },
+  {
+    "providerId": "csp-b0d143e66228",
+    "providerName": "Tenable Public Sector (TPS)",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.tenable.com/solutions/government/us-fed ",
+      "https://www.tenable.com/solutions/government/us-fed"
+    ]
+  },
+  {
+    "providerId": "csp-78ba5283ff99",
+    "providerName": "TGuardAI Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://app-gov.trustguardai.com"
+    ],
+    "classification": "likely-small",
+    "reason": "Official terms resolve TGuard AI as the operator; its company profile reports a privately held business founded in 2024 with 11–50 employees. Short operating history and small operating team support likely-small software-company scale. No formal size representation or receipts calculation is claimed; controlling affiliations remain unverified."
+  },
+  {
+    "providerId": "csp-a7260b1bd033",
+    "providerName": "The Coleridge Initiative, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://coleridgeinitiative.org/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The current official site identifies Coleridge as a nonprofit and directly links its ADRF FedRAMP platform, resolving product identity. Under 13 CFR 121.105 the ordinary SBA business-concern definition generally requires organization for profit. This places the named nonprofit/university provider outside the small-business group on eligibility grounds, not because it is necessarily large. A separately incorporated for-profit operator would require a different assessment; the existing denominator is preserved."
+  },
+  {
+    "providerId": "csp-cb571403f03f",
+    "providerName": "Thomson Reuters",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://legal.thomsonreuters.com/en/westlaw",
+      "https://legal.thomsonreuters.com/en/products/clear"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched public information/software provider’s official FY2025 annual results show multibillion-dollar revenue. This is decisive scale for the relevant hosted information/software services, supporting likely not small."
+  },
+  {
+    "providerId": "csp-ac222d9ab9f3",
+    "providerName": "Thread AI, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.threadai.com"
+    ]
+  },
+  {
+    "providerId": "csp-fd1db23bd55a",
+    "providerName": "ThreatConnect",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://threatconnect.com"
+    ]
+  },
+  {
+    "providerId": "csp-1446fb6558d1",
+    "providerName": "ThreatLocker, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.threatlocker.com"
+    ]
+  },
+  {
+    "providerId": "csp-aa8a07e5035e",
+    "providerName": "TimeLooper Xplore",
+    "status": "not-yet-researched",
+    "websites": [
+      "veteransaffairs.timelooper.com",
+      "https://veteransaffairs.timelooper.com"
+    ]
+  },
+  {
+    "providerId": "csp-af42cdbd9265",
+    "providerName": "Toonimo Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.toonimo.com"
+    ]
+  },
+  {
+    "providerId": "csp-be6d9f97f585",
+    "providerName": "Trenchant Analytics",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://acqbot.com/"
+    ],
+    "classification": "likely-small",
+    "reason": "The AFRL public contract inventory links Trenchant Analytics and UEI DTSHKJN5C6H9 to ACQBOT and marks its 541715 award small business. That establishes product/entity identity and a government procurement representation. It supports likely small in this R&D service context, without asserting universal software-code eligibility or a current SBA ruling."
+  },
+  {
+    "providerId": "csp-6b6e739fae1e",
+    "providerName": "Trisotech",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.trisotech.com/digital-enterprise-suite/"
+    ]
+  },
+  {
+    "providerId": "csp-e21d81dda81a",
+    "providerName": "TRM Labs, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.trmlabs.com"
+    ]
+  },
+  {
+    "providerId": "csp-4cfb5ab4767e",
+    "providerName": "Trustwave Government Solutions",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.trustwave.com/capabilities/by-industry/government/"
+    ]
+  },
+  {
+    "providerId": "csp-203d98bc30d4",
+    "providerName": "Turning Point Global Solutions, L.L.C",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.tpgsi.com"
+    ]
+  },
+  {
+    "providerId": "csp-846774e6abd6",
+    "providerName": "Tyler Technologies Data & Insights",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.tylertech.com/solutions/transformative-technology/data-insights"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The provider label and Tyler website identify a Tyler Technologies software business, not an independent entity. Tyler’s SEC annual report reports $2.332 billion FY2025 revenue. Group scale and product identity support likely not small."
+  },
+  {
+    "providerId": "csp-8d1ae0ed034c",
+    "providerName": "UKG Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "UKG.com",
+      "https://UKG.com"
+    ],
+    "classification": "likely-not-small",
+    "reason": "UKG reports revenue above $4 billion for 2023; its hosted 2025 analyst report gives approximately $4.7 billion for FY2024. Sustained actual operating revenue establishes high-confidence likely not small, without inferring size from its valuation."
+  },
+  {
+    "providerId": "csp-108f8078fb77",
+    "providerName": "Ultra Security, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://ultra.security"
+    ]
+  },
+  {
+    "providerId": "csp-b3704083f1b6",
+    "providerName": "Unison",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.unisonglobal.com/"
+    ]
+  },
+  {
+    "providerId": "csp-9ea6dc77cfd0",
+    "providerName": "Unqork, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.unqork.com/government/"
+    ]
+  },
+  {
+    "providerId": "csp-ae443dd591bd",
+    "providerName": "USU Solutions Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.usu.com/en/it-asset-management/itam-for-government"
+    ]
+  },
+  {
+    "providerId": "csp-58c2655d4845",
+    "providerName": "Vanta",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.vanta.com/"
+    ]
+  },
+  {
+    "providerId": "csp-e1c8073165fc",
+    "providerName": "Vasion",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://vasion.com/"
+    ]
+  },
+  {
+    "providerId": "csp-3aa20e0704fe",
+    "providerName": "Veracode",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.veracode.com/"
+    ]
+  },
+  {
+    "providerId": "csp-30b71c11bcc2",
+    "providerName": "Veridix, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "www.veridix.com",
+      "https://www.veridix.com"
+    ]
+  },
+  {
+    "providerId": "csp-078927b6adaf",
+    "providerName": "Verily Health",
+    "status": "genuinely-unresolved",
+    "websites": [
+      "https://www.verily.com/"
+    ],
+    "classification": "unknown",
+    "reason": "Official March 2026 funding announcement confirms Alphabet is now a noncontrolling minority investor, so Alphabet revenue cannot simply be attributed to Verily. Earlier press reports of substantial revenue do not resolve post-divestiture operating scope or applicable research/device versus cloud NAICS; current SBA small codes cover manufacturing/R&D rather than cloud. Preserve a genuinely unresolved current-scope case."
+  },
+  {
+    "providerId": "csp-c8b5580b9ce8",
+    "providerName": "Verkada Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://verkada.com/government"
+    ]
+  },
+  {
+    "providerId": "csp-bb0e9fa6c61e",
+    "providerName": "VisibleThread",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.visiblethread.com/"
+    ]
+  },
+  {
+    "providerId": "csp-ab0707733ae1",
+    "providerName": "VisualVault LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.visualvault.com"
+    ]
+  },
+  {
+    "providerId": "csp-7bc7ddb9a302",
+    "providerName": "VLogic Systems, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.vlogicsystems.com/"
+    ]
+  },
+  {
+    "providerId": "csp-fcefccd62712",
+    "providerName": "Vyond",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://app.vyond-fedramp.com/"
+    ]
+  },
+  {
+    "providerId": "csp-243f6fc9fcad",
+    "providerName": "WalkMe, Inc",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.walkme.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SAP completed the WalkMe acquisition in September 2024. Official acquisition and financial disclosures establish control and decisive large-group software scale."
+  },
+  {
+    "providerId": "csp-0bdde175a402",
+    "providerName": "Wallarm, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://wallarm.com"
+    ]
+  },
+  {
+    "providerId": "csp-b3ef4ecf1c0b",
+    "providerName": "WellHive Holdings, LLC",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.wellhive.com/"
+    ]
+  },
+  {
+    "providerId": "csp-a8b1fe8d6993",
+    "providerName": "Wellspring Worldwide, Inc.",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.wellspring.com/"
+    ]
+  },
+  {
+    "providerId": "csp-4f6334ce9d4a",
+    "providerName": "WillCo Tech",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://cyberstar.com/"
+    ]
+  },
+  {
+    "providerId": "csp-5b92e3c73ed3",
+    "providerName": "Wiz, Inc.",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.wiz.io/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "Google confirms the Wiz acquisition completed March 11, 2026. Current ownership by Alphabet/Google and its overwhelming consolidated financial scale resolve likely not small; no reliance on the purchase valuation as revenue."
+  },
+  {
+    "providerId": "csp-1a7800a0ee70",
+    "providerName": "Wolters Kluwer",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.wolterskluwer.com/en/solutions/teammate/teammate-us-public-sector"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The matched provider reports €6.1 billion FY2025 revenue in its official annual results. This is decisive large information/software-company scale, far beyond plausible receipts standards even with a conservative five-year contribution."
+  },
+  {
+    "providerId": "csp-6fcba5d96a4f",
+    "providerName": "xAI",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://x.ai/grok/government"
+    ]
+  },
+  {
+    "providerId": "csp-a58a7caf55d0",
+    "providerName": "XTec, Incorporated",
+    "status": "not-yet-researched",
+    "websites": [
+      "http://www.xtec.com/",
+      "https://www.xtec.com/"
+    ]
+  },
+  {
+    "providerId": "csp-4f16da7cc79a",
+    "providerName": "Yello Dba Recsolu Inc",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://yello.co/government-recruiting/"
+    ]
+  },
+  {
+    "providerId": "csp-e473f24d4325",
+    "providerName": "Zendesk",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.zendesk.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "SEC-filed actual 2021 revenue was $1.339 billion, within the five completed calendar years preceding this snapshot. That single year divided by five exceeds candidate software receipts thresholds. Subsequent privatization does not make the continuing operating business small."
+  },
+  {
+    "providerId": "csp-1a55b53a6a05",
+    "providerName": "Zimperium",
+    "status": "not-yet-researched",
+    "websites": [
+      "https://www.zimperium.com/"
+    ]
+  },
+  {
+    "providerId": "csp-194dbd4fb732",
+    "providerName": "Zoom Video Communications, LLC",
+    "status": "reviewed-likely-or-documented",
+    "websites": [
+      "https://www.zoomgov.com/"
+    ],
+    "classification": "likely-not-small",
+    "reason": "The Marketplace UEI exactly matches Zoom Communications, Inc. and the company domain/product identity align. Zoom annual financials establish multibillion-dollar software revenue. The LLC/Inc. label discrepancy is an identity caveat, not enough to treat an otherwise clearly matched large provider as unknown. Conflicting small representation is retained as a concern, not accepted over decisive financial scale."
+  },
+  {
+    "providerId": "csp-c8bc3d5b9c5d",
+    "providerName": "Cognitus, an IBM Company",
+    "status": "reviewed-likely-or-documented",
+    "historicalOnly": true,
+    "classification": "likely-not-small",
+    "reason": "Cognitus confirms its IBM acquisition completed in November 2025. IBM FY2025 revenue exceeds $67 billion. Completed parent control and decisive software/consulting group scale support likely not small."
+  }
+]

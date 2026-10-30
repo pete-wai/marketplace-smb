@@ -1,6 +1,8 @@
 import fs from 'node:fs/promises';
+import {pass2Report} from './pass2-report.mjs';
 const read=async(path,fallback)=>{try{return JSON.parse(await fs.readFile(path,'utf8'));}catch(e){if(e.code==='ENOENT')return fallback;throw e;}};
 const current=await read('data/analysis.json',null),baseline=await read('research/deep/baseline.json',null);
+const secondPass=await pass2Report(current);
 if(!baseline)throw Error('Deep-research baseline is required');
 const decisions=await read('research/deep/decisions.json',[]),decisionById=new Map(decisions.map(r=>[r.providerId,r]));
 const originals=new Map(baseline.providers.map(p=>[p.id,p]));
@@ -16,11 +18,13 @@ for(const p of current.providers){
  rows.push({providerId:p.id,providerName:p.name,assessmentDate:current.asOf,excluded:p.excluded,reviewStage:p.excluded?'excluded-government':decision?'individual-review':pages?'bounded-site-and-registry-screen':'existing-financial-screen',reviewDisposition:decision?.disposition??'screened-no-new-accepted-evidence',identityConfidence:decision?.identityConfidence??null,priorClassification:old.assessment.classification,priorConfidence:old.assessment.confidence,classification:p.assessment.classification,confidence:p.assessment.confidence,changed,reason:p.assessment.reason,relevantNaics:decision?.relevantNaics??[],reviewedBy:decision?'main-agent':null,reviewNote:decision?.reviewNote??'Existing evidence retained; automated discovery is not exhaustive individual research.',sources:decision?.sources??p.assessment.evidence,searches:decision?.searches??[],websiteAttempts:pages?.attempts??[],sampleAudit:sampleById.get(p.id)??null,gsaDiscovery:gsaById.get(p.id)??null,remainingQuestions:decision?.unresolvedQuestions??(p.assessment.classification==='unknown'?['Resolve applicable entity/NAICS, affiliate-adjusted size, or a dated relevant representation.']:['Affiliation and procurement-specific eligibility are not independently adjudicated.'])});
 }
 const changed=rows.filter(r=>r.changed),unknown=rows.filter(r=>!r.excluded&&r.classification==='unknown');
+for(const row of rows)row.secondPassStatus=secondPass.byId.get(row.providerId)?.status??'outside-second-pass-queue';
 const coverage={providers:rows.length,individuallyReviewed:rows.filter(r=>r.reviewStage==='individual-review').length,boundedSiteScreens:rows.filter(r=>r.websiteAttempts.length).length,existingFinancialScreens:rows.filter(r=>r.reviewStage==='existing-financial-screen').length,changed:changed.length,unknown:unknown.length,currentBefore:baseline.coverage.current,currentAfter:current.coverage.current};
+coverage.secondPass=secondPass.summary;
 await fs.writeFile('src/lib/research-summary.json',JSON.stringify(coverage,null,2)+'\n');
 const ledger={schemaVersion:1,assessmentDate:current.asOf,sourceCommit:current.source.commit,methodology:'Current size evidence; two reporting groups; research inferences are not official legal determinations.',coverage,records:rows};
 const cell=v=>{let text=String(typeof v==='object'?JSON.stringify(v):v??'');if(/^[=+@-]/.test(text))text="'"+text;return '"'+text.replaceAll('"','""')+'"';};
-const columns=['providerId','providerName','reviewStage','priorClassification','classification','confidence','identityConfidence','changed','reason','remainingQuestions','sources'];
+const columns=['providerId','providerName','reviewStage','secondPassStatus','priorClassification','classification','confidence','identityConfidence','changed','reason','remainingQuestions','sources'];
 await fs.writeFile('research/deep/ledger.json',JSON.stringify(ledger,null,2)+'\n');
 await fs.writeFile('static/downloads/research-ledger.json',JSON.stringify(ledger,null,2)+'\n');
 await fs.writeFile('static/downloads/research-ledger.csv',[columns.map(cell).join(','),...rows.map(r=>columns.map(k=>cell(r[k])).join(','))].join('\r\n')+'\r\n');

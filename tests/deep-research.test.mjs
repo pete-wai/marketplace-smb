@@ -21,7 +21,8 @@ test('specific conflicts cannot be overwritten by small-team or unrelated regist
  const classification=id=>data.providers.find(p=>p.id===id).assessment.classification;
  assert.equal(classification('csp-a7c4c5ead54c'),'unknown'); // Files affiliate/receipts uncertainty
  assert.equal(classification('csp-30e363d3e8c5'),'unknown'); // Siemens / EVGateway mismatch
- assert.equal(classification('csp-35c5a07f9ba7'),'unknown'); // Butterfly NAICS scope
+ assert.equal(classification('csp-35c5a07f9ba7'),'likely-small'); // Reviewed medical-device context
+ assert.deepEqual(data.providers.find(p=>p.id==='csp-35c5a07f9ba7').assessment.relevantNaics,['334510']);
  assert.equal(classification('csp-fb41be4dda7b'),'documented-small'); // Current Knox identity
  assert.equal(classification('csp-74f3bba0747b'),'likely-not-small'); // Completed Cursor acquisition
 });

@@ -1,10 +1,10 @@
 {
   "providers": 707,
-  "individuallyReviewed": 131,
+  "individuallyReviewed": 218,
   "boundedSiteScreens": 620,
   "existingFinancialScreens": 76,
-  "changed": 68,
-  "unknown": 378,
+  "changed": 167,
+  "unknown": 278,
   "currentBefore": {
     "unit": "providers",
     "total": 662,
@@ -32,21 +32,82 @@
     "total": 662,
     "counts": {
       "documented-small": 174,
-      "likely-small": 5,
+      "likely-small": 25,
       "documented-not-small": 9,
-      "likely-not-small": 122,
-      "unknown": 352
+      "likely-not-small": 201,
+      "unknown": 253
     },
-    "smallGroup": 179,
-    "remainingGroup": 483,
-    "smallGroupPct": 27.0392749244713,
-    "remainingGroupPct": 72.9607250755287,
+    "smallGroup": 199,
+    "remainingGroup": 463,
+    "smallGroupPct": 30.060422960725074,
+    "remainingGroupPct": 69.93957703927492,
     "documentedSmall": 174,
-    "expandedSmall": 179,
+    "expandedSmall": 199,
     "documentedPct": 26.283987915407852,
-    "expandedPct": 27.0392749244713,
-    "unknownPct": 53.17220543806647,
-    "classified": 310,
+    "expandedPct": 30.060422960725074,
+    "unknownPct": 38.21752265861027,
+    "classified": 409,
     "unresolvedIdentityOfferings": 10
+  },
+  "secondPass": {
+    "initialCurrentUnknowns": 352,
+    "currentReviewed": 109,
+    "currentRemaining": 243,
+    "currentResolved": 99,
+    "currentUnresolved": 10,
+    "decisions": 110,
+    "historicalOnlyReviewed": 1,
+    "decisionCounts": {
+      "likely-small": 20,
+      "likely-not-small": 80,
+      "unknown": 10
+    },
+    "startedAt": "2026-10-30T11:50:52.476Z",
+    "lastReviewedAt": "2026-10-30T12:16:18.818Z",
+    "elapsedSecondsPerDecision": 13.875836363636365,
+    "currentBefore": {
+      "unit": "providers",
+      "total": 662,
+      "counts": {
+        "documented-small": 174,
+        "likely-small": 5,
+        "documented-not-small": 9,
+        "likely-not-small": 122,
+        "unknown": 352
+      },
+      "smallGroup": 179,
+      "remainingGroup": 483,
+      "smallGroupPct": 27.0392749244713,
+      "remainingGroupPct": 72.9607250755287,
+      "documentedSmall": 174,
+      "expandedSmall": 179,
+      "documentedPct": 26.283987915407852,
+      "expandedPct": 27.0392749244713,
+      "unknownPct": 53.17220543806647,
+      "classified": 310,
+      "unresolvedIdentityOfferings": 10
+    },
+    "currentAfter": {
+      "unit": "providers",
+      "total": 662,
+      "counts": {
+        "documented-small": 174,
+        "likely-small": 25,
+        "documented-not-small": 9,
+        "likely-not-small": 201,
+        "unknown": 253
+      },
+      "smallGroup": 199,
+      "remainingGroup": 463,
+      "smallGroupPct": 30.060422960725074,
+      "remainingGroupPct": 69.93957703927492,
+      "documentedSmall": 174,
+      "expandedSmall": 199,
+      "documentedPct": 26.283987915407852,
+      "expandedPct": 30.060422960725074,
+      "unknownPct": 38.21752265861027,
+      "classified": 409,
+      "unresolvedIdentityOfferings": 10
+    }
   }
 }

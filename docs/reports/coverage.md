@@ -10,21 +10,21 @@
     "total": 662,
     "counts": {
       "documented-small": 174,
-      "likely-small": 5,
+      "likely-small": 25,
       "documented-not-small": 9,
-      "likely-not-small": 122,
-      "unknown": 352
+      "likely-not-small": 201,
+      "unknown": 253
     },
-    "smallGroup": 179,
-    "remainingGroup": 483,
-    "smallGroupPct": 27.0392749244713,
-    "remainingGroupPct": 72.9607250755287,
+    "smallGroup": 199,
+    "remainingGroup": 463,
+    "smallGroupPct": 30.060422960725074,
+    "remainingGroupPct": 69.93957703927492,
     "documentedSmall": 174,
-    "expandedSmall": 179,
+    "expandedSmall": 199,
     "documentedPct": 26.283987915407852,
-    "expandedPct": 27.0392749244713,
-    "unknownPct": 53.17220543806647,
-    "classified": 310,
+    "expandedPct": 30.060422960725074,
+    "unknownPct": 38.21752265861027,
+    "classified": 409,
     "unresolvedIdentityOfferings": 10
   },
   "historical": {
@@ -52,15 +52,15 @@
   "sbaAttempts": 707,
   "websiteAttempts": 707,
   "secMatches": 87,
-  "conflicts": 8,
+  "conflicts": 10,
   "excludedProviders": 5,
   "excludedOfferings": 7,
   "classificationCounts": {
     "documented-small": 184,
-    "likely-small": 5,
+    "likely-small": 25,
     "documented-not-small": 9,
-    "likely-not-small": 126,
-    "unknown": 378
+    "likely-not-small": 206,
+    "unknown": 278
   }
 }
 

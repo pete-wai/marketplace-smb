@@ -96,7 +96,7 @@ GitHub Actions validates and deploys the committed snapshot to GitHub Pages on p
 
 This repository is separate from the `fedramp-web` prototype lab. It does not modify preserved Marketplace fixtures or the reference site. Government/source content retains its original provenance; website signals are short research excerpts. Do not publish private financial records, API keys, personal contacts, or authenticated exports.
 
-## Deeper current-size review (October 30, 2026)
+## First deeper review (October 30, 2026; superseded by the checkpoint below)
 
 The reviewed pass is recorded in `research/deep/decisions.json`. It has 131 individual decisions and preserves the pre-review snapshot in `research/deep/baseline.json`. Source discovery and researcher proposals are retained separately; proposals are not automatically accepted. The full ledger gives all 707 providers a disposition and distinguishes individual review from screening. It includes 620 bounded site-discovery attempts and the 50-record stratified audit, with overlap. This is not exhaustive individual research of 707 companies.
 
@@ -114,3 +114,21 @@ mise exec -- node scripts/check-site.mjs
 ```
 
 `analyze` regenerates the ledger CSV/JSON, changes JSON, all reports, and site summary without live fetching. For a new research round, deliberately version the baseline and review date rather than overwriting this comparison. The optional `deep-screen.mjs` and `gsa-research.mjs` use public sources and resumable caches; do not rerun them as part of a build. GSA returned 55 of 124 candidate contract pages; 69 unavailable pages remain visible. Free-source searches cannot establish every private company's receipts or controlling affiliates.
+
+## Second-pass checkpoint (October 30, 2026)
+
+The second pass is **incomplete**: 109 of the initial 352 current unknown providers reviewed, 243 awaiting this pass, and 10 researched but unresolved. One historical-only provider was also reviewed. Of 110 accepted decisions, 20 are likely small, 80 likely not small, and 10 unknown. Current small share is 199/662 (30.06%), up from 179/662 (27.04%); unknowns fell from 352 to 253. These are evidence revisions, not changes in certification or a measured policy effect.
+
+See [second-pass report](docs/reports/second-pass.md), [queue](research/pass2/queue.json), [accepted decisions](research/pass2/decisions.json), and [downloadable progress](static/downloads/research-pass2.json). The cumulative ledger now includes 218 distinct individually reviewed providers. Initial and second-pass baselines, plus superseded decisions, remain preserved. Counts in earlier validation entries describe their respective published versions.
+
+To continue: use the pending rows in the queue; record individual evidence, confidence, relevant business/NAICS context, and unresolved questions. Batch files preserve reviewed inputs. Do not rerun accepted batches; duplicate decisions are rejected. Use the helper only for newly reviewed rows. Preserve each starting snapshot and do not rewrite historical assessments. Report progress every ten decisions, separating current and historical-only counts; elapsed throughput is a batch average, not a per-company search timer.
+
+Promote reviewed pass-two decisions explicitly before analysis:
+
+```sh
+mise exec -- node scripts/apply-pass2-decisions.mjs
+mise exec -- node scripts/apply-deep-decisions.mjs
+mise exec -- npm run analyze
+```
+
+Then run the standard tests, Svelte check, production build and static-site validation before publication. An ownership flag can be bypassed only by an explicit ownership-reviewed override; historical ownership flags remain intact. Unknown cases must retain their reason, including conflicting claims, so older self-descriptions cannot silently overwrite the reviewed result.

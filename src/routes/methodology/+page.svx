@@ -1,9 +1,10 @@
 <script>
 import { base } from '$app/paths';
+import researchSummary from '$lib/research-summary.json';
 </script>
 
 
-<p class="eyebrow"><a href="{base}/">← Back to the findings</a> · Methodology v2</p>
+<p class="eyebrow"><a href="{base}/">← Back to the findings</a> · Methodology v3</p>
 
 # What counts as a small business?
 
@@ -67,13 +68,19 @@ Conflicting registration and financial evidence is unknown pending review. An ex
 
 ## Deeper evidence review
 
-The October 30 review records **131 individual provider decisions**, including an additional correction found in a 50-record stratified evidence audit. There were **620 bounded official-site discovery attempts** alongside existing registry and SEC screening. The remaining records retain screening-level evidence; this is not a claim of exhaustive investigation of every company. Research coverage overlaps and must not be added together.
+The October 30 research now records **{researchSummary.individuallyReviewed} distinct individually reviewed providers** across successive passes, including a 50-record stratified audit in the first pass. There were **620 bounded official-site discovery attempts** alongside existing registry and SEC screening. The remaining records retain screening-level evidence; this is not a claim of exhaustive investigation of every company. Research coverage overlaps and must not be added together.
 
-The [research ledger (CSV)]({base}/downloads/research-ledger.csv), [full ledger (JSON)]({base}/downloads/research-ledger.json), and [before/after changes]({base}/downloads/research-changes.json) expose source links, confidence, reasons, review depth, failed page attempts, and remaining questions. The prior classifications are preserved in the repository. Current listed unknowns fell from 399 to 352; the small group changed from 182 to 179 of 662. These changes reflect better evidence, not changes in Marketplace access.
+The [research ledger (CSV)]({base}/downloads/research-ledger.csv), [full ledger (JSON)]({base}/downloads/research-ledger.json), and [before/after changes]({base}/downloads/research-changes.json) expose source links, confidence, reasons, review depth, failed page attempts, and remaining questions. The prior classifications are preserved in the repository. Across both deep-review passes, current listed unknowns changed from {researchSummary.currentBefore.counts.unknown} to {researchSummary.currentAfter.counts.unknown}; the small group changed from {researchSummary.currentBefore.smallGroup} to {researchSummary.currentAfter.smallGroup} of {researchSummary.currentAfter.total}. These changes reflect better evidence, not changes in Marketplace access.
+
+**The second pass is incomplete:** {researchSummary.secondPass.currentReviewed} of the original {researchSummary.secondPass.initialCurrentUnknowns} current unknown providers have been reviewed; {researchSummary.secondPass.currentRemaining} await this pass, and {researchSummary.secondPass.currentUnresolved} remain unresolved after research. {researchSummary.secondPass.historicalOnlyReviewed} historical-only provider was also reviewed. The [second-pass progress file]({base}/downloads/research-pass2.json) separates these states. “Awaiting this pass” can include earlier screening or an earlier inconclusive individual review; it does not mean no source has ever been checked.
 
 We prioritize exact UEI or corroborated legal identity; current government representations; official control/acquisition documents; and actual annual financial disclosures. GSA records document size for the displayed contract NAICS, with an underlying representation date often unavailable. They do not establish universal eligibility or historical status. A government contract alone, or a payment amount, is not proof of small-business status.
 
 A completed acquisition can change the affiliate group. Private-equity investment alone does not prove that every portfolio company is an affiliate. Actual annual revenue can provide a conservative scale bound: a verified $300 million completed-year figure contributes $60 million to a five-year average even if the other four years were zero. Accounting revenue remains a proxy for SBA receipts, and tax adjustments, currency conversion, the proper fiscal window, newer-company rules, and exceptions matter. ARR, bookings, funding, valuation, and headcount alone are not substituted for receipts.
+
+The second pass uses a reasonable-likelihood standard, rather than requiring a complete legal size worksheet for every inference. Sustained, extreme commercial scale can justify likely-not-small even when only older actual revenue and current operating milestones are public. ARR can corroborate that scale, but is never converted into statutory receipts. A recent affirmative small representation that expired can support a qualified likely-small judgment when identity and continuing operations are corroborated. Older or indirect evidence lowers confidence; valuation and funding alone remain insufficient.
+
+Industry context matters. Ceribell’s EEG and Butterfly’s ultrasound offerings combine medical devices with cloud functions. Their filings and, for Ceribell, an active SBA representation support likely-small judgments under the electromedical manufacturing context (334510, 1,250 employees). Neither finding claims eligibility for a separate cloud-only procurement or a verified 24-month affiliate-adjusted employee average. Sources appear in the provider ledger. Likewise, confirmed nonprofit operators fall in the second group because SBA generally requires a for-profit concern; this does not assert that those organizations are large.
 
 Private corporate tax returns generally are not public. SEC filings, foreign corporate accounts, and nonprofit Form 990 filings may supply public financial evidence, but do not automatically resolve the correct entity, affiliation, or standard. Nonprofits also raise the separate for-profit eligibility requirement. Public self-descriptions can support a likely-small inference with explicit limitations; unsupported estimates remain leads.
 

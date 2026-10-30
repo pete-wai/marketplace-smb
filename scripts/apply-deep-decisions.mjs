@@ -14,7 +14,7 @@ for(const d of decisions){
  if(d.classification!=='unknown')assert.ok(d.sources?.length,`Missing sources ${d.providerName}`);
  for(const s of d.sources??[]){assert.ok(/^https?:/.test(s.url));if(/^\d{4}-\d{2}-\d{2}$/.test(s.publishedAt??''))assert.ok(s.publishedAt<=data.asOf,`Future evidence ${s.url}`);}
  review.currentOverrides??={};
- review.currentOverrides[d.providerId]={classification:d.classification,confidence:d.confidence,identityConfidence:d.identityConfidence,reason:d.reason,conflict:!!d.conflict,relevantNaics:d.relevantNaics,evidence:(d.sources??[]).map(s=>({kind:s.kind??s.title??'Reviewed public evidence',url:s.url,publishedAt:s.publishedAt??null,retrievedAt:s.retrievedAt??data.asOf,summary:s.supports??s.excerpt??'',...(s.uei?{uei:s.uei}:{}),...(s.naics?{primaryNaics:s.naics}:{}),...(s.contractNumber?{contractNumber:s.contractNumber}:{})})),reviewId:`deep-2026-10-30/${d.providerId}`};
+ review.currentOverrides[d.providerId]={classification:d.classification,confidence:d.confidence,identityConfidence:d.identityConfidence,reason:d.reason,conflict:!!d.conflict,ownershipReviewed:!!d.ownershipReviewed,relevantNaics:d.relevantNaics,evidence:(d.sources??[]).map(s=>({...s,kind:s.kind??s.title??'Reviewed public evidence',url:s.url,publishedAt:s.publishedAt??null,retrievedAt:s.retrievedAt??data.asOf,summary:s.summary??s.supports??s.excerpt??'',...(s.naics?{primaryNaics:s.naics}:{})})),reviewId:`${d.researchPass===2?'pass2':'deep'}-2026-10-30/${d.providerId}`};
 }
 await fs.writeFile('research/review.json',JSON.stringify(review,null,2)+'\n');
 console.log(`Applied ${decisions.length} explicitly reviewed current assessments. Historical overrides unchanged.`);
