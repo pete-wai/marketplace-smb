@@ -25,3 +25,14 @@
 ## Deployment
 
 Deployment outcome and final verification are appended after GitHub Actions and public HTTP checks complete.
+
+### Publication verified
+
+- Public repository: https://github.com/pete-wai/marketplace-smb
+- Live site: https://pete-wai.github.io/marketplace-smb/
+- Deployed implementation commit: `6a65e87`.
+- [GitHub Actions run 41036277689](https://github.com/pete-wai/marketplace-smb/actions/runs/41036277689): build and deployment succeeded, including source/data tests, Svelte checks, prerendering, and static link verification on Linux.
+- The initial clean CI run exposed a missing `output/` directory creation. The generator now creates that directory; the succeeding clean run verifies the fix.
+- Live HTTP verification: both HTML pages, JSON schema, complete JSON data, and all eight CSV download endpoints return 200 (12 checked URLs total). Published coverage and every report table exactly match the local canonical results. Evidence: `output/live-verification.json`.
+- Main evidence chunk is approximately 1.12 MB minified / 77.7 kB gzip, plus framework and fonts. No browser performance measurement is claimed.
+- Separate final self-review completed. No subagents used. Browser visual/interaction QA remains the limitation noted above.
