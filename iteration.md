@@ -13,3 +13,7 @@ User-requested correction: consolidate presentation into the two named exhaustiv
 ## Most-recent size basis
 
 Annual cohorts and accompanying rolling-window view now use the most recent size assessment in the snapshot, with an explicit flag that it is not size at certification. Certification year remains first recorded certification. Historical data remains available for audit, without driving the published charts. See validation for completed checks.
+
+## Percentage trend
+
+Added a percentage-by-certification-year line chart above the annual composition bars, using the most recent assessments and existing controls. Fixed 0–100% scale, labeled points, partial-year marker, responsive scrolling, and accessible annual data table. Static point-to-report reconciliation passes; see validation.

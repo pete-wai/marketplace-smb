@@ -50,3 +50,9 @@ Review publication verified: implementation commit `40f8947dc990c62eb6af58e4ff3e
 ## Most-recent cohort basis — October 30, 2026
 
 At the user's request, the annual cohort chart, all-years summary, and accompanying rolling-window view now consistently use the most recent small-business assessment available in the snapshot. The year still comes from first observed certification. The date and distinction from size at certification are explicit. Removed the historical/current selector and comparison table; historical assessments remain in audit downloads. Generated narrative reports and methodology now match this basis. Svelte checking, 15 data tests, production generation, and static chart verification pass; static verification additionally compares every rendered default bar to its current-assessment report row.
+
+## Percentage-over-time chart — October 30, 2026
+
+Added a line chart of the documented-or-likely-small percentage by first certification year, using current assessment data and the existing unit/population controls. Vertical scale is fixed at 0–100%; percentages and partial-year markers are visible; SVG titles include counts, and the existing annual table supplies the accessible numeric alternative. Narrow screens can scroll the graph within its container. No classification or source changes.
+
+Svelte check and autofixer pass without warnings. Fifteen data tests and production build pass. Static verification checks every prerendered trend point against the annual report. Browser visual testing remains unavailable as previously documented.
