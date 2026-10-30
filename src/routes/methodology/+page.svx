@@ -42,17 +42,24 @@ Receipts generally use the average over five completed fiscal years, with specia
 
 An ordinary small-business representation differs from an SBA program certification such as 8(a), HUBZone, or WOSB. Neither should be confused with FedRAMP certification, which addresses a cloud offering’s security requirements.
 
-## Evidence tiers and confidence
+## Two reporting groups
 
-| Classification | Included evidence | Interpretation |
-| --- | --- | --- |
-| Documented small | Matched, active SBA record reports small in the selected cloud NAICS context | Documented representation; not an independent legal finding |
-| Likely small | Relevant dated program history or explicit company small-business claim | Inference, with temporal and affiliation limitations |
-| Documented other-than-small | Reserved for an explicit applicable determination or representation | None assigned merely because a search returned no result |
-| Likely other-than-small | Financial evidence above a conservative cloud/software benchmark | Inference from reported revenue, not SBA-calculated receipts |
-| Unknown | Missing, ambiguous, conflicting, or insufficient evidence | Remains in the denominator |
+Every chart, analysis table, and report uses the same two exhaustive groups:
 
-**Documented share** = documented-small ÷ all eligible records in the selected group. **Expanded share** = (documented-small + likely-small) ÷ all eligible records. These are observed evidence shares, not statistical estimates of true prevalence. The expanded share is not a confidence interval. Medium confidence reflects a strong identity match with unresolved legal context; low confidence reflects weaker inference or insufficient evidence. No blanket high-confidence legal judgments are made.
+| Group | Included underlying evidence |
+| --- | --- |
+| Documented or likely small | Matched small-business representations, or explicitly explained likely-small inferences |
+| Documented not small, likely not small, or unknown | Evidence of other-than-small size, or unresolved, missing, ambiguous, and conflicting evidence |
+
+**Small-group percentage** = (documented small + likely small) ÷ all eligible records. **Second-group percentage** = (documented not small + likely not small + unknown) ÷ all eligible records. Together they sum to 100% before rounding; an empty group has no percentage. Unknowns are never dropped from the denominator and are not legal findings of large size.
+
+Each bar is a 100% composition, not a count scale. The label at right always uses the small-group numerator and the full row denominator. Both charts use the same colors and column alignment. Counts and percentages in tables come from the same calculated fields.
+
+The original evidence tiers remain inside individual assessments and the JSON for audit, alongside sources, confidence, and reasons. They are not separate reporting groups. Legacy `documentedPct` and `expandedPct` JSON fields remain for backward compatibility; use `smallGroupPct` and `remainingGroupPct` for the two-group analysis. Medium confidence reflects a strong or probable identity match with unresolved legal context; low confidence reflects tentative self-description or insufficient evidence. No blanket high-confidence legal judgments are made.
+
+The standard automated screen considers the selected cloud/software NAICS codes. A documented manual review may identify a different industry that fits the actual service. Perplexity is an example: its exact-UEI SBA record reports small under **519290, Web Search Portals and All Other Information Services**, whose standard is **1,000 employees**, but does not list primary 518210 as small. The Marketplace describes web search and a Search API. We therefore count it as likely small in that service-specific context, without claiming it is small for every procurement. Sources: [SBA record](https://search.certifications.sba.gov/profile/P9N9FFAUBLQ4/15SW3), [Marketplace description](https://www.fedramp.gov/marketplace/products/FR2604643715/), and [size-standard table](https://www.ecfr.gov/current/title-13/section-121.201).
+
+Files.com and Bland AI described themselves as small organizations during a [September 15, 2026 FedRAMP community session](https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s). These provider statements support low-confidence likely-small assessments, consistent with other self-description evidence; they do not establish receipts or affiliation compliance. Automatic captions were reviewed in context, and the source is commentary, not a government size determination. Their testimony occurred 19 and 21 days after their respective certifications and supports a separately labeled, tentative historical inference. Wisedocs has an exact legal-name SBA candidate reporting small and a matching entity name in its own service agreement; missing website/UEI corroboration and differing locations keep that identity match in the likely tier.
 
 For SEC screening, annual revenue periods must be nonoverlapping, end within the preceding five years, and have been filed before the assessment date. Their sum is divided by five even when some years are missing. A result above $47 million—the largest selected current cloud/software receipts threshold—supports **likely other-than-small** only. GAAP revenue differs from SBA receipts, historical standards vary, and affiliation exceptions may apply. Current parent mappings do not establish historical ownership; the mapping audit is retained. [SEC data documentation](https://www.sec.gov/search-filings/edgar-application-programming-interfaces).
 
@@ -60,7 +67,9 @@ Conflicting registration and financial evidence is unknown pending review. Known
 
 ## Historical size and certification dates
 
-Historical size is the default for annual and rolling-window comparisons. We never backdate today’s SBA size representation or today’s Marketplace flag. A dated SBA program interval spanning a certification date supports only likely-small because the procurement NAICS and intervening ownership remain uncertain. Dated company or reporting evidence is separately curated with an explicit applicable interval. Financial facts must have been available by the assessment date.
+Historical size is the default for annual and rolling-window comparisons. We never backdate today’s SBA size representation or today’s Marketplace flag. A dated SBA program interval spanning a certification date supports only a likely-small assessment because the procurement NAICS and intervening ownership remain uncertain. Dated company or reporting evidence is separately curated with an explicit applicable interval. Financial facts must have been available by the assessment date.
+
+The all-years comparison shows historical and current evidence side by side with the same population and denominator. The annual population selector distinguishes all ever-certified packages (including delisted history) from packages that are currently certified. All-years provider totals are deduplicated; summing annual provider rows can count one business more than once. With current evidence and the currently-certified population, all-years totals reconcile exactly with the current participation section.
 
 An alternative view uses **current size of historical cohorts**. It answers “How are the companies from that cohort classified today?” and must not be described as size at entry.
 
@@ -82,7 +91,7 @@ Pilot and non-pilot 20x are the source’s separate `20x Pilot` and `20x` labels
 
 Providers are distinct resolved legal/provider identities. Conservative alias and UEI matching merges duplicate identities; subsidiaries are not automatically collapsed into parent groups. Packages are distinct FedRAMP package IDs, not necessarily unique software products. A provider with several packages counts once within a provider group, but may appear in more than one pathway. Therefore pathway provider counts are not additive.
 
-Government-operated services are excluded from commercial participation rates and retained in the data. Unidentified packages remain in package denominators with unknown size, but cannot be counted as distinct providers. Original Marketplace small-business flags are published separately; they are not substituted for the evidence classification.
+Government-operated services are excluded from commercial participation rates and retained in the data. Unidentified packages remain in package denominators with unknown size, but cannot be counted as distinct providers. Original Marketplace small-business flags are published separately as source metadata, not reporting groups; they are not substituted for the evidence classification.
 
 ## Comparing the past two years
 

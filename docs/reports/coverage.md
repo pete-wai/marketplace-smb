@@ -10,17 +10,21 @@
     "total": 662,
     "counts": {
       "documented-small": 177,
-      "likely-small": 1,
+      "likely-small": 5,
       "documented-not-small": 0,
       "likely-not-small": 81,
-      "unknown": 403
+      "unknown": 399
     },
+    "smallGroup": 182,
+    "remainingGroup": 480,
+    "smallGroupPct": 27.492447129909365,
+    "remainingGroupPct": 72.50755287009063,
     "documentedSmall": 177,
-    "expandedSmall": 178,
+    "expandedSmall": 182,
     "documentedPct": 26.73716012084592,
-    "expandedPct": 26.888217522658607,
-    "unknownPct": 60.87613293051359,
-    "classified": 259,
+    "expandedPct": 27.492447129909365,
+    "unknownPct": 60.27190332326284,
+    "classified": 263,
     "unresolvedIdentityOfferings": 10
   },
   "historical": {
@@ -28,17 +32,21 @@
     "total": 471,
     "counts": {
       "documented-small": 0,
-      "likely-small": 14,
+      "likely-small": 16,
       "documented-not-small": 0,
       "likely-not-small": 62,
-      "unknown": 395
+      "unknown": 393
     },
+    "smallGroup": 16,
+    "remainingGroup": 455,
+    "smallGroupPct": 3.397027600849257,
+    "remainingGroupPct": 96.60297239915074,
     "documentedSmall": 0,
-    "expandedSmall": 14,
+    "expandedSmall": 16,
     "documentedPct": 0,
-    "expandedPct": 2.9723991507431,
-    "unknownPct": 83.86411889596603,
-    "classified": 76,
+    "expandedPct": 3.397027600849257,
+    "unknownPct": 83.43949044585987,
+    "classified": 78,
     "unresolvedIdentityOfferings": 42
   },
   "sbaAttempts": 707,
@@ -49,10 +57,10 @@
   "excludedOfferings": 7,
   "classificationCounts": {
     "documented-small": 186,
-    "likely-small": 2,
+    "likely-small": 6,
     "documented-not-small": 0,
     "likely-not-small": 82,
-    "unknown": 432
+    "unknown": 428
   }
 }
 

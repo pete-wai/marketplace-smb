@@ -162,25 +162,115 @@
       ]
     },
     "csp-a7c4c5ead54c": {
-      "classification": "unknown",
+      "classification": "likely-small",
       "confidence": "low",
-      "reason": "Files.com describes audited consolidated financial statements and explicitly does not publicly disclose headcount. The public page does not supply affiliate-adjusted receipts; no qualifying registry match was established. Size remains unknown.",
+      "reason": "Files.com described itself as a small organization with about 60–70 employees in the September 15, 2026 FedRAMP session. Counted as likely small on a low-confidence self-description basis, consistent with other provider claims. Headcount alone does not satisfy receipts-based cloud NAICS standards; revenues, investor control, and affiliate size remain unverified.",
       "evidence": [
         {
-          "kind": "Official company disclosure; insufficient size evidence",
-          "url": "https://www.files.com/compliance/overview-and-responsibilities/company-overview-and-business-information",
-          "observed": "2026-10-30"
+          "kind": "Provider testimony in FedRAMP community session (automatic transcript)",
+          "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+          "date": "2026-09-15",
+          "observed": "2026-10-30",
+          "authority": "video_commentary",
+          "summary": "Files.com described itself as a small organization with about 60–70 employees. This is provider testimony, not an SBA determination."
+        },
+        {
+          "kind": "Company ownership and acquisition context",
+          "url": "https://www.files.com/about",
+          "observed": "2026-10-30",
+          "summary": "Riverwood investment and acquired products are disclosed; control and affiliate receipts remain unverified."
         }
       ]
     },
     "csp-6a1ffd5d9580": {
-      "classification": "unknown",
-      "confidence": "low",
-      "reason": "Wisedocs describes Canadian startup origins and funding, but investment amounts are not revenue or SBA receipts. U.S. entity and affiliate-adjusted size cannot be inferred from a small team or funding round. No qualifying registry match was established.",
+      "classification": "likely-small",
+      "confidence": "medium",
+      "reason": "SBA search returns the exact distinctive legal name WISEDOCS USA INC. with active status and a small representation under primary NAICS 518210. Wisedocs’ own service agreement confirms this U.S. legal entity. Its public SBA profile has no website and a different business location, and the Marketplace provides no UEI; the identity match is probable rather than independently confirmed, so counted as likely small, not documented small. Affiliate-adjusted receipts remain unverified.",
       "evidence": [
         {
-          "kind": "Official company disclosure; insufficient size evidence",
-          "url": "https://www.wisedocs.ai/company/careers",
+          "kind": "Probable SBA legal-entity match",
+          "url": "https://search.certifications.sba.gov/profile/T6CBLTDV7ZY5/20V08",
+          "uei": "T6CBLTDV7ZY5",
+          "legalName": "WISEDOCS USA INC.",
+          "primaryNaics": "518210",
+          "smallNaics": [
+            "518210"
+          ],
+          "recordUpdated": "2026-06-04",
+          "observed": "2026-10-30"
+        },
+        {
+          "kind": "Provider service agreement identifies U.S. entity",
+          "url": "https://www.wisedocs.ai/policies",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-31d59d268939": {
+      "classification": "likely-small",
+      "confidence": "low",
+      "reason": "Bland AI described itself as a small organization with fewer than 100 employees in the September 15, 2026 FedRAMP session. Counted as likely small on a low-confidence self-description basis, consistent with other provider claims. Headcount alone does not satisfy receipts-based cloud NAICS standards; revenues, investor control, and affiliate size remain unverified.",
+      "evidence": [
+        {
+          "kind": "Provider testimony in FedRAMP community session (automatic transcript)",
+          "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+          "date": "2026-09-15",
+          "observed": "2026-10-30",
+          "authority": "video_commentary",
+          "summary": "Bland AI described itself as a small organization with fewer than 100 employees. This is provider testimony, not an SBA determination."
+        }
+      ]
+    },
+    "csp-73eae719baf0": {
+      "classification": "unknown",
+      "confidence": "low",
+      "reason": "Mycroft Technologies is an early-stage GRC provider, but funding and startup status do not establish receipts, U.S. business-concern eligibility, or affiliate-adjusted size. No unambiguous SBA representation or explicit applicable small-business claim was established. Do not confuse this entity with the unrelated Mycroft AI voice-assistant company.",
+      "evidence": [
+        {
+          "kind": "Provider product and entity context",
+          "url": "https://www.mycroft.io/frameworks/fedramp-20x",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-ce94b59d958e": {
+      "classification": "likely-small",
+      "confidence": "medium",
+      "reason": "The exact-UEI SBA record reports small under NAICS 519290 (Web Search Portals and All Other Information Services), whose standard is 1,000 employees, although it does not list primary NAICS 518210 as small. The Marketplace describes web search and a Search API, so 519290 is a plausible procurement context. Counted as likely small under this service-specific context, not universally small under every cloud NAICS. The contracting officer’s assigned NAICS and affiliate-adjusted employee average remain decisive.",
+      "evidence": [
+        {
+          "kind": "Exact-UEI SBA representation under service-specific NAICS",
+          "url": "https://search.certifications.sba.gov/profile/P9N9FFAUBLQ4/15SW3",
+          "uei": "P9N9FFAUBLQ4",
+          "legalName": "PERPLEXITY AI, INC",
+          "primaryNaics": "518210",
+          "applicableAlternativeNaics": "519290",
+          "smallNaics": [
+            "519290"
+          ],
+          "recordUpdated": "2026-09-04",
+          "observed": "2026-10-30"
+        },
+        {
+          "kind": "Official Marketplace service description includes web search",
+          "url": "https://www.fedramp.gov/marketplace/products/FR2604643715/",
+          "observed": "2026-10-30"
+        },
+        {
+          "kind": "SBA NAICS 519290 employee-based standard",
+          "url": "https://www.ecfr.gov/current/title-13/section-121.201",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-49f756463ad9": {
+      "classification": "unknown",
+      "confidence": "low",
+      "reason": "Harness reports a merger with Traceable and projected 2025 ARR above $250m. ARR projections and current scale are not completed-year receipts; no unambiguous small-business representation or sufficient affiliate-adjusted receipts history was established. Its size remains unknown rather than inferred solely from its funding or run rate.",
+      "evidence": [
+        {
+          "kind": "Official merger and projected ARR disclosure",
+          "url": "https://www.harness.io/blog/harness-traceable",
           "observed": "2026-10-30"
         }
       ]
@@ -217,6 +307,52 @@
             "kind": "Dated company small-business claim",
             "date": "2026-01-20",
             "url": "https://infusionpoints.com/News/infusionpoints-achieves-aws-premier-tier-services-partner-status-marking-major-milestone-our"
+          }
+        ]
+      }
+    },
+    {
+      "providerId": "csp-a7c4c5ead54c",
+      "start": "2026-08-27",
+      "end": "2026-08-27",
+      "assessment": {
+        "classification": "likely-small",
+        "confidence": "low",
+        "reason": "Provider testimony on September 15, 2026, 19 days after certification, describes the organization as small. This nearby dated self-description supports a tentative inference at certification; it is not an exact-date legal determination. Receipts and affiliations are unverified.",
+        "evidence": [
+          {
+            "kind": "Provider testimony in FedRAMP community session (automatic transcript)",
+            "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+            "date": "2026-09-15",
+            "observed": "2026-10-30",
+            "authority": "video_commentary",
+            "summary": "Files.com described itself as a small organization with about 60–70 employees. This is provider testimony, not an SBA determination."
+          },
+          {
+            "kind": "Company ownership and acquisition context",
+            "url": "https://www.files.com/about",
+            "observed": "2026-10-30",
+            "summary": "Riverwood investment and acquired products are disclosed; control and affiliate receipts remain unverified."
+          }
+        ]
+      }
+    },
+    {
+      "providerId": "csp-31d59d268939",
+      "start": "2026-08-25",
+      "end": "2026-08-25",
+      "assessment": {
+        "classification": "likely-small",
+        "confidence": "low",
+        "reason": "Provider testimony on September 15, 2026, 21 days after certification, describes the organization as small. This nearby dated self-description supports a tentative inference at certification; it is not an exact-date legal determination. Receipts and affiliations are unverified.",
+        "evidence": [
+          {
+            "kind": "Provider testimony in FedRAMP community session (automatic transcript)",
+            "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+            "date": "2026-09-15",
+            "observed": "2026-10-30",
+            "authority": "video_commentary",
+            "summary": "Bland AI described itself as a small organization with fewer than 100 employees. This is provider testimony, not an SBA determination."
           }
         ]
       }

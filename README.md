@@ -2,12 +2,13 @@
 
 An independent, reproducible study of provider participation in Rev5, 20x Pilot, and non-pilot 20x. Public website: **https://pete-wai.github.io/marketplace-smb/**.
 
-The analysis distinguishes **documented representations**, **likely classifications**, and **unknowns**. It does not issue legal size determinations. Historical size at certification is the default for cohort analysis; current size is an explicitly separate alternative. Unknowns remain in denominators. Missing registrations never imply a large business.
+The analysis consistently uses two groups: **Documented or likely small**, and **Documented not small, likely not small, or unknown**. Individual evidence tiers remain in the audit data. It does not issue legal size determinations. Historical size at certification remains the default for cohort analysis; a side-by-side all-years comparison exposes the difference from current size. Annual filters distinguish all-ever-certified and currently-certified populations. Unknowns remain in denominators and belong to the second reporting group. Missing registrations never imply a large business.
 
 ## Read the results
 
 - [Interpretation and main findings](docs/reports/interpretation.md)
 - [Current participation](docs/reports/participation.md)
+- [Review of annual counts and non-pilot 20x](docs/reports/review-corrections.md)
 - [Annual first-certification cohorts](docs/reports/annual-cohorts.md)
 - [Latest versus preceding 24 months](docs/reports/recent-access.md)
 - [Coverage](docs/reports/coverage.md)
@@ -70,7 +71,7 @@ Edit **`research/review.json`** to add evidence or factors:
 - `companyClaims`: explicit small-business self-descriptions (not statements about customers).
 - `excludedProviders`: government operators and exclusion reasons.
 
-Add a new grouping in `scripts/analyze.mjs` for additional analyses. Keep definitions explicit, maintain provider/package denominators, and add a meaningful regression test for changes to calculations. Every non-unknown classification must retain a traceable source and reason. The website consumes a compact generated extract; full detail remains in `data/analysis.json` and CSV exports.
+Add a new grouping in `scripts/analyze.mjs` for additional analyses. Keep definitions explicit, maintain provider/package denominators, and add a meaningful regression test for changes to calculations. Every non-unknown classification must retain a traceable source and reason. Reports use smallGroup/remainingGroup and their full-denominator percentages. The underlying five evidence tiers are audit metadata, not separate chart groups. Annual provider rows can repeat companies across years; cohortTotals.csv provides deduplicated all-years totals. The website consumes a compact generated extract; full detail remains in `data/analysis.json` and CSV exports.
 
 ## Data organization
 

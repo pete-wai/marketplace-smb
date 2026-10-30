@@ -36,3 +36,11 @@ Deployment outcome and final verification are appended after GitHub Actions and 
 - Live HTTP verification: both HTML pages, JSON schema, complete JSON data, and all eight CSV download endpoints return 200 (12 checked URLs total). Published coverage and every report table exactly match the local canonical results. Evidence: `output/live-verification.json`.
 - Main evidence chunk is approximately 1.12 MB minified / 77.7 kB gzip, plus framework and fonts. No browser performance measurement is claimed.
 - Separate final self-review completed. No subagents used. Browser visual/interaction QA remains the limitation noted above.
+
+## Annual chart and non-pilot review — October 30, 2026
+
+Supersedes the initial five-tier chart display and all-unknown non-pilot result. Two exhaustive reporting groups now match the user's requested definitions. A shared chart component uses the same numerator, full denominator, colors, and columns in both sections. Annual reporting exposes current versus historical evidence and all-ever versus currently-certified populations, with deduplicated totals. Source snapshot unchanged.
+
+Re-reviewed Files.com, Bland AI, Wisedocs, Perplexity, and the other four current non-pilot providers. Four likely-small assessments now have explicit qualifications; four remain unknown within the second group. Dated testimony supports only tentative historical assessments, and current registrations are not backdated. Details and sources: [review corrections](reports/review-corrections.md).
+
+15 tests pass, including independent raw-record recounts and cross-report reconciliation. Svelte check: zero errors/warnings. Svelte MCP autofixer: no issues in changed components. Static build and local links/downloads pass. Browser control was attempted again and remains disabled. The mechanical design detector is recorded under `output/review-design-check.json`; no visual/interactive browser QA is claimed. Build retains the previously documented dataset chunk-size warning.
