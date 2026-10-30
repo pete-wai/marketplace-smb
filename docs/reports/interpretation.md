@@ -6,7 +6,7 @@ All reporting uses two groups: **Documented or likely small**, and **Documented 
 
 The 20x pilot certified population has a larger observed small-group share than the traditional certified population. Targeted re-review also identifies four of eight currently certified non-pilot providers as likely small, with explicit evidence qualifications. Many non-pilot initial-implementation providers have documented representations. These observations establish participation, not a causal effect of reforms.
 
-The annual chart retains historical size evidence as its default. The all-years comparison now shows how that sparse evidence differs from current size applied to the same certification population. Current classifications must not be reported as size at entry. All-years provider totals are deduplicated; annual provider rows can overlap.
+The annual chart and rolling windows use the most recent size assessment in the snapshot, flagged explicitly. Historical evidence is retained in the downloads for audit. Current classifications must not be reported as size at entry. All-years provider totals are deduplicated; annual provider rows can overlap.
 
 For equal rolling windows, increased certification volume alone does not establish broader small-business access. Historical size coverage, changes in listing coverage, pilot selection, class mix, ownership, and unobserved prior certification all limit interpretation. The generated [rolling-window report](recent-access.md) and CSV expose these denominators.
 

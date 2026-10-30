@@ -2,7 +2,7 @@
 
 An independent, reproducible study of provider participation in Rev5, 20x Pilot, and non-pilot 20x. Public website: **https://pete-wai.github.io/marketplace-smb/**.
 
-The analysis consistently uses two groups: **Documented or likely small**, and **Documented not small, likely not small, or unknown**. Individual evidence tiers remain in the audit data. It does not issue legal size determinations. Historical size at certification remains the default for cohort analysis; a side-by-side all-years comparison exposes the difference from current size. Annual filters distinguish all-ever-certified and currently-certified populations. Unknowns remain in denominators and belong to the second reporting group. Missing registrations never imply a large business.
+The analysis consistently uses two groups: **Documented or likely small**, and **Documented not small, likely not small, or unknown**. Individual evidence tiers remain in the audit data. It does not issue legal size determinations. Certification cohorts and rolling windows use the most recent size assessment available in the snapshot, clearly labeled as current rather than size at certification. Historical evidence remains in downloads for audit. Annual filters distinguish all-ever-certified and currently-certified populations. Unknowns remain in denominators and belong to the second reporting group. Missing registrations never imply a large business.
 
 ## Read the results
 

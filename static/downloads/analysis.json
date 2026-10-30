@@ -209505,6 +209505,8 @@
     ]
   },
   "methodology": {
+    "cohortDisplayBasis": "current",
+    "cohortDisplayNote": "Certification year is first observed certification; size is the most recent assessment available in the snapshot, not historical size at certification.",
     "displayGroups": [
       "Documented or likely small",
       "Documented not small, likely not small, or unknown"
