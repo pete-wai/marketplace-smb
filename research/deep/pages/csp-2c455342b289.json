@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-2c455342b289",
+  "retrievedAt": "2026-10-30T11:01:51.234Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.paramify.com/",
+      "finalUrl": "https://www.paramify.com/",
+      "status": "success",
+      "sha256": "242920825aa3bee84b62bdaaf1415588593b0c01fc5fdc1f459f3bfbbcef9b96",
+      "title": "Paramify | FedRAMP, CMMC, FISMA Compliance Automation Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.paramify.com/products/ssp",
+        "https://www.paramify.com/blog/the-benefits-and-shortcomings-of-oscal"
+      ]
+    },
+    {
+      "url": "https://www.paramify.com/products/ssp",
+      "finalUrl": "https://www.paramify.com/products/ssp",
+      "status": "success",
+      "sha256": "fd8f3510117cad0a442b2e7f24fad9da8a4f03f1617c6dea82ae07777b6fcc56",
+      "title": "Automated SSP Compliance Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.paramify.com/blog/the-benefits-and-shortcomings-of-oscal",
+        "https://www.paramify.com/blog/risk-solutions-explained",
+        "https://www.paramify.com/blog/accurate-fedramp-high-ssp-in-less-than-4-hours"
+      ]
+    },
+    {
+      "url": "https://www.paramify.com/blog/the-benefits-and-shortcomings-of-oscal",
+      "finalUrl": "https://www.paramify.com/blog/the-benefits-and-shortcomings-of-oscal",
+      "status": "success",
+      "sha256": "c582f6d8f761ff6e932397ca8285140bb12fb798fe20058881025534de69e4cf",
+      "title": "The Benefits and Shortcomings of OSCAL",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.paramify.com/blog/risk-solutions-explained",
+      "finalUrl": "https://www.paramify.com/blog/risk-solutions-explained",
+      "status": "success",
+      "sha256": "1fc69da6a08246f71b16511d3317f07c11ec6e9c72f5181132972e7b532bcd70",
+      "title": "Risk Solutions Explained",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

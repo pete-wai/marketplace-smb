@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-d1cc3a837247",
+  "retrievedAt": "2026-10-30T11:00:39.028Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://pmp.heart.org/",
+      "finalUrl": "https://pmp.heart.org/",
+      "status": "success",
+      "sha256": "4ac528a7bb99561f21bd7615e102d52a50a61f7066d02081a3526679a9a095e8",
+      "title": "AHA - Precision Medicine Platform",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "providerId": "csp-d48e1093a46f",
+  "retrievedAt": "2026-10-30T11:01:58.319Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.proofpoint.com/",
+      "finalUrl": "https://www.proofpoint.com/us",
+      "status": "success",
+      "sha256": "d5149648b530b8cf425741235bad3d48fbeefb5a88915858fa3cec0d9b5f9f55",
+      "title": "Enterprise Cybersecurity Solutions, Services & Training | Proofpoint US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.proofpoint.com/us/solutions/federal",
+        "https://www.proofpoint.com/us/solutions/state-and-local-government",
+        "https://www.proofpoint.com/us/threat-reference",
+        "https://www.proofpoint.com/us",
+        "https://www.proofpoint.com/us/our-leadership-team",
+        "https://www.proofpoint.com/us/legal/esg",
+        "https://www.proofpoint.com/us/newsroom",
+        "https://www.proofpoint.com/us/company/careers",
+        "https://www.proofpoint.com/us/company/about",
+        "https://www.proofpoint.com/us/legal/trust",
+        "https://www.proofpoint.com/us/company/leadership"
+      ]
+    },
+    {
+      "url": "https://www.proofpoint.com/",
+      "finalUrl": "https://www.proofpoint.com/us",
+      "status": "success",
+      "sha256": "d5149648b530b8cf425741235bad3d48fbeefb5a88915858fa3cec0d9b5f9f55",
+      "title": "Enterprise Cybersecurity Solutions, Services & Training | Proofpoint US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.proofpoint.com/us/solutions/federal",
+        "https://www.proofpoint.com/us/solutions/state-and-local-government",
+        "https://www.proofpoint.com/us/threat-reference",
+        "https://www.proofpoint.com/us",
+        "https://www.proofpoint.com/us/our-leadership-team",
+        "https://www.proofpoint.com/us/legal/esg",
+        "https://www.proofpoint.com/us/newsroom",
+        "https://www.proofpoint.com/us/company/careers",
+        "https://www.proofpoint.com/us/company/about",
+        "https://www.proofpoint.com/us/legal/trust",
+        "https://www.proofpoint.com/us/company/leadership"
+      ]
+    },
+    {
+      "url": "https://www.proofpoint.com/us/solutions/federal",
+      "finalUrl": "https://www.proofpoint.com/us/solutions/federal",
+      "status": "success",
+      "sha256": "850ea898ab19bb94dfcde6c20d2dd498b522cc870f8db9e1e0a054544116aa12",
+      "title": "Federal Government Cybersecurity Solutions | Protect Agencies and Data | Proofpoint US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.proofpoint.com/us/solutions/state-and-local-government",
+        "https://www.proofpoint.com/us/threat-reference",
+        "https://www.proofpoint.com/us/our-leadership-team",
+        "https://www.proofpoint.com/us/legal/esg",
+        "https://www.proofpoint.com/us/newsroom",
+        "https://www.proofpoint.com/us/company/careers",
+        "https://www.proofpoint.com/us/company/about",
+        "https://www.proofpoint.com/us/legal/trust",
+        "https://www.proofpoint.com/uk/solutions/federal",
+        "https://www.proofpoint.com/au/solutions/federal",
+        "https://www.proofpoint.com/es/solutions/federal",
+        "https://www.proofpoint.com/de/solutions/federal"
+      ]
+    },
+    {
+      "url": "https://www.proofpoint.com/us/solutions/state-and-local-government",
+      "finalUrl": "https://www.proofpoint.com/us/solutions/state-and-local-government",
+      "status": "success",
+      "sha256": "43bc2f0fab74192258da2260b625f3cb0926dc9f6feeea8cede7cadb0c3a308e",
+      "title": "Cybersecurity Solutions for State and Local Government | Proofpoint US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.proofpoint.com/us/threat-reference",
+        "https://www.proofpoint.com/us/our-leadership-team",
+        "https://www.proofpoint.com/us/legal/esg",
+        "https://www.proofpoint.com/us/newsroom",
+        "https://www.proofpoint.com/us/company/careers",
+        "https://www.proofpoint.com/us/company/about",
+        "https://www.proofpoint.com/us/legal/trust",
+        "https://www.proofpoint.com/uk/solutions/state-and-local-government",
+        "https://www.proofpoint.com/au/solutions/state-and-local-government",
+        "https://www.proofpoint.com/es/solutions/state-and-local-government",
+        "https://www.proofpoint.com/de/solutions/state-and-local-government",
+        "https://www.proofpoint.com/fr/solutions/state-and-local-government"
+      ]
+    }
+  ]
+}

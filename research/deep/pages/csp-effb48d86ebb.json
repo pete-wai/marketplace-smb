@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-effb48d86ebb",
+  "retrievedAt": "2026-10-30T11:02:16.088Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://sustainment.com/",
+      "finalUrl": "https://www.sustainment.com/",
+      "status": "success",
+      "sha256": "989f2802e2e9a7d1c5d6d10083cb45510aa41af2150ccabea25431a0cd3ebef2",
+      "title": "Sustainment | The System of Action for Modern Supply Chains",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sustainment.com/solutions/government",
+        "https://www.sustainment.com/company",
+        "https://www.sustainment.com/company/statement-of-purpose",
+        "https://www.sustainment.com/company/careers",
+        "https://www.sustainment.com/platform"
+      ]
+    },
+    {
+      "url": "https://www.sustainment.com/solutions/government",
+      "finalUrl": "https://www.sustainment.com/solutions/government",
+      "status": "success",
+      "sha256": "ff81f26572080da5fb88b086c7dfee9086e1d87ab2d17099631ce338bdbe06aa",
+      "title": "Sustainment | Supply Chain Readiness Is Mission Readiness",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sustainment.com/company",
+        "https://www.sustainment.com/company/statement-of-purpose",
+        "https://www.sustainment.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.sustainment.com/company",
+      "finalUrl": "https://www.sustainment.com/company",
+      "status": "success",
+      "sha256": "7f206a54038aa85391c660f23b1b8b93c68eaa34fcb8b0c38273490148bc203f",
+      "title": "Sustainment | Mobilizing American Manufacturing",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sustainment.com/company/statement-of-purpose",
+        "https://www.sustainment.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.sustainment.com/company/statement-of-purpose",
+      "finalUrl": "https://www.sustainment.com/company/statement-of-purpose",
+      "status": "success",
+      "sha256": "cccd6841d4745f440514c64c9e96ad3351d03dedab706b5b7ab377db67b23440",
+      "title": "Sustainment | Our Statement of Purpose",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sustainment.com/company/careers"
+      ]
+    }
+  ]
+}

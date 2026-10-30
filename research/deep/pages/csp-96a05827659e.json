@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-96a05827659e",
+  "retrievedAt": "2026-10-30T11:00:58.457Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.coretsu.us/",
+      "finalUrl": "https://www.coretsu.us/",
+      "status": "success",
+      "sha256": "6c686d74c6b029d4ed4db08d1dbf8788ca6ebf15cf315e1e78c66a6ba3f1f992",
+      "title": "Sherpa",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

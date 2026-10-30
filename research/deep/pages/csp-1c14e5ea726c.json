@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1c14e5ea726c",
+  "retrievedAt": "2026-10-30T11:00:38.816Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.alation.com/",
+      "finalUrl": "https://www.alation.com/",
+      "status": "success",
+      "sha256": "25821692982b45929a83ca50bbf4ba895b1f181a2dab6bcb880aae6eda67ac74",
+      "title": "Alation Intelligence Operating System",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

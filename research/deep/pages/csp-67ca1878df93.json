@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-67ca1878df93",
+  "retrievedAt": "2026-10-30T11:01:30.676Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.knowbe4.com/federal",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

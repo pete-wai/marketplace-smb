@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-79f0e91bc044",
+  "retrievedAt": "2026-10-30T11:01:05.169Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.docebo.com/",
+      "finalUrl": "https://www.docebo.com/",
+      "status": "success",
+      "sha256": "b3f44ad6296e59118c7324acc5960bce9454924b13d3f1c5dc2eed264ed8f757",
+      "title": "Workforce Readiness Platform and Skills Intelligence LMS | Docebo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.docebo.com/solutions/government/",
+        "https://www.docebo.com/federal/",
+        "https://www.docebo.com/company/privacy-policy/",
+        "https://www.docebo.com/company/cookie-policy/",
+        "https://www.docebo.com/company/compliance-security/",
+        "https://www.docebo.com/company/legal/",
+        "https://www.docebo.com/company/imprint/",
+        "https://www.docebo.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.docebo.com/solutions/government/",
+      "finalUrl": "https://www.docebo.com/solutions/government/",
+      "status": "success",
+      "sha256": "54965d8a6641ad24a371a5e3be458d8780353fdac3d4375f4b6d9fbdf94bb641",
+      "title": "LMS for Government & Public Sector | Docebo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.docebo.com/federal/",
+        "https://www.docebo.com/company/privacy-policy/",
+        "https://www.docebo.com/company/cookie-policy/",
+        "https://www.docebo.com/company/compliance-security/",
+        "https://www.docebo.com/company/legal/",
+        "https://www.docebo.com/company/imprint/",
+        "https://www.docebo.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.docebo.com/federal/",
+      "finalUrl": "https://www.docebo.com/federal/",
+      "status": "success",
+      "sha256": "a4576eef71c597433c0246c3cc1e94864f4c3eb8ecb22b296da8a78d04e4bf5e",
+      "title": "FedRamp Authorized LMS for government agencies | Docebo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.docebo.com/take-a-tour/federal/",
+        "https://www.docebo.com/company/privacy-policy/",
+        "https://www.docebo.com/company/cookie-policy/",
+        "https://www.docebo.com/company/compliance-security/",
+        "https://www.docebo.com/company/legal/",
+        "https://www.docebo.com/company/imprint/",
+        "https://www.docebo.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.docebo.com/company/privacy-policy/",
+      "finalUrl": "https://www.docebo.com/company/privacy-policy/",
+      "status": "success",
+      "sha256": "3c0f69abb2dbbd878b72fecebdcaca622c235ce9f7101d6c89bf36f05d192f0b",
+      "title": "Docebo – Privacy Policy",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.docebo.com/fr/company/politique-confidentialite-docebo/",
+        "https://www.docebo.com/it/company/docebo-informativa-sulla-privacy/",
+        "https://www.docebo.com/company/cookie-policy/",
+        "https://www.docebo.com/company/compliance-security/",
+        "https://www.docebo.com/company/accessibility/",
+        "https://www.docebo.com/company/data-processing-addendum/",
+        "https://www.docebo.com/company/service-level-agreement/",
+        "https://www.docebo.com/company/docebo-software-service-addendums/",
+        "https://www.docebo.com/company/docebo-service-descriptions/",
+        "https://www.docebo.com/company/docebo-service-descriptions-ee/",
+        "https://www.docebo.com/company/software-addendums-packs/",
+        "https://www.docebo.com/company/onboarding/"
+      ]
+    }
+  ]
+}

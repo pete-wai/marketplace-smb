@@ -1,0 +1,7 @@
+{
+  "query": "Action Verb",
+  "retrievedAt": "2026-10-30",
+  "status": "unavailable",
+  "reason": "Public SBA search request exceeded its 30-second timeout. No negative size inference is drawn.",
+  "providerId": "csp-a7c4c5ead54c"
+}

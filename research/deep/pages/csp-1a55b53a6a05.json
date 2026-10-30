@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-1a55b53a6a05",
+  "retrievedAt": "2026-10-30T11:02:33.372Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.zimperium.com/",
+      "finalUrl": "https://zimperium.com/",
+      "status": "success",
+      "sha256": "c9c07c561b107a5ffdfbe578103787a57e0e2c9d047c3d894fa68b879f1c2628",
+      "title": "Zimperium Mobile Security Solutions | Mobile Security for Apps & Devices",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zimperium.com/industry/government/chromebooks",
+        "https://zimperium.com/industry/government/zsecure",
+        "https://zimperium.com/industry/federal-government",
+        "https://zimperium.com/industry/government/state-local",
+        "https://zimperium.com/company",
+        "https://zimperium.com/company/careers",
+        "https://zimperium.com/company/events",
+        "https://zimperium.com/",
+        "https://zimperium.com/company/modern-slavery-act-statement/"
+      ]
+    },
+    {
+      "url": "https://zimperium.com/industry/government/chromebooks",
+      "finalUrl": "https://zimperium.com/industry/government/chromebooks",
+      "status": "success",
+      "sha256": "08c8aa7b91df0aaf651e5c4ef426e079e2f97859d19f6efb308743257f3186d9",
+      "title": "Advanced Security for Chromebooks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zimperium.com/industry/government/zsecure",
+        "https://zimperium.com/industry/federal-government",
+        "https://zimperium.com/industry/government/state-local",
+        "https://zimperium.com/company",
+        "https://zimperium.com/company/careers",
+        "https://zimperium.com/company/events",
+        "https://zimperium.com/company/modern-slavery-act-statement/"
+      ]
+    },
+    {
+      "url": "https://zimperium.com/industry/government/zsecure",
+      "finalUrl": "https://zimperium.com/industry/government/zsecure",
+      "status": "success",
+      "sha256": "0febc701933aed992a7f44602f2774a099c19212bfac33f2d8763d53ae3f4129",
+      "title": "Mobile Security for State and Local Entities | zSecure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zimperium.com/industry/federal-government",
+        "https://zimperium.com/industry/government/state-local",
+        "https://zimperium.com/company",
+        "https://zimperium.com/company/careers",
+        "https://zimperium.com/company/events",
+        "https://zimperium.com/company/modern-slavery-act-statement/"
+      ]
+    },
+    {
+      "url": "https://zimperium.com/industry/federal-government",
+      "finalUrl": "https://zimperium.com/industry/federal-government",
+      "status": "success",
+      "sha256": "111121581f64328035f009e8ddfef44575ed785bbe9e96da6c32eb922ecc44b2",
+      "title": "Federal Government Mobile Security Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zimperium.com/industry/government/state-local",
+        "https://zimperium.com/company",
+        "https://zimperium.com/company/careers",
+        "https://zimperium.com/company/events",
+        "https://zimperium.com/company/modern-slavery-act-statement/"
+      ]
+    }
+  ]
+}

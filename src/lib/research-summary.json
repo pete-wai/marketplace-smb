@@ -1,0 +1,52 @@
+{
+  "providers": 707,
+  "individuallyReviewed": 131,
+  "boundedSiteScreens": 620,
+  "existingFinancialScreens": 76,
+  "changed": 68,
+  "unknown": 378,
+  "currentBefore": {
+    "unit": "providers",
+    "total": 662,
+    "counts": {
+      "documented-small": 177,
+      "likely-small": 5,
+      "documented-not-small": 0,
+      "likely-not-small": 81,
+      "unknown": 399
+    },
+    "smallGroup": 182,
+    "remainingGroup": 480,
+    "smallGroupPct": 27.492447129909365,
+    "remainingGroupPct": 72.50755287009063,
+    "documentedSmall": 177,
+    "expandedSmall": 182,
+    "documentedPct": 26.73716012084592,
+    "expandedPct": 27.492447129909365,
+    "unknownPct": 60.27190332326284,
+    "classified": 263,
+    "unresolvedIdentityOfferings": 10
+  },
+  "currentAfter": {
+    "unit": "providers",
+    "total": 662,
+    "counts": {
+      "documented-small": 174,
+      "likely-small": 5,
+      "documented-not-small": 9,
+      "likely-not-small": 122,
+      "unknown": 352
+    },
+    "smallGroup": 179,
+    "remainingGroup": 483,
+    "smallGroupPct": 27.0392749244713,
+    "remainingGroupPct": 72.9607250755287,
+    "documentedSmall": 174,
+    "expandedSmall": 179,
+    "documentedPct": 26.283987915407852,
+    "expandedPct": 27.0392749244713,
+    "unknownPct": 53.17220543806647,
+    "classified": 310,
+    "unresolvedIdentityOfferings": 10
+  }
+}

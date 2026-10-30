@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-479bef5731be",
+  "retrievedAt": "2026-10-30T11:00:56.161Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.concoursetech.com/",
+      "finalUrl": "https://www.concoursetech.com/",
+      "status": "success",
+      "sha256": "dc24ff3dcc43a516b07242811447cd604aa7ef692ae82f393c7f6779ca761555",
+      "title": "Concourse | Purpose-Built Public Sector Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.concoursetech.com/about"
+      ]
+    },
+    {
+      "url": "https://www.concoursetech.com/about",
+      "finalUrl": "https://www.concoursetech.com/about",
+      "status": "success",
+      "sha256": "4acf019b303a592ec682900eeaf6d15c45e14614f16df618b6f09025c4869f1e",
+      "title": "About Concourse — Government Software Built by People Who Served",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

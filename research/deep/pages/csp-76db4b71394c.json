@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-76db4b71394c",
+  "retrievedAt": "2026-10-30T11:01:08.237Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.econsys.com/fedhr-navigator/",
+      "finalUrl": "https://www.econsys.com/fedhr-navigator/",
+      "status": "success",
+      "sha256": "7a77982b587cd01e52784043428e469523359d2725e51241685201b1ba04a6ae",
+      "title": "FedHR Navigator &#8211; EconSys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.econsys.com/solutions-2/",
+        "https://www.econsys.com/about-econsys/",
+        "https://www.econsys.com/about-econsys/careers/",
+        "https://www.econsys.com/?page_id=2291"
+      ]
+    },
+    {
+      "url": "https://www.econsys.com/solutions-2/",
+      "finalUrl": "https://www.econsys.com/solutions-2/",
+      "status": "success",
+      "sha256": "a7d5822aa90bb2c7d73e95d3c1d68bba283064718048f4a51ff122dfda68a4f7",
+      "title": "Solutions &#8211; EconSys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.econsys.com/about-econsys/",
+        "https://www.econsys.com/about-econsys/careers/",
+        "https://www.econsys.com/?page_id=2291"
+      ]
+    },
+    {
+      "url": "https://www.econsys.com/about-econsys/",
+      "finalUrl": "https://www.econsys.com/about-econsys/",
+      "status": "success",
+      "sha256": "e1a867b876b13aa9ddc058f21d4db54440b14096159acd697d5aa4c616d00083",
+      "title": "About Us &#8211; EconSys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.econsys.com/about-econsys/careers/",
+        "https://www.econsys.com/?page_id=2291"
+      ]
+    },
+    {
+      "url": "https://www.econsys.com/about-econsys/careers/",
+      "finalUrl": "https://www.econsys.com/about-econsys/careers/",
+      "status": "success",
+      "sha256": "3f5ab272c6245750a493f48c434580111c16f73ca863e5d71e85fcf05f0c10a0",
+      "title": "Careers &#8211; EconSys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.econsys.com/?page_id=2291"
+      ]
+    }
+  ]
+}

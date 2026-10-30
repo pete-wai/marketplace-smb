@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-81f78c642441",
+  "retrievedAt": "2026-10-30T11:00:42.169Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.asato.ai/",
+      "finalUrl": "https://www.asato.ai/",
+      "status": "success",
+      "sha256": "f20047237008f3ae6d8a467804a5da68669a06a8aadf7a1fdf76213a7e898385",
+      "title": "AI-Native IT Asset Optimization Platform | Asato",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.asato.ai/public-sector",
+        "https://www.asato.ai/about",
+        "https://www.asato.ai/newsroom"
+      ]
+    },
+    {
+      "url": "https://www.asato.ai/public-sector",
+      "finalUrl": "https://www.asato.ai/public-sector",
+      "status": "success",
+      "sha256": "b3dd6c08263ee9a1d42d2a5963740b83a5cb695dee3fdc843d87cea4423feb43",
+      "title": "IT Asset Optimization for Government Agencies | Asato",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "orth what it costs to run. OMB memorandum M-25-22, \"Driving Efficient Acquisition of Artificial Intelligence in Government\", April 2025. Source: https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf Goes deeper: Right-size soft"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.asato.ai/about",
+        "https://www.asato.ai/newsroom"
+      ]
+    },
+    {
+      "url": "https://www.asato.ai/about",
+      "finalUrl": "https://www.asato.ai/about",
+      "status": "success",
+      "sha256": "4f6adffe7b8ea3a3d734183cdfb5098e2ccdf1af99a1e23d6a8609949aa691cf",
+      "title": "About Asato: The #1 Agentic AI IT Asset Optimization Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.asato.ai/newsroom"
+      ]
+    },
+    {
+      "url": "https://www.asato.ai/newsroom",
+      "finalUrl": "https://www.asato.ai/newsroom",
+      "status": "success",
+      "sha256": "189491d875d21d6e9039ab8e4390ce9b64338c8ae6371cf6a1b4b09f40161060",
+      "title": "Asato Newsroom: Press Releases and Media Coverage",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

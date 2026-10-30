@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-af58337f50b5",
+  "retrievedAt": "2026-10-30T11:00:51.893Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.citrix.com/",
+      "finalUrl": "https://www.citrix.com/",
+      "status": "success",
+      "sha256": "2cf001cd13e45dcfbdfaafa62257db5b5fd611d6e769493dda56c355749f8c2a",
+      "title": "Explore the Enhanced Citrix Platform: Secure, Scalable, and High-Performing IT Solutions - Citrix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.citrix.com/solutions/public-sector/",
+        "https://www.citrix.com/platform/public-sector.html",
+        "https://www.citrix.com/lp/gartner-critical-capabilities-for-desktop-as-a-service-report-2025.html",
+        "https://www.citrix.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.citrix.com/solutions/public-sector/",
+      "finalUrl": "https://www.citrix.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "b61b8efe220daa9aa4f689716fd7e2e9793379855de15721e4bef0d5b4f8a7c6",
+      "title": "Public Sector - Citrix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.citrix.com/platform/public-sector.html",
+        "https://www.citrix.com/solutions/public-sector/civil-government.html",
+        "https://www.citrix.com/solutions/public-sector/defense.html",
+        "https://www.citrix.com/solutions/public-sector/intelligence.html",
+        "https://www.citrix.com/blogs/2026-03/when-modernization-meets-cloud-sovereignty-introducing-citrix-platform-for-public-sector",
+        "https://www.citrix.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.citrix.com/platform/public-sector.html",
+      "finalUrl": "https://www.citrix.com/platform/public-sector.html",
+      "status": "success",
+      "sha256": "8964c63c6b9fa300a7b730a63215f99df45c81b218b448ad9836f3d63a48a734",
+      "title": "Citrix Platform for Public Sector | Secure Access Without Losing Control - Citrix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.citrix.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.citrix.com/lp/gartner-critical-capabilities-for-desktop-as-a-service-report-2025.html",
+      "finalUrl": "https://www.citrix.com/lp/gartner-critical-capabilities-for-desktop-as-a-service-report-2025.html",
+      "status": "success",
+      "sha256": "796f7e7c3c4b048289de11b9b16a35a9143fb2fb2a19c7c80ae3779a711e9d49",
+      "title": "2025 Gartner® Critical Capabilities for Desktop as a Service Report - Citrix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.citrix.com/about/"
+      ]
+    }
+  ]
+}

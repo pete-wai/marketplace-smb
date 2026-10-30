@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-acc56d5bdbb3",
+  "retrievedAt": "2026-10-30T11:02:19.376Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.terida.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

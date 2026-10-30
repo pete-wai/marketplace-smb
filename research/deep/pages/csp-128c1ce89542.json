@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-128c1ce89542",
+  "retrievedAt": "2026-10-30T11:01:58.983Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.train.org/main/welcome",
+      "finalUrl": "https://www.train.org/main/welcome",
+      "status": "success",
+      "sha256": "9cff6882296e72db5c48ca114af3c94c98e4b84d8da525a9f0798213b8ee7c54",
+      "title": "",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

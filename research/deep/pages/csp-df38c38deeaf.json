@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-df38c38deeaf",
+  "retrievedAt": "2026-10-30T11:02:02.358Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://getekko.io/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

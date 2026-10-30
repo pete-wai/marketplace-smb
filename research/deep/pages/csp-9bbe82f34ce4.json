@@ -1,0 +1,82 @@
+{
+  "providerId": "csp-9bbe82f34ce4",
+  "retrievedAt": "2026-10-30T11:01:10.630Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.emburse.com/",
+      "finalUrl": "https://www.emburse.com/",
+      "status": "success",
+      "sha256": "f4261e618abd9a52c86a924489300b91cba9d4acd90a76303d31c950d736a3cb",
+      "title": "Travel and expense management software solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.emburse.com/company/news/emburse-recognized-among-cnbc-s-world-s-top-fintech-companies-of-2026",
+        "https://www.emburse.com/company/emburse-champion-awards-2025",
+        "https://www.emburse.com/company/about-emburse",
+        "https://www.emburse.com/company/mission",
+        "https://www.emburse.com/company/leadership",
+        "https://www.emburse.com/company/careers",
+        "https://www.emburse.com/company/awards",
+        "https://www.emburse.com/company/news",
+        "https://www.emburse.com/company/press",
+        "https://www.emburse.com/platform/emburse-ai",
+        "https://www.emburse.com/company/news/emburse-launches-emburse-assurance-to-stop-incorrect-or-incomplete-expense-claims-before-they-are-submitted",
+        "https://www.emburse.com/company/news/emburse-honoured-as-gold-stevie-award-winner-in-2026-american-business-award"
+      ]
+    },
+    {
+      "url": "https://www.emburse.com/company/news/emburse-recognized-among-cnbc-s-world-s-top-fintech-companies-of-2026",
+      "finalUrl": "https://www.emburse.com/company/news/emburse-recognized-among-cnbc-s-world-s-top-fintech-companies-of-2026",
+      "status": "success",
+      "sha256": "18d3968fa1ea7a78d8f662a60d4b2d342726dbd6873b62217d8dd7b74730405a",
+      "title": "Emburse Recognized Among CNBC’s World’s Top FinTech Companies of 2026 - Emburse",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.emburse.com/company/emburse-champion-awards-2025",
+        "https://www.emburse.com/company/about-emburse",
+        "https://www.emburse.com/company/mission",
+        "https://www.emburse.com/company/leadership",
+        "https://www.emburse.com/company/careers",
+        "https://www.emburse.com/company/awards",
+        "https://www.emburse.com/company/news",
+        "https://www.emburse.com/company/press",
+        "https://www.emburse.com/company"
+      ]
+    },
+    {
+      "url": "https://www.emburse.com/company/emburse-champion-awards-2025",
+      "finalUrl": "https://www.emburse.com/company/emburse-champion-awards-2025",
+      "status": "success",
+      "sha256": "57eb471e15d095514130b18b9f5cd72d29b4b101a6d8b891d4ab9c6590d86e92",
+      "title": "Emburse Champion Awards 2025 - Emburse",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.emburse.com/company/about-emburse",
+        "https://www.emburse.com/company/mission",
+        "https://www.emburse.com/company/leadership",
+        "https://www.emburse.com/company/careers",
+        "https://www.emburse.com/company/awards",
+        "https://www.emburse.com/company/news",
+        "https://www.emburse.com/company/press"
+      ]
+    },
+    {
+      "url": "https://www.emburse.com/company/about-emburse",
+      "finalUrl": "https://www.emburse.com/company/about-emburse",
+      "status": "success",
+      "sha256": "8139d719dda4ce16ef53a5b7d2d767d764f80c2f6e42a7045db0c38d03f7cfd4",
+      "title": "About Emburse - Emburse",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.emburse.com/company/mission",
+        "https://www.emburse.com/company/leadership",
+        "https://www.emburse.com/company/careers",
+        "https://www.emburse.com/company/awards",
+        "https://www.emburse.com/company/news",
+        "https://www.emburse.com/company/press",
+        "https://www.emburse.com/company/news/emburse-unveils-purpose-built-ai-to-end-expense-management-headaches-for-finance-teams-and-business-travelers"
+      ]
+    }
+  ]
+}

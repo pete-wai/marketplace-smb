@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-0200ecb113b1",
+  "retrievedAt": "2026-10-30T11:01:19.316Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.grbinc.com/",
+      "finalUrl": "https://www.grbinc.com/",
+      "status": "success",
+      "sha256": "d9b1983357763769914d3c3dbf0136be2d554a2d67b4d4ac6a6042e57aae66fc",
+      "title": "GRB, Inc. | Corporate Website",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.grbinc.com/about"
+      ]
+    },
+    {
+      "url": "https://www.grbinc.com/about",
+      "finalUrl": "https://www.grbinc.com/about",
+      "status": "success",
+      "sha256": "63f6c2677683b9ee844c49882769a309d11eec846658d6c67e56c63b33395c20",
+      "title": "About | grbinc",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

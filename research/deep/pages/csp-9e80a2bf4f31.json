@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-9e80a2bf4f31",
+  "retrievedAt": "2026-10-30T11:00:51.298Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://chronus.com/",
+      "finalUrl": "https://chronus.com/",
+      "status": "success",
+      "sha256": "58162d4e81f968f519da1740f1b2a115125b955a4b103be3ca57ba203d59c09a",
+      "title": "Chronus | AI coaching and mentoring for workforce readiness",
+      "signals": [],
+      "discoveredLinks": [
+        "https://chronus.com/software/mentoring-software/government-mentoring-programs",
+        "https://chronus.com/about-us",
+        "https://chronus.com/about-us/leadership-team",
+        "https://chronus.com/about-us/newsroom",
+        "https://chronus.com/about-us/awards",
+        "https://chronus.com/about-us/careers",
+        "https://chronus.com/about-us/contact-us"
+      ]
+    },
+    {
+      "url": "https://chronus.com/software/mentoring-software/government-mentoring-programs",
+      "finalUrl": "https://chronus.com/software/mentoring-software/government-mentoring-programs",
+      "status": "success",
+      "sha256": "9646739d154546784bde734c80ebaf4b7d33b0c2e98fac8247dbe2c364b0a205",
+      "title": "Government Mentoring Programs | Mentoring Software | Chronus",
+      "signals": [],
+      "discoveredLinks": [
+        "https://chronus.com/about-us",
+        "https://chronus.com/about-us/leadership-team",
+        "https://chronus.com/about-us/newsroom",
+        "https://chronus.com/about-us/awards",
+        "https://chronus.com/about-us/careers",
+        "https://chronus.com/about-us/contact-us",
+        "https://chronus.com/request-demo-information",
+        "https://chronus.com/blog/successful-mentoring-programs-lmi-employee-mentoring"
+      ]
+    },
+    {
+      "url": "https://chronus.com/about-us",
+      "finalUrl": "https://chronus.com/about-us",
+      "status": "success",
+      "sha256": "08a66fda47a5dab74f06f8ce2060297203d00d96b208ae764f8fdcb59da1c63d",
+      "title": "About Chronus | AI coaching and mentoring",
+      "signals": [],
+      "discoveredLinks": [
+        "https://chronus.com/about-us/leadership-team",
+        "https://chronus.com/about-us/newsroom",
+        "https://chronus.com/about-us/awards",
+        "https://chronus.com/about-us/careers",
+        "https://chronus.com/about-us/contact-us"
+      ]
+    },
+    {
+      "url": "https://chronus.com/about-us/leadership-team",
+      "finalUrl": "https://chronus.com/about-us/leadership-team",
+      "status": "success",
+      "sha256": "4e78926bbc98bf88f9b64d7f74c92ed31adfa8e351ebdacacf8a564e6caa275e",
+      "title": "Chronus Leadership Team",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "rganizational silos and increased employee engagement. Imperative was acquired by Chronus in 2024. Courtney’s entrepreneurial career has been spent at the intersection of product, HR and customer experience. She was previously on the founding leadership team of Red Frog Events,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://chronus.com/about-us/newsroom",
+        "https://chronus.com/about-us/awards",
+        "https://chronus.com/about-us/careers",
+        "https://chronus.com/about-us/contact-us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-78ba5283ff99",
+  "retrievedAt": "2026-10-30T11:02:19.444Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://app-gov.trustguardai.com/",
+      "finalUrl": "https://www.trustguardai.com/",
+      "status": "success",
+      "sha256": "73cf2ace5a764778949007daed7b602978f87ee5c88963a0d9c332ce823a0d0c",
+      "title": "TrustGuard | AI for Third-Party Risk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trustguardai.com/company"
+      ]
+    },
+    {
+      "url": "https://www.trustguardai.com/company",
+      "finalUrl": "https://www.trustguardai.com/company",
+      "status": "success",
+      "sha256": "ef029702932c3f10d9a1bc4b0be52f497dbb59029962702e57641f9be9311691",
+      "title": "Company | TrustGuard AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

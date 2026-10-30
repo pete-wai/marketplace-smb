@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-243f6fc9fcad",
+  "retrievedAt": "2026-10-30T11:02:30.614Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.walkme.com/",
+      "finalUrl": "https://www.walkme.com/",
+      "status": "success",
+      "sha256": "c27c804d2cac29a2208c3cf2ce54202a25a26699590be94fbedc8e11da41ca7c",
+      "title": "WalkMe - Digital Adoption Platform | AI That Delivers Real ROI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.walkme.com/platform/public-sector/",
+        "https://www.walkme.com/partners/",
+        "https://www.walkme.com/about-us/",
+        "https://www.walkme.com/meet-our-team/"
+      ]
+    },
+    {
+      "url": "https://www.walkme.com/platform/public-sector/",
+      "finalUrl": "https://www.walkme.com/platform/public-sector/",
+      "status": "success",
+      "sha256": "10f398691a4565045bd48bf1ada8ebe7a2e8d863cc65fc7737b6d1a15c94e25c",
+      "title": "Digital Adoption for the Public Sector - WalkMe",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.walkme.com/fr/platform/public-sector/",
+        "https://www.walkme.com/de/platform/public-sector/",
+        "https://www.walkme.com/jp/platform/public-sector/",
+        "https://www.walkme.com/content/digital-adoption-platform-government-blueprint/",
+        "https://www.walkme.com/content/cost-of-federal-minute/",
+        "https://www.walkme.com/about-us/",
+        "https://www.walkme.com/meet-our-team/"
+      ]
+    },
+    {
+      "url": "https://www.walkme.com/partners/",
+      "finalUrl": "https://www.walkme.com/partners/",
+      "status": "success",
+      "sha256": "1fddaff72d53608a599c9f20e0f215e4b250b6a3d1b65529492664e13c74ae86",
+      "title": "Partners - WalkMe",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.walkme.com/about-us/",
+        "https://www.walkme.com/meet-our-team/"
+      ]
+    },
+    {
+      "url": "https://www.walkme.com/about-us/",
+      "finalUrl": "https://www.walkme.com/about-us/",
+      "status": "success",
+      "sha256": "5adc7975b06591f159d1cbcb727a5cdacab2f639c8551d3f8ef7a7822ead218a",
+      "title": "Who is WalkMe? - About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.walkme.com/fr/about-us/",
+        "https://www.walkme.com/de/about-us/",
+        "https://www.walkme.com/jp/about-us/",
+        "https://www.walkme.com/meet-our-team/"
+      ]
+    }
+  ]
+}

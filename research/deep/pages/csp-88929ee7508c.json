@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-88929ee7508c",
+  "retrievedAt": "2026-10-30T11:02:12.426Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://slack.com/",
+      "finalUrl": "https://slack.com/",
+      "status": "success",
+      "sha256": "d30a61c9995416d75cd6ddf5f0dd1bf6d651220505decf9716fcbf5bd34d5871",
+      "title": "Slack | AI Work Platform & Productivity Tools",
+      "signals": [],
+      "discoveredLinks": [
+        "https://slack.com/solutions/public-sector",
+        "https://slack.com/features/slackbot",
+        "https://slack.com/features/ai",
+        "https://slack.com/features/crm/small-business",
+        "https://slack.com/features/channels",
+        "https://slack.com/features/huddles",
+        "https://slack.com/connect",
+        "https://slack.com/features/workflow-automation",
+        "https://slack.com/features/task-list",
+        "https://slack.com/trust/security",
+        "https://slack.com/about"
+      ]
+    },
+    {
+      "url": "https://slack.com/solutions/govslack",
+      "finalUrl": "https://slack.com/solutions/govslack",
+      "status": "success",
+      "sha256": "0161720a6465505a55bad0de51288bcbec5d87a79f1b64b0852e0dee2fabf925",
+      "title": "GovSlack | Slack | Slack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://slack.com/solutions/public-sector",
+        "https://slack.com/resources/why-use-slack/how-6-government-organizations-use-slack-as-their-productivity-platform?from=govslack",
+        "https://slack.com/resources/why-use-slack/the-value-of-slack-for-government?from=govslack",
+        "https://slack.com/about"
+      ]
+    },
+    {
+      "url": "https://slack.com/solutions/public-sector",
+      "finalUrl": "https://slack.com/solutions/public-sector",
+      "status": "success",
+      "sha256": "0e82c1d69c6ef87c076498016a2048f81034987c65589d12ceca8ebbb3bbc610",
+      "title": "Slack for Public Sector: Government Team Communication | Slack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://slack.com/trust/security",
+        "https://slack.com/customer-stories/defense-digital-service-government-teamwork",
+        "https://slack.com/resources/why-use-slack/the-value-of-slack-for-government",
+        "https://slack.com/resources/why-use-slack/reinventing-work-in-the-public-sector?from=public-sector?from=public-sector",
+        "https://slack.com/intl/es-la/solutions/public-sector",
+        "https://slack.com/intl/pt-br/solutions/public-sector",
+        "https://slack.com/intl/de-de/solutions/public-sector",
+        "https://slack.com/intl/es-es/solutions/public-sector",
+        "https://slack.com/intl/fr-fr/solutions/public-sector",
+        "https://slack.com/intl/it-it/solutions/public-sector",
+        "https://slack.com/intl/en-gb/solutions/public-sector",
+        "https://slack.com/intl/zh-cn/solutions/public-sector"
+      ]
+    },
+    {
+      "url": "https://slack.com/features/slackbot",
+      "finalUrl": "https://slack.com/features/slackbot",
+      "status": "success",
+      "sha256": "ff1607e4094b40e33b014d3d576382d1ef3c52b5a4fb46e96f95309a3607ca95",
+      "title": "Slackbot, Personal AI Agent for Work | Slack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://slack.com/features/agentic-platform",
+        "https://slack.com/trust/data-management/privacy-principles",
+        "https://slack.com/about"
+      ]
+    }
+  ]
+}

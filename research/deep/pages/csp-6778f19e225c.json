@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-6778f19e225c",
+  "retrievedAt": "2026-10-30T11:01:26.482Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.issio.com/",
+      "finalUrl": "https://www.issio.com/",
+      "status": "success",
+      "sha256": "f5b6f4639fc4c49b304dc894be295202884b29a043d8f23c0b9cf216f66ccb49",
+      "title": "Secure, reliable FedRAMP authorized SaaS workforce platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.issio.com/va/",
+        "https://www.issio.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.issio.com/va/",
+      "finalUrl": "https://www.issio.com/va/",
+      "status": "success",
+      "sha256": "bb9dfe61bc3763edbaaa430a3373aa948eb0593369a18719563784e2850f8f05",
+      "title": "Secure, Reliable FedRAMP Workforce Scheduling Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.issio.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.issio.com/about/",
+      "finalUrl": "https://www.issio.com/about/",
+      "status": "success",
+      "sha256": "9fcf6f3807a5438d26d584b0ee31ebb05fefcc4067093686d5ddd88f045e84f1",
+      "title": "About our Secure Reliable FedRAMP Authorized Platform",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

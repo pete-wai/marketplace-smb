@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-d40dbe04fe9d",
+  "retrievedAt": "2026-10-30T11:01:41.033Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.menlosecurity.com/",
+      "finalUrl": "https://www.menlosecurity.com/",
+      "status": "success",
+      "sha256": "370934e76f4656d22d4c0cfbd05c86b92152804ca3853b6d2f804b62bc91ffee",
+      "title": "Browser Security for Humans and Agents | Menlo Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.menlosecurity.com/solution/file-security-capabilities",
+        "https://www.menlosecurity.com/solution/securing-federal-agencies",
+        "https://www.menlosecurity.com/about/menlo-labs",
+        "https://www.menlosecurity.com/about",
+        "https://www.menlosecurity.com/about/leadership",
+        "https://www.menlosecurity.com/about/life-at-menlo",
+        "https://www.menlosecurity.com/about/news",
+        "https://www.menlosecurity.com/about/partners",
+        "https://www.menlosecurity.com/about/press-releases",
+        "https://www.menlosecurity.com/about/partners/technology-partners",
+        "https://www.menlosecurity.com/product",
+        "https://www.menlosecurity.com/about/compliance"
+      ]
+    },
+    {
+      "url": "https://www.menlosecurity.com/solution/file-security-capabilities",
+      "finalUrl": "https://www.menlosecurity.com/solution/file-security-capabilities",
+      "status": "success",
+      "sha256": "0a7a5e62c7e10a48789adaad468682803338ad9a4747267177383c6ed130432e",
+      "title": "File_Security-Capabilities",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.menlosecurity.com/solution/securing-federal-agencies",
+        "https://www.menlosecurity.com/about/menlo-labs",
+        "https://www.menlosecurity.com/about",
+        "https://www.menlosecurity.com/about/leadership",
+        "https://www.menlosecurity.com/about/life-at-menlo",
+        "https://www.menlosecurity.com/about/news",
+        "https://www.menlosecurity.com/about/partners",
+        "https://www.menlosecurity.com/about/press-releases",
+        "https://www.menlosecurity.com/about/partners/technology-partners",
+        "https://www.menlosecurity.com/ja-jp/solution/file-security-capabilities",
+        "https://www.menlosecurity.com/ko-kr/solution/file-security-capabilities",
+        "https://www.menlosecurity.com/de-de/solution/file-security-capabilities"
+      ]
+    },
+    {
+      "url": "https://www.menlosecurity.com/solution/securing-federal-agencies",
+      "finalUrl": "https://www.menlosecurity.com/solution/securing-federal-agencies",
+      "status": "success",
+      "sha256": "725baaba445fbf5c12903d2cffe5b912cb12b642437f48d2dc9d459d04e94d92",
+      "title": "Federal Agency Security | Menlo Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.menlosecurity.com/about/menlo-labs",
+        "https://www.menlosecurity.com/about",
+        "https://www.menlosecurity.com/about/leadership",
+        "https://www.menlosecurity.com/about/life-at-menlo",
+        "https://www.menlosecurity.com/about/news",
+        "https://www.menlosecurity.com/about/partners",
+        "https://www.menlosecurity.com/about/press-releases",
+        "https://www.menlosecurity.com/about/partners/technology-partners",
+        "https://www.menlosecurity.com/ja-jp/solution/securing-federal-agencies",
+        "https://www.menlosecurity.com/ko-kr/solution/securing-federal-agencies",
+        "https://www.menlosecurity.com/de-de/solution/securing-federal-agencies",
+        "https://www.menlosecurity.com/product/secure-enterprise-browser"
+      ]
+    },
+    {
+      "url": "https://www.menlosecurity.com/about/menlo-labs",
+      "finalUrl": "https://www.menlosecurity.com/about/menlo-labs",
+      "status": "success",
+      "sha256": "1990413646e4533b7b9265b0deb4e762851bb64f8c2bb47f0c04ed252cdb9232",
+      "title": "Menlo Labs | Menlo Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.menlosecurity.com/about",
+        "https://www.menlosecurity.com/about/leadership",
+        "https://www.menlosecurity.com/about/life-at-menlo",
+        "https://www.menlosecurity.com/about/news",
+        "https://www.menlosecurity.com/about/partners",
+        "https://www.menlosecurity.com/about/press-releases",
+        "https://www.menlosecurity.com/about/partners/technology-partners",
+        "https://www.menlosecurity.com/ja-jp/about/menlo-labs",
+        "https://www.menlosecurity.com/ko-kr/about/menlo-labs",
+        "https://www.menlosecurity.com/de-de/about/menlo-labs",
+        "https://www.menlosecurity.com/blog/php2shell-what-to-know-about-cve-2026-109618-and-109619",
+        "https://www.menlosecurity.com/blog-tags/public-sector"
+      ]
+    }
+  ]
+}

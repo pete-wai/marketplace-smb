@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-877c48a4b7e8",
+  "retrievedAt": "2026-10-30T11:01:15.524Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://exlibrisgroup.com/",
+      "finalUrl": "https://exlibrisgroup.com/",
+      "status": "success",
+      "sha256": "ceeed0e5261846de6b5a18654ecac2385c2642a8c800c8ac0cab04b630aea9b9",
+      "title": "Ex Libris Library Software : Library Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://exlibrisgroup.com/blog/linked-data-for-libraries-a-practical-guide-to-bibframe-adoption-and-the-future-of-library-metadata/?utm_source=exlibris&utm_medium=banner&utm_campaign=exl_website_leads_leadgen_exl_global_2022&utm_content=menu&utm_term=banner&campaignname=ExL_website_leads_LeadGen_ExL_Global_2022&campaignid=7013r000001rcHGAAY",
+        "https://exlibrisgroup.com/about-us/our-story-about-ex-libris/",
+        "https://exlibrisgroup.com/announcement/u-s-government-documents-collection-now-supported-by-enhanced-update-workflow/",
+        "https://exlibrisgroup.com/announcement/alma-customers-benefit-from-expanded-ai-capabilities-and-smarter-collaboration-tools-in-the-may-2026-feature-release/",
+        "https://exlibrisgroup.com/blog/what-the-academic-ai-impact-study-shows-about-productivity-capacity-and-human-oversight-in-library-workflows/"
+      ]
+    },
+    {
+      "url": "https://exlibrisgroup.com/blog/linked-data-for-libraries-a-practical-guide-to-bibframe-adoption-and-the-future-of-library-metadata/?utm_source=exlibris&utm_medium=banner&utm_campaign=exl_website_leads_leadgen_exl_global_2022&utm_content=menu&utm_term=banner&campaignname=ExL_website_leads_LeadGen_ExL_Global_2022&campaignid=7013r000001rcHGAAY",
+      "finalUrl": "https://exlibrisgroup.com/blog/linked-data-for-libraries-a-practical-guide-to-bibframe-adoption-and-the-future-of-library-metadata/?utm_source=exlibris&utm_medium=banner&utm_campaign=exl_website_leads_leadgen_exl_global_2022&utm_content=menu&utm_term=banner&campaignname=ExL_website_leads_LeadGen_ExL_Global_2022&campaignid=7013r000001rcHGAAY",
+      "status": "success",
+      "sha256": "bc88e3ad6c594d64c46c579eb30f9e4797ae6d01d802f5764264fd5a61055524",
+      "title": "Linked Data for Libraries: A Practical BIBFRAME Guide",
+      "signals": [],
+      "discoveredLinks": [
+        "https://exlibrisgroup.com/about-us/our-story-about-ex-libris/"
+      ]
+    },
+    {
+      "url": "https://exlibrisgroup.com/about-us/our-story-about-ex-libris/",
+      "finalUrl": "https://exlibrisgroup.com/about-us/our-story-about-ex-libris/",
+      "status": "success",
+      "sha256": "41ac877525aa152f0ab8efe1bf25f57f9d618c5a55d02f53c383bd0c46f7386c",
+      "title": "Ex Libris group - Our story - Evolution of Library Technology",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "stablished in China 2005 Launch of DigiTool 2006 Launch of Primo 2007 Acquisition of Endeavor, creator of the Voyager Integrated Library System Launch of Rosetta First North American Data Center established in Chicago 2009 Launch of bX 2011 European Data"
+        }
+      ],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://exlibrisgroup.com/announcement/u-s-government-documents-collection-now-supported-by-enhanced-update-workflow/",
+      "finalUrl": "https://exlibrisgroup.com/announcement/u-s-government-documents-collection-now-supported-by-enhanced-update-workflow/",
+      "status": "success",
+      "sha256": "2a8189020ab02c6c3f229e062046ec816091ac1ff289e6a888eaf0bfd6d42e18",
+      "title": "U.S. Government Documents Collection Now Supported by Enhanced Update Workflow",
+      "signals": [],
+      "discoveredLinks": [
+        "https://exlibrisgroup.com/community/customers/"
+      ]
+    }
+  ]
+}

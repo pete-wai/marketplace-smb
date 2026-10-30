@@ -1,0 +1,79 @@
+{
+  "providerId": "csp-8d5946703c38",
+  "retrievedAt": "2026-10-30T11:00:36.872Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://acquia.com/",
+      "finalUrl": "https://www.acquia.com/",
+      "status": "success",
+      "sha256": "79fe7c101bcc74d6a3b5d8ca1ec850b035ac1f86e5c4857bba2fc5bdb8e274e5",
+      "title": "Digital Experience Platform for Content, Community, Commerce | Acquia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acquia.com/solution-by-industry/government",
+        "https://www.acquia.com/about-us/newsroom",
+        "https://www.acquia.com/about-us",
+        "https://www.acquia.com/about-us/leadership",
+        "https://www.acquia.com/about-us/legal",
+        "https://www.acquia.com/about-us/legal/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://www.acquia.com/solution-by-industry/government",
+      "finalUrl": "https://www.acquia.com/solution-by-industry/government",
+      "status": "success",
+      "sha256": "500c7bd6cb057f34ef19599d342f3c6b3c291e788f5b9f0da177191078664538",
+      "title": "CMS and Hosting for Government Agencies | Acquia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acquia.com/fr/solution-by-industry/government",
+        "https://www.acquia.com/jp/solution-by-industry/government",
+        "https://www.acquia.com/about-us/newsroom",
+        "https://www.acquia.com/about-us",
+        "https://www.acquia.com/about-us/leadership",
+        "https://www.acquia.com/about-us/legal",
+        "https://www.acquia.com/about-us/legal/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://www.acquia.com/about-us/newsroom",
+      "finalUrl": "https://www.acquia.com/about-us/newsroom",
+      "status": "success",
+      "sha256": "428fdf9dc44e08a86b06f2bf06182d47f9579efb18ccf0bebfa49d9752b1f082",
+      "title": "Acquia Newsroom | Acquia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acquia.com/fr/about-us/newsroom",
+        "https://www.acquia.com/jp/about-us/newsroom",
+        "https://www.acquia.com/newsroom/press-releases/acquia-research-finds-cmos-and-cios-dont-agree-who-leads-their-shared-ai",
+        "https://www.acquia.com/about-us/newsroom/press-releases",
+        "https://www.acquia.com/about-us/newsroom?page=1",
+        "https://www.acquia.com/about-us/newsroom?page=2",
+        "https://www.acquia.com/about-us/newsroom?page=3",
+        "https://www.acquia.com/about-us/newsroom?page=4",
+        "https://www.acquia.com/about-us",
+        "https://www.acquia.com/about-us/leadership",
+        "https://www.acquia.com/about-us/legal",
+        "https://www.acquia.com/about-us/legal/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://www.acquia.com/about-us",
+      "finalUrl": "https://www.acquia.com/about-us",
+      "status": "success",
+      "sha256": "919920cf8eb934eba672de5df83944c474ce7bc97140aee010c6aa4b7a7d079c",
+      "title": "About Us | Acquia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acquia.com/fr/about-us",
+        "https://www.acquia.com/jp/about-us",
+        "https://www.acquia.com/about-us/leadership",
+        "https://www.acquia.com/about-us/vista-equity-partners-acquia",
+        "https://www.acquia.com/about-us/legal/registered-addresses",
+        "https://www.acquia.com/about-us/legal",
+        "https://www.acquia.com/about-us/legal/privacy-policy"
+      ]
+    }
+  ]
+}

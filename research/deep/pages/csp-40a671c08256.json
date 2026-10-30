@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-40a671c08256",
+  "retrievedAt": "2026-10-30T11:01:02.274Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.decisionlens.com/",
+      "finalUrl": "https://www.decisionlens.com/",
+      "status": "success",
+      "sha256": "4ef0c24163025b3a127026d1db05c481ddb2ef864fb6cda7b6cc31cb87ab16a6",
+      "title": "Decision Lens | Modernizing Government Planning & Budgeting",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.decisionlens.com/platform/overview",
+        "https://www.decisionlens.com/company/partners",
+        "https://www.decisionlens.com/sector/federal-civilian-agencies",
+        "https://www.decisionlens.com/sector/state-local-government",
+        "https://www.decisionlens.com/blog",
+        "https://www.decisionlens.com/company/accolades",
+        "https://www.decisionlens.com/company/about",
+        "https://www.decisionlens.com/company/careers/",
+        "https://www.decisionlens.com/press-release/decision-lens-launches-modernizing-government-planning-and-budgeting-a-new-podcast-series",
+        "https://www.decisionlens.com/blog/automation-the-secret-weapon-in-the-public-sectors-war-for-talent"
+      ]
+    },
+    {
+      "url": "https://www.decisionlens.com/platform/overview",
+      "finalUrl": "https://www.decisionlens.com/platform/overview",
+      "status": "success",
+      "sha256": "e1691c6b20d42d1463e9ccfd1d54d2c01587946f057c90db844c4f49ef5d2b90",
+      "title": "Decision Lens - Platform Overview",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.decisionlens.com/company/partners",
+        "https://www.decisionlens.com/sector/federal-civilian-agencies",
+        "https://www.decisionlens.com/sector/state-local-government",
+        "https://www.decisionlens.com/blog",
+        "https://www.decisionlens.com/company/accolades",
+        "https://www.decisionlens.com/company/about",
+        "https://www.decisionlens.com/company/careers/",
+        "https://www.decisionlens.com/press-release/decision-lens-launches-modernizing-government-planning-and-budgeting-a-new-podcast-series"
+      ]
+    },
+    {
+      "url": "https://www.decisionlens.com/company/partners",
+      "finalUrl": "https://www.decisionlens.com/company/partners",
+      "status": "success",
+      "sha256": "5606ab1a68d5f815232b50f3ca25a71b42372e08d3553fc671437262c98b3b4e",
+      "title": "The Decision Lens Partner Network",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.decisionlens.com/sector/federal-civilian-agencies",
+        "https://www.decisionlens.com/sector/state-local-government",
+        "https://www.decisionlens.com/blog",
+        "https://www.decisionlens.com/company/accolades",
+        "https://www.decisionlens.com/company/about",
+        "https://www.decisionlens.com/company/careers/",
+        "https://www.decisionlens.com/press-release/decision-lens-launches-modernizing-government-planning-and-budgeting-a-new-podcast-series"
+      ]
+    },
+    {
+      "url": "https://www.decisionlens.com/sector/federal-civilian-agencies",
+      "finalUrl": "https://www.decisionlens.com/sector/federal-civilian-agencies",
+      "status": "success",
+      "sha256": "80ee6819872718233695712d416215d0861c5d0c0ac3f9c073e7b321808d8b1f",
+      "title": "Transform Federal Civilian Agency Planning & Budgeting | Decision Lens",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.decisionlens.com/sector/state-local-government",
+        "https://www.decisionlens.com/blog",
+        "https://www.decisionlens.com/company/accolades",
+        "https://www.decisionlens.com/company/about",
+        "https://www.decisionlens.com/company/careers/",
+        "https://www.decisionlens.com/press-release/decision-lens-launches-modernizing-government-planning-and-budgeting-a-new-podcast-series"
+      ]
+    }
+  ]
+}

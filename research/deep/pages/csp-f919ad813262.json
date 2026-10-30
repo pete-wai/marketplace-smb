@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-f919ad813262",
+  "retrievedAt": "2026-10-30T11:01:36.498Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.liferay.com/",
+      "finalUrl": "https://www.liferay.com/",
+      "status": "success",
+      "sha256": "09cf14235d610d4d767dfbd90e401aaf34ae066bb03f2efeb701dedaa81fb902",
+      "title": "Headless & Composable DXP | AI, CMS, DAM, Portals, Commerce - Liferay DXP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.liferay.com/capabilities/cmp",
+        "https://www.liferay.com/capabilities/dam",
+        "https://www.liferay.com/capabilities/personalization",
+        "https://www.liferay.com/capabilities/sites",
+        "https://www.liferay.com/capabilities/data-platform",
+        "https://www.liferay.com/capabilities/analytics",
+        "https://www.liferay.com/capabilities/cms",
+        "https://www.liferay.com/capabilities/cms/enterprise",
+        "https://www.liferay.com/capabilities/cms/headless",
+        "https://www.liferay.com/capabilities/cms/seo",
+        "https://www.liferay.com/capabilities/cms/intranet",
+        "https://www.liferay.com/capabilities/cms/open-source"
+      ]
+    },
+    {
+      "url": "https://www.liferay.com/capabilities/cmp",
+      "finalUrl": "https://www.liferay.com/capabilities/cmp",
+      "status": "success",
+      "sha256": "9462c572014cd341d747d164fd8cce7e008c94244cc163fc87e52d93e6857917",
+      "title": "Content Marketing Platform (CMP) | Software & Solutions - Liferay DXP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.liferay.com/capabilities/%7Burl%7D",
+        "https://www.liferay.com/capabilities/dam",
+        "https://www.liferay.com/capabilities/personalization",
+        "https://www.liferay.com/capabilities/sites",
+        "https://www.liferay.com/capabilities/data-platform",
+        "https://www.liferay.com/capabilities/analytics",
+        "https://www.liferay.com/capabilities/cms",
+        "https://www.liferay.com/capabilities/cms/enterprise",
+        "https://www.liferay.com/capabilities/cms/headless",
+        "https://www.liferay.com/capabilities/cms/seo",
+        "https://www.liferay.com/capabilities/cms/intranet",
+        "https://www.liferay.com/capabilities/cms/open-source"
+      ]
+    },
+    {
+      "url": "https://www.liferay.com/capabilities/dam",
+      "finalUrl": "https://www.liferay.com/capabilities/dam",
+      "status": "success",
+      "sha256": "605e2b26be58756a498316032315080e1b20bb67ca45bbb4073a1baf99c5e2d4",
+      "title": "Digital Asset Management (DAM) - Liferay DXP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.liferay.com/capabilities/%7Burl%7D",
+        "https://www.liferay.com/capabilities/personalization",
+        "https://www.liferay.com/capabilities/sites",
+        "https://www.liferay.com/capabilities/data-platform",
+        "https://www.liferay.com/capabilities/analytics",
+        "https://www.liferay.com/capabilities/cms",
+        "https://www.liferay.com/capabilities/cms/enterprise",
+        "https://www.liferay.com/capabilities/cms/headless",
+        "https://www.liferay.com/capabilities/cms/seo",
+        "https://www.liferay.com/capabilities/cms/intranet",
+        "https://www.liferay.com/capabilities/cms/open-source",
+        "https://www.liferay.com/capabilities/commerce"
+      ]
+    },
+    {
+      "url": "https://www.liferay.com/capabilities/personalization",
+      "finalUrl": "https://www.liferay.com/capabilities/personalization",
+      "status": "success",
+      "sha256": "e264c82b5a7cba757d8196e5375cdc9faa6c0ade21b9002a5dd4fb621b168068",
+      "title": "AI Website Personalization Tools & Solutions - Liferay DXP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.liferay.com/capabilities/%7Burl%7D",
+        "https://www.liferay.com/capabilities/sites",
+        "https://www.liferay.com/capabilities/data-platform",
+        "https://www.liferay.com/capabilities/analytics",
+        "https://www.liferay.com/capabilities/cms",
+        "https://www.liferay.com/capabilities/cms/enterprise",
+        "https://www.liferay.com/capabilities/cms/headless",
+        "https://www.liferay.com/capabilities/cms/seo",
+        "https://www.liferay.com/capabilities/cms/intranet",
+        "https://www.liferay.com/capabilities/cms/open-source",
+        "https://www.liferay.com/capabilities/commerce",
+        "https://www.liferay.com/capabilities/commerce/b2b-commerce-platform"
+      ]
+    }
+  ]
+}

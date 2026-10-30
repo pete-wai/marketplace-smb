@@ -1,0 +1,18 @@
+{
+  "name": "MERIDIAN KNOWLEDGE SOLUTIONS LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA20D004L&contractorName=MERIDIAN+KNOWLEDGE+SOLUTIONS+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-2f950f206549"
+  ],
+  "contractNumber": "47QTCA20D004L",
+  "retrievedAt": "2026-10-30T11:08:02.960Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:13.564Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

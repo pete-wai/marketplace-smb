@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-927d9eba364d",
+  "retrievedAt": "2026-10-30T11:00:56.628Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.valiantysfederal.com/",
+      "finalUrl": "https://www.valiantysfederal.com/",
+      "status": "success",
+      "sha256": "c34b39eac0c3098c23687b2922a776acbff3d26a63680b09cbdb02cf643c6a92",
+      "title": "Secure Federal Solutions | Valiantys Federal | U.S.A.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valiantysfederal.com/atlassian-government-cloud",
+        "https://www.valiantysfederal.com/our-services",
+        "https://www.valiantysfederal.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.valiantysfederal.com/atlassian-government-cloud",
+      "finalUrl": "https://www.valiantysfederal.com/atlassian-government-cloud",
+      "status": "success",
+      "sha256": "dd67afbaff73a26bd86ad6fdbbede7c80bdc8aa3804fe2e8efcba5b342b217e4",
+      "title": "Atlassian Solutions for Government | Valiantys Federal",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valiantysfederal.com/our-services",
+        "https://www.valiantysfederal.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.valiantysfederal.com/our-services",
+      "finalUrl": "https://www.valiantysfederal.com/our-services",
+      "status": "success",
+      "sha256": "c7d308f2586ff3cafcad180129d3c27a6925c628ffae36010ac6425a7132d684",
+      "title": "Federal Technology Solutions | Valiantys Federal",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valiantysfederal.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.valiantysfederal.com/about-us",
+      "finalUrl": "https://www.valiantysfederal.com/about-us",
+      "status": "success",
+      "sha256": "16e0609a131fdd3735e7d8b3095fe3f1caf58dad09ee260d3aaaf2930f288611",
+      "title": "Secure Compliance Solutions | Valiantys Federal",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

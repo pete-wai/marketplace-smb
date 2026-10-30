@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-6b6e739fae1e",
+  "retrievedAt": "2026-10-30T11:02:24.046Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.trisotech.com/digital-enterprise-suite/",
+      "finalUrl": "https://www.trisotech.com/digital-enterprise-suite/",
+      "status": "success",
+      "sha256": "85607ab5e188ddeae8c46cdaf174945d60c9786e5750b0a45baedd5a94c73e5a",
+      "title": "Digital Enterprise Suite",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trisotech.com/capability/",
+        "https://www.trisotech.com/design-thinking-and-ideation/",
+        "https://www.trisotech.com/strategy-mapping-and-analysis/",
+        "https://www.trisotech.com/responsibility-assignment-and-analysis/",
+        "https://www.trisotech.com/quality-and-value-analysis/",
+        "https://www.trisotech.com/discovery/",
+        "https://www.trisotech.com/visual-modeling/",
+        "https://www.trisotech.com/aligning-to-architectures-and-frameworks/",
+        "https://www.trisotech.com/visualization-and-traceability/",
+        "https://www.trisotech.com/digital-enterprise-graph-2/",
+        "https://www.trisotech.com/collaborating-and-sharing/",
+        "https://www.trisotech.com/verification-and-validation/"
+      ]
+    },
+    {
+      "url": "https://www.trisotech.com/capability/",
+      "finalUrl": "https://www.trisotech.com/capability/",
+      "status": "success",
+      "sha256": "ce69346c2d8b9f087cf66366edb4d9f1d5ccb339be3d3df59beb8a5d0a01dabb",
+      "title": "Trisotech the Provider",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trisotech.com/design-thinking-and-ideation/",
+        "https://www.trisotech.com/strategy-mapping-and-analysis/",
+        "https://www.trisotech.com/responsibility-assignment-and-analysis/",
+        "https://www.trisotech.com/quality-and-value-analysis/",
+        "https://www.trisotech.com/discovery/",
+        "https://www.trisotech.com/visual-modeling/",
+        "https://www.trisotech.com/aligning-to-architectures-and-frameworks/",
+        "https://www.trisotech.com/visualization-and-traceability/",
+        "https://www.trisotech.com/digital-enterprise-graph-2/",
+        "https://www.trisotech.com/collaborating-and-sharing/",
+        "https://www.trisotech.com/verification-and-validation/",
+        "https://www.trisotech.com/learning/"
+      ]
+    },
+    {
+      "url": "https://www.trisotech.com/design-thinking-and-ideation/",
+      "finalUrl": "https://www.trisotech.com/design-thinking-and-ideation/",
+      "status": "success",
+      "sha256": "47afb3cc124d978e803a8f74fc4f4a9e1a7274ede256c7e4ff8c6af759d2847f",
+      "title": "Design Thinking and Ideation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trisotech.com/wp-content/uploads/capabilities-design-thinking-ideation-unconstrained-thinking.gif",
+        "https://www.trisotech.com/wp-content/uploads/capabilities-design-thinking-ideation-canvases.gif",
+        "https://www.trisotech.com/wp-content/uploads/capabilities-design-thinking-ideation-organize-ideas.gif",
+        "https://www.trisotech.com/strategy-mapping-and-analysis/",
+        "https://www.trisotech.com/responsibility-assignment-and-analysis/",
+        "https://www.trisotech.com/quality-and-value-analysis/",
+        "https://www.trisotech.com/discovery/",
+        "https://www.trisotech.com/visual-modeling/",
+        "https://www.trisotech.com/aligning-to-architectures-and-frameworks/",
+        "https://www.trisotech.com/visualization-and-traceability/",
+        "https://www.trisotech.com/digital-enterprise-graph-2/",
+        "https://www.trisotech.com/collaborating-and-sharing/"
+      ]
+    },
+    {
+      "url": "https://www.trisotech.com/strategy-mapping-and-analysis/",
+      "finalUrl": "https://www.trisotech.com/strategy-mapping-and-analysis/",
+      "status": "success",
+      "sha256": "85caaa0c65d9241b367a16700938cc250a289f186359f1c524bd30e070d7a1cd",
+      "title": "Strategy Mapping and Analysis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trisotech.com/responsibility-assignment-and-analysis/",
+        "https://www.trisotech.com/quality-and-value-analysis/",
+        "https://www.trisotech.com/discovery/",
+        "https://www.trisotech.com/visual-modeling/",
+        "https://www.trisotech.com/aligning-to-architectures-and-frameworks/",
+        "https://www.trisotech.com/visualization-and-traceability/",
+        "https://www.trisotech.com/digital-enterprise-graph-2/",
+        "https://www.trisotech.com/collaborating-and-sharing/",
+        "https://www.trisotech.com/verification-and-validation/",
+        "https://www.trisotech.com/learning/",
+        "https://www.trisotech.com/animation/",
+        "https://www.trisotech.com/requirement-gathering/"
+      ]
+    }
+  ]
+}

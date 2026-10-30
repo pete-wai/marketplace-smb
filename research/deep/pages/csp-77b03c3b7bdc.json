@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-77b03c3b7bdc",
+  "retrievedAt": "2026-10-30T11:01:29.576Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.kaseware.com/",
+      "finalUrl": "https://www.kaseware.com/",
+      "status": "success",
+      "sha256": "37d518ce8b6649db1f435e29e9367f3f663ea39eb6635b78538381cbc7f51704",
+      "title": "Investigative Case Management Software for Your Mission | Kaseware",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kaseware.com/government",
+        "https://www.kaseware.com/about",
+        "https://www.kaseware.com/leadership",
+        "https://www.kaseware.com/about/",
+        "https://www.kaseware.com/post/iacp-2026-technology-capability-and-outcomes"
+      ]
+    },
+    {
+      "url": "https://www.kaseware.com/government",
+      "finalUrl": "https://www.kaseware.com/government",
+      "status": "success",
+      "sha256": "8ed0447c52f053bf1af9763e06aa3cec32662236dcf7fcf9e46b5656e926bb49",
+      "title": "Secure Law Enforcement Case Management Software | Kaseware",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kaseware.com/about",
+        "https://www.kaseware.com/leadership",
+        "https://www.kaseware.com/intelligence-agencies/"
+      ]
+    },
+    {
+      "url": "https://www.kaseware.com/about",
+      "finalUrl": "https://www.kaseware.com/about",
+      "status": "success",
+      "sha256": "4749b3f1529f372db6faa32df35cd2d7e67a8b495f152c79b4e513b697bdbe65",
+      "title": "Mission-Focused Investigation Management Platform | Kaseware",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kaseware.com/leadership",
+        "https://www.kaseware.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.kaseware.com/leadership",
+      "finalUrl": "https://www.kaseware.com/leadership",
+      "status": "success",
+      "sha256": "1b881a01bd16186fee31a588043b5f54fcf14db18501b0895c46bcdf46b6e03b",
+      "title": "Meet Kaseware&#039;s Leadership Team | Former FBI Agents & Industry Experts",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

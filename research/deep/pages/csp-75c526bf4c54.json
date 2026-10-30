@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-75c526bf4c54",
+  "retrievedAt": "2026-10-30T11:01:58.108Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.projectteam.com/fedramp",
+      "finalUrl": "https://www.projectteam.com/fedramp",
+      "status": "success",
+      "sha256": "5ad22c6edfcf0dabe3325a45161e7f83c9d952409070bfead4b6c1b1cd86e987",
+      "title": "FedRAMP Construction Management Software | ProjectTeam.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.projectteam.com/public-sector",
+        "https://www.projectteam.com/webinars",
+        "https://www.projectteam.com/about",
+        "https://www.projectteam.com/cmmc"
+      ]
+    },
+    {
+      "url": "https://www.projectteam.com/public-sector",
+      "finalUrl": "https://www.projectteam.com/public-sector",
+      "status": "success",
+      "sha256": "e6e32ad5ee78b68cdd3cce00688be65ff036e26e5a4b08ba9c4015790112b958",
+      "title": "Public Sector & Civil Construction Software | ProjectTeam.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.projectteam.com/webinars",
+        "https://www.projectteam.com/about",
+        "https://www.projectteam.com/reporting",
+        "https://www.projectteam.com/professional-services"
+      ]
+    },
+    {
+      "url": "https://www.projectteam.com/webinars",
+      "finalUrl": "https://www.projectteam.com/webinars",
+      "status": "success",
+      "sha256": "a61d70014751d337c7b850ca0a2b6025aed1d85bc47f24fc313f8c1fbbc3ddad",
+      "title": "Webinars from ProjectTeam.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.projectteam.com/about"
+      ]
+    },
+    {
+      "url": "https://www.projectteam.com/about",
+      "finalUrl": "https://www.projectteam.com/about",
+      "status": "success",
+      "sha256": "de88ad48f7438795b4edd0998083b9641e526446578bfd5394b10c891611cce6",
+      "title": "About ProjectTeam",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.projectteam.com/about/story",
+        "https://www.projectteam.com/about/vision"
+      ]
+    }
+  ]
+}

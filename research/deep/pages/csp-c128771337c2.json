@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-c128771337c2",
+  "retrievedAt": "2026-10-30T11:01:39.502Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.magnetforensics.com/",
+      "finalUrl": "https://www.magnetforensics.com/",
+      "status": "success",
+      "sha256": "150cfe263fa5750351ddb1473b7bea1feafc448b3d03dfccc72b441f0792a32d",
+      "title": "Magnet Forensics | Gain an Investigative Edge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.magnetforensics.com/advanced-digital-forensics-tools-for-federal-agencies/",
+        "https://www.magnetforensics.com/digital-forensics-built-for-federal-investigations/",
+        "https://www.magnetforensics.com/federal-cyber-digital-forensics-incident-response-solutions/",
+        "https://www.magnetforensics.com/resource-center/?query-3-content-industry=federal-agencies",
+        "https://www.magnetforensics.com/federal-agencies-webinars/"
+      ]
+    },
+    {
+      "url": "https://www.magnetforensics.com/advanced-digital-forensics-tools-for-federal-agencies/",
+      "finalUrl": "https://www.magnetforensics.com/advanced-digital-forensics-tools-for-federal-agencies/",
+      "status": "success",
+      "sha256": "b2f2009bedbf7cb83e33207a1971a84bb84322ed155a923d9d2af83d49dcff17",
+      "title": "Advanced digital forensics tools for federal agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.magnetforensics.com/digital-forensics-built-for-federal-investigations/",
+        "https://www.magnetforensics.com/federal-cyber-digital-forensics-incident-response-solutions/",
+        "https://www.magnetforensics.com/resource-center/?query-3-content-industry=federal-agencies",
+        "https://www.magnetforensics.com/federal-agencies-webinars/"
+      ]
+    },
+    {
+      "url": "https://www.magnetforensics.com/digital-forensics-built-for-federal-investigations/",
+      "finalUrl": "https://www.magnetforensics.com/digital-forensics-built-for-federal-investigations/",
+      "status": "success",
+      "sha256": "01208b31367cad836c113af7fdbad38dfc58f3f94e62a6b0d9529f6ac983e169",
+      "title": "Digital forensics built for federal investigations",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.magnetforensics.com/federal-cyber-digital-forensics-incident-response-solutions/",
+        "https://www.magnetforensics.com/resource-center/?query-3-content-industry=federal-agencies",
+        "https://www.magnetforensics.com/federal-agencies-webinars/",
+        "https://www.magnetforensics.com/resources/how-digital-forensics-and-automation-are-transforming-federal-investigations/"
+      ]
+    },
+    {
+      "url": "https://www.magnetforensics.com/federal-cyber-digital-forensics-incident-response-solutions/",
+      "finalUrl": "https://www.magnetforensics.com/federal-cyber-digital-forensics-incident-response-solutions/",
+      "status": "success",
+      "sha256": "66a74f0761c8a9cea3bda3a106533d527f553990108301332d1e354ad80c855a",
+      "title": "Federal Cyber DFIR Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.magnetforensics.com/resource-center/?query-3-content-industry=federal-agencies",
+        "https://www.magnetforensics.com/federal-agencies-webinars/"
+      ]
+    }
+  ]
+}

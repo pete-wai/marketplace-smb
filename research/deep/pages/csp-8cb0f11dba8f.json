@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-8cb0f11dba8f",
+  "retrievedAt": "2026-10-30T11:02:13.215Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://snyk.io/",
+      "finalUrl": "https://snyk.io/",
+      "status": "success",
+      "sha256": "95b8373c26666e55dedd1ba1fedcf9f76859f0c2dee647160ca21f5ecf094e67",
+      "title": "Snyk AI Security Platform | Secure Code, Agents & Apps | Snyk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://snyk.io/about/leadership/",
+        "https://snyk.io/about/"
+      ]
+    },
+    {
+      "url": "https://snyk.io/about/leadership/",
+      "finalUrl": "https://snyk.io/about/leadership/",
+      "status": "success",
+      "sha256": "5eda996f87da28f7e08f8a018661db86d72a2ccbfbc0ddc4e576d388c26c7952",
+      "title": "Leadership team | Snyk",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "h, venture-backed enterprise software companies, including Watchfire (acquired by IBM), Desktone (acquired by VMWare), Blaze (acquired by Akamai), and Veeam. Ken is an active road runner, cyclist, and snowshoer. Manoj Nair Chief Innovation Officer & CTO Show Bio Manoj leads"
+        }
+      ],
+      "discoveredLinks": [
+        "https://snyk.io/about/",
+        "https://snyk.io/about/board/"
+      ]
+    },
+    {
+      "url": "https://snyk.io/about/",
+      "finalUrl": "https://snyk.io/about/",
+      "status": "success",
+      "sha256": "90da1db198d567bb51879298348cf42737861db559c871f287d5d2a064b2f1e1",
+      "title": "About Snyk | Snyk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://snyk.io/about/board/"
+      ]
+    },
+    {
+      "url": "https://snyk.io/about/board/",
+      "finalUrl": "https://snyk.io/about/board/",
+      "status": "success",
+      "sha256": "a8fdf6ce8594a25da568ec893ab1745adacbb0e8adab7db3de966fbb281ef517",
+      "title": "Board | About us | Snyk",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "current role as Chairman. Prior to Snyk, Guy founded Blaze, which was acquired by Akamai, where he served as CTO. Guy is an active angel investor and a co-host of the AI Native Dev podcast. Mike Scarpelli Board Member and"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

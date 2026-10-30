@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-8a6b488a8ad9",
+  "retrievedAt": "2026-10-30T11:01:43.449Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.mural.co/",
+      "finalUrl": "https://www.mural.co/",
+      "status": "success",
+      "sha256": "64cdd0b566b4cd9db4088bc5c9effa3228108b8129ada656f82adab3a4ab43ac",
+      "title": "AI-powered visual workspace for team collaboration | Mural",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "y Choices © 2024 Mural. All rights reserved. LUMA Institute, LLC is a wholly-owned subsidiary of Tactivos, Inc. d/b/a Mural. The Mural name and logo are trademarks of Tactivos, Inc. dba Mural. © 2025 Mural. All rights reserved. LUMA Institute,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.mural.co/mural-ai",
+        "https://www.mural.co/about-us"
+      ]
+    },
+    {
+      "url": "https://www.mural.co/mural-ai",
+      "finalUrl": "https://www.mural.co/mural-ai",
+      "status": "success",
+      "sha256": "a1fad28e16284f5e820efcc00966b7e6ceba4e0ccb40a0c3c116175e1787a7d6",
+      "title": "Move faster with Mural AI",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "y Choices © 2024 Mural. All rights reserved. LUMA Institute, LLC is a wholly-owned subsidiary of Tactivos, Inc. d/b/a Mural. The Mural name and logo are trademarks of Tactivos, Inc. dba Mural. © 2025 Mural. All rights reserved. LUMA Institute,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.mural.co/ai/safety-and-regulations",
+        "https://www.mural.co/about-us"
+      ]
+    },
+    {
+      "url": "https://www.mural.co/about-us",
+      "finalUrl": "https://www.mural.co/about-us",
+      "status": "success",
+      "sha256": "066b5c5872ca944523e95b4357e46edf9b5a90a7bb64a62172f370f14174724d",
+      "title": "About us | Mural",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "y Choices © 2024 Mural. All rights reserved. LUMA Institute, LLC is a wholly-owned subsidiary of Tactivos, Inc. d/b/a Mural. The Mural name and logo are trademarks of Tactivos, Inc. dba Mural. © 2025 Mural. All rights reserved. LUMA Institute,"
+        }
+      ],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.mural.co/ai/safety-and-regulations",
+      "finalUrl": "https://www.mural.co/ai/safety-and-regulations",
+      "status": "success",
+      "sha256": "9da680fd239381fcb8e8a18217aaae52ae539e4586e8bba15b5aa0d7a94aa356",
+      "title": "Mural AI - Safety & regulations",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "y Choices © 2024 Mural. All rights reserved. LUMA Institute, LLC is a wholly-owned subsidiary of Tactivos, Inc. d/b/a Mural. The Mural name and logo are trademarks of Tactivos, Inc. dba Mural. © 2025 Mural. All rights reserved. LUMA Institute,"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

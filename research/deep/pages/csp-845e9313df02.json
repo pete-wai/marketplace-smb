@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-845e9313df02",
+  "retrievedAt": "2026-10-30T11:01:12.679Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://etherfax.net/government",
+      "finalUrl": "https://www.etherfax.net/government/",
+      "status": "success",
+      "sha256": "39492513edaaf730bf5b1f48fa6466edee2e4be21df10ea60b6dd73c667cff92",
+      "title": "Secure Cloud Based Fax for Government Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.etherfax.net/government/",
+        "https://www.etherfax.net/federal/",
+        "https://www.etherfax.net/about/",
+        "https://www.etherfax.net/about/team/"
+      ]
+    },
+    {
+      "url": "https://www.etherfax.net/government/",
+      "finalUrl": "https://www.etherfax.net/government/",
+      "status": "success",
+      "sha256": "0cce4a23b1e346f73723fc918b568a84c514b869b29220874d9dc6fbe665ffc9",
+      "title": "Secure Cloud Based Fax for Government Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.etherfax.net/federal/",
+        "https://www.etherfax.net/about/",
+        "https://www.etherfax.net/about/team/"
+      ]
+    },
+    {
+      "url": "https://www.etherfax.net/federal/",
+      "finalUrl": "https://www.etherfax.net/federal/",
+      "status": "success",
+      "sha256": "2397fbc97398389f5af0716993b04f818dfcf8d95f08b0eb5f704f27fda0800d",
+      "title": "FedRAMP-Certified Cloud Fax Solution for Federal Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.etherfax.net/about/",
+        "https://www.etherfax.net/about/team/",
+        "https://www.etherfax.net/modernize-government-communications-with-ai-powered-fax/"
+      ]
+    },
+    {
+      "url": "https://www.etherfax.net/about/",
+      "finalUrl": "https://www.etherfax.net/about/",
+      "status": "success",
+      "sha256": "3e370d14e9df329067232024f41f16df43048cf4fc29e838caf68c48f0df9afb",
+      "title": "Building The New Standard For Cloud Fax Solutions | ETHERFAX",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.etherfax.net/about/team/",
+        "https://www.etherfax.net/about/team/co-founders/paul-banco/",
+        "https://www.etherfax.net/about/team/co-founders/rob-cichielo/"
+      ]
+    }
+  ]
+}

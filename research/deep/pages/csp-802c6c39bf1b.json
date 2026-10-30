@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-802c6c39bf1b",
+  "retrievedAt": "2026-10-30T11:00:48.262Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.bluescape.com/",
+      "finalUrl": "https://www.bluescape.com/",
+      "status": "success",
+      "sha256": "6d446cbaa1698ab0bb784c8e39426ff55dbee6eec3d53c8aa86d82343ff2875d",
+      "title": "Bluescape",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluescape.com/industries/government-defense",
+        "https://www.bluescape.com/solutions/crisis-response-management",
+        "https://www.bluescape.com/company/partners",
+        "https://www.bluescape.com/company/our-team",
+        "https://www.bluescape.com/industries/government-defense?hsLang=en",
+        "https://www.bluescape.com/public-sector-terms-of-service-agreement"
+      ]
+    },
+    {
+      "url": "https://www.bluescape.com/industries/government-defense",
+      "finalUrl": "https://www.bluescape.com/industries/government-defense",
+      "status": "success",
+      "sha256": "43e09e274a7bb2475a31ae43cbb550ed6a2c6d3c68fa38ea675f6170745f3b7b",
+      "title": "Government & Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluescape.com/solutions/crisis-response-management",
+        "https://www.bluescape.com/company/partners",
+        "https://www.bluescape.com/company/our-team",
+        "https://www.bluescape.com/solutions/government-drone-testing?hsLang=en",
+        "https://www.bluescape.com/company/partners?hsLang=en",
+        "https://www.bluescape.com/resource-library/bluescape-announces-agreement-with-arrow-electronics-public-sector-practice-immixgroup?hsLang=en",
+        "https://www.bluescape.com/public-sector-terms-of-service-agreement"
+      ]
+    },
+    {
+      "url": "https://www.bluescape.com/solutions/crisis-response-management",
+      "finalUrl": "https://www.bluescape.com/solutions/crisis-response-management",
+      "status": "success",
+      "sha256": "41b445b2bf516d4ed2ac6f4cdf93e9607b3b8ba91c4ae163b846136acd5bc150",
+      "title": "Crisis Response Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluescape.com/company/partners",
+        "https://www.bluescape.com/company/our-team",
+        "https://www.bluescape.com/public-sector-terms-of-service-agreement"
+      ]
+    },
+    {
+      "url": "https://www.bluescape.com/company/partners",
+      "finalUrl": "https://www.bluescape.com/company/partners",
+      "status": "success",
+      "sha256": "22abb1135a4492628cef89219a4280ea19829ef9797355a227da01326f30560e",
+      "title": "Partners",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluescape.com/company/our-team",
+        "https://www.bluescape.com/resource-library/bluescape-and-saic-join-forces-to-deliver-secure-mission-ready-collaboration-for-government-agencies?hsLang=en",
+        "https://www.bluescape.com/resource-library/bluescapes-fedramp-authorized-digital-workbench-available-through-carahsofts-public-sector-contract-vehicles?hsLang=en",
+        "https://www.bluescape.com/public-sector-terms-of-service-agreement"
+      ]
+    }
+  ]
+}

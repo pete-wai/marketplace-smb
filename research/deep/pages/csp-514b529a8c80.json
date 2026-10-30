@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-514b529a8c80",
+  "retrievedAt": "2026-10-30T11:02:10.198Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://securin.io/",
+      "finalUrl": "https://www.securin.io/",
+      "status": "success",
+      "sha256": "4d246cda07e8ee9a657e0254f6ca1440b5d17c812b9b606120c7121389e24433",
+      "title": "Preemptive Exposure Management | Securin",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.securin.io/about"
+      ]
+    },
+    {
+      "url": "https://www.securin.io/about",
+      "finalUrl": "https://www.securin.io/about",
+      "status": "success",
+      "sha256": "dfc91e07e7c2f075250b9d18bced250efc2219b72f3ab7f93bb8be05a707d03e",
+      "title": "About | Securin",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "a category leader in risk-based vulnerability management before being acquired by Ivanti in 2021. The conviction that drove it, that defenders need to know what's actually exploitable, not just what's theoretically possible, carried with him. After a post-acquisition leadership role,"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

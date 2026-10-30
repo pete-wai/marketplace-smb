@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-cb571403f03f",
+  "retrievedAt": "2026-10-30T11:02:20.319Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://legal.thomsonreuters.com/en/westlaw",
+      "finalUrl": "https://legal.thomsonreuters.com/en/westlaw",
+      "status": "success",
+      "sha256": "1b7422821340f471804e64caceca8b984ffe928f88fbc7a357745bd22fcb18aa",
+      "title": "Westlaw – Legal Research Platforms | Thomson Reuters",
+      "signals": [],
+      "discoveredLinks": [
+        "https://legal.thomsonreuters.com/en/contact-sales",
+        "https://legal.thomsonreuters.com/en/insights"
+      ]
+    },
+    {
+      "url": "https://legal.thomsonreuters.com/en/products/clear",
+      "finalUrl": "https://legal.thomsonreuters.com/en/products/clear",
+      "status": "success",
+      "sha256": "3b8aa4f949dd6a885588e99987994556e452d2a4c7c8e8f90aa3ac1ed4407f4c",
+      "title": "CLEAR - Investigation Solution | Thomson Reuters",
+      "signals": [],
+      "discoveredLinks": [
+        "https://legal.thomsonreuters.com/en/contact-sales",
+        "https://legal.thomsonreuters.com/en/insights"
+      ]
+    },
+    {
+      "url": "https://legal.thomsonreuters.com/en/contact-sales",
+      "finalUrl": "https://legal.thomsonreuters.com/en/contact-sales",
+      "status": "success",
+      "sha256": "f32ee91c914e0f8352e5c9ae280335388f38d6d357339816b4ac578997a731ec",
+      "title": "Contact Sales | Thomson Reuters",
+      "signals": [],
+      "discoveredLinks": [
+        "https://legal.thomsonreuters.com/en/insights"
+      ]
+    },
+    {
+      "url": "https://legal.thomsonreuters.com/en/insights",
+      "finalUrl": "https://legal.thomsonreuters.com/en/insights",
+      "status": "success",
+      "sha256": "da9bbb9fe7252680030687a8da4dea9ce96fcda780b3eb72d2404675a6266279",
+      "title": "Insights | Thomson Reuters",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

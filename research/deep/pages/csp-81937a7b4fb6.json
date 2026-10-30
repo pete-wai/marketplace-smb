@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-81937a7b4fb6",
+  "retrievedAt": "2026-10-30T11:00:47.596Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://bizzdesign.com/",
+      "finalUrl": "https://bizzdesign.com/",
+      "status": "success",
+      "sha256": "5573ae7494d8f66f302ddf70f74a3ef673daa24e7595a3c04ca8cc56b948463b",
+      "title": "Enterprise Transformation Software | Bizzdesign",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bizzdesign.com/transformation-suite/ai-capabilities",
+        "https://bizzdesign.com/company/about-us",
+        "https://bizzdesign.com/company/sustainability",
+        "https://bizzdesign.com/company/our-partners",
+        "https://bizzdesign.com/company/locations",
+        "https://bizzdesign.com/transformation-suite/unify",
+        "https://bizzdesign.com/press-releases/bizzdesign-govcloud-achieves-fedrampr-certification-us-federal-agencies"
+      ]
+    },
+    {
+      "url": "https://bizzdesign.com/transformation-suite/ai-capabilities",
+      "finalUrl": "https://bizzdesign.com/transformation-suite/ai-capabilities",
+      "status": "success",
+      "sha256": "e70fadb7b216c88ae06e5663b09ec0d243cf0060b8eb8ba1e46a25cef6400b53",
+      "title": "AI Capabilities for Enterprise Architecture | Bizzdesign",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bizzdesign.com/company/about-us",
+        "https://bizzdesign.com/company/sustainability",
+        "https://bizzdesign.com/company/our-partners",
+        "https://bizzdesign.com/company/locations",
+        "https://bizzdesign.com/de/content/transformation-suite/ai-capabilities"
+      ]
+    },
+    {
+      "url": "https://bizzdesign.com/company/about-us",
+      "finalUrl": "https://bizzdesign.com/company/about-us",
+      "status": "success",
+      "sha256": "cc4ef59c63c9424ea09741ffdda5aed9ed8e4503bd089bcfe2f376a497f3e6fd",
+      "title": "About Bizzdesign | Enterprise Architecture & Transformation Leader",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "unded Objectiv (open-source analytics) and Distimo (mobile analytics, acquired by data.ai). At data.ai, he later led European R&D and engineering operations. He holds a BSc in Computer Science from the University of Twente. Our Culture We live transformation every day."
+        }
+      ],
+      "discoveredLinks": [
+        "https://bizzdesign.com/company/sustainability",
+        "https://bizzdesign.com/company/our-partners",
+        "https://bizzdesign.com/company/locations",
+        "https://bizzdesign.com/press-releases/bizzdesign-govcloud-achieves-fedrampr-certification-us-federal-agencies",
+        "https://bizzdesign.com/company/partners/partner-find"
+      ]
+    },
+    {
+      "url": "https://bizzdesign.com/company/sustainability",
+      "finalUrl": "https://bizzdesign.com/company/sustainability",
+      "status": "success",
+      "sha256": "3665cc352a534e652440ce202b0f9916fd38bfcf5d46b8555c0481961029ec0b",
+      "title": "Sustainability at Bizzdesign",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bizzdesign.com/company/our-partners",
+        "https://bizzdesign.com/company/locations"
+      ]
+    }
+  ]
+}

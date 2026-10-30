@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-8e7fefbeb15e",
+  "retrievedAt": "2026-10-30T11:01:15.613Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.exostar.com/",
+      "finalUrl": "https://www.exostar.com/",
+      "status": "success",
+      "sha256": "46b9d364210d2c060d753d2c97902f5b07fefa9762a04a143c93c6a170702c4d",
+      "title": "Secure & Compliant Collaboration Platform | Exostar",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.exostar.com/company/",
+        "https://www.exostar.com/company/partners/",
+        "https://www.exostar.com/company/careers/",
+        "https://www.exostar.com/company/events/",
+        "https://www.exostar.com/company/contact-us/",
+        "https://www.exostar.com/press-releases/exostar-launches-secure-messaging-to-help-defense-suppliers-share-cui-across-company-lines/"
+      ]
+    },
+    {
+      "url": "https://www.exostar.com/company/",
+      "finalUrl": "https://www.exostar.com/company/",
+      "status": "success",
+      "sha256": "c1e7a94f6d678de6e6be713a7f108f4b5cfe4ddd83679683cb8516f11ab444f1",
+      "title": "About Exostar | Trusted Collaboration Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.exostar.com/company/partners/",
+        "https://www.exostar.com/company/careers/",
+        "https://www.exostar.com/company/events/",
+        "https://www.exostar.com/company/contact-us/",
+        "https://www.exostar.com/industries/aerospace-defense/",
+        "https://www.exostar.com/industries/life-sciences/",
+        "https://www.exostar.com/industries/healthcare/",
+        "https://www.exostar.com/industries/consumer-services/",
+        "https://www.exostar.com/company/richard-addi/",
+        "https://www.exostar.com/company/amy-hogan/",
+        "https://www.exostar.com/company/waide-jones/",
+        "https://www.exostar.com/company/jeff-ladner/"
+      ]
+    },
+    {
+      "url": "https://www.exostar.com/company/partners/",
+      "finalUrl": "https://www.exostar.com/company/partners/",
+      "status": "success",
+      "sha256": "3e351fe458e96a7d26f2f510a1ece2482f02ed21328dc91c7d8d19a9d6894c24",
+      "title": "Partners - Exostar",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.exostar.com/company/careers/",
+        "https://www.exostar.com/company/events/",
+        "https://www.exostar.com/company/contact-us/"
+      ]
+    },
+    {
+      "url": "https://www.exostar.com/company/careers/",
+      "finalUrl": "https://www.exostar.com/company/careers/",
+      "status": "success",
+      "sha256": "08aae97420f92c00582d76064c5f16f7ad01ce889018e183bd436b5b5b2b9abf",
+      "title": "Careers At Exostar - Exostar",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.exostar.com/company/events/",
+        "https://www.exostar.com/company/contact-us/",
+        "https://www.exostar.com/company/careers/united-states/",
+        "https://www.exostar.com/company/careers/india-pvt-ltd/",
+        "https://www.exostar.com/company/careers/united-kingdom/",
+        "https://www.exostar.com/company/careers/australia/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-455a707cc506",
+  "retrievedAt": "2026-10-30T11:01:30.606Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.knightscope.com/",
+      "finalUrl": "https://knightscope.com/",
+      "status": "success",
+      "sha256": "160c6720f34695ae6f76e1fcfd1c33dbe50cf1c976a7856d9bb07da831213aab",
+      "title": "Knightscope — The Nation's First Autonomous Security Force",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knightscope.com/the-company?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://knightscope.com/the-company?hsLang=en",
+      "finalUrl": "https://knightscope.com/the-company",
+      "status": "success",
+      "sha256": "10f0d2e9757cadaed8bfb6cb41e73b3df2aa46fb31b877c9bb5ef9b434c535b0",
+      "title": "The Company",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "Pinkerton, Apple, and Madison Square Garden, and founded Event Risk — acquired by Knightscope in 2026 — building it into a nationwide provider of armed and unarmed security and executive protection for Fortune 1000 companies, national brands, and high-profile individuals."
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

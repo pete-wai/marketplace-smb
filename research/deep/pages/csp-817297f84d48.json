@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-817297f84d48",
+  "retrievedAt": "2026-10-30T11:00:46.267Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.axoniusfed.com/",
+      "status": "unavailable",
+      "reason": "HTTP 429"
+    }
+  ]
+}

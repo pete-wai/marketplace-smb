@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-c8408805a687",
+  "retrievedAt": "2026-10-30T11:01:19.689Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.granicus.com/",
+      "finalUrl": "https://granicus.com/",
+      "status": "success",
+      "sha256": "0f7e3a050d447b95b0df7e56a1bf96f48689ce574ddeb7cd5c5bc19286d10358",
+      "title": "Granicus | The Citizen Experience Platform for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://granicus.com/market/canadian-government/",
+        "https://granicus.com/market/local-government/",
+        "https://granicus.com/market/state-government/",
+        "https://granicus.com/market/federal-government/",
+        "https://granicus.com/",
+        "https://granicus.com/resource/state-of-digital-government-report/",
+        "https://granicus.com/resource/ai-for-public-sector/",
+        "https://granicus.com/engagement-cloud/federal-experience-cloud/",
+        "https://granicus.com/gxa/",
+        "https://granicus.com/gxi/",
+        "https://granicus.com/solution/digital-services-and-forms/",
+        "https://granicus.com/products/"
+      ]
+    },
+    {
+      "url": "https://www.granicus.com/",
+      "finalUrl": "https://granicus.com/",
+      "status": "success",
+      "sha256": "0f7e3a050d447b95b0df7e56a1bf96f48689ce574ddeb7cd5c5bc19286d10358",
+      "title": "Granicus | The Citizen Experience Platform for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://granicus.com/market/canadian-government/",
+        "https://granicus.com/market/local-government/",
+        "https://granicus.com/market/state-government/",
+        "https://granicus.com/market/federal-government/",
+        "https://granicus.com/",
+        "https://granicus.com/resource/state-of-digital-government-report/",
+        "https://granicus.com/resource/ai-for-public-sector/",
+        "https://granicus.com/engagement-cloud/federal-experience-cloud/",
+        "https://granicus.com/gxa/",
+        "https://granicus.com/gxi/",
+        "https://granicus.com/solution/digital-services-and-forms/",
+        "https://granicus.com/products/"
+      ]
+    },
+    {
+      "url": "https://granicus.com/market/canadian-government/",
+      "finalUrl": "https://granicus.com/market/canadian-government/",
+      "status": "success",
+      "sha256": "0d2b264f61656762ab1e77c779483951929a1e49e44cd9f667494dc47d109ce3",
+      "title": "Powerful Solutions Designed for Canadian Government | Granicus",
+      "signals": [],
+      "discoveredLinks": [
+        "https://granicus.com/market/local-government/",
+        "https://granicus.com/market/state-government/",
+        "https://granicus.com/market/federal-government/",
+        "https://granicus.com/resource/state-of-digital-government-report/",
+        "https://granicus.com/resource/ai-for-public-sector/",
+        "https://granicus.com/engagement-cloud/federal-experience-cloud/",
+        "https://granicus.com/gxa/",
+        "https://granicus.com/gxi/",
+        "https://granicus.com/solution/digital-services-and-forms/",
+        "https://granicus.com/products/",
+        "https://granicus.com/resources/blog/",
+        "https://granicus.com/resources/webinars/"
+      ]
+    },
+    {
+      "url": "https://granicus.com/market/local-government/",
+      "finalUrl": "https://granicus.com/market/local-government/",
+      "status": "success",
+      "sha256": "13d34f2072f39dc363a07ab60015003504f4214ab9c442fcaefeba90e5929a2f",
+      "title": "Connecting Local Government With the Constituents They Serve",
+      "signals": [],
+      "discoveredLinks": [
+        "https://granicus.com/market/state-government/",
+        "https://granicus.com/market/federal-government/",
+        "https://granicus.com/resource/state-of-digital-government-report/",
+        "https://granicus.com/resource/ai-for-public-sector/",
+        "https://granicus.com/engagement-cloud/federal-experience-cloud/",
+        "https://granicus.com/gxa/",
+        "https://granicus.com/gxi/",
+        "https://granicus.com/solution/digital-services-and-forms/",
+        "https://granicus.com/products/",
+        "https://granicus.com/resources/blog/",
+        "https://granicus.com/resources/webinars/",
+        "https://granicus.com/resources/metrics/"
+      ]
+    }
+  ]
+}

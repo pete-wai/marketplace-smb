@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-43dfb9fd947e",
+  "retrievedAt": "2026-10-30T11:01:18.726Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.globaltelehealthservices.com/",
+      "finalUrl": "https://www.globaltelehealthservices.com/",
+      "status": "success",
+      "sha256": "ad60982cd7a91262352234ad956faaa8abba22b0fe5ba69d0ab2531d181fbdbd",
+      "title": "HOME - Global Telehealth Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.globaltelehealthservices.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.globaltelehealthservices.com/leadership/",
+      "finalUrl": "https://www.globaltelehealthservices.com/leadership/",
+      "status": "success",
+      "sha256": "2efbd69257578fc319d03db6dfcfe5c6e3ea3d0fc3a6976f34d675fc9db45f77",
+      "title": "LEADERSHIP - Global Telehealth Services",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

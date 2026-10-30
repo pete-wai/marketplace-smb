@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-2955da5eadb6",
+  "retrievedAt": "2026-10-30T11:00:41.642Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.armedia.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

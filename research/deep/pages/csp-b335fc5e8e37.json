@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-b335fc5e8e37",
+  "retrievedAt": "2026-10-30T11:02:24.929Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://uberether.com/iam-advantage/",
+      "finalUrl": "https://uberether.com/iam-advantage/",
+      "status": "success",
+      "sha256": "76ee7b86f917ededb57d396954647e22652cf50af882208120031e34f0ba791a",
+      "title": "IAM Advantage - UberEther",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "emo Learn More Hyper Secure Cloud Infrastructure &#8211; Domestically owned small business focused entirely on Identity, Credential, and Access Management (ICAM) and ATO Acceleration. Over a decade of proven ICAM expertise serving federal agencies and large enterprises. Navigation Home Products"
+        }
+      ],
+      "discoveredLinks": [
+        "https://uberether.com/federal"
+      ]
+    },
+    {
+      "url": "https://uberether.com/federal",
+      "finalUrl": "https://uberether.com/federal/",
+      "status": "success",
+      "sha256": "b8f70c83669ab26b99ea3fb099725d71032ddacab6e0b553260c88a3757414dc",
+      "title": "Federal - UberEther",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ral contracting. CMMC Prepared Ready for Cybersecurity Maturity Model Certification requirements Small Business Domestically owned small business supporting socioeconomic goals. Trusted by Federal Agencies Over a decade of successful deployments across the federal government, from small agencies to major depa"
+        }
+      ],
+      "discoveredLinks": [
+        "https://uberether.com/federal/"
+      ]
+    },
+    {
+      "url": "https://uberether.com/federal/",
+      "finalUrl": "https://uberether.com/federal/",
+      "status": "success",
+      "sha256": "b215d26fe4ed4a7f5f0ea97d9c786a943738684c52aa2f7d66964a53df596116",
+      "title": "Federal - UberEther",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ral contracting. CMMC Prepared Ready for Cybersecurity Maturity Model Certification requirements Small Business Domestically owned small business supporting socioeconomic goals. Trusted by Federal Agencies Over a decade of successful deployments across the federal government, from small agencies to major depa"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-fa5346597b66",
+  "retrievedAt": "2026-10-30T11:00:50.293Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://platform.casepointgov.com/",
+      "finalUrl": "https://platform.casepointgov.com/",
+      "status": "success",
+      "sha256": "8bf77fcdf63cb73b3eddfb1d22dca0aa9b48424d1110acb6d40d74ea8a5204b4",
+      "title": "Casepoint Platform Login",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

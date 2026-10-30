@@ -1,0 +1,68 @@
+{
+  "providerId": "csp-9637f80db970",
+  "retrievedAt": "2026-10-30T11:01:37.271Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://lmisolutions.com/",
+      "finalUrl": "https://www.lmisolutions.com/",
+      "status": "success",
+      "sha256": "c4fe338f0ecb8b695d198302ac7915a197886759ba9bd40b2d9ae1f1fe26f1bc",
+      "title": "Advanced Technology Solutions | LMI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lmisolutions.com/capabilities/ai-enabled-delivery",
+        "https://www.lmisolutions.com/capabilities/rapid-platform-engineering",
+        "https://www.lmisolutions.com/capabilities/mission-operations-logistics",
+        "https://www.lmisolutions.com/about",
+        "https://www.lmisolutions.com/perspectives/the-future-of-government-transformation-is-orchestration-not-overhaul",
+        "https://www.lmisolutions.com/"
+      ]
+    },
+    {
+      "url": "https://www.lmisolutions.com/capabilities/ai-enabled-delivery",
+      "finalUrl": "https://www.lmisolutions.com/capabilities/ai-enabled-delivery",
+      "status": "success",
+      "sha256": "c70048299837cee3da1804af8249e6dbf4f5ac1dc847310e40498d02dab6d7bc",
+      "title": "AI-Enabled Delivery | LMI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lmisolutions.com/capabilities/rapid-platform-engineering",
+        "https://www.lmisolutions.com/capabilities/mission-operations-logistics",
+        "https://www.lmisolutions.com/about",
+        "https://www.lmisolutions.com/deepdive/from-edge-to-enterprise-the-future-of-federal-technology",
+        "https://www.lmisolutions.com/perspectives/ai-assurance-by-design-why-federal-products-cant-afford-bolt-on-security"
+      ]
+    },
+    {
+      "url": "https://www.lmisolutions.com/capabilities/rapid-platform-engineering",
+      "finalUrl": "https://www.lmisolutions.com/capabilities/rapid-platform-engineering",
+      "status": "success",
+      "sha256": "526594b921d88080811da03aa40b59bf5f2ee37a88c5cbc14dd030b05af4a5c6",
+      "title": "Rapid Platform Engineering | LMI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lmisolutions.com/capabilities/mission-operations-logistics",
+        "https://www.lmisolutions.com/about"
+      ]
+    },
+    {
+      "url": "https://www.lmisolutions.com/capabilities/mission-operations-logistics",
+      "finalUrl": "https://www.lmisolutions.com/capabilities/mission-operations-logistics",
+      "status": "success",
+      "sha256": "b736fad04c16c6c51da603721d2c5bd0c69ed9d8e739530a2d549463611607d0",
+      "title": "Mission Operations & Logistics | LMI",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ess Release LMI Expands Full-Stack Asset Visibility Capabilities with Acquisition of Advanced IP LMI Expands Full-Stack Asset Visibility Capabilities with Acquisition of Advanced IP Press Release LMI Achieves DoW’s CMMC 2.0 Level 2 Certification LMI Achieves DoW’s CMMC 2.0 Level"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.lmisolutions.com/about",
+        "https://www.lmisolutions.com/press-release/lmi-expands-full-stack-sensor-mesh-capabilities-with-acquisition-of-advanced-ip",
+        "https://www.lmisolutions.com/deepdive/modernization-or-mission-failure-why-good-enough-government-tech-is-over"
+      ]
+    }
+  ]
+}

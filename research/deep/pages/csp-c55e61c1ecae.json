@@ -1,0 +1,72 @@
+{
+  "providerId": "csp-c55e61c1ecae",
+  "retrievedAt": "2026-10-30T11:01:22.962Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.infor.com/",
+      "finalUrl": "https://www.infor.com/",
+      "status": "success",
+      "sha256": "a5112f30a844ed7efa706d6127903df6d498c32bddcd8fae939401e0ffee946a",
+      "title": "Infor | Cloud Enterprise Software & AI for Your Industry",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infor.com/about/careers",
+        "https://www.infor.com/about",
+        "https://www.infor.com/about/contact",
+        "https://www.infor.com/industries/public-sector",
+        "https://www.infor.com/solutions/sustainability-esg",
+        "https://www.infor.com/platform",
+        "https://www.infor.com/about/privacy",
+        "https://www.infor.com/about/legal"
+      ]
+    },
+    {
+      "url": "https://www.infor.com/about/careers",
+      "finalUrl": "https://www.infor.com/about/careers",
+      "status": "success",
+      "sha256": "a8f383a3e5620069266cc2f0c77c42ecb7717a5a71ae9c0acf5504a7e0a19e8c",
+      "title": "Infor Careers | Job Opportunities in Tech",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infor.com/about",
+        "https://www.infor.com/about/careers/faq",
+        "https://www.infor.com/about/contact",
+        "https://www.infor.com/about/careers/life-at-infor",
+        "https://www.infor.com/about/careers/how-we-hire",
+        "https://www.infor.com/about/privacy",
+        "https://www.infor.com/about/legal"
+      ]
+    },
+    {
+      "url": "https://www.infor.com/about",
+      "finalUrl": "https://www.infor.com/about",
+      "status": "success",
+      "sha256": "0d6b1acee9b16eb223791ac6afb348180c9bed60a67a514d065dac5641f75fb5",
+      "title": "Industry Cloud Software & ERP Leader | Infor",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "y CEOs; Koch Equity invests $1.5 billion 2020 &ndash; Infor becomes a wholly-owned, standalone subsidiary of Koch Industries"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.infor.com/about/contact",
+        "https://www.infor.com/about/privacy",
+        "https://www.infor.com/about/legal"
+      ]
+    },
+    {
+      "url": "https://www.infor.com/about/contact",
+      "finalUrl": "https://www.infor.com/about/contact",
+      "status": "success",
+      "sha256": "abdeb1bfb95136a5f3d6e5e9454f6ee5139d235f5457cf4c99262c28951c1979",
+      "title": "Global Contact & Support Information | Infor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infor.com/about/privacy",
+        "https://www.infor.com/about/legal"
+      ]
+    }
+  ]
+}

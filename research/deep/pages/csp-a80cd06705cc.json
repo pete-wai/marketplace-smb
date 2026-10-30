@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-a80cd06705cc",
+  "retrievedAt": "2026-10-30T11:00:50.207Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.calderapbc.com/platform",
+      "finalUrl": "https://www.calderapbc.com/platform",
+      "status": "success",
+      "sha256": "8fefc09bc48d19502ccd4df27173d5218bf1a86bff0a1303d0030037b5349d23",
+      "title": "The Mesa platform | Caldera PBC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.calderapbc.com/about"
+      ]
+    },
+    {
+      "url": "https://www.calderapbc.com/about",
+      "finalUrl": "https://www.calderapbc.com/about",
+      "status": "success",
+      "sha256": "266e04fe77f9cb3acaabcce09c698ee2656b7aca71a23041a74d7ef5291c6022",
+      "title": "About us | Caldera PBC",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

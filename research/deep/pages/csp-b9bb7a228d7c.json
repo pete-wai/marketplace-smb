@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-b9bb7a228d7c",
+  "retrievedAt": "2026-10-30T11:01:51.532Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://patlytics.ai/",
+      "finalUrl": "https://www.patlytics.ai/",
+      "status": "success",
+      "sha256": "c16ce1adf2a3f5141da8839e9d9ca3fc7f2dba4efa5cb442b4ee3b37f8e071b9",
+      "title": "Patlytics • Premier AI-Powered Patent Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.patlytics.ai/about"
+      ]
+    },
+    {
+      "url": "https://www.patlytics.ai/about",
+      "finalUrl": "https://www.patlytics.ai/about",
+      "status": "success",
+      "sha256": "2de24777e12e45169b8b98715cc828bbb62cfaf467f6291c7faacab7f4a7be1c",
+      "title": "About Patlytics • Innovators at Heart",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.patlytics.ai/jp/about",
+        "https://www.patlytics.ai/kr/about",
+        "https://www.patlytics.ai/tw/about"
+      ]
+    },
+    {
+      "url": "https://www.patlytics.ai/jp/about",
+      "finalUrl": "https://www.patlytics.ai/jp/about",
+      "status": "success",
+      "sha256": "14adef14b6c5e3d404936ccd6e09d8f69383a64de9b24941249c5202155c9148",
+      "title": "Patlyticsについて • イノベーターの心を持つチーム",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.patlytics.ai/kr/about",
+        "https://www.patlytics.ai/tw/about"
+      ]
+    },
+    {
+      "url": "https://www.patlytics.ai/kr/about",
+      "finalUrl": "https://www.patlytics.ai/kr/about",
+      "status": "success",
+      "sha256": "c328f740751a7e156c0f6db9461b62d3b33fa71147e9c3f05d13f77552dde972",
+      "title": "Patlytics 소개 • 혁신을 향한 열정",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.patlytics.ai/tw/about"
+      ]
+    }
+  ]
+}

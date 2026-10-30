@@ -1,0 +1,90 @@
+{
+  "providerId": "csp-c86258261967",
+  "retrievedAt": "2026-10-30T11:00:50.903Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cgi.com/en",
+      "finalUrl": "https://www.cgi.com/en",
+      "status": "success",
+      "sha256": "295f5225d4983ed99af3e5d12491da73f81b414b9615b4664823bc45ab48ce50",
+      "title": "IT and business consulting services | CGI.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cgi.com/en/government",
+        "https://www.cgi.com/en/careers",
+        "https://www.cgi.com/en/case-study/transportation-logistics/modernizing-online-ticketing-platform-for-scalability",
+        "https://www.cgi.com/en/blog/artificial-intelligence/cfo-ai-token-economy-playbook",
+        "https://www.cgi.com/en/article/credit-management/processing-over-2-trillion-debt-daily",
+        "https://www.cgi.com/en/50-years",
+        "https://www.cgi.com/en/cgi-federal-applied-research-agreement-defense-agency-university-tennessee-knoxville",
+        "https://www.cgi.com/en/about-us",
+        "https://www.cgi.com/en/about-us/locations"
+      ]
+    },
+    {
+      "url": "https://www.cgi.com/en/solutions/momentum-federal-erp",
+      "finalUrl": "https://www.cgi.com/us/en-us/federal/momentum-enterprise-suite",
+      "status": "success",
+      "sha256": "6abd9c469927494239eb4d58a306b3e33968816dd5e11ccf13463cbaf55575c3",
+      "title": "Momentum® Enterprise Suite | CGI United States",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "support U.S. federal government agencies CGI Federal Inc . (CGI), the wholly-owned U. S. operating subsidiary of CGI Inc. (NYSE: GIB) (TSX: GIB. A), today announced the release of a Fraud, Waste and Abuse (FWA) Prevention Platform, a transformative solution"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.cgi.com/us/en-us/federal/momentum-enterprise-suite",
+        "https://www.cgi.com/us/en-us/federal",
+        "https://www.cgi.com/us/en-us/federal/optimizing-ai",
+        "https://www.cgi.com/us/en-us/federal/cybersecurity",
+        "https://www.cgi.com/us/en-us/federal/data",
+        "https://www.cgi.com/us/en-us/federal/consulting",
+        "https://www.cgi.com/us/en-us/federal/it-enabled-business-process-services",
+        "https://www.cgi.com/us/en-us/federal/systems-integration-modernization",
+        "https://www.cgi.com/us/en-us/case-study/federal-government/solving-complex-efficiency-challenges-subsidized-housing",
+        "https://www.cgi.com/us/en-us/state-local-government",
+        "https://www.cgi.com/us/en-us/federal/civilian",
+        "https://www.cgi.com/us/en-us/federal/defense"
+      ]
+    },
+    {
+      "url": "https://www.cgi.com/en/government",
+      "finalUrl": "https://www.cgi.com/en/government",
+      "status": "success",
+      "sha256": "35d2bae8255e313cc5e621ffb512f4035cc4033c235e360bb9ba83cc1bb5bff9",
+      "title": "Government | CGI.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cgi.com/en/careers",
+        "https://www.cgi.com/en/government/central-federal-government",
+        "https://www.cgi.com/en/government/defense-intelligence",
+        "https://www.cgi.com/en/government/state-provincial-local",
+        "https://www.cgi.com/en/governments/government-erp",
+        "https://www.cgi.com/en/health/government-health-human-services",
+        "https://www.cgi.com/en/government/public-safety-and-justice",
+        "https://www.cgi.com/en/government/tax-and-revenue-management",
+        "https://www.cgi.com/en/government/related-services",
+        "https://www.cgi.com/en/government/artificial-intelligence",
+        "https://www.cgi.com/au/en-au/government",
+        "https://www.cgi.com/belgium/en/government"
+      ]
+    },
+    {
+      "url": "https://www.cgi.com/en/careers",
+      "finalUrl": "https://www.cgi.com/en/careers",
+      "status": "success",
+      "sha256": "ae82b97340dfd339694bf7ff69fe14683ee9098738e0c66ff9c21b47df52fb85",
+      "title": "Careers | CGI.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cgi.com/en/article/about-us/cgi-named-time-magazine-world-best-companies",
+        "https://www.cgi.com/en/about-us/cgi-recognition",
+        "https://www.cgi.com/en/media/brochure/cgi-culture",
+        "https://www.cgi.com/en/about-us",
+        "https://www.cgi.com/en/about-us/locations"
+      ]
+    }
+  ]
+}

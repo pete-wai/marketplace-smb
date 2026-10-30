@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-ab0707733ae1",
+  "retrievedAt": "2026-10-30T11:02:29.802Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.visualvault.com/",
+      "finalUrl": "https://www.visualvault.com/",
+      "status": "success",
+      "sha256": "b0e44de8a28d08796c23a3cf131af99ce00f98c9ecc683c3455a00e91edf077c",
+      "title": "Cloud-Native ECM & Content Services Platform | VisualVault",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visualvault.com/platform/capabilities/",
+        "https://www.visualvault.com/public-sector/",
+        "https://www.visualvault.com/public-sector/licensing-permits/",
+        "https://www.visualvault.com/public-sector/compliance-enforcement/",
+        "https://www.visualvault.com/public-sector/case-management/",
+        "https://www.visualvault.com/public-sector/seniors-children-program-systems/",
+        "https://www.visualvault.com/public-sector/licensing-process-cannabis/",
+        "https://www.visualvault.com/public-sector/refugee-resettlement/",
+        "https://www.visualvault.com/company/",
+        "https://www.visualvault.com/company/partnerships/",
+        "https://www.visualvault.com/company/brochures/",
+        "https://www.visualvault.com/company/online-courses/"
+      ]
+    },
+    {
+      "url": "https://www.visualvault.com/platform/capabilities/",
+      "finalUrl": "https://www.visualvault.com/platform/capabilities/",
+      "status": "success",
+      "sha256": "f72e8e526431298806eb0c6c05b4a869c5b4483ace727c114a7410f7a5eb0cfa",
+      "title": "CSP Platform Capabilities | VisualVault",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visualvault.com/public-sector/",
+        "https://www.visualvault.com/public-sector/licensing-permits/",
+        "https://www.visualvault.com/public-sector/compliance-enforcement/",
+        "https://www.visualvault.com/public-sector/case-management/",
+        "https://www.visualvault.com/public-sector/seniors-children-program-systems/",
+        "https://www.visualvault.com/public-sector/licensing-process-cannabis/",
+        "https://www.visualvault.com/public-sector/refugee-resettlement/",
+        "https://www.visualvault.com/company/",
+        "https://www.visualvault.com/company/partnerships/",
+        "https://www.visualvault.com/company/brochures/",
+        "https://www.visualvault.com/company/online-courses/",
+        "https://www.visualvault.com/company/news-press-releases/"
+      ]
+    },
+    {
+      "url": "https://www.visualvault.com/public-sector/",
+      "finalUrl": "https://www.visualvault.com/public-sector/",
+      "status": "success",
+      "sha256": "6a5acebab0943603b651b7df849aac2386fe8b46a310493eda7ca1d789f76a97",
+      "title": "Government Workflow & Document Automation Solutions | VisualVault",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visualvault.com/public-sector/licensing-permits/",
+        "https://www.visualvault.com/public-sector/compliance-enforcement/",
+        "https://www.visualvault.com/public-sector/case-management/",
+        "https://www.visualvault.com/public-sector/seniors-children-program-systems/",
+        "https://www.visualvault.com/public-sector/licensing-process-cannabis/",
+        "https://www.visualvault.com/public-sector/refugee-resettlement/",
+        "https://www.visualvault.com/company/",
+        "https://www.visualvault.com/company/partnerships/",
+        "https://www.visualvault.com/company/brochures/",
+        "https://www.visualvault.com/company/online-courses/",
+        "https://www.visualvault.com/company/news-press-releases/",
+        "https://www.visualvault.com/company/careers/"
+      ]
+    },
+    {
+      "url": "https://www.visualvault.com/public-sector/licensing-permits/",
+      "finalUrl": "https://www.visualvault.com/public-sector/licensing-permits/",
+      "status": "success",
+      "sha256": "31865fee045d73ff6fc061ea53adc1cf99e50a808b179df6e676d5d1c5426594",
+      "title": "Public Sector Licensing & Permitting Management | VisualVault",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visualvault.com/public-sector/compliance-enforcement/",
+        "https://www.visualvault.com/public-sector/case-management/",
+        "https://www.visualvault.com/public-sector/seniors-children-program-systems/",
+        "https://www.visualvault.com/public-sector/licensing-process-cannabis/",
+        "https://www.visualvault.com/public-sector/refugee-resettlement/",
+        "https://www.visualvault.com/company/",
+        "https://www.visualvault.com/company/partnerships/",
+        "https://www.visualvault.com/company/brochures/",
+        "https://www.visualvault.com/company/online-courses/",
+        "https://www.visualvault.com/company/news-press-releases/",
+        "https://www.visualvault.com/company/careers/"
+      ]
+    }
+  ]
+}

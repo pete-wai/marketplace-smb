@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-8d1ad0e53be7",
+  "retrievedAt": "2026-10-30T11:00:59.310Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.exiger.com/industries/public-sector/",
+      "finalUrl": "https://www.exiger.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "65c57fb1c1eefebeb78ab6ec64f2fe0dd5e1b02a8284c5c3930de0d2809e28a3",
+      "title": "Public Sector - Exiger",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.exiger.com/about/",
+        "https://www.exiger.com/industries/public-sector/federal-contract-vehicles/",
+        "https://www.exiger.com/company-and-personnel-vetting/"
+      ]
+    },
+    {
+      "url": "https://www.exiger.com/about/",
+      "finalUrl": "https://www.exiger.com/about/",
+      "status": "success",
+      "sha256": "abefc56035fba345fd700b73dfe00e10e589578ca34bf3c6be230bcefe2a09fc",
+      "title": "Company - Exiger",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.exiger.com/perspectives/executive-order-14415-commercial-dual-use-suppliers/",
+        "https://www.exiger.com/perspectives/executive-order-14415-defense-supply-chain-ibom/"
+      ]
+    },
+    {
+      "url": "https://www.exiger.com/industries/public-sector/federal-contract-vehicles/",
+      "finalUrl": "https://www.exiger.com/industries/public-sector/federal-contract-vehicles/",
+      "status": "success",
+      "sha256": "22952fafde713f0680e4ea3e925d5db975a5d4d4498a6dd43a9d8d3bbd6be482",
+      "title": "Federal Contract Vehicles - Exiger",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ugh several authorized resellers across the SEWP Groups including the SDVOSB and Small Business pools. For approval, the requesting Federal Agency Contracting Officer (CO) should send a letter to the SEWP V program Management Office with the following information: Authorizing"
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "lity: Open to all U.S. Government Departments and Agencies Scope: The acquisition of Software-as-a-Service for deployable due diligence/illumination subscriptions for cyber-hygiene, supply chain, foreign ownership, control, and influence (FOCI) vendor vetting and affiliated entity as well as personnel vetting"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.exiger.com/perspectives/government-enterprise-scrm-tprm-platform/"
+      ]
+    },
+    {
+      "url": "https://www.exiger.com/company-and-personnel-vetting/",
+      "finalUrl": "https://www.exiger.com/company-and-personnel-vetting/",
+      "status": "success",
+      "sha256": "4fd615963ed8b235c6e55860d77e19c18623571703873c482025b4d2c2e7ba99",
+      "title": "Company & Personnel Vetting - Exiger",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

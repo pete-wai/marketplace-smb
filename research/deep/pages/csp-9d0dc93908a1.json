@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-9d0dc93908a1",
+  "retrievedAt": "2026-10-30T11:01:11.457Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://eptura.com/industries/government/archibus-for-government/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

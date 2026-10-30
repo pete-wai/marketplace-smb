@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-014b361fe5f1",
+  "retrievedAt": "2026-10-30T11:02:12.202Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.siteimprove.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

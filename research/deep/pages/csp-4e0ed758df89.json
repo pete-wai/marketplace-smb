@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4e0ed758df89",
+  "retrievedAt": "2026-10-30T11:00:36.859Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.achieveit.com/",
+      "finalUrl": "https://www.achieveit.com/",
+      "status": "success",
+      "sha256": "001ef3c88e31c018c30dd0c4c2a8c44298a379183f4f0343c28ac7410015a97f",
+      "title": "Strategy Management & Execution Software | AchieveIt",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

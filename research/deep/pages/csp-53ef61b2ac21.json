@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-53ef61b2ac21",
+  "retrievedAt": "2026-10-30T11:01:52.131Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tagovcloud.com/",
+      "finalUrl": "https://www.tagovcloud.com/",
+      "status": "success",
+      "sha256": "66071ec6a06f67992383fe8b8f10b113d9f75561fb46d82c76f16ccae66b2a74",
+      "title": "Content & Document Management Solution - TransAccess",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ember 2, 2025 – Duluth, GA – Peniel Solutions LLC, a service-disabled veteran-owned small business (SDVOSB), is proud to announce that its flagship records management [...] Read More 0 3 Signs Your Records Management Program Needs Outside Assistance Gallery 3"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.tagovcloud.com/about/",
+        "https://www.tagovcloud.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.tagovcloud.com/about/",
+      "finalUrl": "https://www.tagovcloud.com/about/",
+      "status": "success",
+      "sha256": "93d586aa6496442e4dd68106dd1f8bb38a5581b8143b59f501847db6b57c9e78",
+      "title": "About - TransAccess",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tagovcloud.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.tagovcloud.com/company/",
+      "finalUrl": "https://www.tagovcloud.com/company/",
+      "status": "success",
+      "sha256": "dac854e7da4e0dd0534cf552091c9f373f03dd8452819e2048f2dbf088e620c0",
+      "title": "Company - TransAccess",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

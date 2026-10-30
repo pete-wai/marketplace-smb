@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-be1e7d8f5a99",
+  "retrievedAt": "2026-10-30T11:00:47.485Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.bizagi.com/",
+      "finalUrl": "https://www.bizagi.com/en",
+      "status": "success",
+      "sha256": "182c746d1a158c07f5258dfc65bd47597e21b3e737425a79acfc7f5930a931f7",
+      "title": "Business Orchestration for AI Impact | Bizagi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bizagi.com/en/solutions/public-sector",
+        "https://www.bizagi.com/en/about",
+        "https://www.bizagi.com/en/about/the-team",
+        "https://www.bizagi.com/en/about/offices",
+        "https://www.bizagi.com/en/about/careers",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/why-bizagi-.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/careers.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/news-and-events/events.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/offices.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/contact-bizagi.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/bizagi-modeler.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/platform.html"
+      ]
+    },
+    {
+      "url": "https://www.bizagi.com/en/solutions/public-sector",
+      "finalUrl": "https://www.bizagi.com/en/solutions/public-sector",
+      "status": "success",
+      "sha256": "c243dcd57b02163c792a2d37941af2b6385fe0e1ae39df87e9b869b43021067a",
+      "title": "Automation in the Public Sector - Streamline Processes | Bizagi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bizagi.com/en/about",
+        "https://www.bizagi.com/en/about/the-team",
+        "https://www.bizagi.com/en/about/offices",
+        "https://www.bizagi.com/en/about/careers",
+        "https://www.bizagi.com/en/solutions/public-sector/acquisition-management",
+        "https://www.bizagi.com/en/blog/government-public-sector/how-government-can-stop-wasting-money-on-software-they-dont-use",
+        "https://www.bizagi.com/en/blog/government-public-sector/how-automation-can-transform-federal-executive-requests",
+        "https://www.bizagi.com/en/blog/government-public-sector/how-automation-can-transform-federal-compliance-requirements",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/why-bizagi-.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/careers.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/news-and-events/events.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/offices.html"
+      ]
+    },
+    {
+      "url": "https://www.bizagi.com/en/about",
+      "finalUrl": "https://www.bizagi.com/en/about",
+      "status": "success",
+      "sha256": "dc5be03bedbcd607857070d537fc67ef104f54abccca5f4c29c3f8e866fe5d85",
+      "title": "About | Bizagi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bizagi.com/en/about/the-team",
+        "https://www.bizagi.com/en/about/offices",
+        "https://www.bizagi.com/en/about/careers",
+        "https://www.bizagi.com/en/about/bizagi-spark",
+        "https://www.bizagi.com/en/solutions/artificial-intelligence",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/why-bizagi-.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/careers.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/news-and-events/events.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/offices.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/contact-bizagi.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/bizagi-modeler.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/platform.html"
+      ]
+    },
+    {
+      "url": "https://www.bizagi.com/en/about/the-team",
+      "finalUrl": "https://www.bizagi.com/en/about/the-team",
+      "status": "success",
+      "sha256": "9c2104dd9286a8262fc2499d3a38c118ac69a453e5efe061c9abcf4b26e0544c",
+      "title": "Meet Our Leadership Team | Bizagi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bizagi.com/en/about/offices",
+        "https://www.bizagi.com/en/about/careers",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/why-bizagi-.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/careers.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/news-and-events/events.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/bizagi/offices.html",
+        "https://www.bizagi.com/sites/bizagi/home/about/contact-bizagi.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/bizagi-modeler.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/platform.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/bizagi-automation.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/bizagi-apps.html",
+        "https://www.bizagi.com/sites/bizagi/home/platform/platform-capabilities/orchestration.html"
+      ]
+    }
+  ]
+}

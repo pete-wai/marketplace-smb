@@ -1,0 +1,88 @@
+{
+  "providerId": "csp-b6783969bc07",
+  "retrievedAt": "2026-10-30T11:01:16.689Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.forcepoint.com/",
+      "finalUrl": "https://www.forcepoint.com/",
+      "status": "success",
+      "sha256": "c3e00cd5f02a354d1789d95d6bd63e137952dd0b9f1fb2a3a8e4e58e2e1b18a7",
+      "title": "Forcepoint: AI Data Security | Secure Agents, Stop Shadow AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forcepoint.com/industry/public-sector",
+        "https://www.forcepoint.com/company/customers",
+        "https://www.forcepoint.com/company/about-us",
+        "https://www.forcepoint.com/company/work-with-us",
+        "https://www.forcepoint.com/company/contact-us"
+      ]
+    },
+    {
+      "url": "https://www.forcepoint.com/industry/public-sector",
+      "finalUrl": "https://www.forcepoint.com/industry/public-sector",
+      "status": "success",
+      "sha256": "0b7c9f91684dc8ccac8b4bb206db7cc9832633dc9277ff743d8d1b0637cf8871",
+      "title": "NIST-Compliant Cybersecurity Software for the Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forcepoint.com/es/industry/public-sector",
+        "https://www.forcepoint.com/fr/industry/public-sector",
+        "https://www.forcepoint.com/de/industry/public-sector",
+        "https://www.forcepoint.com/it/industry/public-sector",
+        "https://www.forcepoint.com/pt-br/industry/public-sector",
+        "https://www.forcepoint.com/zh-hans/industry/public-sector",
+        "https://www.forcepoint.com/zh-hant/industry/public-sector",
+        "https://www.forcepoint.com/ja/industry/public-sector",
+        "https://www.forcepoint.com/ko/industry/public-sector",
+        "https://www.forcepoint.com/tr/industry/public-sector",
+        "https://www.forcepoint.com/ar/industry/public-sector",
+        "https://www.forcepoint.com/company/customers"
+      ]
+    },
+    {
+      "url": "https://www.forcepoint.com/company/customers",
+      "finalUrl": "https://www.forcepoint.com/company/customers",
+      "status": "success",
+      "sha256": "aa7b30b05aa0c54939e34a993afa209a5db44107150f15faab572f4575706e42",
+      "title": "Forcepoint Customer Stories",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forcepoint.com/company/customers?page=2",
+        "https://www.forcepoint.com/es/company/customers",
+        "https://www.forcepoint.com/fr/company/customers",
+        "https://www.forcepoint.com/de/company/customers",
+        "https://www.forcepoint.com/it/company/customers",
+        "https://www.forcepoint.com/pt-br/company/customers",
+        "https://www.forcepoint.com/zh-hans/company/customers",
+        "https://www.forcepoint.com/zh-hant/company/customers",
+        "https://www.forcepoint.com/ja/company/customers",
+        "https://www.forcepoint.com/ko/company/customers",
+        "https://www.forcepoint.com/tr/company/customers",
+        "https://www.forcepoint.com/ar/company/customers"
+      ]
+    },
+    {
+      "url": "https://www.forcepoint.com/company/about-us",
+      "finalUrl": "https://www.forcepoint.com/company/about-us",
+      "status": "success",
+      "sha256": "a85a864544c2980c1635e3204ebe242bb7b1b893356953ce55431b08cfd9a09c",
+      "title": "About Us | We Secure Data Everywhere It Moves",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forcepoint.com/es/company/about-us",
+        "https://www.forcepoint.com/fr/company/about-us",
+        "https://www.forcepoint.com/de/company/about-us",
+        "https://www.forcepoint.com/it/company/about-us",
+        "https://www.forcepoint.com/pt-br/company/about-us",
+        "https://www.forcepoint.com/zh-hans/company/about-us",
+        "https://www.forcepoint.com/zh-hant/company/about-us",
+        "https://www.forcepoint.com/ja/company/about-us",
+        "https://www.forcepoint.com/ko/company/about-us",
+        "https://www.forcepoint.com/tr/company/about-us",
+        "https://www.forcepoint.com/ar/company/about-us",
+        "https://www.forcepoint.com/company/work-with-us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-e4a43dd4dc49",
+  "retrievedAt": "2026-10-30T11:01:16.415Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://fmsystems.com/products/hybrid-workplace/room-scheduling/",
+      "finalUrl": "https://fmsystems.com/products/workplace-experience/room-scheduling/",
+      "status": "success",
+      "sha256": "3120e5a63b470e3d5d45e94d1e80639c6cf12a2f285e95c521378071358c0492",
+      "title": "Full Service Room Scheduling Software | FM:Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://fmsystems.com/industries/government/",
+        "https://fmsystems.com/about-us/",
+        "https://fmsystems.com/about-us/leadership/",
+        "https://fmsystems.com/about-us/awards/"
+      ]
+    },
+    {
+      "url": "https://fmsystems.com/industries/government/",
+      "finalUrl": "https://fmsystems.com/industries/government/",
+      "status": "success",
+      "sha256": "9574cab715a56f7681a317358d99c1c1e9b3c565e393713e49734a24d69136ba",
+      "title": "Space & Facility Management Software for Government | FM:Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://fmsystems.com/about-us/",
+        "https://fmsystems.com/about-us/leadership/",
+        "https://fmsystems.com/about-us/awards/",
+        "https://fmsystems.com/industries/government/federal-government",
+        "https://fmsystems.com/resources/government-hybrid-workplace-resource-library-gated/"
+      ]
+    },
+    {
+      "url": "https://fmsystems.com/about-us/",
+      "finalUrl": "https://fmsystems.com/about-us/",
+      "status": "success",
+      "sha256": "1098076a9e91f39dcf376f83743e2792c5acc9e5cd965d8917b6e674f67c64f9",
+      "title": "About FM:Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://fmsystems.com/about-us/leadership/",
+        "https://fmsystems.com/about-us/awards/"
+      ]
+    },
+    {
+      "url": "https://fmsystems.com/about-us/leadership/",
+      "finalUrl": "https://fmsystems.com/about-us/",
+      "status": "success",
+      "sha256": "1776fa4e4852a26d50e11f9d420a5fa79a42d5afb16420ac002a153c728d21c5",
+      "title": "About FM:Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://fmsystems.com/about-us/awards/"
+      ]
+    }
+  ]
+}

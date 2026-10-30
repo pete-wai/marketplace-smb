@@ -1,0 +1,83 @@
+{
+  "providerId": "csp-07ad65c5afba",
+  "retrievedAt": "2026-10-30T11:01:21.912Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.icertis.com/solutions/industry/public-sector/government/",
+      "finalUrl": "https://www.icertis.com/solutions/government/",
+      "status": "success",
+      "sha256": "296cf7008dcdc08069743d9a33d6fc5dabdc7920b6c3a136d6f3f15c0a741907",
+      "title": "Icertis Federal Government Edition | Icertis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.icertis.com/solutions/government/",
+        "https://www.icertis.com/solutions/government-contractors/",
+        "https://www.icertis.com/solutions/industry-solutions/public-sector/",
+        "https://www.icertis.com/company/events/",
+        "https://www.icertis.com/company/",
+        "https://www.icertis.com/company/leadership/",
+        "https://www.icertis.com/company/news/",
+        "https://www.icertis.com/company/careers/",
+        "https://www.icertis.com/company/corporate-social-responsibility/",
+        "https://www.icertis.com/learn/"
+      ]
+    },
+    {
+      "url": "https://www.icertis.com/solutions/government/",
+      "finalUrl": "https://www.icertis.com/solutions/government/",
+      "status": "success",
+      "sha256": "eadfd28a94f1c3cb7edb323cb4fc745a58259207d73d8f7afd41372c5f9d0a12",
+      "title": "Icertis Federal Government Edition | Icertis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.icertis.com/solutions/government-contractors/",
+        "https://www.icertis.com/solutions/industry-solutions/public-sector/",
+        "https://www.icertis.com/company/events/",
+        "https://www.icertis.com/company/",
+        "https://www.icertis.com/company/leadership/",
+        "https://www.icertis.com/company/news/",
+        "https://www.icertis.com/company/careers/",
+        "https://www.icertis.com/company/corporate-social-responsibility/",
+        "https://www.icertis.com/learn/"
+      ]
+    },
+    {
+      "url": "https://www.icertis.com/solutions/government-contractors/",
+      "finalUrl": "https://www.icertis.com/solutions/government-contractors/",
+      "status": "success",
+      "sha256": "b643c9cf625a027073a8953ecdfdab60dc72730af12ec89c3e3e9fd41191707c",
+      "title": "End-to-End Federal Contract Intelligence | Icertis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.icertis.com/solutions/industry-solutions/public-sector/",
+        "https://www.icertis.com/company/events/",
+        "https://www.icertis.com/company/",
+        "https://www.icertis.com/company/leadership/",
+        "https://www.icertis.com/company/news/",
+        "https://www.icertis.com/company/careers/",
+        "https://www.icertis.com/company/corporate-social-responsibility/",
+        "https://www.icertis.com/company/news/icertis-recognized-as-winner-of-2024-microsoft-defense-and-intelligence-partner-of-the-year/",
+        "https://www.icertis.com/research/webinars/insights-from-accenture-and-icertis/register/",
+        "https://www.icertis.com/learn/"
+      ]
+    },
+    {
+      "url": "https://www.icertis.com/solutions/industry-solutions/public-sector/",
+      "finalUrl": "https://www.icertis.com/solutions/industry-solutions/public-sector/",
+      "status": "success",
+      "sha256": "e7e59661b60f191a7a9d873fa204bc8ee19b93d3f19c0792fe4aaec57eb60f04",
+      "title": "Public Sector | Icertis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.icertis.com/company/events/",
+        "https://www.icertis.com/company/",
+        "https://www.icertis.com/company/leadership/",
+        "https://www.icertis.com/company/news/",
+        "https://www.icertis.com/company/careers/",
+        "https://www.icertis.com/company/corporate-social-responsibility/",
+        "https://www.icertis.com/learn/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-d82a4da9a6c1",
+  "retrievedAt": "2026-10-30T11:01:53.967Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.phenom.com/government-public-sector",
+      "finalUrl": "https://www.phenom.com/industries/public-sector",
+      "status": "success",
+      "sha256": "9aea3854d4b3ca4b700647e61614b2e7ddbedf7af5d2d6a2ff0f15470366b4ae",
+      "title": "Public Sector AI Recruiting and Talent Management | Phenom",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.phenom.com/industries/public-sector",
+        "https://www.phenom.com/about",
+        "https://www.phenom.com/resource/ai-skills-based-hiring-government",
+        "https://www.phenom.com/blog/public-sector-recruitment-strategies"
+      ]
+    },
+    {
+      "url": "https://www.phenom.com/industries/public-sector",
+      "finalUrl": "https://www.phenom.com/industries/public-sector",
+      "status": "success",
+      "sha256": "9aea3854d4b3ca4b700647e61614b2e7ddbedf7af5d2d6a2ff0f15470366b4ae",
+      "title": "Public Sector AI Recruiting and Talent Management | Phenom",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.phenom.com/about",
+        "https://www.phenom.com/resource/ai-skills-based-hiring-government",
+        "https://www.phenom.com/blog/public-sector-recruitment-strategies"
+      ]
+    },
+    {
+      "url": "https://www.phenom.com/about",
+      "finalUrl": "https://www.phenom.com/about",
+      "status": "success",
+      "sha256": "9fc77f5c0d2cb3a94aa85b8bea2cde160000180543dd7857dd545f0a363e6a46",
+      "title": "About Phenom | Applied AI for Hiring & Talent Experience",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.phenom.com/resource/ai-skills-based-hiring-government",
+      "finalUrl": "https://www.phenom.com/resource/ai-skills-based-hiring-government",
+      "status": "success",
+      "sha256": "73bc092f8471475f8a193fc61991ea0b7ab804f53e6139b7634ad8dcef8b22f1",
+      "title": "AI Skills-Based Hiring for Government Agencies | Phenom",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "providerId": "csp-c032e4b7015e",
+  "retrievedAt": "2026-10-30T11:01:37.729Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.longevityconsulting.com/riskuity/",
+      "finalUrl": "https://www.longevityconsulting.com/riskuity/",
+      "status": "success",
+      "sha256": "1dd78cf58931c5357dea4eedcf9b39bd2300450f49206c755be3b91fb1dc9862",
+      "title": "Riskuity - Longevity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.longevityconsulting.com/capabilities/",
+        "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/",
+        "https://www.longevityconsulting.com/capabilities/business-technology-services/",
+        "https://www.longevityconsulting.com/capabilities/risk-safety-mission-assurance/",
+        "https://www.longevityconsulting.com/capabilities/human-capital-workforce-innovation/",
+        "https://www.longevityconsulting.com/about/",
+        "https://www.longevityconsulting.com/about/our-team/",
+        "https://www.longevityconsulting.com/about/contract-vehicles/",
+        "https://www.longevityconsulting.com/about/news-publications/"
+      ]
+    },
+    {
+      "url": "https://www.longevityconsulting.com/capabilities/",
+      "finalUrl": "https://www.longevityconsulting.com/capabilities/",
+      "status": "success",
+      "sha256": "06b5f5da02372daf62ccf8a74686529bf28632f44c9aa7c18c11d853470bd696",
+      "title": "Capabilities - Longevity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/",
+        "https://www.longevityconsulting.com/capabilities/business-technology-services/",
+        "https://www.longevityconsulting.com/capabilities/risk-safety-mission-assurance/",
+        "https://www.longevityconsulting.com/capabilities/human-capital-workforce-innovation/",
+        "https://www.longevityconsulting.com/about/",
+        "https://www.longevityconsulting.com/about/our-team/",
+        "https://www.longevityconsulting.com/about/contract-vehicles/",
+        "https://www.longevityconsulting.com/about/news-publications/",
+        "https://www.longevityconsulting.com/case-study/department-of-transportation-federal-transit-administration/"
+      ]
+    },
+    {
+      "url": "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/",
+      "finalUrl": "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/",
+      "status": "success",
+      "sha256": "4e2c1bb6b7bf953ed7d64457f40b492245fee2394c6b8def9ba84db6a418d05d",
+      "title": "Strategic Management and Acquisition* - Longevity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.longevityconsulting.com/capabilities/business-technology-services/",
+        "https://www.longevityconsulting.com/capabilities/risk-safety-mission-assurance/",
+        "https://www.longevityconsulting.com/capabilities/human-capital-workforce-innovation/",
+        "https://www.longevityconsulting.com/about/",
+        "https://www.longevityconsulting.com/about/our-team/",
+        "https://www.longevityconsulting.com/about/contract-vehicles/",
+        "https://www.longevityconsulting.com/about/news-publications/",
+        "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/acquisition-lifecycle-management/",
+        "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/program-management-delivery/",
+        "https://www.longevityconsulting.com/capabilities/strategic-management-and-acquisition/business-transformation-change/"
+      ]
+    },
+    {
+      "url": "https://www.longevityconsulting.com/capabilities/business-technology-services/",
+      "finalUrl": "https://www.longevityconsulting.com/capabilities/business-technology-services/",
+      "status": "success",
+      "sha256": "fed27a284e4bb1886bd7e5e85b241bf82e58e4fe21280f6c18e47b2eedcd1970",
+      "title": "Business & Technology Services* - Longevity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.longevityconsulting.com/capabilities/risk-safety-mission-assurance/",
+        "https://www.longevityconsulting.com/capabilities/human-capital-workforce-innovation/",
+        "https://www.longevityconsulting.com/about/",
+        "https://www.longevityconsulting.com/about/our-team/",
+        "https://www.longevityconsulting.com/about/contract-vehicles/",
+        "https://www.longevityconsulting.com/about/news-publications/",
+        "https://www.longevityconsulting.com/capabilities/business-technology-services/agile-software-solutions/",
+        "https://www.longevityconsulting.com/capabilities/business-technology-services/it-strategy-and-transformation/",
+        "https://www.longevityconsulting.com/capabilities/business-technology-services/data-analytics-insights/"
+      ]
+    }
+  ]
+}

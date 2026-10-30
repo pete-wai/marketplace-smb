@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9d365ae21e2d",
+  "retrievedAt": "2026-10-30T11:00:56.355Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://connectsecure.com/",
+      "finalUrl": "https://connectsecure.com/",
+      "status": "success",
+      "sha256": "e848333c0ea0f89a1094050714c84fd35ae0e220f7502ecaa2925282918c45f8",
+      "title": "Vulnerability, Patch & Compliance Software | ConnectSecure",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

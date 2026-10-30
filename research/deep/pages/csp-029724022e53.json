@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-029724022e53",
+  "retrievedAt": "2026-10-30T11:01:45.165Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://nexthink.com/platform/government",
+      "finalUrl": "https://nexthink.com/solutions/industries/government",
+      "status": "success",
+      "sha256": "c980a1d0bce838c935c9e725b342090cebb63c7472d721c55e108e1163e0bb7a",
+      "title": "Government | Nexthink",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nexthink.com/solutions/industries/government",
+        "https://nexthink.com/company/about-us",
+        "https://nexthink.com/company/awards",
+        "https://nexthink.com/company/careers",
+        "https://nexthink.com/blog/nexthink-infinity-for-government-is-now-fedramp-class-c-certified"
+      ]
+    },
+    {
+      "url": "https://nexthink.com/solutions/industries/government",
+      "finalUrl": "https://nexthink.com/solutions/industries/government",
+      "status": "success",
+      "sha256": "c980a1d0bce838c935c9e725b342090cebb63c7472d721c55e108e1163e0bb7a",
+      "title": "Government | Nexthink",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nexthink.com/company/about-us",
+        "https://nexthink.com/company/awards",
+        "https://nexthink.com/company/careers",
+        "https://nexthink.com/blog/nexthink-infinity-for-government-is-now-fedramp-class-c-certified"
+      ]
+    },
+    {
+      "url": "https://nexthink.com/company/about-us",
+      "finalUrl": "https://nexthink.com/company/about-us",
+      "status": "success",
+      "sha256": "a0c3e96185170d66b99e794bbc770dc5ecbec971123d5ba38a03dea07cb8d7b8",
+      "title": "About Us | Nexthink",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nexthink.com/company/awards",
+        "https://nexthink.com/company/careers",
+        "https://nexthink.com/company/leadership"
+      ]
+    },
+    {
+      "url": "https://nexthink.com/company/awards",
+      "finalUrl": "https://nexthink.com/company/awards",
+      "status": "success",
+      "sha256": "812ea20eb15913f4b180048fcef99828f0a13f253a5b622f954fc9a3cf4fdd92",
+      "title": "Awards | Nexthink",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nexthink.com/company/careers"
+      ]
+    }
+  ]
+}

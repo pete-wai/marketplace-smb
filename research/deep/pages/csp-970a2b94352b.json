@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-970a2b94352b",
+  "retrievedAt": "2026-10-30T11:00:50.083Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cableteque.com/",
+      "finalUrl": "https://cableteque.com/",
+      "status": "success",
+      "sha256": "8dece8011cf50c62c178a6b607f2c65175d9d6cef320d63974535117fe012af1",
+      "title": "Cableteque | The Operating System for Wire Harness Manufacturers",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cableteque.com/about",
+        "https://cableteque.com/case-studies/derrick-lang",
+        "https://cableteque.com/case-studies/kcm-cable"
+      ]
+    },
+    {
+      "url": "https://cableteque.com/about",
+      "finalUrl": "https://cableteque.com/about",
+      "status": "success",
+      "sha256": "a6d7fe2205ffe0ed1caf88d079a8275f78698c945aae2192382abfec6c803fe5",
+      "title": "About Cableteque | Built by Wire Harness Manufacturers",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://cableteque.com/case-studies/derrick-lang",
+      "finalUrl": "https://cableteque.com/case-studies/derrick-lang",
+      "status": "success",
+      "sha256": "999ecb013e96d22d260422da0affa86733d8264692f8a425aa93903445b080a7",
+      "title": "Case Study: Derrick Lang | Cableteque",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://cableteque.com/case-studies/kcm-cable",
+      "finalUrl": "https://cableteque.com/case-studies/kcm-cable",
+      "status": "success",
+      "sha256": "682eff7453e5a84e926eb32b66a05bb8353052054453587b94d745e1de3ae7cc",
+      "title": "Case Study: KCM Cable | Cableteque",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

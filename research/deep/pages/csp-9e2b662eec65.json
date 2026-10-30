@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-9e2b662eec65",
+  "retrievedAt": "2026-10-30T11:00:39.293Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://andesite.ai/",
+      "finalUrl": "https://andesite.ai/",
+      "status": "success",
+      "sha256": "f506299b8e7a21888686e24051abab116a58b5f3eaa470e26e6967f30e6eb2c9",
+      "title": "Andesite | The Human+AI SOC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://andesite.ai/company/",
+        "https://andesite.ai/blog/how-andesite-helps-cisos-control-their-ai-spend/",
+        "https://andesite.ai/blog/how-we-ensure-and-track-andesites-ai-accuracy/"
+      ]
+    },
+    {
+      "url": "https://andesite.ai/company/",
+      "finalUrl": "https://andesite.ai/company/",
+      "status": "success",
+      "sha256": "48112a85b54bb08e698ee9c3d3281b53363372c58b1a414133a693e23029a67a",
+      "title": "Mission-driven security experts | Andesite",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://andesite.ai/blog/how-andesite-helps-cisos-control-their-ai-spend/",
+      "finalUrl": "https://andesite.ai/blog/how-andesite-helps-cisos-control-their-ai-spend/",
+      "status": "success",
+      "sha256": "e6fcee6678883457dd5513f801d36bcf3875181efa180106119b30ed2804160d",
+      "title": "How Andesite Helps CISOs Control Their AI Spend | Andesite",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://andesite.ai/blog/how-we-ensure-and-track-andesites-ai-accuracy/",
+      "finalUrl": "https://andesite.ai/blog/how-we-ensure-and-track-andesites-ai-accuracy/",
+      "status": "success",
+      "sha256": "c7035aab685223da42c2b579d3959205f94a6484306b2d53f9b41ab7b3f60716",
+      "title": "How We Ensure – and Track – Andesite’s AI Accuracy | Andesite",
+      "signals": [],
+      "discoveredLinks": [
+        "https://andesite.ai/media/andesite-ciso-and-soc-manager-partnered-to-write-an-article-about-the-importance-of-having-humans-at-the-helm-of-security-operations/"
+      ]
+    }
+  ]
+}

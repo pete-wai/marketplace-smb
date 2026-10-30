@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-23d59a8662d6",
+  "retrievedAt": "2026-10-30T11:01:41.545Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://mimic.com/",
+      "finalUrl": "https://mimic.com/",
+      "status": "success",
+      "sha256": "438c01a8e143f2ff7b40b857ffe2797ecc27b2fba306282580b610880e7a2ce6",
+      "title": "Mimic Networks: Known-Good Enforcement for the Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://mimic.com/about",
+        "https://mimic.com/industries/public-sector"
+      ]
+    },
+    {
+      "url": "https://mimic.com/about",
+      "finalUrl": "https://mimic.com/about",
+      "status": "success",
+      "sha256": "b3a170b381fc0ccb314fbec722475454fc36945d18cf874accf22087c6dd8176",
+      "title": "About Mimic: Known-Good Enforcement for Enterprise IT",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "developing the industry&#x27;s first data leak prevention technology (acquired by Raytheon) and the first-ever bot defense company (acquired by F5), have come together to develop an entirely new approach to ransomware defense. LEADERSHIP TEAM Derek Smith CEO Derek Smith LinkedIn"
+        }
+      ],
+      "discoveredLinks": [
+        "https://mimic.com/industries/public-sector"
+      ]
+    },
+    {
+      "url": "https://mimic.com/industries/public-sector",
+      "finalUrl": "https://mimic.com/industries/public-sector",
+      "status": "success",
+      "sha256": "3d2ce8d43849c25249bd098fdb1ba378b4ff0fbdd4de2e5970d688ae2abbbbe3",
+      "title": "Server Protection for Federal Agencies | Mimic Networks",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

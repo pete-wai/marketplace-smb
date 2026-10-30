@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-273a0ab7d791",
+  "retrievedAt": "2026-10-30T11:00:39.509Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.anecdotes.ai/",
+      "finalUrl": "https://www.anecdotes.ai/",
+      "status": "success",
+      "sha256": "0397d07d6fc90a22889901affb4d2e6b1394c4cde608d20e6851a4d7ad3b1535",
+      "title": "Enterprise GRC Platform Powered by Agentic AI | Anecdotes",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.anecdotes.ai/about-us",
+        "https://www.anecdotes.ai/data-engine"
+      ]
+    },
+    {
+      "url": "https://www.anecdotes.ai/about-us",
+      "finalUrl": "https://www.anecdotes.ai/about-us",
+      "status": "success",
+      "sha256": "7b782fbd6a6a0dfd4b0daa1bc64ca2ebee72d6694d2837ffce1de8b961d3acd9",
+      "title": "About Us: Building the Future of GRC Together | Anecdotes",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.anecdotes.ai/data-engine",
+      "finalUrl": "https://www.anecdotes.ai/data-engine",
+      "status": "success",
+      "sha256": "49629a395f3db20afc933dff70299c2e4d3d8237f36be54361f62168e649d5c5",
+      "title": "GRC Data Engine | 230+ Integrations | Anecdotes",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

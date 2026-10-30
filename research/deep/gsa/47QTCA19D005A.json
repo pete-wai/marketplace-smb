@@ -1,0 +1,18 @@
+{
+  "name": "STACKARMOR, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA19D005A&contractorName=STACKARMOR%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-f85266e98d4b"
+  ],
+  "contractNumber": "47QTCA19D005A",
+  "retrievedAt": "2026-10-30T11:08:38.154Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:18.273Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

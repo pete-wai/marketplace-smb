@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-9192dac88087",
+  "retrievedAt": "2026-10-30T11:01:49.683Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.getopenwater.com/",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://openwater.com/",
+      "finalUrl": "https://openwater.com/",
+      "status": "success",
+      "sha256": "1d694304621c620e1f6c15ec1e963c130b0313fca0184512d010cff2edc3f322",
+      "title": "OpenWater - Awards, Abstract, Application Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://openwater.com/about-us"
+      ]
+    },
+    {
+      "url": "https://openwater.com/about-us",
+      "finalUrl": "https://openwater.com/about-us",
+      "status": "success",
+      "sha256": "70abb4bc7429a4b82264da87d284765abd90f137111903cb5c4977620510ed75",
+      "title": "About Us - Application & Review Software | OpenWater",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

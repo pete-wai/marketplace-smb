@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-e473f24d4325",
+  "retrievedAt": "2026-10-30T11:02:32.845Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.zendesk.com/",
+      "finalUrl": "https://www.zendesk.com/",
+      "status": "success",
+      "sha256": "c85f4c1affdee9309d6c84dd8ebf1c3d28a75722d4ec60d39b8f8b01f9dc2b3c",
+      "title": "AI-Powered Customer Service Platform | Zendesk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=eyebrow&amp;utm_campaign=AISummit_26_eyebrow1_NA_2026Q3",
+        "https://www.zendesk.com/industries/government/",
+        "https://www.zendesk.com/company/events/",
+        "https://www.zendesk.com/company/",
+        "https://www.zendesk.com/newsroom/",
+        "https://www.zendesk.com/company/careers/",
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=navigation&amp;utm_campaign=AISummit_26_nav2_NA_2026Q3",
+        "https://www.zendesk.com/company/agreements-and-terms/privacy-notice/",
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=homepage&amp;utm_campaign=AISummit_26_countdown_NA_2026Q3",
+        "https://www.zendesk.com/company/belonging/",
+        "https://www.zendesk.com/company/sustainability/",
+        "https://www.zendesk.com/company/ventures/"
+      ]
+    },
+    {
+      "url": "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=eyebrow&amp;utm_campaign=AISummit_26_eyebrow1_NA_2026Q3",
+      "finalUrl": "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=eyebrow&amp;utm_campaign=AISummit_26_eyebrow1_NA_2026Q3",
+      "status": "success",
+      "sha256": "baf51f385da7156fe1d985beeaabe45953ee3336e76012ebcb2a5dd32a94e619",
+      "title": "Zendesk AI Summit 2026",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.zendesk.com/industries/government/",
+        "https://www.zendesk.com/company/events/",
+        "https://www.zendesk.com/company/",
+        "https://www.zendesk.com/newsroom/",
+        "https://www.zendesk.com/company/careers/",
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=navigation&amp;utm_campaign=AISummit_26_nav2_NA_2026Q3",
+        "https://www.zendesk.com/company/events/ai-summit-2026/",
+        "https://www.zendesk.com/dk/company/events/ai-summit-2026/",
+        "https://www.zendesk.com/se/company/events/ai-summit-2026/",
+        "https://www.zendesk.com/au/company/events/ai-summit-2026/",
+        "https://www.zendesk.com/in/company/events/ai-summit-2026/",
+        "https://www.zendesk.com/company/agreements-and-terms/zendesk-events-standards-of-conduct/"
+      ]
+    },
+    {
+      "url": "https://www.zendesk.com/industries/government/",
+      "finalUrl": "https://www.zendesk.com/industries/government/",
+      "status": "success",
+      "sha256": "4eb83296285a3c8cab114f67e1cd7fbf5d24a2bd8567513ed4e2503d7912e264",
+      "title": "AI solution for government | Zendesk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.zendesk.com/company/events/",
+        "https://www.zendesk.com/company/",
+        "https://www.zendesk.com/newsroom/",
+        "https://www.zendesk.com/company/careers/",
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=navigation&amp;utm_campaign=AISummit_26_nav2_NA_2026Q3",
+        "https://www.zendesk.com/it/industries/government/",
+        "https://www.zendesk.com/dk/industries/government/",
+        "https://www.zendesk.com/se/industries/government/",
+        "https://www.zendesk.com/au/industries/government/",
+        "https://www.zendesk.com/in/industries/government/",
+        "https://www.zendesk.com/sg/industries/government/",
+        "https://www.zendesk.com/company/agreements-and-terms/privacy-policy/"
+      ]
+    },
+    {
+      "url": "https://www.zendesk.com/company/events/",
+      "finalUrl": "https://www.zendesk.com/company/events/",
+      "status": "success",
+      "sha256": "542f39d765c9323b980f9b65326fdcc0adbe401174977db4ff7ddd6dc28c67c2",
+      "title": "Zendesk Events",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.zendesk.com/company/",
+        "https://www.zendesk.com/newsroom/",
+        "https://www.zendesk.com/company/careers/",
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=navigation&amp;utm_campaign=AISummit_26_nav2_NA_2026Q3",
+        "https://www.zendesk.com/company/events/ai-summit-2026/?utm_medium=webpromo&amp;utm_source=eventspage&amp;utm_campaign=AISummit_26_webEP_NA_2026Q3",
+        "https://www.zendesk.com/company/events/?page=2",
+        "https://www.zendesk.com/company/events/?page=3",
+        "https://www.zendesk.com/company/events/?page=4",
+        "https://www.zendesk.com/company/belonging/",
+        "https://www.zendesk.com/company/sustainability/",
+        "https://www.zendesk.com/company/ventures/",
+        "https://www.zendesk.com/company/legal/"
+      ]
+    }
+  ]
+}

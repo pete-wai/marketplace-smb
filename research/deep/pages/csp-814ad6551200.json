@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-814ad6551200",
+  "retrievedAt": "2026-10-30T11:01:23.783Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.innovativedriven.com/",
+      "finalUrl": "https://www.innovativedriven.com/",
+      "status": "success",
+      "sha256": "7eaaa6500514268b7cdee81ed327d97f2cd0bad42a78cc2579f50cb2a855587e",
+      "title": "Innovative Driven | Alternative Legal Services Provider",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.innovativedriven.com/solution/government-agency-ediscovery/",
+        "https://www.innovativedriven.com/id-consultants-leadership-team/"
+      ]
+    },
+    {
+      "url": "https://www.innovativedriven.com/solution/government-agency-ediscovery/",
+      "finalUrl": "https://www.innovativedriven.com/solution/government-agency-ediscovery/",
+      "status": "success",
+      "sha256": "66896183fe7099b044d92e733d8029eb9568ef38dbf670bf9c373f7dcee99910",
+      "title": "Enhanced Security Services | Litigation Support | FedRamp",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.innovativedriven.com/id-consultants-leadership-team/"
+      ]
+    },
+    {
+      "url": "https://www.innovativedriven.com/id-consultants-leadership-team/",
+      "finalUrl": "https://www.innovativedriven.com/id-consultants-leadership-team/",
+      "status": "success",
+      "sha256": "fd6a717f919ee84890ec55866f5a41f600e7846d2e05388145bea37d50336905",
+      "title": "ID Consultants & Leadership Team - Innovative Driven",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

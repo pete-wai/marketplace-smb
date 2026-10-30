@@ -1,0 +1,85 @@
+{
+  "providerId": "csp-b3704083f1b6",
+  "retrievedAt": "2026-10-30T11:02:25.442Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.unisonglobal.com/",
+      "finalUrl": "https://www.unisonglobal.com/",
+      "status": "success",
+      "sha256": "45c28bb8afe0cdfb6192978ee16aae34f14108b7408f58ad9d64f129d1a41d8e",
+      "title": "Unison | Simplifying the Complexites of Federal Business | AI Federal Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.unisonglobal.com/product/ai-acquisition",
+        "https://www.unisonglobal.com/product/cost-engineering",
+        "https://www.unisonglobal.com/product/program-management",
+        "https://www.unisonglobal.com/product/marketplace",
+        "https://www.unisonglobal.com/product/virtual-acquisition-office",
+        "https://www.unisonglobal.com/product/4cast",
+        "https://www.unisonglobal.com/product/contract-lifecycle-management",
+        "https://www.unisonglobal.com/who-we-serve/fed-govt",
+        "https://www.unisonglobal.com/who-we-serve/govt-contractors",
+        "https://www.unisonglobal.com/company/about-us",
+        "https://www.unisonglobal.com/federal-acquisition-teams-under-pressure"
+      ]
+    },
+    {
+      "url": "https://www.unisonglobal.com/product/ai-acquisition",
+      "finalUrl": "https://www.unisonglobal.com/product/ai-acquisition",
+      "status": "success",
+      "sha256": "31aaa6010e1d0fceef50454c343a675f8112ab704cf7462a83455f9d8d095200",
+      "title": "Bidscale | AI Modules for Federal Acquisition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.unisonglobal.com/product/cost-engineering",
+        "https://www.unisonglobal.com/product/program-management",
+        "https://www.unisonglobal.com/product/marketplace",
+        "https://www.unisonglobal.com/product/virtual-acquisition-office",
+        "https://www.unisonglobal.com/product/4cast",
+        "https://www.unisonglobal.com/product/contract-lifecycle-management",
+        "https://www.unisonglobal.com/who-we-serve/fed-govt",
+        "https://www.unisonglobal.com/who-we-serve/govt-contractors",
+        "https://www.unisonglobal.com/company/about-us",
+        "https://www.unisonglobal.com/blog-posts/federal-acquisition-modernization-complexity-is-the-enemy",
+        "https://www.unisonglobal.com/blog-posts/smart-tools-seasoned-judgment-how-ai-activates-federal-acquisition-expertise"
+      ]
+    },
+    {
+      "url": "https://www.unisonglobal.com/product/cost-engineering",
+      "finalUrl": "https://www.unisonglobal.com/product/cost-engineering",
+      "status": "success",
+      "sha256": "54168809626b72a696bf75d4394dc42722e5aa095b5775771b80ae3e76ef79f9",
+      "title": "Unison Cost Engineering | Cost Estimating Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.unisonglobal.com/product/program-management",
+        "https://www.unisonglobal.com/product/marketplace",
+        "https://www.unisonglobal.com/product/virtual-acquisition-office",
+        "https://www.unisonglobal.com/product/4cast",
+        "https://www.unisonglobal.com/product/contract-lifecycle-management",
+        "https://www.unisonglobal.com/who-we-serve/fed-govt",
+        "https://www.unisonglobal.com/who-we-serve/govt-contractors",
+        "https://www.unisonglobal.com/company/about-us",
+        "https://www.unisonglobal.com/capabilities-for-cost-engineering"
+      ]
+    },
+    {
+      "url": "https://www.unisonglobal.com/product/program-management",
+      "finalUrl": "https://www.unisonglobal.com/product/program-management",
+      "status": "success",
+      "sha256": "bb4cfbff6105c32e60fa1b4f0646c9265fb0b2422ca4188962ec70285e5d4fa7",
+      "title": "Digital Program Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.unisonglobal.com/product/marketplace",
+        "https://www.unisonglobal.com/product/virtual-acquisition-office",
+        "https://www.unisonglobal.com/product/4cast",
+        "https://www.unisonglobal.com/product/contract-lifecycle-management",
+        "https://www.unisonglobal.com/who-we-serve/fed-govt",
+        "https://www.unisonglobal.com/who-we-serve/govt-contractors",
+        "https://www.unisonglobal.com/company/about-us"
+      ]
+    }
+  ]
+}

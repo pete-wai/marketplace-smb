@@ -1,0 +1,66 @@
+{
+  "providerId": "csp-74bec9be9c8f",
+  "retrievedAt": "2026-10-30T11:01:40.416Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.medallia.com/",
+      "finalUrl": "https://www.medallia.com/",
+      "status": "success",
+      "sha256": "556d94880055198c71cdc9653c89347b9ec934aff4bf8b11bd70d8540b7fb720",
+      "title": "Experience Management Software Platform &#8211; Medallia &#8211; Experience Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.medallia.com/ai-leadership/",
+        "https://www.medallia.com/solutions/government/",
+        "https://www.medallia.com/about-us/",
+        "https://www.medallia.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.medallia.com/products/mindful/",
+      "finalUrl": "https://www.medallia.com/products/mindful/",
+      "status": "success",
+      "sha256": "ba2e672f19c47053ac6126cf8713865af888a244419576c44dccf8eb92c5c33d",
+      "title": "Mindful by Medallia intelligent callback and voice surveys &#8211; Medallia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.medallia.com/ai-leadership/",
+        "https://www.medallia.com/solutions/government/",
+        "https://www.medallia.com/about-us/",
+        "https://www.medallia.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.medallia.com/ai-leadership/",
+      "finalUrl": "https://www.medallia.com/ai-leadership/",
+      "status": "success",
+      "sha256": "c95856434647e12613cbbd640f892a3406b78b7e01bb582c367527283c19097a",
+      "title": "Medallia AI Leadership &#8211; Medallia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.medallia.com/solutions/government/",
+        "https://www.medallia.com/ai-leadership/$%7Bitem.url%7D",
+        "https://www.medallia.com/about-us/",
+        "https://www.medallia.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.medallia.com/solutions/government/",
+      "finalUrl": "https://www.medallia.com/solutions/government/",
+      "status": "success",
+      "sha256": "cefdf62c377f3b411511620552733b60e4721006eeb865b09ce2b6b91278908b",
+      "title": "Government Customer Experience | Public Sector Software by Medallia &#8211; Medallia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.medallia.com/solutions/government/$%7Bitem.url%7D",
+        "https://www.medallia.com/solutions/government/defense/",
+        "https://www.medallia.com/resource/medallia-for-federal-government/",
+        "https://www.medallia.com/resource/medallia-for-state-and-local-government/",
+        "https://www.medallia.com/resource/uk-government/",
+        "https://www.medallia.com/about-us/",
+        "https://www.medallia.com/leadership/"
+      ]
+    }
+  ]
+}

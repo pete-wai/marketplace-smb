@@ -1,0 +1,18 @@
+{
+  "name": "THREATLOCKER INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA24D002Q&contractorName=THREATLOCKER+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-1446fb6558d1"
+  ],
+  "contractNumber": "47QTCA24D002Q",
+  "retrievedAt": "2026-10-30T11:09:07.878Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:22.030Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

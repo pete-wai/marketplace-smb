@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-9fc573216a24",
+  "retrievedAt": "2026-10-30T11:02:27.391Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://veoci.com/",
+      "finalUrl": "https://veoci.com/",
+      "status": "success",
+      "sha256": "9dfedcdd48e866bfd52349583638f9acab601873586fcf6a58eb11a4b6e3f04f",
+      "title": "Veoci - Virtual Emergency Operations Center Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://veoci.com/government",
+        "https://veoci.com/blog",
+        "https://veoci.com/blog/nims-government-practical-guide-incident-coordination",
+        "https://veoci.com/about",
+        "https://veoci.com/about/meet-the-team",
+        "https://veoci.com/press"
+      ]
+    },
+    {
+      "url": "https://veoci.com/government",
+      "finalUrl": "https://veoci.com/government",
+      "status": "success",
+      "sha256": "fb2940743872b2393c381eb69e9956253918a7f1ad144827122cd52cfe796c54",
+      "title": "Emergency Management Software for Government - Veoci",
+      "signals": [],
+      "discoveredLinks": [
+        "https://veoci.com/blog",
+        "https://veoci.com/blog/nims-government-practical-guide-incident-coordination",
+        "https://veoci.com/about",
+        "https://veoci.com/about/meet-the-team",
+        "https://veoci.com/press",
+        "https://veoci.com/government/core-gov",
+        "https://veoci.com/government/coop-gov",
+        "https://veoci.com/government/asset-inventory-management",
+        "https://veoci.com/government/cert-volunteer-management",
+        "https://veoci.com/government/mission-tasking",
+        "https://veoci.com/government/daily-operations",
+        "https://veoci.com/government/damage-assessments"
+      ]
+    },
+    {
+      "url": "https://veoci.com/blog",
+      "finalUrl": "https://veoci.com/blog",
+      "status": "success",
+      "sha256": "106f085584473ca35325c6c6893344b29a39ca7a97137f7689587d4a6a242dca",
+      "title": "Emergency Management Blog - Veoci",
+      "signals": [],
+      "discoveredLinks": [
+        "https://veoci.com/blog/nims-government-practical-guide-incident-coordination",
+        "https://veoci.com/about",
+        "https://veoci.com/about/meet-the-team",
+        "https://veoci.com/press",
+        "https://veoci.com/blog/nims-eoc-incident-management",
+        "https://veoci.com/blog/nims-resource-management-government-agencies",
+        "https://veoci.com/blog/veoci-security",
+        "https://veoci.com/blog/healthcare-breach-incident-response-readiness",
+        "https://veoci.com/blog/nims-vs-ics-difference-emergency-management",
+        "https://veoci.com/blog/practitioners-profile-libby-adkins-government-solutions",
+        "https://veoci.com/blog/physical-operations-fire-department-police",
+        "https://veoci.com/blog/school-safety-digital-dashboards"
+      ]
+    },
+    {
+      "url": "https://veoci.com/blog/nims-government-practical-guide-incident-coordination",
+      "finalUrl": "https://veoci.com/blog/nims-government-practical-guide-incident-coordination",
+      "status": "success",
+      "sha256": "cc6b02d579ddcd9e4dfcdb379a254db89ad566cde3bd2297dad11a95f7f991da",
+      "title": "NIMS for Government: A Practical Guide to Incident Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://veoci.com/about",
+        "https://veoci.com/about/meet-the-team",
+        "https://veoci.com/press",
+        "https://veoci.com/blog/nims-resource-management-government-agencies"
+      ]
+    }
+  ]
+}

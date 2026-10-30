@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-80738180922c",
+  "retrievedAt": "2026-10-30T11:00:38.323Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://aeroplicity.com/",
+      "finalUrl": "https://aeroplicity.com/",
+      "status": "success",
+      "sha256": "8a15aa2d96dadc61e5dd29f498ebc81c40c6209030f020d5c3de20005550a068",
+      "title": "Aeroplicity | We're on a mission to bring simplicity to the aerospace and defense industry by providing aerospace-grade next-generation technologies that advance the supply chain.",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

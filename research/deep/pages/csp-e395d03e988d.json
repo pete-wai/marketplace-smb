@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-e395d03e988d",
+  "retrievedAt": "2026-10-30T11:01:53.060Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.peraton.com/",
+      "finalUrl": "https://www.peraton.com/",
+      "status": "success",
+      "sha256": "9148eda3ecfc91587c46bdc821fec9b7dddc65693517935cba1b946795295459",
+      "title": "Peraton",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.peraton.com/company",
+        "https://www.peraton.com/company/mission",
+        "https://www.peraton.com/company/heritage",
+        "https://www.peraton.com/company/leadership",
+        "https://www.peraton.com/company/our-commitment-to-veterans",
+        "https://www.peraton.com/company/community-impact",
+        "https://www.peraton.com/company/partnerships",
+        "https://www.peraton.com/company/advisory-board",
+        "https://www.peraton.com/capabilities",
+        "https://www.peraton.com/capabilities/cyber",
+        "https://www.peraton.com/capabilities/digital",
+        "https://www.peraton.com/capabilities/cloud"
+      ]
+    },
+    {
+      "url": "https://www.peraton.com/company",
+      "finalUrl": "https://www.peraton.com/company",
+      "status": "success",
+      "sha256": "e961565ad44b6df9806ce0f747259d19197941066da6e0736a724b4dd6d2809e",
+      "title": "Company | Peraton",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.peraton.com/company/mission",
+        "https://www.peraton.com/company/heritage",
+        "https://www.peraton.com/company/leadership",
+        "https://www.peraton.com/company/our-commitment-to-veterans",
+        "https://www.peraton.com/company/community-impact",
+        "https://www.peraton.com/company/partnerships",
+        "https://www.peraton.com/company/advisory-board",
+        "https://www.peraton.com/capabilities",
+        "https://www.peraton.com/capabilities/cyber",
+        "https://www.peraton.com/capabilities/digital",
+        "https://www.peraton.com/capabilities/cloud",
+        "https://www.peraton.com/capabilities/operations"
+      ]
+    },
+    {
+      "url": "https://www.peraton.com/company/mission",
+      "finalUrl": "https://www.peraton.com/company/mission",
+      "status": "success",
+      "sha256": "2e1cd06a7a451e0c8e2449cb51198489eb266d4101dbe0a841515fa7c8477706",
+      "title": "Mission, Vision, and Values | Peraton",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.peraton.com/company/heritage",
+        "https://www.peraton.com/company/leadership",
+        "https://www.peraton.com/company/our-commitment-to-veterans",
+        "https://www.peraton.com/company/community-impact",
+        "https://www.peraton.com/company/partnerships",
+        "https://www.peraton.com/company/advisory-board",
+        "https://www.peraton.com/capabilities",
+        "https://www.peraton.com/capabilities/cyber",
+        "https://www.peraton.com/capabilities/digital",
+        "https://www.peraton.com/capabilities/cloud",
+        "https://www.peraton.com/capabilities/operations",
+        "https://www.peraton.com/capabilities/engineering"
+      ]
+    },
+    {
+      "url": "https://www.peraton.com/company/heritage",
+      "finalUrl": "https://www.peraton.com/company/heritage",
+      "status": "success",
+      "sha256": "57774c7a28dbfe0fa96e397b0c1c864892e6f8bd9ad022114c32358c1fcb7400",
+      "title": "Our Heritage | Peraton",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.peraton.com/company/leadership",
+        "https://www.peraton.com/company/our-commitment-to-veterans",
+        "https://www.peraton.com/company/community-impact",
+        "https://www.peraton.com/company/partnerships",
+        "https://www.peraton.com/company/advisory-board",
+        "https://www.peraton.com/capabilities",
+        "https://www.peraton.com/capabilities/cyber",
+        "https://www.peraton.com/capabilities/digital",
+        "https://www.peraton.com/capabilities/cloud",
+        "https://www.peraton.com/capabilities/operations",
+        "https://www.peraton.com/capabilities/engineering",
+        "https://www.peraton.com/capabilities/all"
+      ]
+    }
+  ]
+}

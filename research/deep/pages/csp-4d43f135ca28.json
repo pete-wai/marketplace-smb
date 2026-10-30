@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-4d43f135ca28",
+  "retrievedAt": "2026-10-30T11:01:17.458Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://4bt.us/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

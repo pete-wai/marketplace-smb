@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-fb41be4dda7b",
+  "retrievedAt": "2026-10-30T11:00:58.962Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.knoxsystems.com/",
+      "finalUrl": "https://knoxsystems.com/",
+      "status": "success",
+      "sha256": "b55c338352ed0a92c7960e48d8f456145ce32e9cbd62308f2d28ca6234d30ba0",
+      "title": "Knox Systems | FedRAMP in 90 Days for 90% Less",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knoxsystems.com/about",
+        "https://knoxsystems.com/case-studies/determinate-systems-brings-governed-nix-infrastructure-to-federal-agencies-and-partners",
+        "https://knoxsystems.com/case-studies/sierra-delivers-ai-powered-customer-operations-for-government",
+        "https://knoxsystems.com/case-studies/adobe-delivers-secure-digital-experiences-to-federal-agencies",
+        "https://knoxsystems.com/case-studies/bigid-delivers-secure-data-classification-and-intelligence-to-government-agencies",
+        "https://knoxsystems.com/blog/john-zangardi-joins-knox-systems-federal-advisory-board",
+        "https://knoxsystems.com/blog/bigid-accelerates-fedramp-authorization-with-knox-systems-to-power-the-next-generation-of-federal-data-security"
+      ]
+    },
+    {
+      "url": "https://www.knoxsystems.com/",
+      "finalUrl": "https://knoxsystems.com/",
+      "status": "success",
+      "sha256": "b55c338352ed0a92c7960e48d8f456145ce32e9cbd62308f2d28ca6234d30ba0",
+      "title": "Knox Systems | FedRAMP in 90 Days for 90% Less",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knoxsystems.com/about",
+        "https://knoxsystems.com/case-studies/determinate-systems-brings-governed-nix-infrastructure-to-federal-agencies-and-partners",
+        "https://knoxsystems.com/case-studies/sierra-delivers-ai-powered-customer-operations-for-government",
+        "https://knoxsystems.com/case-studies/adobe-delivers-secure-digital-experiences-to-federal-agencies",
+        "https://knoxsystems.com/case-studies/bigid-delivers-secure-data-classification-and-intelligence-to-government-agencies",
+        "https://knoxsystems.com/blog/john-zangardi-joins-knox-systems-federal-advisory-board",
+        "https://knoxsystems.com/blog/bigid-accelerates-fedramp-authorization-with-knox-systems-to-power-the-next-generation-of-federal-data-security"
+      ]
+    },
+    {
+      "url": "https://knoxsystems.com/about",
+      "finalUrl": "https://knoxsystems.com/about",
+      "status": "success",
+      "sha256": "370e1ef62048c789eec005d9eb9e7306b733c56eaceb8f2aaa55c5eb75f6d15e",
+      "title": "About | Knox Systems",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://knoxsystems.com/case-studies/determinate-systems-brings-governed-nix-infrastructure-to-federal-agencies-and-partners",
+      "finalUrl": "https://knoxsystems.com/case-studies/determinate-systems-brings-governed-nix-infrastructure-to-federal-agencies-and-partners",
+      "status": "success",
+      "sha256": "069f772ec786229ac1fe8db530814b66af9493c54da5d39b651c8c3b1e723c10",
+      "title": "Determinate Systems | Customer Stories | Knox Systems",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

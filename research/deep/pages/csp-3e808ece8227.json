@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-3e808ece8227",
+  "retrievedAt": "2026-10-30T11:01:02.884Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.deloitte.com/",
+      "finalUrl": "https://www.deloitte.com/us/en.html",
+      "status": "success",
+      "sha256": "722511467e4d8e2164c41628b58b0a820af453aa3d6bd17a21bb0943770003a0",
+      "title": "Deloitte US | Together Makes Progress",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news",
+        "https://www.deloitte.com/us/en/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values",
+        "https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures",
+        "https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/finance.html?icid=top_finance",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/sustainability.html?icid=top_sustainability",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/trade-tariffs-supply-chain.html?icid=top_trade-tariffs-supply-chain",
+        "https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about"
+      ]
+    },
+    {
+      "url": "https://www.deloitte.com/",
+      "finalUrl": "https://www.deloitte.com/us/en.html",
+      "status": "success",
+      "sha256": "a701fea22041df55292dd0292dc2564be953218efaabca0f132ecdf3e8b1f767",
+      "title": "Deloitte US | Together Makes Progress",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news",
+        "https://www.deloitte.com/us/en/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values",
+        "https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures",
+        "https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/finance.html?icid=top_finance",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/sustainability.html?icid=top_sustainability",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/trade-tariffs-supply-chain.html?icid=top_trade-tariffs-supply-chain",
+        "https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about"
+      ]
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news",
+      "finalUrl": "https://www.deloitte.com/us/en/about/recognition/news.html?icid=top_news",
+      "status": "success",
+      "sha256": "139d81876a000b126c93e936dcaec4f20581fc6fdec713873ca03a39a476495e",
+      "title": "Newsroom | Deloitte US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deloitte.com/us/en/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values",
+        "https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures",
+        "https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/finance.html?icid=top_finance",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/sustainability.html?icid=top_sustainability",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/trade-tariffs-supply-chain.html?icid=top_trade-tariffs-supply-chain",
+        "https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/financial-services/about.html?icid=top_about"
+      ]
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/about.html?icid=top_about",
+      "finalUrl": "https://www.deloitte.com/us/en/about.html?icid=top_about",
+      "status": "success",
+      "sha256": "7005fb86523bd9628acd3f7fb2cc422593b7c122bb58a3ce015b5ffd2a390758",
+      "title": "Who We Are | Deloitte",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deloitte.com/us/en/about/articles/shared-values.html?icid=top_shared-values",
+        "https://www.deloitte.com/us/en/about/story/facts-and-figures.html?icid=top_facts-and-figures",
+        "https://www.deloitte.com/us/en/about/governance/network-brand-alliances.html?icid=top_network-brand-alliances",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/blockchain-digital-assets.html",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/finance.html?icid=top_finance",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions/services/mergers-acquisitions-restructuring-services.html?icid=top_mergers-acquisitions-restructuring-services",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/sustainability.html?icid=top_sustainability",
+        "https://www.deloitte.com/us/en/what-we-do/capabilities/trade-tariffs-supply-chain.html?icid=top_trade-tariffs-supply-chain",
+        "https://www.deloitte.com/us/en/industries/consumer/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/energy/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/financial-services/about.html?icid=top_about",
+        "https://www.deloitte.com/us/en/industries/government-public/about.html?icid=top_about"
+      ]
+    }
+  ]
+}

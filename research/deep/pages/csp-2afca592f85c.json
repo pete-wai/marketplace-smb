@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-2afca592f85c",
+  "retrievedAt": "2026-10-30T11:01:47.478Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.omnissa.com/trust-center/compliance/#Public_Sector",
+      "finalUrl": "https://www.omnissa.com/trust-center/compliance/#Public_Sector",
+      "status": "success",
+      "sha256": "24ec74c7d0173014a02229654b526d21d0c4409e10b320ce555609b715cb039e",
+      "title": "Compliance programs at Omnissa",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.omnissa.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.omnissa.com/about-us/",
+      "finalUrl": "https://www.omnissa.com/about-us/",
+      "status": "success",
+      "sha256": "54030efd3d356066d1e1561b98d97d6149361c6318dcca6131a647da33af8e7d",
+      "title": "About Omnissa | We secure the agentic endpoint",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "g the agentic endpoint. 2024 Omnissa becomes an independent business, majority owned by KKR. 2020s Hybrid and remote work. 2010s Mobile and BYOD. AirWatch joins VMware. VMware Workspace ONE launches mid-2010s. 2000s Virtualization reaches the desktop. Airwatch founded. Today AI"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

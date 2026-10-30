@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-41a697bc33e7",
+  "retrievedAt": "2026-10-30T11:02:07.218Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://aqtiveguard.com/",
+      "finalUrl": "https://www.aqtiveguard.com/",
+      "status": "success",
+      "sha256": "03de24594936307bdd6baf76dc89217b9655a68e1aa9018b58251fc5cb071399",
+      "title": "Secure your Cryptographic Assets | AQtive Guard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aqtiveguard.com/about-us",
+        "https://www.aqtiveguard.com/company/newsroom",
+        "https://www.aqtiveguard.com/"
+      ]
+    },
+    {
+      "url": "https://www.aqtiveguard.com/about-us",
+      "finalUrl": "https://www.aqtiveguard.com/about-us",
+      "status": "success",
+      "sha256": "c49ca48e8eac6f2d8aa4d109ddbd54221e3b056b1d1202a7a0d74381511db875",
+      "title": "About AQtive Guard | AI & Cryptographic Security Experts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aqtiveguard.com/company/newsroom"
+      ]
+    },
+    {
+      "url": "https://www.aqtiveguard.com/company/newsroom",
+      "finalUrl": "https://www.aqtiveguard.com/company/newsroom",
+      "status": "success",
+      "sha256": "35e0ee756f742c8618675e6a5b074f5cf0d278563adc02b18b87d54dcf062819",
+      "title": "AQtive Guard Newsroom | Press & Announcements",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aqtiveguard.com/company/newsroom?258bb8b3_page=2",
+        "https://www.aqtiveguard.com/company/newsroom?4b938a96_page=2"
+      ]
+    },
+    {
+      "url": "https://www.aqtiveguard.com/",
+      "finalUrl": "https://www.aqtiveguard.com/",
+      "status": "success",
+      "sha256": "03de24594936307bdd6baf76dc89217b9655a68e1aa9018b58251fc5cb071399",
+      "title": "Secure your Cryptographic Assets | AQtive Guard",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

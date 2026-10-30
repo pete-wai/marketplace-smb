@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-5073dcb633fd",
+  "retrievedAt": "2026-10-30T11:02:16.105Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.synack.com/platform/fedramp/",
+      "finalUrl": "https://www.synack.com/platform/fedramp/",
+      "status": "success",
+      "sha256": "f46e3db11d347b2ac4361b1b46b7521f7d42d5f59eb10b405a2d066c5f443535",
+      "title": "FedRAMP Penetration Testing | Synack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.synack.com/industries/public-sector/",
+        "https://www.synack.com/about/",
+        "https://www.synack.com/leadership/",
+        "https://www.synack.com/red-team/",
+        "https://www.synack.com/learning-center/",
+        "https://www.synack.com/blog/",
+        "https://www.synack.com/knowledge-base/",
+        "https://www.synack.com/partners/accenture-federal-services/"
+      ]
+    },
+    {
+      "url": "https://www.synack.com/industries/public-sector/",
+      "finalUrl": "https://www.synack.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "2ed885b51329b4e8b7be790844193cd7dd2c53e155d6957de44d441b392fd461",
+      "title": "Security Testing for Pentesting for Public Sector | Synack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.synack.com/about/",
+        "https://www.synack.com/leadership/",
+        "https://www.synack.com/red-team/",
+        "https://www.synack.com/learning-center/",
+        "https://www.synack.com/blog/",
+        "https://www.synack.com/knowledge-base/",
+        "https://www.synack.com/interactive-demos/federal-continuous-pentesting/",
+        "https://www.synack.com/partners/accenture-federal-services/"
+      ]
+    },
+    {
+      "url": "https://www.synack.com/about/",
+      "finalUrl": "https://www.synack.com/about/",
+      "status": "success",
+      "sha256": "17a7368aa0fbec30297f846068f1ca9e507d17c873e5c602393faab93a7c3ac6",
+      "title": "About Synack | Human + AI Penetration Testing",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.synack.com/leadership/",
+        "https://www.synack.com/red-team/",
+        "https://www.synack.com/learning-center/",
+        "https://www.synack.com/blog/",
+        "https://www.synack.com/knowledge-base/",
+        "https://www.synack.com/partners/accenture-federal-services/"
+      ]
+    },
+    {
+      "url": "https://www.synack.com/leadership/",
+      "finalUrl": "https://www.synack.com/leadership/",
+      "status": "success",
+      "sha256": "48ffb118aec6fcadabb631b2a452c20e245f88467b72cc84c788d4708852d5bf",
+      "title": "Meet our Leadership | Synack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.synack.com/red-team/",
+        "https://www.synack.com/learning-center/",
+        "https://www.synack.com/blog/",
+        "https://www.synack.com/knowledge-base/",
+        "https://www.synack.com/partners/accenture-federal-services/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-4046587ba172",
+  "retrievedAt": "2026-10-30T11:01:17.827Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.gallerysystems.com/",
+      "finalUrl": "https://www.gallerysystems.com/",
+      "status": "success",
+      "sha256": "1d5a4d85a2a66317942777aa1cf83a217229e97083e38217029745c6d75f4ba4",
+      "title": "Gallery & Museum Management Software | Gallery Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.gallerysystems.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.gallerysystems.com/about/",
+      "finalUrl": "https://www.gallerysystems.com/about/",
+      "status": "success",
+      "sha256": "086b437451cd429afc6ff4607667145b3205a6d0e66c20bfab74d23c2a6888a4",
+      "title": "About Gallery Systems Company | Gallery Systems",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

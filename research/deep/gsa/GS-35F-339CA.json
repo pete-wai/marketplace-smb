@@ -1,0 +1,18 @@
+{
+  "name": "XFINION INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-339CA&contractorName=XFINION+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-391f4c4cf12e"
+  ],
+  "contractNumber": "GS-35F-339CA",
+  "retrievedAt": "2026-10-30T11:09:17.327Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:23.238Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

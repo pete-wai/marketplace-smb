@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-0b7504771bb1",
+  "retrievedAt": "2026-10-30T11:01:45.066Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.nextgenid.com/",
+      "finalUrl": "https://www.nextgenid.com/",
+      "status": "success",
+      "sha256": "ea028ecc133415437f1b63f3adada60b4cfd52ba10497197f5208ced77546987",
+      "title": "IAL3 Identity Proofing, Credentialing & Enrollment | NextgenID",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nextgenid.com/identity-verification-enrollment-use-cases/",
+        "https://www.nextgenid.com/industries/federal-government-agencies/",
+        "https://www.nextgenid.com/about/",
+        "https://www.nextgenid.com/ial3-identity-proofing/",
+        "https://www.nextgenid.com/federal-identity-proofing-at-scale/",
+        "https://www.nextgenid.com/news-nextgenid-recognized-in-2025-prism-report-for-leadership-in-digital-identity-platform-innovation/"
+      ]
+    },
+    {
+      "url": "https://www.nextgenid.com/identity-verification-enrollment-use-cases/",
+      "finalUrl": "https://www.nextgenid.com/identity-verification-enrollment-use-cases/",
+      "status": "success",
+      "sha256": "18b800a5854a4ffa131da0ebe7a9ec45b836a6284b143e198fb5a6425ef5b13c",
+      "title": "Secure Biometric Enrollment System Use Cases | NextgenID",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nextgenid.com/industries/federal-government-agencies/",
+        "https://www.nextgenid.com/about/",
+        "https://www.nextgenid.com/presenceid-identity-services/",
+        "https://www.nextgenid.com/news-nextgenid-recognized-in-2025-prism-report-for-leadership-in-digital-identity-platform-innovation/"
+      ]
+    },
+    {
+      "url": "https://www.nextgenid.com/industries/federal-government-agencies/",
+      "finalUrl": "https://www.nextgenid.com/industries/federal-government-agencies/",
+      "status": "success",
+      "sha256": "41cb433002e5d50faba46acbc4906a75c897bfe4f7b1c08b7bba3e4d3d9bca1e",
+      "title": "IAL3 Identity Proofing & PIV Enrollment for Federal Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nextgenid.com/about/",
+        "https://www.nextgenid.com/news-nextgenid-recognized-in-2025-prism-report-for-leadership-in-digital-identity-platform-innovation/"
+      ]
+    },
+    {
+      "url": "https://www.nextgenid.com/about/",
+      "finalUrl": "https://www.nextgenid.com/about/",
+      "status": "success",
+      "sha256": "90e2d1a6526dfa1d62f570ad68e1c6a7ade9c818c1740233facb00063fabf010",
+      "title": "About NextgenID | IAL3 Identity Infrastructure Company",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "anning Qualcomm, Objectiva Software Solutions, and Document Sciences (acquired by EMC), Doug brings deep experience building products, executive teams, and enterprise SaaS companies at scale. He holds a B.S. in Electrical Engineering from Virginia Tech and dual master's degrees from"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.nextgenid.com/news-nextgenid-recognized-in-2025-prism-report-for-leadership-in-digital-identity-platform-innovation/"
+      ]
+    }
+  ]
+}

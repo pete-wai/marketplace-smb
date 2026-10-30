@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-9e74ff9f4c7f",
+  "retrievedAt": "2026-10-30T11:01:39.561Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.getmaintainx.com/",
+      "finalUrl": "https://www.getmaintainx.com/",
+      "status": "success",
+      "sha256": "22ce1a7a273f80f0644902c95eef2b510e336ba47cea2774aaea204575695e5f",
+      "title": "MaintainX | Modern Maintenance and Asset Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.getmaintainx.com/industries/government",
+        "https://www.getmaintainx.com/about"
+      ]
+    },
+    {
+      "url": "https://www.getmaintainx.com/industries/government",
+      "finalUrl": "https://www.getmaintainx.com/industries/government",
+      "status": "success",
+      "sha256": "cf176d2480346488537b3ed6aa7c11d90835de4f2b46a13c4e77d160d2de40aa",
+      "title": "EAM & CMMS Software for Government | MaintainX",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.getmaintainx.com/about"
+      ]
+    },
+    {
+      "url": "https://www.getmaintainx.com/about",
+      "finalUrl": "https://www.getmaintainx.com/about",
+      "status": "success",
+      "sha256": "1ade724b5f0f7ded6e98cccef18c965ec1f9a86dbab1e4af2c516644e9337253",
+      "title": "About | MaintainX",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-0bdde175a402",
+  "retrievedAt": "2026-10-30T11:02:30.893Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://wallarm.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

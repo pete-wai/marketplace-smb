@@ -1,0 +1,955 @@
+{
+  "asOf": "2026-10-30",
+  "retrievedAt": "2026-10-30",
+  "purpose": "Independent research proposals only; not legal size determinations. Scope is current snapshot size, generally relevant NAICS for the listed service, SBA affiliation rules, and available 24-month employee evidence. ARR, funding, global revenue, startup status, workforce statements, and self-representations are not by themselves a legal determination.",
+  "proposals": [
+    {
+      "providerId": "csp-a7c4c5ead54c",
+      "provider": "Files.com",
+      "classification": "unknown",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "The Marketplace cloud file orchestration service plausibly falls under 518210/541519. Files.com testimony of roughly 60–70 employees is only a size signal. Its official company overview identifies Action Verb LLC as the operating/contracting entity and says it is majority owned by affiliates of Riverwood Capital; the official history also notes acquisitions of ExaVault, SmartFile, and ExpanDrive. Majority ownership establishes a material affiliation question, but does not alone identify which portfolio firms are affiliates or establish common control / aggregate receipts or employees. Keep unknown until operating-entity SBA status, applicable code and affiliate aggregation are resolved.",
+      "relevantNaics": [
+        "518210",
+        "541519",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Which contracting NAICS applies to the certified file orchestration offering?",
+        "What control rights and affiliate relationships exist among Action Verb LLC, Riverwood funds, and other portfolio companies?",
+        "What are the relevant five-year receipts and 24-month employee averages, including affiliates?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.files.com/compliance/overview-and-responsibilities/company-overview-and-business-information",
+          "title": "Company Overview & Business Information — Files.com",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "The operating and contracting entity is Action Verb LLC, doing business as Files.com.",
+          "supports": "Identity of the service operating entity; official disclosure says privately held and majority owned by affiliates of Riverwood Capital, while expressly not publicly disclosing headcount."
+        },
+        {
+          "url": "https://www.files.com/about",
+          "title": "About Files.com — One Company, Four Products",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "In January 2021, we closed a $46.5 million investment from Riverwood Capital.",
+          "supports": "Company-reported investment and acquisitions of ExaVault, SmartFile, and ExpanDrive; not proof of Riverwood portfolio affiliation or consolidated SBA size."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+          "title": "FedRAMP community session, September 15, 2026",
+          "publishedAt": "2026-09-15",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Files.com described itself as a small organization with about 60–70 employees.",
+          "supports": "Provider testimony only; not evidence of receipts or affiliate-adjusted SBA status."
+        }
+      ],
+      "searches": [
+        "Files.com official operating entity ownership affiliates acquisitions employee count",
+        "Files.com Riverwood majority owned Action Verb LLC"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-31d59d268939",
+      "provider": "Bland AI",
+      "classification": "likely-small",
+      "confidence": "low",
+      "identityConfidence": "high",
+      "reason": "Official company page now reports approximately 100 people, $50M+ raised, and a historical $2M ARR milestone; a 2026 FedRAMP session had the company describe itself as small with fewer than 100 employees. These do not establish receipts under a likely software/cloud NAICS or affiliate-adjusted size. Retain only the study's low-confidence self-description proxy; do not treat as documented small or an adjudication. The updated ~100-person figure does not materially contradict the earlier testimony but makes employee count evidence dated and imprecise.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "What was the company’s employee average over the preceding 24 months, including affiliates?",
+        "What are five-year receipts and affiliate/control relationships?",
+        "Which NAICS applies to this offering?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.bland.ai/about",
+          "title": "About | Bland AI",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Today ... ~100 people in San Francisco ... $50M+ raised.",
+          "supports": "Current company-reported headcount and fundraising; insufficient for legal size by itself."
+        },
+        {
+          "url": "https://www.bland.ai/blog/bland-raises-a-40m-series-b",
+          "title": "Bland Raises a $40M Series B",
+          "publishedAt": "2025-02-03",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "bringing total funding to $65 million.",
+          "supports": "Funding scale/context only; not annual receipts."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+          "title": "FedRAMP community session, September 15, 2026",
+          "publishedAt": "2026-09-15",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Bland AI described itself as a small organization with fewer than 100 employees.",
+          "supports": "Company testimony basis for a tentative likely-small signal, not an SBA determination."
+        }
+      ],
+      "searches": [
+        "Bland AI official about employees ARR funding",
+        "Bland AI FedRAMP September 2026 size statement"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-6a1ffd5d9580",
+      "provider": "Wisedocs USA Inc.",
+      "classification": "likely-small",
+      "confidence": "low",
+      "identityConfidence": "medium",
+      "reason": "SBA search returns a distinctive WISEDOCS USA INC. entry with small representation under primary 518210, but available company materials identify a Canadian-founded business, no Marketplace UEI is present, and the SBA profile’s public identity match is not independently confirmed by domain/location. Company materials report $12.7M Series A plus $4.5M growth capital in 2024 and broad enterprise/government customers, but financing/customer list do not establish receipts. Preserve the probable match as likely-small with reduced confidence, not documented small; affiliates and receipt/employee averages are unverified.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Can SBA UEI T6CBLTDV7ZY5 be linked to the Marketplace service provider and contracting U.S. entity?",
+        "What control/affiliate relationships exist between Wisedocs USA Inc. and the Canadian parent/founders or investors?",
+        "What are receipts and employee averages for the relevant period?"
+      ],
+      "sources": [
+        {
+          "url": "https://search.certifications.sba.gov/profile/T6CBLTDV7ZY5/20V08",
+          "title": "SBA Small Business Search — WISEDOCS USA INC.",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Primary NAICS 518210; small representation under 518210; record updated June 4, 2026.",
+          "supports": "Probable legal-name match only; SBA registration is a representation, and domain/Marketplace UEI not confirmed."
+        },
+        {
+          "url": "https://www.wisedocs.ai/company/about-us",
+          "title": "About Wisedocs",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Founded in Toronto ... $12.7M in Series A funding and $4.5M in growth capital.",
+          "supports": "Company origin and finance context; not receipts or affiliation calculation."
+        },
+        {
+          "url": "https://www.wisedocs.ai/company/careers",
+          "title": "Careers at Wisedocs",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "For our US workforce, we operate with a remote first model.",
+          "supports": "Confirms some U.S. workforce, but gives no employee count or 24-month average."
+        }
+      ],
+      "searches": [
+        "Wisedocs USA Inc SBA UEI T6CBLTDV7ZY5",
+        "Wisedocs official US entity service agreement workforce funding"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-ce94b59d958e",
+      "provider": "Perplexity AI, Inc.",
+      "classification": "likely-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "Exact UEI P9N9FFAUBLQ4 is shown in the Marketplace for its Perplexity Enterprise and API offering and the SBA/SAM-derived record reports small under 519290, not primary 518210. 519290 is a plausible service-specific context because the Marketplace description includes web search and Search API; do not generalize the status to all cloud/software NAICS. Because the SBA/SAM record is a representation and no independently verified 24-month affiliate employee data was located, keep likely-small, not documented-small. A separate contract award may state other-than-small for that specific award; solicitation/award NAICS scope should be checked before interpreting that as a conflict.",
+      "relevantNaics": [
+        "519290",
+        "518210"
+      ],
+      "unresolvedQuestions": [
+        "What NAICS did the relevant solicitation assign to this offering?",
+        "What are 24-month average employees for Perplexity and affiliates under the 519290 standard?",
+        "Does the award-specific other-than-small status concern another NAICS or a contracting-officer size determination?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.fedramp.gov/marketplace/products/FR2604643715/",
+          "title": "Perplexity Enterprise and API Platform — FedRAMP Marketplace",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "UEI ... P9N9FFAUBLQ4 ... Service Model SaaS.",
+          "supports": "Provider identity and offering scope; Marketplace page is consistent with enterprise Search/API service context."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/P9N9FFAUBLQ4/15SW3",
+          "title": "SBA Small Business Search — PERPLEXITY AI, INC.",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Small representation under NAICS 519290; primary NAICS 518210 is not marked small.",
+          "supports": "Exact-UEI scope-qualified small representation; not an adjudication. This is secondary SAM-derived evidence; exact listing alone does not prove eligibility across other NAICS."
+        },
+        {
+          "url": "https://www.govchime.com/vendors/P9N9FFAUBLQ4",
+          "title": "PERPLEXITY AI, INC — Federal Contractor",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "519290 ... Small: small business for that NAICS, self-certified in SAM.gov registration.",
+          "supports": "Independent readable reproduction of SAM data clarifies the representation is self-certified; secondary data publisher. This is secondary SAM-derived evidence; exact listing alone does not prove eligibility across other NAICS."
+        },
+        {
+          "url": "https://www.ecfr.gov/current/title-13/section-121.201",
+          "title": "13 CFR 121.201 — Size standards",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "519290 Web Search Portals and All Other Information Services — 1,000 employees.",
+          "supports": "Size metric and threshold for a 519290 procurement context."
+        },
+        {
+          "url": "https://www.ecfr.gov/current/title-13/section-121.201",
+          "title": "13 CFR § 121.201 — Size standards",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "518210 Data Processing, Hosting, and Related Services — $40 million. 519290 Web Search Portals — 1,000 employees.",
+          "supports": "Primary regulation confirms the different receipts and employee standards for the two NAICS codes."
+        }
+      ],
+      "searches": [
+        "Perplexity Marketplace UEI P9N9FFAUBLQ4 service description",
+        "Perplexity SBA 519290 small 518210",
+        "Perplexity federal award other than small business"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-74f3bba0747b",
+      "provider": "Anysphere, Inc.",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "high",
+      "reason": "Cursor’s official press page links a Bloomberg report titled that recurring revenue reached $2B in March 2026, but the linked article was inaccessible to verify and the report is annualized recurring revenue, not SBA receipts. The provider’s own cited press index is not primary size evidence. The snapshot has no matched qualifying SBA representation; no basis to infer legal size from the unverified press link or valuation/funding. Keep unknown.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "What is the completed-year receipts average for the relevant software service and affiliates?",
+        "What were 24-month employee averages and investor/affiliate control?",
+        "Can the cited Bloomberg report be reviewed directly and does it provide attributed, verified figures?"
+      ],
+      "sources": [
+        {
+          "url": "https://cursor.com/blog",
+          "title": "Cursor Blog / Press index",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Cursor Recurring Revenue Doubles in Three Months to $2 Billion — Mar 2, 2026.",
+          "supports": "Official index links the Bloomberg headline but does not itself verify the figure or define it as receipts."
+        }
+      ],
+      "searches": [
+        "Anysphere Cursor official revenue employees March 2026",
+        "Cursor blog March 2026 $2 billion revenue"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-ce63f29292ac",
+      "provider": "Eleven Labs Inc.",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "medium",
+      "reason": "Official 2026 company disclosure reports $350M ARR at end of 2025, over $500M ARR in the first four months of 2026, and 530 teammates across 50+ countries. This scale makes a blanket small inference implausible, but ARR is not completed-year SBA receipts and disclosed headcount of 530 is below the 1,000-employee threshold only if NAICS 519290 applies; NAICS 518210 instead has a $40 million receipts standard. For receipts-based custom software/service codes, revenue standard may imply another conclusion. The application’s procurement NAICS and affiliate-adjusted worker counts are unverified, so current classification stays unknown.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Which NAICS applies to the certified service (518210 receipts standard $40 million; 519290 employee standard 1,000)?",
+        "What are completed-year receipts and affiliate-adjusted average employees?"
+      ],
+      "sources": [
+        {
+          "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors",
+          "title": "ElevenLabs crosses $500M ARR and welcomes new investors",
+          "publishedAt": "2026-05-19",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "We ended 2025 with $350 million in ARR ... surpassed $500 million ARR.",
+          "supports": "Official ARR disclosures; run rate, not completed-year receipts."
+        },
+        {
+          "url": "https://elevenlabs.io/blog/tender-22bn",
+          "title": "ElevenLabs valuation increases to $22 billion",
+          "publishedAt": "2026-09-30",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "We now have 530 exceptional teammates across over 50 countries.",
+          "supports": "Official current headcount; does not exceed 1,000 alone, affiliates not established."
+        },
+        {
+          "url": "https://www.ecfr.gov/current/title-13/section-121.201",
+          "title": "13 CFR § 121.201 — Size standards",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "518210 Data Processing, Hosting, and Related Services — $40 million. 519290 Web Search Portals — 1,000 employees.",
+          "supports": "Primary regulation confirms the different receipts and employee standards for the two NAICS codes."
+        }
+      ],
+      "searches": [
+        "ElevenLabs official ARR and headcount 2026",
+        "ElevenLabs official investor tender valuation employees"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-49f756463ad9",
+      "provider": "Harness, Inc.",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "high",
+      "reason": "Harness’s official CEO article describes the Harness–Traceable merger and projected combined ARR above $250M in 2025. This is a projection/ARR metric, not five-year receipts. The transaction creates a material affiliate/entity scope question; no completed-year receipts or 24-month affiliate employee average establishes size. Keep unknown pending combined control and applicable NAICS review.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Was the announced merger legally completed, and which entity owns the relevant service?",
+        "What control/affiliate relations exist with Traceable and investors?",
+        "What are five-year receipts and 24-month employee average under service NAICS?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.harness.io/blog/harness-traceable",
+          "title": "Harness and Traceable Merge to Boost Secure Delivery",
+          "publishedAt": "2025-02-10",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "ARR north of $250 million projected this year.",
+          "supports": "Official CEO disclosure of projected merged-company ARR and merger; ARR is not receipts."
+        },
+        {
+          "url": "https://www.harness.io/company/about-us",
+          "title": "About Harness",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Harness — The Autonomous SDLC Platform.",
+          "supports": "Confirms software delivery platform service context; no decisive size evidence."
+        }
+      ],
+      "searches": [
+        "Harness official merger Traceable projected ARR 2025",
+        "Harness company about employees funding"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-73eae719baf0",
+      "provider": "Mycroft Technologies Inc",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "high",
+      "reason": "Official Mycroft About page and Trust Center match the Marketplace entity/service: Mycroft Technologies Inc., GRC/security automation. They establish service identity but provide no receipts, staffing count, SBA size representation, or ownership/affiliate information. Startup/funding/team impressions cannot support size; stay unknown.",
+      "relevantNaics": [
+        "518210",
+        "541512",
+        "541519"
+      ],
+      "unresolvedQuestions": [
+        "What exact service NAICS applies to SaaS vs implementation/managed services?",
+        "Does a qualifying SBA/SAM representation exist for the exact UEI and NAICS?",
+        "What are receipts, 24-month employees, affiliates, and controlling owners?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.mycroft.io/about",
+          "title": "About Mycroft",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Mycroft empowers companies to achieve enterprise grade security and compliance.",
+          "supports": "Provider’s service and identity; no size metrics."
+        },
+        {
+          "url": "https://trust.mycroft.io/",
+          "title": "Mycroft Trust Center",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Mycroft Technologies Inc. - Validation Test August 13, 2026.",
+          "supports": "Links the name to the current Marketplace CSO and confirms GRC service; no size evidence."
+        }
+      ],
+      "searches": [
+        "Mycroft Technologies Inc official company profile FedRAMP",
+        "Mycroft GRC SBA UEI size representation"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-6b3977c6227a",
+      "provider": "Canon U.S.A., Inc.",
+      "classification": "likely-not-small",
+      "confidence": "high",
+      "identityConfidence": "high",
+      "reason": "Canon U.S.A. identifies Canon Inc. as its parent. Canon Inc. official financial highlights report consolidated net sales of ¥3,513.4 billion in 2021, ¥4,031.4 billion in 2022, ¥4,181.0 billion in 2023, ¥4,509.8 billion in 2024, and ¥4,624.7 billion in 2025. Given the documented parent relationship and this verified scale, Canon U.S.A. is likely not small after applying a conservative lower-bound inference; exact U.S. receipts and employee allocation are not public. The entity has an active SBA profile with small representations, but these do not resolve affiliation with the controlling parent.",
+      "relevantNaics": [
+        "532420",
+        "518210",
+        "541511",
+        "541519"
+      ],
+      "unresolvedQuestions": [
+        "Confirm the certified service NAICS and applicable size metric.",
+        "Confirm the specific SBA affiliation/exception treatment for the U.S. subsidiary; public parent consolidated sales are overwhelming size evidence but are not a U.S. subsidiary receipts breakdown."
+      ],
+      "sources": [
+        {
+          "url": "https://search.certifications.sba.gov/profile/DTQLFAEKKCP5/4J871",
+          "title": "SBA Small Business Search — CANON U.S.A., INC.",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Active representation includes small status under primary NAICS 532420 and other listed codes.",
+          "supports": "Exact name/domain and UEI record; representation evidence, not SBA adjudication."
+        },
+        {
+          "url": "https://www.usa.canon.com/business/industries/government-solutions",
+          "title": "Canon U.S.A. Government Solutions",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Canon Inc. is the parent company of Canon U.S.A., Inc.",
+          "supports": "Parent identity/control scope; secondary official company page."
+        },
+        {
+          "url": "https://global.canon/en/ir/finance/highlight.html",
+          "title": "Financial Highlights — Canon Global",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "2025 Net Sales (Consolidated): 4,624.7 billion yen.",
+          "supports": "Parent consolidated scale signal, not direct evidence of SBA receipts for Canon U.S.A. in its NAICS."
+        }
+      ],
+      "searches": [
+        "Canon U.S.A. parent Canon Inc annual report revenue 2025",
+        "Canon U.S.A SBA UEI DTQLFAEKKCP5 small NAICS"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-7c2dddc2c258",
+      "provider": "BeyondTrust",
+      "classification": "unknown",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "BeyondTrust directly reports more than $400M ARR in 2024, which conflicts with an unqualified small reading but is not SBA receipts. It also reports institutional equity investment by Clearlake alongside Francisco Partners (2021); these ownership interests warrant control/affiliate analysis, not automatic inclusion of every sponsor portfolio company. Exact SBA UEI exists, but limited scope and applicable service NAICS/size calculations are unresolved. Keep unknown.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "unresolvedQuestions": [
+        "What NAICS applies to BeyondTrust’s cloud security offering?",
+        "What are exact ownership rights and control among Francisco Partners, Clearlake, and operating entity?",
+        "What are five-year receipts and 24-month employee averages including only SBA affiliates?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.beyondtrust.com/press/h1-2024-momentum",
+          "title": "BeyondTrust first-half 2024 momentum",
+          "publishedAt": "2024-07-16",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "In surpassing $400M in Annual Recurring Revenue (ARR).",
+          "supports": "Direct official ARR scale disclosure; ARR is not receipts."
+        },
+        {
+          "url": "https://www.beyondtrust.com/press/beyondtrust-announces-strategic-investment-from-clearlake-capital",
+          "title": "BeyondTrust Announces Strategic Investment from Clearlake Capital",
+          "publishedAt": "2021-06-01",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Clearlake will join existing investor Francisco Partners as an institutional shareholder.",
+          "supports": "Ownership context and need for control/affiliate analysis; does not prove sponsor portfolio-wide affiliation."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/M7U8NDFYRPJ9/4B5K1",
+          "title": "SBA Small Business Search — BEYONDTRUST CORPORATION",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Active SBA representation for UEI M7U8NDFYRPJ9.",
+          "supports": "Exact-entity record; conflicting size representation should be scoped by NAICS and date."
+        }
+      ],
+      "searches": [
+        "BeyondTrust official 2024 ARR",
+        "BeyondTrust official Clearlake Francisco Partners ownership",
+        "BeyondTrust SBA profile UEI"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-f85266e98d4b",
+      "provider": "StackArmor",
+      "classification": "unknown",
+      "confidence": "high",
+      "identityConfidence": "high",
+      "reason": "Official acquirer announcement states the May 2025 acquisition was completed and stackArmor became a wholly owned subsidiary of Tyto Athene, itself a portfolio company of Arlington Capital Partners. Legacy standalone SBA representations cannot establish current status. Do not assume Arlington’s whole portfolio aggregates; determine parent control, affiliate boundaries and relevant NAICS receipts/employees. Unknown is appropriate pending post-acquisition SBA record and affiliate review.",
+      "relevantNaics": [
+        "541512",
+        "541519",
+        "518210"
+      ],
+      "unresolvedQuestions": [
+        "What are Tyto Athene’s control rights and the full SBA affiliate set after acquisition?",
+        "What are the combined 24-month employee averages and receipts for applicable NAICS?",
+        "Is stackArmor’s Marketplace service currently contracted by the same legal subsidiary?"
+      ],
+      "sources": [
+        {
+          "url": "https://gotyto.com/press-releases/tyto-athene-acquires-stackarmor/",
+          "title": "Tyto Athene Acquires stackArmor Inc.",
+          "publishedAt": "2025-05-08",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "As a wholly-owned subsidiary, stackArmor will provide Tyto with ... cloud managed services.",
+          "supports": "Completed acquisition, parent identity, subsidiary control, and service lines."
+        }
+      ],
+      "searches": [
+        "Tyto Athene stackArmor acquisition May 2025 wholly owned subsidiary",
+        "StackArmor SBA profile after acquisition Tyto Arlington Capital"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-1b9fc2dd04a8",
+      "provider": "mLINQS",
+      "classification": "unknown",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "The company and federal procurement materials call mLINQS an SDVOSB/small business, but official 2025 acquisition news states Casepoint + OPEXUS acquired mLINQS. That acquisition makes the earlier standalone small-business claim temporally inapplicable to the current snapshot without a post-deal affiliate analysis. Distinguish historical claim from current size; do not use this corporate SDVOSB representation as a current independent size conclusion.",
+      "relevantNaics": [
+        "513210",
+        "541511",
+        "541519"
+      ],
+      "unresolvedQuestions": [
+        "What control and affiliation relationship does mLINQS have with Casepoint + OPEXUS and its sponsors?",
+        "What are affiliate-adjusted 24-month employees and five-year receipts?",
+        "Is the SDVOSB certification maintained under current ownership and relevant NAICS?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.casepoint.com/press/casepoint-opexus-acquires-mlinqs-expanding-regulatory-and-compliance/",
+          "title": "Casepoint + OPEXUS Acquires mLINQS",
+          "publishedAt": "2025-07-15",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "The addition of mLINQS ... Founded in 2003, mLINQS is a Service-Disabled Veteran-Owned Small Business.",
+          "supports": "Official acquisition and contemporaneous description; does not say small-business certification remained valid after closing."
+        },
+        {
+          "url": "https://mlinqs.net/contact/",
+          "title": "mLINQS Contact",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "mLINQS is a Service-disabled Veteran-owned Small Business (SDVOSB).",
+          "supports": "Current company claim but not independent post-acquisition size proof."
+        },
+        {
+          "url": "https://www.gsaadvantage.gov/ref_text/GS33F0007U/GS33F0007U_mLINQS_TermsandConditions_PS_0064_20Apr26.pdf",
+          "title": "mLINQS GSA Schedule terms and company information",
+          "publishedAt": "2026-04-20",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "mLINQS, LLC®, a service-disabled veteran-owned small business.",
+          "supports": "Current published self/contract document; status and affiliate-qualified size need confirmation after acquisition."
+        }
+      ],
+      "searches": [
+        "mLINQS Casepoint acquisition official 2025",
+        "mLINQS official SDVOSB current 2026"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-4ec3559fd5b8",
+      "provider": "Zeva Incorporated",
+      "classification": "likely-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "Zeva’s own current site identifies it as a woman-owned small business; a GSA eLibrary contract record matching the name, website and UEI WKRER9GT1NY4 lists it as Small Business and SBA-certified WOSB under NAICS 541519. This is materially stronger than an uncorroborated company claim, and supports likely-small for the current service context. It remains a public representation/contract schedule status, not an adjudication of five-year receipts, 24-month employee averages or affiliates; company site’s 100+ clients does not settle size.",
+      "relevantNaics": [
+        "541519",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Does the active SBA profile and certification remain current through 2026?",
+        "What are five-year receipts/24-month employees and applicable affiliates?",
+        "Which NAICS did the Marketplace procurement actually assign?"
+      ],
+      "sources": [
+        {
+          "url": "https://www.zevainc.com/",
+          "title": "Zeva Inc.",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Founded in 2005 ... a CMMI Level 3, Woman-Owned Small Business.",
+          "supports": "Current explicit provider claim and service description."
+        },
+        {
+          "url": "https://www.zevainc.com/about.php",
+          "title": "About Zeva Inc.",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "For several years, Zeva has demonstrated ... Woman-Owned Small Business (WOSB).",
+          "supports": "Provider claim and corporate self-description; site lists 100+ clients but no receipts/headcount."
+        },
+        {
+          "url": "https://www.gsaelibrary.gsa.gov/ElibMain/home.dohttps%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/www.gsaelibrary.gsa.gov/ElibMain/pdf/pdf/contractorInfo.do?contractNumber=GS-35F-0476X&contractorName=ZEVA+INCORPORATED&executeQuery=YES",
+          "title": "GSA eLibrary contractor information — ZEVA INCORPORATED",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "NAICS: 541519 ... Socio-Economic: Small Business; SBA-Certified Women-Owned Small Business.",
+          "supports": "Contract schedule representation matched to Zeva legal name, UEI, and site; strong but scoped evidence."
+        }
+      ],
+      "searches": [
+        "Zeva Incorporated official small business WOSB",
+        "Zeva Incorporated GSA eLibrary UEI WKRER9GT1NY4 NAICS 541519"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-01dd098812ac",
+      "provider": "ArcSuite AI / A-FRAME SOLUTIONS LLC",
+      "classification": "documented-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "First-party A-Frame material identifies ArcSuite AI as its product and gives the same UEI as the SBA profile for A-FRAME SOLUTIONS LLC. This corroborates the legal-name/product identity. SBA profile is a self-representation rather than independent size adjudication.",
+      "relevantNaics": [
+        "541519"
+      ],
+      "sources": [
+        {
+          "url": "https://www.aframesolutions.com/about",
+          "title": "About — A-Frame Solutions",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "A-Frame Solutions LLC ... UEI JR1NGCDN8AF9 ... ArcSuite AI",
+          "supports": "Official legal entity, UEI, and product linkage."
+        },
+        {
+          "url": "https://www.aframesolutions.com/news/montana-ai-contract",
+          "title": "A-Frame Solutions awarded Montana AI contract",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "A-Frame Solutions LLC provides ArcSuite AI",
+          "supports": "Official product/operator linkage."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/JR1NGCDN8AF9/72P29",
+          "title": "SBA Small Business Search profile",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "UEI JR1NGCDN8AF9",
+          "supports": "SBA size representation for matching UEI."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Verify service-specific NAICS and affiliation-adjusted size metrics."
+      ],
+      "searches": [
+        "ArcSuite AI / A-FRAME SOLUTIONS LLC official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-46b8135e03f1",
+      "provider": "ATX Defense / ATX CAPITAL PARTNERS LLC",
+      "classification": "documented-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "The exact UEI SBA profile names ATX CAPITAL PARTNERS LLC. Official SBIR award record uses that legal name and same UEI while describing ATX Defense as the developing company; SAM award record uses “ATX Capital Partners LLC (ATX Defense).” Identity is well corroborated; size remains a representation.",
+      "relevantNaics": [
+        "541611",
+        "541512"
+      ],
+      "sources": [
+        {
+          "url": "https://www.sbir.gov/awards/204797",
+          "title": "SBIR award record",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "ATX CAPITAL PARTNERS LLC ... ATX Defense is developing",
+          "supports": "Government awardee and alias linkage."
+        },
+        {
+          "url": "https://sam.gov/opp/92aaff05749a4adfaaf5375be5bbba13/view",
+          "title": "SAM.gov opportunity",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "ATX Capital Partners LLC (ATX Defense)",
+          "supports": "Government record explicitly links legal and trade names."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/H6YBMH9MN3D3/8U9V5",
+          "title": "SBA profile",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "ATX CAPITAL PARTNERS LLC",
+          "supports": "Exact UEI profile with active small representations."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Verify which NAICS applies to the certified service and affiliate-adjusted size."
+      ],
+      "searches": [
+        "ATX Defense / ATX CAPITAL PARTNERS LLC official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-9e1dcf013ad2",
+      "provider": "DevResults / CAUDILL WEBSITE DESIGN & CONSTRUCTION INC",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "medium",
+      "reason": "DevResults first-party history says founder incorporated Caudill Web and later retired that brand because DevResults was the company name. SBA has a small profile for CAUDILL WEBSITE DESIGN & CONSTRUCTION INC on the DevResults domain, but no first-party page located in this pass states that exact full legal name. The brand history and domain suggest continuity but do not fully prove exact statutory entity identity.",
+      "relevantNaics": [
+        "541519"
+      ],
+      "sources": [
+        {
+          "url": "https://blog.devresults.com/caudill-web-is-now-devresults/",
+          "title": "Caudill Web is now DevResults",
+          "publishedAt": "2015-01-01",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "We’re retiring the Caudill Web brand. DevResults is what we make, and that’s the company’s name.",
+          "supports": "First-party brand/company continuity, not exact full legal entity name."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/SAMVTA1URJH4/639S2",
+          "title": "SBA profile",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "CAUDILL WEBSITE DESIGN & CONSTRUCTION INC",
+          "supports": "Small representation associated with DevResults domain; identity linkage short of exact first-party legal name."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Find a current first-party legal notice, contract, or official registry record connecting exact legal name to DevResults."
+      ],
+      "searches": [
+        "DevResults / CAUDILL WEBSITE DESIGN & CONSTRUCTION INC official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-1e181a2f4941",
+      "provider": "GovDash / REALIZE, INC.",
+      "classification": "documented-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "GovDash privacy notice expressly identifies Realize, Inc. as the operator. Exact UEI SBA profile is consistent with the legal entity; this supports provider identity. SBA small status is a representation, not an adjudication.",
+      "relevantNaics": [
+        "541511",
+        "541512"
+      ],
+      "sources": [
+        {
+          "url": "https://www.govdash.com/pages/privacy-policy",
+          "title": "Privacy Policy — GovDash",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Realize, Inc. (“GovDash,” “we,” “us”)",
+          "supports": "First-party explicit legal entity linkage."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/WU1ZMXGYYLH3/9NRX0",
+          "title": "SBA profile — Realize, Inc.",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "REALIZE, INC.",
+          "supports": "Matching UEI record and size representation."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Confirm certified service NAICS and affiliate-adjusted size."
+      ],
+      "searches": [
+        "GovDash / REALIZE, INC. official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-adf1bc57893b",
+      "provider": "Orbus Software / SEATTLE BUSINESS SOFTWARE, INC.",
+      "classification": "documented-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "Orbus first-party privacy and SaaS terms list Seattle Business Software, Inc. as a U.S. contracting entity for Orbus services, corroborating the legal-name link. The same materials list other Orbus group entities, so a small representation for this entity does not resolve affiliate aggregation.",
+      "relevantNaics": [
+        "541519"
+      ],
+      "sources": [
+        {
+          "url": "https://www.orbussoftware.com/privacy-policy",
+          "title": "Privacy Policy — Orbus Software",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Seattle Business Software, Inc.",
+          "supports": "First-party contracting entity disclosure; page lists several Orbus group entities."
+        },
+        {
+          "url": "https://www.orbussoftware.com/infinity-saas-terms/online-terms",
+          "title": "Infinity SaaS online terms",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Seattle Business Software, Inc.",
+          "supports": "First-party U.S. contracting entity listing."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/SU2XF8198M21/9VTB6",
+          "title": "SBA profile",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "SEATTLE BUSINESS SOFTWARE, INC.",
+          "supports": "Exact legal-name profile with active small representation."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Determine which group entities are affiliates and aggregate size under the applicable rules."
+      ],
+      "searches": [
+        "Orbus Software / SEATTLE BUSINESS SOFTWARE, INC. official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-04f893a1a754",
+      "provider": "Specset / SPOT.XYZ CORPORATION",
+      "classification": "documented-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "Specset official FedRAMP page and vulnerability disclosure state that Specset is the trade name / DBA of Spot.xyz Corporation; the listed UEI matches the SBA profile. This confirms entity identity. SBA status is represented, not independently adjudicated.",
+      "relevantNaics": [
+        "541511",
+        "541512"
+      ],
+      "sources": [
+        {
+          "url": "https://www.specset.com/fedramp",
+          "title": "FedRAMP — Specset",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Specset is a trade name of Spot.xyz Corp",
+          "supports": "First-party explicit trade-name and UEI linkage."
+        },
+        {
+          "url": "https://www.specset.com/security/vulnerability-disclosure",
+          "title": "Vulnerability Disclosure Policy — Specset",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Spot.xyz Corporation dba Specset",
+          "supports": "First-party legal/DBA linkage."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/S7RZBSZXNBD5/165H5",
+          "title": "SBA profile",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "SPOT.XYZ CORPORATION",
+          "supports": "Exact UEI profile / size representation."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Confirm applicable service NAICS and affiliate-adjusted size."
+      ],
+      "searches": [
+        "Specset / SPOT.XYZ CORPORATION official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-6f6c288b59d5",
+      "provider": "Vibrent Health / VIGNET INC",
+      "classification": "documented-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "Vibrent Health terms expressly say Vignet, Inc. does business as Vibrent Health. The Marketplace UEI matches its SBA profile, which has small representations. Identity is strongly corroborated; SBA status is not a size adjudication.",
+      "relevantNaics": [
+        "541714",
+        "541715"
+      ],
+      "sources": [
+        {
+          "url": "https://www.vibrenthealth.com/terms-of-service/",
+          "title": "Terms of Service — Vibrent Health",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Vignet, Inc., a Delaware corporation d/b/a Vibrent Health",
+          "supports": "First-party explicit legal-name/DBA linkage."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/WUWGNMBAHKG2/6HXX9",
+          "title": "SBA profile",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "VIGNET INC",
+          "supports": "Matching UEI and active size representation."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Confirm contract NAICS and affiliate-adjusted size."
+      ],
+      "searches": [
+        "Vibrent Health / VIGNET INC official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-fb41be4dda7b",
+      "provider": "CoSo Cloud, LLC. / Knox Systems, Inc.",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "medium",
+      "reason": "The same UEI appears in FedRAMP materials under both CoSo Cloud and Knox Systems. Official Class and CoSo releases establish Class acquired CoSo in 2023, while current CoSo site still identifies CoSo Cloud LLC; exact current legal/successor relationship to Knox Systems is not established by the first-party sources found. SBA small profile for Knox therefore cannot safely be transferred to CoSo Cloud without the legal chain.",
+      "relevantNaics": [
+        "513210",
+        "541512"
+      ],
+      "sources": [
+        {
+          "url": "https://www.fedramp.gov/marketplace/agencies/22-002-03/",
+          "title": "Agency Marketplace listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "CoSo Cloud, LLC. | Knox Systems | FedRAMP Certified",
+          "supports": "Official Marketplace association of names."
+        },
+        {
+          "url": "https://www.cosocloud.com/press-releases/class-technologies-acquires-coso-cloud",
+          "title": "Class Technologies Acquires CoSo Cloud",
+          "publishedAt": "2023",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "CoSo Cloud will become a wholly owned subsidiary of Class Technologies",
+          "supports": "First-party acquisition relationship."
+        },
+        {
+          "url": "https://www.cosocloud.com/",
+          "title": "CoSo Cloud",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "© CoSo Cloud LLC",
+          "supports": "Current first-party branding/legal footer."
+        },
+        {
+          "url": "https://www.sba.gov/federal-contracting/contracting-assistance-programs/small-business-search",
+          "title": "SBA small business search",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Cached exact-UEI lookup returns legal name KNOX SYSTEMS, INC. and UEI NMSFSAMF88Z3.",
+          "supports": "Identity/size evidence is based on research/sba cache for exact UEI; this general public link does not reproduce the specific profile."
+        }
+      ],
+      "unresolvedQuestions": [
+        "Find first-party evidence for the CoSo Cloud/Knox Systems spinout, successor or trade-name relationship and effective date.",
+        "Confirm applicable NAICS and aggregation across Class/Knox affiliations."
+      ],
+      "searches": [
+        "CoSo Cloud, LLC. / Knox Systems, Inc. official legal entity and UEI identity cross-check"
+      ],
+      "reviewerStatus": "pending"
+    }
+  ]
+}

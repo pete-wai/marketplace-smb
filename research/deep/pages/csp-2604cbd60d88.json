@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-2604cbd60d88",
+  "retrievedAt": "2026-10-30T11:01:25.808Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ironcladapp.com/request-demo",
+      "finalUrl": "https://ironcladapp.com/request-demo",
+      "status": "success",
+      "sha256": "02e6c04dfb97eb2c4256afdfdf7e2e7345334ffe9f2aa07ac89898aea0ef0385",
+      "title": "Get a CLM Demo, Customized for You | Ironclad",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ironcladapp.com/about-us"
+      ]
+    },
+    {
+      "url": "https://ironcladapp.com/about-us",
+      "finalUrl": "https://ironcladapp.com/about-us",
+      "status": "success",
+      "sha256": "62c9a6a39fcaccb0cee662e2c590bc54a0885462ad6c81e8848c1b4d5f0a374e",
+      "title": "About us | Ironclad",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-00c764f20f35",
+  "retrievedAt": "2026-10-30T11:00:47.613Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.blackboard.com/government",
+      "finalUrl": "https://www.blackboard.com/government",
+      "status": "success",
+      "sha256": "c67a7c8fd4137d675b46e66ac0771cb2479ee151935917f7ab0e62b61921cb70",
+      "title": "Training LMS for Government Agencies & Workforce | Blackboard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.blackboard.com/material/anthology-for-government-build-courses-grow-skills-achieve-missions",
+        "https://www.blackboard.com/government/security-certifications",
+        "https://www.blackboard.com/government/memberships",
+        "https://www.blackboard.com/channel-partnerships",
+        "https://www.blackboard.com/government/contract-vehicles",
+        "https://www.blackboard.com/company",
+        "https://www.blackboard.com/company/careers",
+        "https://www.blackboard.com/company/newsroom",
+        "https://www.blackboard.com/company/events",
+        "https://www.blackboard.com/company/partners",
+        "https://www.blackboard.com/company/brand-guidance"
+      ]
+    },
+    {
+      "url": "https://www.blackboard.com/material/anthology-for-government-build-courses-grow-skills-achieve-missions",
+      "finalUrl": "https://www.blackboard.com/material/anthology-for-government-build-courses-grow-skills-achieve-missions",
+      "status": "success",
+      "sha256": "ac09b20194364be50cea0c02d9a9be1cdc6ddb15e7380a9af6363c1752d8c764",
+      "title": "Blackboard for Government: Build courses. Grow skills. Achieve missions. | Blackboard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.blackboard.com/company",
+        "https://www.blackboard.com/company/careers",
+        "https://www.blackboard.com/company/newsroom",
+        "https://www.blackboard.com/company/events",
+        "https://www.blackboard.com/company/partners",
+        "https://www.blackboard.com/company/brand-guidance"
+      ]
+    },
+    {
+      "url": "https://www.blackboard.com/government/security-certifications",
+      "finalUrl": "https://www.blackboard.com/government/security-certifications",
+      "status": "success",
+      "sha256": "00d63a3386b21df28d5729b99c69137adcd07a698e3825532b382c5b98313bd8",
+      "title": "Security and Certifications: Secure LMS Solutions | Blackboard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.blackboard.com/company",
+        "https://www.blackboard.com/company/careers",
+        "https://www.blackboard.com/company/newsroom",
+        "https://www.blackboard.com/company/events",
+        "https://www.blackboard.com/company/partners",
+        "https://www.blackboard.com/company/brand-guidance"
+      ]
+    },
+    {
+      "url": "https://www.blackboard.com/government/memberships",
+      "finalUrl": "https://www.blackboard.com/government/memberships",
+      "status": "success",
+      "sha256": "e27f8a331136f198bd7ed23cefe86625ba0ab6e4da99f24cc4a1b59580d27338",
+      "title": "Memberships | Blackboard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.blackboard.com/company",
+        "https://www.blackboard.com/company/careers",
+        "https://www.blackboard.com/company/newsroom",
+        "https://www.blackboard.com/company/events",
+        "https://www.blackboard.com/company/partners",
+        "https://www.blackboard.com/company/brand-guidance"
+      ]
+    }
+  ]
+}

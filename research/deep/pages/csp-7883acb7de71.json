@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-7883acb7de71",
+  "retrievedAt": "2026-10-30T11:00:45.887Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.axiad.com/axiad-cloud/",
+      "finalUrl": "https://www.axiad.ai/axiad-conductor",
+      "status": "success",
+      "sha256": "921ddf22fe42c57ab79eb977433e3472f444d49ee4c42d6cb526039552ce3a64",
+      "title": "Axiad Conductor - Automate Identity Credential Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.axiad.ai/axiad-conductor",
+        "https://www.axiad.ai/industries/public-sector",
+        "https://www.axiad.ai/industries/public-sector/mandates",
+        "https://www.axiad.ai/industries/public-sector/procurement",
+        "https://www.axiad.ai/industries/public-sector/vs-entrust",
+        "https://www.axiad.ai/about-us",
+        "https://www.axiad.ai/axiad-confirm"
+      ]
+    },
+    {
+      "url": "https://www.axiad.ai/axiad-conductor",
+      "finalUrl": "https://www.axiad.ai/axiad-conductor",
+      "status": "success",
+      "sha256": "921ddf22fe42c57ab79eb977433e3472f444d49ee4c42d6cb526039552ce3a64",
+      "title": "Axiad Conductor - Automate Identity Credential Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.axiad.ai/industries/public-sector",
+        "https://www.axiad.ai/industries/public-sector/mandates",
+        "https://www.axiad.ai/industries/public-sector/procurement",
+        "https://www.axiad.ai/industries/public-sector/vs-entrust",
+        "https://www.axiad.ai/about-us",
+        "https://www.axiad.ai/axiad-confirm"
+      ]
+    },
+    {
+      "url": "https://www.axiad.ai/industries/public-sector",
+      "finalUrl": "https://www.axiad.ai/industries/public-sector",
+      "status": "success",
+      "sha256": "981c7a85d41e73aadf3a8c01fc655101d45176b56c6c66f230cf8d706abd6d47",
+      "title": "Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.axiad.ai/industries/public-sector/mandates",
+        "https://www.axiad.ai/industries/public-sector/procurement",
+        "https://www.axiad.ai/industries/public-sector/vs-entrust",
+        "https://www.axiad.ai/about-us"
+      ]
+    },
+    {
+      "url": "https://www.axiad.ai/industries/public-sector/mandates",
+      "finalUrl": "https://www.axiad.ai/industries/public-sector/mandates",
+      "status": "success",
+      "sha256": "abefb15e866de28e1520b58e79a4d84fa09505045ebd6db6bbd1c73c864d219b",
+      "title": "Built for mandates",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.axiad.ai/industries/public-sector/procurement",
+        "https://www.axiad.ai/industries/public-sector/vs-entrust",
+        "https://www.axiad.ai/about-us"
+      ]
+    }
+  ]
+}

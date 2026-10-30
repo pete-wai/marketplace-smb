@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-3783f0c3352e",
+  "retrievedAt": "2026-10-30T11:01:19.852Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://groupize.ai/",
+      "finalUrl": "https://groupize.ai/",
+      "status": "success",
+      "sha256": "2533b1e5384cba175a698d3af08618202d7236dd264c3e0daf29ea8d496e67df",
+      "title": "Groupize AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://groupize.ai/industry/government/",
+        "https://groupize.ai/company/about-us/",
+        "https://groupize.ai/company/our-team/",
+        "https://groupize.ai/company/careers/",
+        "https://groupize.ai/company/press-awards/"
+      ]
+    },
+    {
+      "url": "https://groupize.ai/industry/government/",
+      "finalUrl": "https://groupize.ai/industry/government/",
+      "status": "success",
+      "sha256": "b981d411f7466f4db6ffff624dd75b9ff0f8e3f9dcec73cb60a8a05bc747e43d",
+      "title": "Government &#8211; Groupize AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://groupize.ai/company/about-us/",
+        "https://groupize.ai/company/our-team/",
+        "https://groupize.ai/company/careers/",
+        "https://groupize.ai/company/press-awards/"
+      ]
+    },
+    {
+      "url": "https://groupize.ai/company/about-us/",
+      "finalUrl": "https://groupize.ai/company/about-us/",
+      "status": "success",
+      "sha256": "4a076346e32e28e2953495e27ba8ec1a3e18e7a7b8b91780274f69d64e1fac7a",
+      "title": "About Us &#8211; Groupize AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://groupize.ai/company/our-team/",
+        "https://groupize.ai/company/careers/",
+        "https://groupize.ai/company/press-awards/"
+      ]
+    },
+    {
+      "url": "https://groupize.ai/company/our-team/",
+      "finalUrl": "https://groupize.ai/company/our-team/",
+      "status": "success",
+      "sha256": "64d9ce4abe21ca443c5c2b32bdbd8a164140ebc530f9a4c6c0d56b298b64d167",
+      "title": "Our Team &#8211; Groupize AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://groupize.ai/company/careers/",
+        "https://groupize.ai/company/press-awards/"
+      ]
+    }
+  ]
+}

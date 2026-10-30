@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-615fce6001b7",
+  "retrievedAt": "2026-10-30T11:00:43.473Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.atompower.com/",
+      "finalUrl": "https://www.atompower.com/",
+      "status": "success",
+      "sha256": "6790af1be524f5e17b8bc85bfe8af0cb82c37e24fd33f88a48080279a5e24ad0",
+      "title": "Solid-State Circuit Breakers & Power Distribution | Atom Power",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.atompower.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.atompower.com/about-us",
+      "finalUrl": "https://www.atompower.com/about-us",
+      "status": "success",
+      "sha256": "48266d0c3d925b5a21cf969530ffb4cf91da54b4aa37b717500c412386d90db5",
+      "title": "About Us | Atom Power",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

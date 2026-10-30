@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-4e74b75506db",
+  "retrievedAt": "2026-10-30T11:01:09.796Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://eightfold.ai/",
+      "finalUrl": "https://eightfold.ai/",
+      "status": "success",
+      "sha256": "b5b444806b29595a56990372b30bf26deb94e7883ee7fcc92ca117271b90d889",
+      "title": "Eightfold AI | AI Native Talent Intelligence Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://eightfold.ai/company/",
+        "https://eightfold.ai/company/careers/",
+        "https://eightfold.ai/company/press/",
+        "https://eightfold.ai/company/eightfold-ai-leadership/",
+        "https://eightfold.ai/company/press/press-releases/eightfold-ai-welcomes-joe-korngiebel-as-ceo-to-lead-its-next-chapter-of-growth/",
+        "https://eightfold.ai/company/press/press-releases/eightfold-ai-named-agentic-ai-hr-solution-of-the-year-in-2026-hr-tech-breakthrough-awards-program/",
+        "https://eightfold.ai/security/",
+        "https://eightfold.ai/company/partners/",
+        "https://eightfold.ai/company/contact-us/"
+      ]
+    },
+    {
+      "url": "https://eightfold.ai/company/",
+      "finalUrl": "https://eightfold.ai/company/",
+      "status": "success",
+      "sha256": "a552e515a46feed78baae7c2c7c24e45535ef2bcdf2b6975d3db350126081255",
+      "title": "Eightfold AI | AI Native Talent Intelligence Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://eightfold.ai/company/careers/",
+        "https://eightfold.ai/company/press/",
+        "https://eightfold.ai/company/eightfold-ai-leadership/",
+        "https://eightfold.ai/company/leadership-advisory-board/",
+        "https://eightfold.ai/company/press/patents/",
+        "https://eightfold.ai/company/press/press-releases/eightfold-ai-named-agentic-ai-hr-solution-of-the-year-in-2026-hr-tech-breakthrough-awards-program/",
+        "https://eightfold.ai/company/partners/",
+        "https://eightfold.ai/company/contact-us/"
+      ]
+    },
+    {
+      "url": "https://eightfold.ai/company/careers/",
+      "finalUrl": "https://eightfold.ai/company/careers/",
+      "status": "success",
+      "sha256": "f36940c9193a7af3205dd9667c052e5a6c4e63dac905149b7ea87efc0f1fa861",
+      "title": "Careers at Eightfold AI | Build what&#039;s next",
+      "signals": [],
+      "discoveredLinks": [
+        "https://eightfold.ai/company/press/",
+        "https://eightfold.ai/company/eightfold-ai-leadership/",
+        "https://eightfold.ai/company/press/press-releases/eightfold-ai-named-agentic-ai-hr-solution-of-the-year-in-2026-hr-tech-breakthrough-awards-program/",
+        "https://eightfold.ai/company/partners/",
+        "https://eightfold.ai/company/contact-us/"
+      ]
+    },
+    {
+      "url": "https://eightfold.ai/company/press/",
+      "finalUrl": "https://eightfold.ai/company/press/",
+      "status": "success",
+      "sha256": "de2fe336ad1209adff82dbc9fa79282e57f6638d0ea47a37e9993270036e5c45",
+      "title": "Eightfold News Center – Human Resource Problems and Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://eightfold.ai/company/eightfold-ai-leadership/",
+        "https://eightfold.ai/company/press/press-releases/",
+        "https://eightfold.ai/company/press/industry-awards/",
+        "https://eightfold.ai/company/press/patents/",
+        "https://eightfold.ai/company/press/press-releases/eightfold-ai-named-agentic-ai-hr-solution-of-the-year-in-2026-hr-tech-breakthrough-awards-program/",
+        "https://eightfold.ai/company/partners/",
+        "https://eightfold.ai/company/contact-us/"
+      ]
+    }
+  ]
+}

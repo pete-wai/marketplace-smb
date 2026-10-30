@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-d5e300dea6e3",
+  "retrievedAt": "2026-10-30T11:00:53.925Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://helios.gov-cohesity.com/",
+      "finalUrl": "https://helios.gov-cohesity.com/",
+      "status": "success",
+      "sha256": "4d1a56a537dc78188b55aa4b650b11c345e4d3de702d3a667a1a6d4beb3f2b52",
+      "title": "",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.cohesity.com/solutions/federal-government/",
+      "finalUrl": "https://www.cohesity.com/solutions/federal-government/",
+      "status": "success",
+      "sha256": "a52d6867094b613c2b72b04677d6cb7443f1238730ab17f3be964ad5d09b43f1",
+      "title": "Cyber Resilience and Data Security for Federal Government | Cohesity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cohesity.com/solutions/minimum-viable-company/",
+        "https://www.cohesity.com/solutions/state-and-local-government/",
+        "https://www.cohesity.com/company/data-security-alliance/",
+        "https://www.cohesity.com/company/",
+        "https://www.cohesity.com/company/leadership/",
+        "https://www.cohesity.com/company/awards/",
+        "https://www.cohesity.com/company/executive-briefing-center/",
+        "https://www.cohesity.com/dm/public-sector-cyber-resilience-report/",
+        "https://www.cohesity.com/blogs/how-the-ai-action-plan-reshapes-federal-data-strategy/",
+        "https://www.cohesity.com/blogs/minimum-viable-company-is-about-trust/",
+        "https://www.cohesity.com/company/investor-relations/",
+        "https://www.cohesity.com/company/sustainability/"
+      ]
+    },
+    {
+      "url": "https://www.cohesity.com/solutions/minimum-viable-company/",
+      "finalUrl": "https://www.cohesity.com/solutions/minimum-viable-company/",
+      "status": "success",
+      "sha256": "bff054e54d00f0ec7eb54e34baf15bd8c67d381f82543c0c6467f18ed3031136",
+      "title": "Minimum Viable Company (MVC) with Cohesity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cohesity.com/solutions/state-and-local-government/",
+        "https://www.cohesity.com/company/data-security-alliance/",
+        "https://www.cohesity.com/company/",
+        "https://www.cohesity.com/company/leadership/",
+        "https://www.cohesity.com/company/awards/",
+        "https://www.cohesity.com/company/executive-briefing-center/",
+        "https://www.cohesity.com/blogs/minimum-viable-company-is-about-trust/",
+        "https://www.cohesity.com/forms/webinar/coho-minimum-viable-company-july-16-2026/",
+        "https://www.cohesity.com/company/investor-relations/",
+        "https://www.cohesity.com/company/sustainability/"
+      ]
+    },
+    {
+      "url": "https://www.cohesity.com/solutions/state-and-local-government/",
+      "finalUrl": "https://www.cohesity.com/solutions/state-and-local-government/",
+      "status": "success",
+      "sha256": "5d1241e059ce6d6a5407922c4bb935ab9b091fdb87291f8ea8863852fead729e",
+      "title": "Government Data Security and Management (SLED) | Cohesity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cohesity.com/company/data-security-alliance/",
+        "https://www.cohesity.com/company/",
+        "https://www.cohesity.com/company/leadership/",
+        "https://www.cohesity.com/company/awards/",
+        "https://www.cohesity.com/company/executive-briefing-center/",
+        "https://www.cohesity.com/dm/public-sector-cyber-resilience-report/",
+        "https://www.cohesity.com/blogs/minimum-viable-company-is-about-trust/",
+        "https://www.cohesity.com/company/investor-relations/",
+        "https://www.cohesity.com/company/sustainability/"
+      ]
+    }
+  ]
+}

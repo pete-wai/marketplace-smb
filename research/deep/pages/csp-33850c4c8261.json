@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-33850c4c8261",
+  "retrievedAt": "2026-10-30T11:01:22.501Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ineight.com/products/ineight-document/",
+      "finalUrl": "https://ineight.com/products/ineight-document/",
+      "status": "success",
+      "sha256": "86671dbbf20cf487b1e8e944af6f27b9d0222db005e1dd8c64adf80a3e95f560",
+      "title": "Construction Document Control Software | InEight Document",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ineight.com/company/about-ineight/",
+        "https://ineight.com/software-capabilities-of-ineight-document/",
+        "https://ineight.com/pricing-overview/",
+        "https://ineight.com/company/security/",
+        "https://ineight.com/company/innovation/",
+        "https://ineight.com/company/careers/",
+        "https://ineight.com/company/contact-ineight-and-locations/",
+        "https://ineight.com/company/about-ineight"
+      ]
+    },
+    {
+      "url": "https://ineight.com/company/about-ineight/",
+      "finalUrl": "https://ineight.com/company/about-ineight/",
+      "status": "success",
+      "sha256": "90287208050f5d83e6f2e25d773b85096c8796d38ddd5a8639c1d6dadb561bf4",
+      "title": "About InEight - InEight",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "oining Kiewit, Mark spent six years as vice president at InterCall, a subsidiary of West Corporation. InterCall is the world’s largest conferencing service provider and is a cornerstone of West’s Unified Communications segment. Mark holds a bachelor’s degree from University"
+        }
+      ],
+      "discoveredLinks": [
+        "https://ineight.com/news/ineight-launches-ineight-intelligence/",
+        "https://ineight.com/company/security/",
+        "https://ineight.com/company/innovation/",
+        "https://ineight.com/company/careers/",
+        "https://ineight.com/company/contact-ineight-and-locations/",
+        "https://ineight.com/company/about-ineight"
+      ]
+    },
+    {
+      "url": "https://ineight.com/software-capabilities-of-ineight-document/",
+      "finalUrl": "https://ineight.com/software-capabilities-of-ineight-document/",
+      "status": "success",
+      "sha256": "1169d5e3ec626b4d0f233a2ad9db6feb5af2c4ae326608daa840edb0eeb0fb2e",
+      "title": "Software Capabilities of InEight Document - InEight",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ineight.com/resources/ebook/a-winning-strategy-8-ways-capital-project-leaders-think-differently-about-technology/",
+        "https://ineight.com/company/security/",
+        "https://ineight.com/company/innovation/",
+        "https://ineight.com/company/careers/",
+        "https://ineight.com/company/contact-ineight-and-locations/",
+        "https://ineight.com/company/about-ineight"
+      ]
+    },
+    {
+      "url": "https://ineight.com/pricing-overview/",
+      "finalUrl": "https://ineight.com/pricing-overview/",
+      "status": "success",
+      "sha256": "5449bd1cfd007417a1a5574dc5bc8f9d5d99187da8c88d64245cafc74140b70a",
+      "title": "Pricing - InEight",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ineight.com/now/",
+        "https://ineight.com/company/security/",
+        "https://ineight.com/company/innovation/",
+        "https://ineight.com/company/careers/",
+        "https://ineight.com/company/contact-ineight-and-locations/",
+        "https://ineight.com/company/about-ineight"
+      ]
+    }
+  ]
+}

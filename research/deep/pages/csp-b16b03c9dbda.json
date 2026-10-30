@@ -1,0 +1,82 @@
+{
+  "providerId": "csp-b16b03c9dbda",
+  "retrievedAt": "2026-10-30T11:00:56.900Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.copado.com/industries/public-sector",
+      "finalUrl": "https://www.copado.com/industries/public-sector",
+      "status": "success",
+      "sha256": "ef9edff83527b7559e5b239b2c1e9f2dd3fba6d3953798e78280707acbf1b7e4",
+      "title": "DevOps Tools for the Public Sector | Copado",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.copado.com/product-overview/govcloud-devops",
+        "https://www.copado.com/solutions-by-role",
+        "https://www.copado.com/about-copado",
+        "https://www.copado.com/resources/videos/copado-demo-library",
+        "https://www.copado.com/resources/whitepaper",
+        "https://www.copado.com/resources/datasheets/copado-for-government",
+        "https://www.copado.com/resources/webinars/revolutionizing-federal-devops-practices-with-copado-rpa",
+        "https://www.copado.com/resources/datasheets/accelerating-government-efficiency-with-copado-devops-robotics-ai",
+        "https://www.copado.com/resources/datasheets/accelerate-public-sector-delivery-with-copados-secure-salesforce-devops-platform",
+        "https://www.copado.com/company-legal-agreements"
+      ]
+    },
+    {
+      "url": "https://www.copado.com/product-overview/govcloud-devops",
+      "finalUrl": "https://www.copado.com/product-overview/govcloud-devops",
+      "status": "success",
+      "sha256": "eb8aa815d0ca1772d1f383f531f8f647e41a1fc6e6c3712b37722af6ffb801b6",
+      "title": "GovCloud Devops",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.copado.com/solutions-by-role",
+        "https://www.copado.com/about-copado",
+        "https://www.copado.com/resources/videos/copado-demo-library",
+        "https://www.copado.com/resources/whitepaper",
+        "https://www.copado.com/resources/datasheets/accelerating-government-efficiency-with-copado-devops-robotics-ai",
+        "https://www.copado.com/resources/whitepapers/how-copado-helps-federal-contractors-systems-integrators-and-dod-vendors-meet-cmmc-2-0-and-nist-800-171-requirements",
+        "https://www.copado.com/resources/datasheets/accelerate-public-sector-delivery-with-copados-secure-salesforce-devops-platform",
+        "https://www.copado.com/resources/webinars/revolutionizing-federal-devops-practices-with-copado-rpa",
+        "https://www.copado.com/company-legal-agreements"
+      ]
+    },
+    {
+      "url": "https://www.copado.com/solutions-by-role",
+      "finalUrl": "https://www.copado.com/solutions-by-role",
+      "status": "success",
+      "sha256": "def65eec0ef1eeb53aa159f86f243b3071a6836861db39a6cf037b720bfeb74c",
+      "title": "Solutions By Role - Copado Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.copado.com/about-copado",
+        "https://www.copado.com/resources/videos/copado-demo-library",
+        "https://www.copado.com/resources/whitepaper",
+        "https://www.copado.com/company-legal-agreements"
+      ]
+    },
+    {
+      "url": "https://www.copado.com/about-copado",
+      "finalUrl": "https://www.copado.com/about-copado",
+      "status": "success",
+      "sha256": "854b0275664f6be9ce54e39b008b1caf9b55365c32ebea4daadbb83d06bc4a4f",
+      "title": "About Copado | The Leader in DevOps Automation for Salesforce",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "on 2021: Breakthrough Year Series C: $140M funding at $1.2B valuation Acquisition of Qentinel for Robotic Testing Strategic partnerships with Accenture and IBM 2023-2025: AI Innovation Launch of Copado AI Platform FedRAMP certification 20× faster releases for customers World&#x27;s largest"
+        },
+        {
+          "kind": "financial",
+          "excerpt": " Rackwitz 2014-2018: Bootstrap Growth First major client leads to $4M annual revenue Multiple Fortune 500 customers join Series A: €7.5M led by Insight Partners 2019-2020: Global Expansion New HQ in Chicago Offices in London, Paris, Munich, Bangalore Series B:"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.copado.com/resources/videos/copado-demo-library",
+        "https://www.copado.com/resources/whitepaper",
+        "https://www.copado.com/company-legal-agreements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "method": "Parallel source discovery followed by sequential main-reviewer acceptance. Elapsed seconds per accepted provider is throughput, not individual research duration.",
+  "startedAt": "2026-10-30T11:00:35.815Z",
+  "lastDecisionAt": "2026-10-30T11:34:27.018Z",
+  "providerInventory": 707,
+  "individuallyReviewed": 131,
+  "remainingAtScreeningLevel": 576,
+  "averageElapsedSecondsPerReviewedProvider": 15.505366412213741
+}

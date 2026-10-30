@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-536db393b658",
+  "retrievedAt": "2026-10-30T11:02:18.454Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tecsys.com/",
+      "finalUrl": "https://www.tecsys.com/",
+      "status": "success",
+      "sha256": "b659f29b83197cdcccd5258a55fd693e9d4febee8f89c92fd74cddca50d1facd",
+      "title": "Supply Chain Management Software | Tecsys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tecsys.com/about-us?hsLang=en",
+        "https://www.tecsys.com/about-us/management-team/?hsLang=en",
+        "https://www.tecsys.com/about-us/investors?hsLang=en",
+        "https://www.tecsys.com/about-us/esg?hsLang=en",
+        "https://www.tecsys.com/blog/closing-the-gap-turning-visibility-into-leadership-in-health-system-pharmacies?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.tecsys.com/about-us?hsLang=en",
+      "finalUrl": "https://www.tecsys.com/about-us?hsLang=en",
+      "status": "success",
+      "sha256": "77425dbc90ca4ebdc40254aadbcd01dc6c774dd85319d7142a3ea373d0546539",
+      "title": "About Us | Tecsys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tecsys.com/en-ca/about-us",
+        "https://www.tecsys.com/about-us",
+        "https://www.tecsys.com/about-us/management-team/?hsLang=en",
+        "https://www.tecsys.com/about-us/investors?hsLang=en",
+        "https://www.tecsys.com/about-us/esg?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.tecsys.com/about-us/management-team/?hsLang=en",
+      "finalUrl": "https://www.tecsys.com/about-us/management-team/?hsLang=en",
+      "status": "success",
+      "sha256": "3bcb7f5ce52956271f7e82628813781e18bf2b545650ce3c00122fb3bcd94714",
+      "title": "Management Team | Tecsys",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "SAP, IBM and AWS. Previously, Rex founded and led SOALogix, which was acquired by SAP, and built MSI Software from the ground up, achieving significant market penetration and strategic partnerships. His career also includes roles at SAP, TeleSciences CO Systems,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.tecsys.com/en-ca/about-us/management-team",
+        "https://www.tecsys.com/about-us/management-team/",
+        "https://www.tecsys.com/about-us/investors?hsLang=en",
+        "https://www.tecsys.com/about-us/esg?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.tecsys.com/about-us/investors?hsLang=en",
+      "finalUrl": "https://www.tecsys.com/about-us/investors?hsLang=en",
+      "status": "success",
+      "sha256": "6ef24709d571dc095de2ea93e5df31440e648035809902c45319402c06966ecd",
+      "title": "Investors | Tecsys",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tecsys.com/en-ca/about-us/investors",
+        "https://www.tecsys.com/about-us/investors",
+        "https://www.tecsys.com/about-us/esg?hsLang=en"
+      ]
+    }
+  ]
+}

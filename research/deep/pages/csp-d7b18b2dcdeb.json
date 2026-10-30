@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-d7b18b2dcdeb",
+  "retrievedAt": "2026-10-30T11:01:24.021Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://intelliworxit.com/",
+      "finalUrl": "https://intelliworxit.com/",
+      "status": "success",
+      "sha256": "c7f1e675c14006b167b6361c7cdb3e17fcd64fba719b56dfdee6c3bcce8a889f",
+      "title": "Intelliworx | Automate Any Business Process You Can Imagine",
+      "signals": [],
+      "discoveredLinks": [
+        "https://intelliworxit.com/automated-forms/",
+        "https://intelliworxit.com/about/",
+        "https://intelliworxit.com/leadership/",
+        "https://intelliworxit.com/application-management-system-ams/",
+        "https://intelliworxit.com/financial-disclosure-fdonline/"
+      ]
+    },
+    {
+      "url": "https://intelliworxit.com/automated-forms/",
+      "finalUrl": "https://intelliworxit.com/automated-forms/",
+      "status": "success",
+      "sha256": "4ea5b717e84a838658426b3f9f4a720d41fba80ecdd726e14e85572b7a69ef90",
+      "title": "Automated Forms | Intelliworx",
+      "signals": [],
+      "discoveredLinks": [
+        "https://intelliworxit.com/about/",
+        "https://intelliworxit.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://intelliworxit.com/about/",
+      "finalUrl": "https://intelliworxit.com/about/",
+      "status": "success",
+      "sha256": "e8ede35131d0b84bf90ea9acd90b8398f6e7ad4d0e294bd753a498a099560eea",
+      "title": "About Intelliworx | Workflow Automation for Federal, Healthcare, and Private Employers",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "been serving the Federal Government and our other clients since 2003. We are a VA CVE verified Service-Disabled Veteran-Owned Small Business . Leadership Our leadership team has decades of experience in public and private sector technology and management. Rob Hankey,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://intelliworxit.com/leadership/",
+        "http://intelliworxit.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://intelliworxit.com/leadership/",
+      "finalUrl": "https://intelliworxit.com/leadership/",
+      "status": "success",
+      "sha256": "0f5651e4f190f7a0a22b6ca849dd73e316f94de44a5bc134afd4f223384034bd",
+      "title": "Leadership | Intelliworx",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

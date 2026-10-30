@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-c9fceacba090",
+  "retrievedAt": "2026-10-30T11:02:33.732Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.zlti.com/",
+      "finalUrl": "https://www.zlti.com/",
+      "status": "success",
+      "sha256": "5d3e8bbad5f74e2b832a18ed2bb449ef74c67cae166f72769f6df56ed5b083bc",
+      "title": "Information Management, Compliance, and Analytics Solutions - ZL Tech",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.zlti.com/government-records-management-solution/",
+        "https://www.zlti.com/company/",
+        "https://www.zlti.com/resources/nara/"
+      ]
+    },
+    {
+      "url": "https://www.zlti.com/government-records-management-solution/",
+      "finalUrl": "https://www.zlti.com/government-records-management-solution/",
+      "status": "success",
+      "sha256": "97a2331ecce1ea2f64caaf56a39d68e51b45da06a49c7616ef196590be3b4164",
+      "title": "Government Unstructured Data Solution from ZL Tech",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.zlti.com/company/",
+        "https://www.zlti.com/resources/zl-tech-for-federal-agencies/",
+        "https://www.zlti.com/data-archiving-solution/email-archiving/",
+        "https://www.zlti.com/records-management-system/",
+        "https://www.zlti.com/file-analysis/"
+      ]
+    },
+    {
+      "url": "https://www.zlti.com/company/",
+      "finalUrl": "https://www.zlti.com/company/",
+      "status": "success",
+      "sha256": "5e0af72e3dfd85efadfe542e656da263831ff4c796951a9cecc85282ff63ae97",
+      "title": "Company - ZL Tech, Gartner Leader in Information Management",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.zlti.com/resources/nara/",
+      "finalUrl": "https://www.zlti.com/resources/nara/",
+      "status": "success",
+      "sha256": "7552de98ff8eee73b5dce33e45bbf8e0e942d3107c042de20d71f1ffa79841a3",
+      "title": "National Archives and Records Administration + ZL UA &#8211; ZL Tech",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

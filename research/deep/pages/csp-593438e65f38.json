@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-593438e65f38",
+  "retrievedAt": "2026-10-30T11:01:10.782Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.enelx.com/n-a/",
+      "finalUrl": "https://www.enelnorthamerica.com/",
+      "status": "success",
+      "sha256": "a101f8e35a0961b476df3b306fc7e74a4f16d796e916799a5efd32e2b5d167a8",
+      "title": "Your Clean Energy Partner | Enel North America",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america",
+        "https://www.enelnorthamerica.com/content/enel-na/en/about-us/newsroom/search-press",
+        "https://www.enelnorthamerica.com/about-us/our-purpose",
+        "https://www.enelnorthamerica.com/about-us/our-story",
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america/leadership-team",
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america/responsible-governance",
+        "https://www.enelnorthamerica.com/about-us/newsroom",
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-stories",
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-press",
+        "https://www.enelnorthamerica.com/about-us/newsroom/media-resources",
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-videos",
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-photos"
+      ]
+    },
+    {
+      "url": "https://www.enelnorthamerica.com/about-us/enel-in-north-america",
+      "finalUrl": "https://www.enelnorthamerica.com/about-us/enel-in-north-america",
+      "status": "success",
+      "sha256": "611850f3dfac474d23f29a16e024b4578853b0e272b3955d634638e7784d0528",
+      "title": "About Us | Enel North America",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.enelnorthamerica.com/about-us/item.href",
+        "https://www.enelnorthamerica.com/about-us/contactUsCta.href",
+        "https://www.enelnorthamerica.com/about-us/navigationCta.pagePath",
+        "https://www.enelnorthamerica.com/about-us/secondLevelCta.href",
+        "https://www.enelnorthamerica.com/about-us/our-purpose",
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america/responsible-governance",
+        "https://www.enelnorthamerica.com/about-us/article.href",
+        "https://www.enelnorthamerica.com/content/enel-na/en/about-us/our-purpose",
+        "https://www.enelnorthamerica.com/content/enel-na/en/about-us/our-story",
+        "https://www.enelnorthamerica.com/about-us/our-story",
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america/leadership-team",
+        "https://www.enelnorthamerica.com/about-us/newsroom"
+      ]
+    },
+    {
+      "url": "https://www.enelnorthamerica.com/content/enel-na/en/about-us/newsroom/search-press",
+      "finalUrl": "https://www.enelnorthamerica.com/about-us/newsroom/search-press",
+      "status": "success",
+      "sha256": "e08a63ad4131bb3c1d23dca70cdb0239856bcbf7f07f6c715a61f287898bfdaf",
+      "title": "Press Releases | Enel North America",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-press",
+        "https://www.enelnorthamerica.com/about-us/newsroom/item.href",
+        "https://www.enelnorthamerica.com/about-us/newsroom/contactUsCta.href",
+        "https://www.enelnorthamerica.com/about-us/newsroom/navigationCta.pagePath",
+        "https://www.enelnorthamerica.com/about-us/newsroom/secondLevelCta.href",
+        "https://www.enelnorthamerica.com/about-us/newsroom/twConcat(content.ctaLink,",
+        "https://www.enelnorthamerica.com/about-us/newsroom/content.pagePath%20||",
+        "https://www.enelnorthamerica.com/about-us/newsroom/content.categoryPath",
+        "https://www.enelnorthamerica.com/about-us/newsroom/content.pagePath",
+        "https://www.enelnorthamerica.com/about-us/newsroom/content.downloadPath",
+        "https://www.enelnorthamerica.com/about-us/newsroom/content.ctaPath",
+        "https://www.enelnorthamerica.com/about-us/newsroom/cta.href"
+      ]
+    },
+    {
+      "url": "https://www.enelnorthamerica.com/about-us/our-purpose",
+      "finalUrl": "https://www.enelnorthamerica.com/about-us/our-purpose",
+      "status": "success",
+      "sha256": "579d59fce58ca17b62645b69af33ed222b347183288079dbd3aee17fbc88c744",
+      "title": "Our Purpose and Vision | Enel North America",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.enelnorthamerica.com/about-us/item.href",
+        "https://www.enelnorthamerica.com/about-us/contactUsCta.href",
+        "https://www.enelnorthamerica.com/about-us/navigationCta.pagePath",
+        "https://www.enelnorthamerica.com/about-us/secondLevelCta.href",
+        "https://www.enelnorthamerica.com/content/enel-na/en/about-us/enel-in-north-america",
+        "https://www.enelnorthamerica.com/content/enel-na/en/about-us/our-story",
+        "https://www.enelnorthamerica.com/about-us/our-story",
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america/leadership-team",
+        "https://www.enelnorthamerica.com/about-us/enel-in-north-america/responsible-governance",
+        "https://www.enelnorthamerica.com/about-us/newsroom",
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-stories",
+        "https://www.enelnorthamerica.com/about-us/newsroom/search-press"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-69b80a765772",
+  "retrievedAt": "2026-10-30T11:01:39.974Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.mastercontrol.com/qxgov",
+      "finalUrl": "https://www.mastercontrol.com/quality/fedramp-authorized-quality-management-software/",
+      "status": "success",
+      "sha256": "39fc2e8dda976200fbda188306321c0f2a738cfba427914013bea2d782227359",
+      "title": "MasterControl Quality Excellence Gov FedRamp Approved QMS for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mastercontrol.com/pricing/",
+        "https://www.mastercontrol.com/industries/government-agencies-fedramp-compliance/",
+        "https://www.mastercontrol.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.mastercontrol.com/pricing/",
+      "finalUrl": "https://www.mastercontrol.com/pricing/",
+      "status": "success",
+      "sha256": "9f9acb6b11d9b96e492bb7eb8a74f624ebad293810da9f86e31f88ca85a0e85d",
+      "title": "Pricing",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mastercontrol.com/industries/government-agencies-fedramp-compliance/",
+        "https://www.mastercontrol.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.mastercontrol.com/industries/government-agencies-fedramp-compliance/",
+      "finalUrl": "https://www.mastercontrol.com/industries/government-agencies-fedramp-compliance/",
+      "status": "success",
+      "sha256": "1d8edbcedadd6e9cb146f4f45c3caee6a16377c3bfbf6e5d64a619ccca139dcb",
+      "title": "FedRAMP QMS Software | Digital Quality Management Solution",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mastercontrol.com/news/mastercontrol-quality-excellence-first-industry-leading-qms-to-pursue-fedramp-authorization/",
+        "https://www.mastercontrol.com/quality/fedramp-authorized-quality-management-software/",
+        "https://www.mastercontrol.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.mastercontrol.com/company/",
+      "finalUrl": "https://www.mastercontrol.com/company/",
+      "status": "success",
+      "sha256": "e33d7a5592302cda6b3272ccdca73cfc2d5633b45ff01e2b7b094ee78a133cde",
+      "title": "Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mastercontrol.com/company/team/"
+      ]
+    }
+  ]
+}

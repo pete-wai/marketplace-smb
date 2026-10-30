@@ -1,0 +1,80 @@
+{
+  "providerId": "csp-e65c29f26a01",
+  "retrievedAt": "2026-10-30T11:01:59.262Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.qgenda.com/federal/",
+      "finalUrl": "https://www.qgenda.com/federal/",
+      "status": "success",
+      "sha256": "6933cda1c196ff0a18fccfa3945019509f1d647dc8970d031611a35a60de9be1",
+      "title": "Who We Serve | By Industry - Federal - QGenda",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qgenda.com/federal",
+        "https://www.qgenda.com/",
+        "https://www.qgenda.com/company/leadership",
+        "https://www.qgenda.com/company/why-qgenda/",
+        "https://www.qgenda.com/company/qgenda-careers/",
+        "https://www.qgenda.com/our-story-and-leadership/",
+        "https://www.qgenda.com/integrated-partners/"
+      ]
+    },
+    {
+      "url": "https://www.qgenda.com/federal",
+      "finalUrl": "https://www.qgenda.com/federal/",
+      "status": "success",
+      "sha256": "b07011772d730c137b122991ac6f75b673ff96bf5a128dad5d5d6e469eaa0f78",
+      "title": "Who We Serve | By Industry - Federal - QGenda",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qgenda.com/",
+        "https://www.qgenda.com/company/leadership",
+        "https://www.qgenda.com/company/why-qgenda/",
+        "https://www.qgenda.com/company/qgenda-careers/",
+        "https://www.qgenda.com/our-story-and-leadership/",
+        "https://www.qgenda.com/integrated-partners/"
+      ]
+    },
+    {
+      "url": "https://www.qgenda.com/",
+      "finalUrl": "https://www.qgenda.com/",
+      "status": "success",
+      "sha256": "5730ab786eab2bc3a141f5b2fe0da5c890f36b5133a8868424d7d22bf6cae8f7",
+      "title": "Healthcare Workforce Management Solutions - QGenda",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qgenda.com/company/leadership",
+        "https://www.qgenda.com/company/why-qgenda/",
+        "https://www.qgenda.com/company/qgenda-careers/",
+        "https://www.qgenda.com/our-story-and-leadership/",
+        "https://www.qgenda.com/qgenda-intelligence",
+        "https://www.qgenda.com/physician-scheduling-software/",
+        "https://www.qgenda.com/nurse-and-staff-scheduling-software/",
+        "https://www.qgenda.com/time-and-attendance/",
+        "https://www.qgenda.com/credentialing/",
+        "https://www.qgenda.com/on-call-scheduling-software/",
+        "https://www.qgenda.com/clinic-exam-room-capacity/",
+        "https://www.qgenda.com/healthcare-workforce-analytics/"
+      ]
+    },
+    {
+      "url": "https://www.qgenda.com/company/leadership",
+      "finalUrl": "https://www.qgenda.com/our-story-and-leadership/",
+      "status": "success",
+      "sha256": "6f11bfecaae3145a0adac58b7de0c2deb1c0d2d90b1e1e82279b43cbcd8b263f",
+      "title": "Our Story and Leadership - QGenda",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ell as the co-founder and CEO of Shift Administrators, LLC, which was acquired by QGenda in 2020. Dr. Hunt holds a B.S. from NC State, an M.D. from UNC Chapel Hill, and an MBA from Duke University. View LinkedIn Profile"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.qgenda.com/our-story-and-leadership/",
+        "https://www.qgenda.com/company/why-qgenda/",
+        "https://www.qgenda.com/company/qgenda-careers/"
+      ]
+    }
+  ]
+}

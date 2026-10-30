@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-1a1ff455c550",
+  "retrievedAt": "2026-10-30T11:01:27.119Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.judi.health/",
+      "finalUrl": "https://www.judi.health/",
+      "status": "success",
+      "sha256": "cf1666e37316b43acb2e35aff07a6b1238776b060e9a16bd8528561a9105655d",
+      "title": "Unified Pharmacy & Medical Benefit Management | Judi Health",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.judi.health/about/our-story",
+        "https://www.judi.health/about/leadership",
+        "https://www.judi.health/about/careers"
+      ]
+    },
+    {
+      "url": "https://www.judi.health/about/our-story",
+      "finalUrl": "https://www.judi.health/about/our-story",
+      "status": "success",
+      "sha256": "2dae44bb8c823cbd136c2571a50e62382da628a6ef3ef12d3e8ade8ed1d7955d",
+      "title": "About Us | Revolutionizing Healthcare For All | Judi Health",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.judi.health/about/leadership",
+        "https://www.judi.health/about/careers"
+      ]
+    },
+    {
+      "url": "https://www.judi.health/about/leadership",
+      "finalUrl": "https://www.judi.health/about/leadership",
+      "status": "success",
+      "sha256": "116c3d566a71ba0649f76c3e10cffae179bfcbdfe82e4247afdbf0e65c7ddf2a",
+      "title": "Meet The Leadership Team | Judi Health",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ims, and care navigation. Andy joined Judi Health in 2025 through the acquisition of Amino Health, where he was COO and CFO. Previously, Andy held leadership positions at PatchRx and GoodRx (NASDAQ: GDRX), where he built new consumer health verticals."
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.judi.health/about/careers",
+        "https://www.judi.health/about/leadership?0c63585c_page=2"
+      ]
+    },
+    {
+      "url": "https://www.judi.health/about/careers",
+      "finalUrl": "https://www.judi.health/about/careers",
+      "status": "success",
+      "sha256": "90b96c4ab4b0b71b5596cba9d5e5b89fae9297371b70ab0a3d04b0dfa1c49f81",
+      "title": "We’re Hiring - Join Our Team | Judi Health",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

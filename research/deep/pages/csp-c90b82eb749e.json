@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-c90b82eb749e",
+  "retrievedAt": "2026-10-30T11:01:11.343Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.acadis.com/",
+      "finalUrl": "https://www.acadis.com/",
+      "status": "success",
+      "sha256": "8767378ed7c2e77ce950dff00fb9155b6d60f22ae96d5f36fa424ed17cb9ec7a",
+      "title": "Public Safety Training and Compliance Software | Acadis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acadis.com/industry/federal-agencies/",
+        "https://www.acadis.com/industry/local-government/",
+        "https://www.acadis.com/about/",
+        "https://www.acadis.com/resource/leadership-effective-feedback/"
+      ]
+    },
+    {
+      "url": "https://www.acadis.com/industry/federal-agencies/",
+      "finalUrl": "https://www.vectorsolutions.com/solutions/acadis/federal-workforce-readiness/",
+      "status": "success",
+      "sha256": "eff9fbd3498a3fe9be7bdf98e350d5fd4f44788179f94b8a9c7faa575d3c87ae",
+      "title": "Workforce Readiness for Federal Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.vectorsolutions.com/solutions/acadis/federal-training-management/",
+        "https://www.vectorsolutions.com/industries/public-safety/local-government/",
+        "https://www.vectorsolutions.com/solutions/vector-ehs-management-software/government/",
+        "https://www.vectorsolutions.com/resources/whitepapers-guides/k12-federal-compliance-guide/",
+        "https://www.vectorsolutions.com/resources/blogs/what-you-need-to-know-about-good-manufacturing-practices-in-food-safety/",
+        "https://www.vectorsolutions.com/resources/success-stories/acadis-unified-scalable-federal-training-program/",
+        "https://www.vectorsolutions.com/resources/whitepapers-guides/how-federal-and-military-agencies-can-effectively-automate-training-operations/",
+        "https://www.vectorsolutions.com/resources/blogs/is-open-source-software-a-risk-government/",
+        "https://www.vectorsolutions.com/resources/success-stories/the-federal-protective-service-centralizes-training-data-and-launches-remote-learning/",
+        "https://www.vectorsolutions.com/resources/success-stories/federal-training-management-system-increased-training-completions/",
+        "https://www.vectorsolutions.com/solutions/acadis/fire-standards-training/",
+        "https://www.vectorsolutions.com/solutions/vector-lms/post-regulatory/"
+      ]
+    },
+    {
+      "url": "https://www.acadis.com/industry/local-government/",
+      "finalUrl": "https://www.acadis.com/industry/local-government/",
+      "status": "success",
+      "sha256": "28d63ef5e9a9a641af3391d66aae39e48f760d320adaab6345e35c7096b676a4",
+      "title": "Local Government Software Solution | Compliance and Document Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acadis.com/about/",
+        "https://www.acadis.com/resource/dhs-federal-protective-service-chooses-the-acadis-r-readiness-suite-to-automate-academy-training-management-and-compliance-envisage-technologies/"
+      ]
+    },
+    {
+      "url": "https://www.acadis.com/about/",
+      "finalUrl": "https://www.acadis.com/about/",
+      "status": "success",
+      "sha256": "c789a5a50f12452baee3fd3078624fbe4ef8ae4853e26fa44da82be686964ff4",
+      "title": "About Acadis Technologies and The Acadis Team",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-f98407019f8c",
+  "retrievedAt": "2026-10-30T11:00:36.014Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.libreviewgov.com/",
+      "finalUrl": "https://www.libreviewgov.com/",
+      "status": "success",
+      "sha256": "aa9e2850ce36a8a130ad42ea05d86cc3c0edddb32de6824177f3b3732bc699fa",
+      "title": "LibreView",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-96207d2ffa15",
+  "retrievedAt": "2026-10-30T11:00:38.906Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://identity.clearme.com/",
+      "finalUrl": "https://identity.clearme.com/",
+      "status": "success",
+      "sha256": "3b581b1dfc5058adaee32eb4777edcb65c71c9e95d77ebb911166f3e757eff6d",
+      "title": "CLEAR1 | Identity for Business - Healthcare, Workforce, & More",
+      "signals": [],
+      "discoveredLinks": [
+        "https://identity.clearme.com/Government",
+        "https://identity.clearme.com/industries/government-agencies"
+      ]
+    },
+    {
+      "url": "https://identity.clearme.com/Government",
+      "finalUrl": "https://identity.clearme.com/industries/government-agencies",
+      "status": "success",
+      "sha256": "36e512cd27dc8c4707bbec2cc2d67349a03f9bc5390eef1d00f1c5f8cc609e90",
+      "title": "Identity Verification for Government Agencies | CLEAR1",
+      "signals": [],
+      "discoveredLinks": [
+        "https://identity.clearme.com/industries/government-agencies"
+      ]
+    },
+    {
+      "url": "https://identity.clearme.com/industries/government-agencies",
+      "finalUrl": "https://identity.clearme.com/industries/government-agencies",
+      "status": "success",
+      "sha256": "36e512cd27dc8c4707bbec2cc2d67349a03f9bc5390eef1d00f1c5f8cc609e90",
+      "title": "Identity Verification for Government Agencies | CLEAR1",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

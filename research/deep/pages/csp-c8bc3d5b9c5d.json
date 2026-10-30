@@ -1,0 +1,80 @@
+{
+  "providerId": "csp-c8bc3d5b9c5d",
+  "retrievedAt": "2026-10-30T11:00:53.847Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cognitus.com/products/clm/",
+      "finalUrl": "https://cognitus.com/products/clm/",
+      "status": "success",
+      "sha256": "a9009e8684aa5e44d60e35b24eaf137c29c41b8571358ba756be1828464ce66c",
+      "title": "Contract Lifecycle Management Solutions | Cognitus",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cognitus.com/products/gov-con/",
+        "http://cognitus.com/clm/products/machine-learning",
+        "https://cognitus.com/about/",
+        "https://cognitus.com/about/our-team/",
+        "https://cognitus.com/about/global-presence/",
+        "https://cognitus.com/clm/products/machine-learning",
+        "https://cognitus.com/resources/blog/how-ai-powered-clm-is-transforming-government-contracting",
+        "https://cognitus.com/resources/blog/the-future-of-federal-contracting-mastering-contract-clause-mangment-with-ai",
+        "https://cognitus.com/resources/blog/lambdax-federal-contracting-with-generative-ai",
+        "https://cognitus.com/resources/blog/what-is-contract-flowdown-and-why-is-it-important-for-government-contractors",
+        "https://cognitus.com/about"
+      ]
+    },
+    {
+      "url": "https://cognitus.com/products/gov-con/",
+      "finalUrl": "https://cognitus.com/products/gov-con/",
+      "status": "success",
+      "sha256": "0e110bbee8dc57c98e900250a46ca034b50b040cd4e4b246b0a83cc758087183",
+      "title": "Government Contracting and Compliance Solutions - Cognitus",
+      "signals": [],
+      "discoveredLinks": [
+        "http://cognitus.com/clm/products/machine-learning",
+        "https://cognitus.com/about/",
+        "https://cognitus.com/about/our-team/",
+        "https://cognitus.com/about/global-presence/",
+        "https://cognitus.com/resources/solution-briefs/government-contracting-compliance-solution-for-regulated-industries",
+        "https://cognitus.com/resources/one-pagers/cognitus-government-contracting",
+        "https://cognitus.com/resources/thought-leadership/choosing-the-right-erp",
+        "https://cognitus.com/about"
+      ]
+    },
+    {
+      "url": "http://cognitus.com/clm/products/machine-learning",
+      "finalUrl": "https://cognitus.com/clm/products/machine-learning",
+      "status": "success",
+      "sha256": "a4b9dfa819eb1d548e5df0941c4bdb825f6764050d9d15ac6a6e8270b4fb87dc",
+      "title": "Cognitus CLM – Machine Learning and AI - Cognitus",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cognitus.com/about/",
+        "https://cognitus.com/about/our-team/",
+        "https://cognitus.com/about/global-presence/",
+        "https://cognitus.com/clm/products/machine-learning",
+        "https://cognitus.com/resources/blog/how-ai-powered-clm-is-transforming-government-contracting",
+        "https://cognitus.com/resources/blog/the-future-of-federal-contracting-mastering-contract-clause-mangment-with-ai",
+        "https://cognitus.com/resources/blog/lambdax-federal-contracting-with-generative-ai",
+        "https://cognitus.com/resources/blog/what-is-contract-flowdown-and-why-is-it-important-for-government-contractors",
+        "http://cognitus.com/resources/blog/how-ai-powered-clm-is-transforming-government-contracting",
+        "http://cognitus.com/resources/blog/the-future-of-federal-contracting-mastering-contract-clause-mangment-with-ai",
+        "https://cognitus.com/about"
+      ]
+    },
+    {
+      "url": "https://cognitus.com/about/",
+      "finalUrl": "https://cognitus.com/about/",
+      "status": "success",
+      "sha256": "e5cbbdc0fbfe37f6572010fc63821f499774751b90a3b556413aeb749a98cc3b",
+      "title": "About Cognitus, Our Values, and SAP Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cognitus.com/about/our-team/",
+        "https://cognitus.com/about/global-presence/",
+        "https://cognitus.com/about"
+      ]
+    }
+  ]
+}

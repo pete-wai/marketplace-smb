@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-031ac995a40f",
+  "retrievedAt": "2026-10-30T11:01:32.587Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://launchdarkly.com/solutions/federal-government-solutions/",
+      "finalUrl": "https://launchdarkly.com/government/",
+      "status": "success",
+      "sha256": "da7d0f1133458db7c9f9296add89535326abe3b8e73c59fa45096f2aa9ac1c42",
+      "title": "Feature Management and Experimentation for the U.S. Government | LaunchDarkly",
+      "signals": [],
+      "discoveredLinks": [
+        "https://launchdarkly.com/government/",
+        "https://launchdarkly.com/blog/silent-blockers-that-slow-government-it-transformation/",
+        "https://launchdarkly.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://launchdarkly.com/government/",
+      "finalUrl": "https://launchdarkly.com/government/",
+      "status": "success",
+      "sha256": "da7d0f1133458db7c9f9296add89535326abe3b8e73c59fa45096f2aa9ac1c42",
+      "title": "Feature Management and Experimentation for the U.S. Government | LaunchDarkly",
+      "signals": [],
+      "discoveredLinks": [
+        "https://launchdarkly.com/blog/silent-blockers-that-slow-government-it-transformation/",
+        "https://launchdarkly.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://launchdarkly.com/blog/silent-blockers-that-slow-government-it-transformation/",
+      "finalUrl": "https://launchdarkly.com/blog/silent-blockers-that-slow-government-it-transformation/",
+      "status": "success",
+      "sha256": "e08bd7cc65c06ba4e37de378e1aee12f206aaaeb1b43203bc3dce78d9663b7a7",
+      "title": "Silent Blockers That Slow Government IT Transformation | LaunchDarkly",
+      "signals": [],
+      "discoveredLinks": [
+        "https://launchdarkly.com/blog/feature-management-for-federal-agencies/",
+        "https://launchdarkly.com/blog/",
+        "https://launchdarkly.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://launchdarkly.com/about-us/",
+      "finalUrl": "https://launchdarkly.com/about-us/",
+      "status": "success",
+      "sha256": "edbcbf2d5cde028d6db471fa51816709a3ac0ad7e7fc6f6f70048a86471ff433",
+      "title": "About Us | LaunchDarkly",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

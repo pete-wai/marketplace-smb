@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-49329b4fa878",
+  "retrievedAt": "2026-10-30T11:00:39.272Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://amplifire.com/",
+      "finalUrl": "https://amplifire.com/",
+      "status": "success",
+      "sha256": "1fe2eab75f37a393d6551d7919885b807069c15be36cc4633c220ad20dd34561",
+      "title": "AI Learning Platform Built on Brain Science | Amplifire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://amplifire.com/public-sector/"
+      ]
+    },
+    {
+      "url": "https://amplifire.com/public-sector/",
+      "finalUrl": "https://amplifire.com/public-sector/",
+      "status": "success",
+      "sha256": "4c0626e6085bf8225d2a6635d44d52299fcb0de817c3bc36f74714dbd7b66656",
+      "title": "FedRAMP-Authorized Learning Platform | Amplifire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://amplifire.com/category/public-sector/",
+        "https://amplifire.com/resource/amplifire-learning-achieves-fedramp-li-saas-authorization/"
+      ]
+    },
+    {
+      "url": "https://amplifire.com/category/public-sector/",
+      "finalUrl": "https://amplifire.com/category/public-sector/",
+      "status": "success",
+      "sha256": "8a9c7b9b5aac95e74190f8acbbab819676d47655685bbefa2e0d32076f330968",
+      "title": "Public Sector Archives - Amplifire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://amplifire.com/resource/what-healthcare-gets-wrong-about-learning/",
+        "https://amplifire.com/resource/beyond-the-ai-headlines-what-amdis-revealed-about-healthcares-next-challenge/",
+        "https://amplifire.com/resource/what-anpd-and-aonl-revealed-about-readiness-and-ai/",
+        "https://amplifire.com/resource/when-two-wrongs-make-a-right-what-video-speed-tells-us-about-learning/",
+        "https://amplifire.com/resource/strengthening-the-workforce-with-better-training-and-professional-development-what-nobody-is-talking-about/",
+        "https://amplifire.com/category/public-sector/page/2/",
+        "https://amplifire.com/category/public-sector/page/3/",
+        "https://amplifire.com/category/public-sector/page/4/",
+        "https://amplifire.com/category/public-sector/page/5/"
+      ]
+    },
+    {
+      "url": "https://amplifire.com/resource/amplifire-learning-achieves-fedramp-li-saas-authorization/",
+      "finalUrl": "https://amplifire.com/resource/amplifire-learning-achieves-fedramp-li-saas-authorization/",
+      "status": "success",
+      "sha256": "d00fbdcbe5488433ddc7359594d19fe7399f0eaf90d898e170181d7c2aa9c74d",
+      "title": "Amplifire Learning Achieves FedRAMP LI-SaaS Authorization - Amplifire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://amplifire.com/resources/?e-filter-16f8212-category=public-sector"
+      ]
+    }
+  ]
+}

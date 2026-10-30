@@ -1,0 +1,25 @@
+{
+  "providerId": "csp-910d4421e9a8",
+  "retrievedAt": "2026-10-30T11:00:50.549Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://research.data-commons.org/",
+      "finalUrl": "https://research.data-commons.org/",
+      "status": "success",
+      "sha256": "ae0d4223b761a0e18923dd58e191b4f329bc9524e220cc8a290f564d394c5d26",
+      "title": "",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://gen3.data-commons.org/",
+      "finalUrl": "https://gen3.data-commons.org/",
+      "status": "success",
+      "sha256": "296884f140b3da26d3089311699593645ee27a09cbfe4579cb44254dedbab913",
+      "title": "Gen3 Commons Collective",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-05271a882060",
+  "retrievedAt": "2026-10-30T11:01:22.256Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.immuta.com/",
+      "finalUrl": "https://www.immuta.com/",
+      "status": "success",
+      "sha256": "05778945e616f0acfd92194a3d21d888069e0b829c3ff235afe33c322293125b",
+      "title": "The Authorization Layer for Data Access | Immuta",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.immuta.com/company"
+      ]
+    },
+    {
+      "url": "https://www.immuta.com/company",
+      "finalUrl": "https://www.immuta.com/company",
+      "status": "success",
+      "sha256": "dc6cdcef0d09e80ef2b1e1564aee1d9855bd81d7c53c49fec7105e59fe22b25f",
+      "title": "Company | Safe, Instant Access To Data | Immuta",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

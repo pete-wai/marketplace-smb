@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-1411b4dac053",
+  "retrievedAt": "2026-10-30T11:00:36.280Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.absolute.com/",
+      "finalUrl": "https://www.absolute.com/",
+      "status": "success",
+      "sha256": "b38c56ab3e769f309448e7805cd579274699b5b6137d9fa8f29e318900775d6e",
+      "title": "Stop Downtime & Business Disruption | Absolute Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.absolute.com/platform",
+        "https://www.absolute.com/solutions/industries/government",
+        "https://www.absolute.com/capabilities",
+        "https://www.absolute.com/company/about-absolute-security",
+        "https://www.absolute.com/company/leadership",
+        "https://www.absolute.com/company/careers",
+        "https://www.absolute.com/company/contact",
+        "https://www.absolute.com/company/press-releases",
+        "https://www.absolute.com/company/in-the-news",
+        "https://www.absolute.com/customers/support",
+        "https://www.absolute.com/platform/security-information/vulnerability-archive",
+        "https://www.absolute.com/company/legal"
+      ]
+    },
+    {
+      "url": "https://www.absolute.com/platform",
+      "finalUrl": "https://www.absolute.com/platform",
+      "status": "success",
+      "sha256": "04c62ec7b53eefc7711be82dbdd045defc05d9fff09b5aa9711d9ae3e00f1c64",
+      "title": "The Absolute Cyber Resilience Platform | Absolute Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.absolute.com/solutions/industries/government",
+        "https://www.absolute.com/capabilities",
+        "https://www.absolute.com/company/about-absolute-security",
+        "https://www.absolute.com/company/leadership",
+        "https://www.absolute.com/company/careers",
+        "https://www.absolute.com/company/contact",
+        "https://www.absolute.com/company/press-releases",
+        "https://www.absolute.com/company/in-the-news",
+        "https://www.absolute.com/customers/support",
+        "https://www.absolute.com/platform/security-information/vulnerability-archive",
+        "https://www.absolute.com/company/legal",
+        "https://www.absolute.com/company/investors"
+      ]
+    },
+    {
+      "url": "https://www.absolute.com/solutions/industries/government",
+      "finalUrl": "https://www.absolute.com/solutions/industries/government",
+      "status": "success",
+      "sha256": "50b21c74ec8f1a756bbb4db2ae5274fb520db9d0f3bb3c5f432ba46d99690c13",
+      "title": "Absolute Security | Government Cybersecurity Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.absolute.com/capabilities",
+        "https://www.absolute.com/company/about-absolute-security",
+        "https://www.absolute.com/company/leadership",
+        "https://www.absolute.com/company/careers",
+        "https://www.absolute.com/company/contact",
+        "https://www.absolute.com/company/press-releases",
+        "https://www.absolute.com/company/in-the-news",
+        "https://www.absolute.com/customers/support",
+        "https://www.absolute.com/platform/security-information/vulnerability-archive",
+        "https://www.absolute.com/company/legal",
+        "https://www.absolute.com/use-case/resilient-government-it",
+        "https://www.absolute.com/platform/certifications"
+      ]
+    },
+    {
+      "url": "https://www.absolute.com/capabilities",
+      "finalUrl": "https://www.absolute.com/capabilities",
+      "status": "success",
+      "sha256": "fd5243f67d772c49260d777c836c7924b83c76e84eafb997591799ea0ee96bc0",
+      "title": "Endpoint Management Capabilities | Absolute Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.absolute.com/company/about-absolute-security",
+        "https://www.absolute.com/company/leadership",
+        "https://www.absolute.com/company/careers",
+        "https://www.absolute.com/company/contact",
+        "https://www.absolute.com/company/press-releases",
+        "https://www.absolute.com/company/in-the-news",
+        "https://www.absolute.com/customers/support",
+        "https://www.absolute.com/platform/security-information/vulnerability-archive",
+        "https://www.absolute.com/company/legal",
+        "https://www.absolute.com/capabilities/multi-tenancy-and-rbac",
+        "https://www.absolute.com/capabilities/diagnose-control-and-repair-any-device-remotely",
+        "https://www.absolute.com/capabilities/compliance-and-vulnerability-reporting"
+      ]
+    }
+  ]
+}

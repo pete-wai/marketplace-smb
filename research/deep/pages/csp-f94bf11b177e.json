@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-f94bf11b177e",
+  "retrievedAt": "2026-10-30T11:01:48.688Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.oati.com/",
+      "finalUrl": "https://www.oati.com/",
+      "status": "success",
+      "sha256": "66358568defabb0a2ac2c249a37caf4b74fb5ff8756f98641d3124f34fd54ceb",
+      "title": "OATI | DERMS, Grid Operations & Energy Market Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.oati.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.oati.com/about/",
+      "finalUrl": "https://www.oati.com/about/",
+      "status": "success",
+      "sha256": "0cf652659edaf59af7db8d672daaf1882c9806582aff7d3f4c4b89d94ee95401",
+      "title": "About OATI | Energy Software and Power Systems Experts",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

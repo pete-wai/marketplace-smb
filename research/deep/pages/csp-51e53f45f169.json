@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-51e53f45f169",
+  "retrievedAt": "2026-10-30T11:01:55.579Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://powertrain.com/",
+      "finalUrl": "https://powertrain.com/",
+      "status": "success",
+      "sha256": "d49ac175709a26a03041c11b63a7c9a67af1d1c7c9faf761c7507e8679b1be1a",
+      "title": "PowerTrain | Custom Training, Secure Learning Platforms, & Workforce Solutions | PowerTrain, Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powertrain.com/products/applicant-capability-evaluation-system/",
+        "https://powertrain.com/about-us/partners/",
+        "https://powertrain.com/industries/government/",
+        "https://powertrain.com/about-us/",
+        "https://powertrain.com/about-us/senior-program-managers/",
+        "https://powertrain.com/about-us/awards/",
+        "https://powertrain.com/about-us/contract-vehicles/",
+        "https://powertrain.com/about-us/careers/",
+        "https://powertrain.com/about-us/compliance/",
+        "https://powertrain.com/using-a-learning-record-store-for-better-government-training-analytics/",
+        "https://powertrain.com/about-us/press-releases/",
+        "https://powertrain.com/about-us/end-user-license-agreement/"
+      ]
+    },
+    {
+      "url": "https://powertrain.com/products/applicant-capability-evaluation-system/",
+      "finalUrl": "https://powertrain.com/products/applicant-capability-evaluation-system/",
+      "status": "success",
+      "sha256": "2bd762bccc7770dfed15513969a4765999790746be2de6e2a0b7bc5657e62568",
+      "title": "Applicant Capability Evaluation System (ACES) | Assessment & Adjudication Platform | PowerTrain, Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powertrain.com/about-us/partners/",
+        "https://powertrain.com/industries/government/",
+        "https://powertrain.com/about-us/",
+        "https://powertrain.com/about-us/senior-program-managers/",
+        "https://powertrain.com/about-us/awards/",
+        "https://powertrain.com/about-us/contract-vehicles/",
+        "https://powertrain.com/about-us/careers/",
+        "https://powertrain.com/about-us/compliance/",
+        "https://powertrain.com/about-us/press-releases/",
+        "https://powertrain.com/about-us/end-user-license-agreement/",
+        "https://powertrain.com/about-us/privacy-policy/",
+        "https://powertrain.com/about-us/sitemap/"
+      ]
+    },
+    {
+      "url": "https://powertrain.com/about-us/partners/",
+      "finalUrl": "https://powertrain.com/about-us/partners/",
+      "status": "success",
+      "sha256": "4b28199a714c534dd9c4fc9cef3ace5c74c8cfc7eaa2013217a90933cddc1930",
+      "title": "Partners & Value-Added Resellers | PowerTrain, Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powertrain.com/industries/government/",
+        "https://powertrain.com/about-us/",
+        "https://powertrain.com/about-us/senior-program-managers/",
+        "https://powertrain.com/about-us/awards/",
+        "https://powertrain.com/about-us/contract-vehicles/",
+        "https://powertrain.com/about-us/careers/",
+        "https://powertrain.com/about-us/compliance/",
+        "https://powertrain.com/about-us/press-releases/",
+        "https://powertrain.com/about-us/end-user-license-agreement/",
+        "https://powertrain.com/about-us/privacy-policy/",
+        "https://powertrain.com/about-us/sitemap/",
+        "https://powertrain.com/about-us/vulnerability-reporting/"
+      ]
+    },
+    {
+      "url": "https://powertrain.com/industries/government/",
+      "finalUrl": "https://powertrain.com/industries/government/",
+      "status": "success",
+      "sha256": "513e14f9ee62fe08459f6977b51d948786122733ed7ace3a1ada33bc0d545013",
+      "title": "Government | PowerTrain, Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powertrain.com/about-us/",
+        "https://powertrain.com/about-us/senior-program-managers/",
+        "https://powertrain.com/about-us/awards/",
+        "https://powertrain.com/about-us/contract-vehicles/",
+        "https://powertrain.com/about-us/careers/",
+        "https://powertrain.com/about-us/compliance/",
+        "https://powertrain.com/about-us/press-releases/",
+        "https://powertrain.com/about-us/end-user-license-agreement/",
+        "https://powertrain.com/about-us/privacy-policy/",
+        "https://powertrain.com/about-us/sitemap/",
+        "https://powertrain.com/about-us/vulnerability-reporting/"
+      ]
+    }
+  ]
+}

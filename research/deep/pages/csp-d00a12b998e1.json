@@ -1,0 +1,86 @@
+{
+  "providerId": "csp-d00a12b998e1",
+  "retrievedAt": "2026-10-30T11:02:05.606Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://rqipartners.com/",
+      "finalUrl": "https://rqipartners.com/",
+      "status": "success",
+      "sha256": "cd678c0332b2906f64d223731bee8fdd79a60e17eabf85c49ed16142d57298e7",
+      "title": "Resuscitation Quality Improvement and CPR Training | RQI Partners",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rqipartners.com/about-us/",
+        "https://rqipartners.com/about-us/who-we-are/",
+        "https://rqipartners.com/about-us/diversity-and-inclusion/",
+        "https://rqipartners.com/about-us/newsroom/",
+        "https://rqipartners.com/about-us/careers/",
+        "https://rqipartners.com/about-us/contact/",
+        "https://rqipartners.com/programs/nrp/pepp/",
+        "https://rqipartners.com/programs/rqi-resuscitation-quality-improvement/",
+        "https://rqipartners.com/programs/heartcode-complete/",
+        "https://rqipartners.com/programs/nrp/",
+        "https://rqipartners.com/programs/",
+        "https://rqipartners.com/resources/leading-science/"
+      ]
+    },
+    {
+      "url": "https://rqipartners.com/about-us/",
+      "finalUrl": "https://rqipartners.com/about-us/",
+      "status": "success",
+      "sha256": "2838eb81c58fd9b3fe27d6b87ddddd3b99f999800e43d4ad2ad238ee1a65e1cf",
+      "title": "About RQI Partners Verified CPR Competence | RQI Partners",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rqipartners.com/about-us/who-we-are/",
+        "https://rqipartners.com/about-us/diversity-and-inclusion/",
+        "https://rqipartners.com/about-us/newsroom/",
+        "https://rqipartners.com/about-us/careers/",
+        "https://rqipartners.com/about-us/contact/",
+        "https://rqipartners.com/about-us/newsroom/resuscitation-science-training-and-technology-leaders-launch-new-self-guided-resuscitation-learning-model-nationwide/",
+        "https://rqipartners.com/about-us/newsroom/the-montreal-heart-institute-acquires-a-new-digital-resuscitation-training-and-education-program-a-first-in-quebec/",
+        "https://rqipartners.com/about-us/newsroom/top-10-steps-to-improve-in-hospital-cardiac-arrest-outcomes-and-care-identified/",
+        "https://rqipartners.com/about-us/ecards-ecredential-support/",
+        "https://rqipartners.com/about-us/accessibility/"
+      ]
+    },
+    {
+      "url": "https://rqipartners.com/about-us/who-we-are/",
+      "finalUrl": "https://rqipartners.com/about-us/who-we-are/",
+      "status": "success",
+      "sha256": "152a11b7331f9997dcd9f6207b67c1056694dce538575867bb40290bfe8d8841",
+      "title": "Discover Who We Are | RQI Partners",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rqipartners.com/about-us/diversity-and-inclusion/",
+        "https://rqipartners.com/about-us/newsroom/",
+        "https://rqipartners.com/about-us/careers/",
+        "https://rqipartners.com/about-us/contact/",
+        "https://rqipartners.com/about-us/ecards-ecredential-support/",
+        "https://rqipartners.com/about-us/sitemap/",
+        "https://rqipartners.com/about-us/privacy-policy/",
+        "https://rqipartners.com/about-us/copyright/",
+        "https://rqipartners.com/about-us/about-us/accessibility/"
+      ]
+    },
+    {
+      "url": "https://rqipartners.com/about-us/diversity-and-inclusion/",
+      "finalUrl": "https://rqipartners.com/about-us/diversity-and-inclusion/",
+      "status": "success",
+      "sha256": "81f23ac7a88d4605e3a5dc96a4257a660c0efb0af45c2aa34b28c2fb0efdbbc9",
+      "title": "Embracing Diversity and Inclusion | RQI Partners",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rqipartners.com/about-us/newsroom/",
+        "https://rqipartners.com/about-us/careers/",
+        "https://rqipartners.com/about-us/contact/",
+        "https://rqipartners.com/about-us/ecards-ecredential-support/",
+        "https://rqipartners.com/about-us/sitemap/",
+        "https://rqipartners.com/about-us/privacy-policy/",
+        "https://rqipartners.com/about-us/copyright/",
+        "https://rqipartners.com/about-us/about-us/accessibility/"
+      ]
+    }
+  ]
+}

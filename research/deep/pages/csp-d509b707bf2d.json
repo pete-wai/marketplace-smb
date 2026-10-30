@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-d509b707bf2d",
+  "retrievedAt": "2026-10-30T11:01:58.619Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.prymeinfil.com/",
+      "finalUrl": "https://www.prymeinfil.com/",
+      "status": "success",
+      "sha256": "cbaa24bf30af26f2932ad4b0fcc971eb6200f02ddcd82949d6ce465f18a5b834",
+      "title": "Pryme Infil - For The Prepared",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.prymeinfil.com/about"
+      ]
+    },
+    {
+      "url": "https://www.prymeinfil.com/about",
+      "finalUrl": "https://www.prymeinfil.com/about",
+      "status": "success",
+      "sha256": "c6d81133a8296819c00dbc466591f28fc8ba9c75c1b45d2f9fdf63b1ffa5a838",
+      "title": "Pryme Infil - About",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

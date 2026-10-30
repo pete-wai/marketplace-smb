@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-a94b3fc8aa97",
+  "retrievedAt": "2026-10-30T11:01:53.836Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pexip.com/",
+      "finalUrl": "https://www.pexip.com/",
+      "status": "success",
+      "sha256": "da9ada9e0f27c8cec533ea8a27689ab518d3ab0d18816801a6ced484ae7cc33d",
+      "title": "Video technology platform | Secure video communications | Pexip",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pexip.com/industry/government",
+        "https://www.pexip.com/about"
+      ]
+    },
+    {
+      "url": "https://www.pexip.com/industry/government",
+      "finalUrl": "https://www.pexip.com/industry/government",
+      "status": "success",
+      "sha256": "26404d1b129d4161e3e8a4bf57b12b999c003592167f35ab26002b6a8878a3f2",
+      "title": "Secure Video Conferencing for Government | Pexip",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pexip.com/products/pexip-government-cloud",
+        "https://www.pexip.com/blog/microsoft-teams-cvi-in-microsoft-azure-government-cloud",
+        "https://www.pexip.com/es/industry/government",
+        "https://www.pexip.com/fr/industry/government",
+        "https://www.pexip.com/ja/industry/government",
+        "https://www.pexip.com/about"
+      ]
+    },
+    {
+      "url": "https://www.pexip.com/about",
+      "finalUrl": "https://www.pexip.com/about",
+      "status": "success",
+      "sha256": "d612c092b0bbc2ad04529bf1408bd20f34ae911e9bccfdba34f9561aa70fb939",
+      "title": "About Us | Enhanced Video Conferencing Solutions | Pexip",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pexip.com/about/pexip-concern-reporting-process",
+        "https://www.pexip.com/fr/about"
+      ]
+    },
+    {
+      "url": "https://www.pexip.com/products/pexip-government-cloud",
+      "finalUrl": "https://www.pexip.com/products/pexip-government-cloud",
+      "status": "success",
+      "sha256": "3e35ffc6f7ff5808df2e48e00001abad1c965b5e8cf78a97bb76c21562869f04",
+      "title": "Pexip Government Cloud | Secure FedRAMP cloud services - CVI | Pexip",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pexip.com/blog/zoom-for-government-rooms-join-teams-meetings-fedramp-authorized-environment"
+      ]
+    }
+  ]
+}

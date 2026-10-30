@@ -1,0 +1,89 @@
+{
+  "providerId": "csp-6398af4db72b",
+  "retrievedAt": "2026-10-30T11:01:03.605Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.deltek.com/en/government-contracting/costpoint/cloud",
+      "finalUrl": "https://www.deltek.com/products/erp/costpoint/",
+      "status": "success",
+      "sha256": "11e67165cf7e3ac7edb9c3df070f80ac347faed44a01077df0d5455df95ecf0d",
+      "title": "Deltek Costpoint: ERP for Government Contractors | Deltek",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deltek.com/products/govwin/federal/",
+        "https://www.deltek.com/products/propricer/",
+        "https://www.deltek.com/products/propricer/government-agencies/",
+        "https://www.deltek.com/industries/government-contracting/",
+        "https://www.deltek.com/resources/top-federal-opportunities/",
+        "https://www.deltek.com/products/erp/costpoint/",
+        "https://www.deltek.com/company/",
+        "https://www.deltek.com/company/news/",
+        "https://www.deltek.com/company/leadership/",
+        "https://www.deltek.com/company/careers/",
+        "https://www.deltek.com/company/security-and-trust/",
+        "https://www.deltek.com/company/locations/"
+      ]
+    },
+    {
+      "url": "https://www.deltek.com/products/govwin/federal/",
+      "finalUrl": "https://www.deltek.com/products/govwin/federal/",
+      "status": "success",
+      "sha256": "be87d5b63d54cb194deb7b517fc65986d937fa7ec9afa5484c0262ec0dadc20e",
+      "title": "Win Federal Government Contracts with Expert Insights | Deltek",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deltek.com/products/propricer/",
+        "https://www.deltek.com/products/propricer/government-agencies/",
+        "https://www.deltek.com/industries/government-contracting/",
+        "https://www.deltek.com/resources/top-federal-opportunities/",
+        "https://www.deltek.com/company/",
+        "https://www.deltek.com/company/news/",
+        "https://www.deltek.com/company/leadership/",
+        "https://www.deltek.com/company/careers/",
+        "https://www.deltek.com/company/security-and-trust/",
+        "https://www.deltek.com/company/locations/",
+        "https://www.deltek.com/resources/articles/find-government-contracts/"
+      ]
+    },
+    {
+      "url": "https://www.deltek.com/products/propricer/",
+      "finalUrl": "https://www.deltek.com/products/propricer/",
+      "status": "success",
+      "sha256": "45ed7afe0b61e1a45d1d90a239ebf311bb3a5eb909512d352223a7289813456a",
+      "title": "Deltek ProPricer: Proposal Pricing for GovCon | Deltek",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deltek.com/products/propricer/government-agencies/",
+        "https://www.deltek.com/industries/government-contracting/",
+        "https://www.deltek.com/resources/top-federal-opportunities/",
+        "https://www.deltek.com/company/",
+        "https://www.deltek.com/company/news/",
+        "https://www.deltek.com/company/leadership/",
+        "https://www.deltek.com/company/careers/",
+        "https://www.deltek.com/company/security-and-trust/",
+        "https://www.deltek.com/company/locations/",
+        "https://www.deltek.com/resources/articles/find-government-contracts/"
+      ]
+    },
+    {
+      "url": "https://www.deltek.com/products/propricer/government-agencies/",
+      "finalUrl": "https://www.deltek.com/products/propricer/government-agencies/",
+      "status": "success",
+      "sha256": "6ffc8a44154c48f86e43400c10784b88f8064f6a62104346a33151b8d14ca091",
+      "title": "ProPricer Government Edition: Proposal Evaluation | Deltek",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.deltek.com/industries/government-contracting/",
+        "https://www.deltek.com/resources/top-federal-opportunities/",
+        "https://www.deltek.com/company/",
+        "https://www.deltek.com/company/news/",
+        "https://www.deltek.com/company/leadership/",
+        "https://www.deltek.com/company/careers/",
+        "https://www.deltek.com/company/security-and-trust/",
+        "https://www.deltek.com/company/locations/",
+        "https://www.deltek.com/resources/articles/find-government-contracts/"
+      ]
+    }
+  ]
+}

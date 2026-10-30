@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-82b5282989fa",
+  "retrievedAt": "2026-10-30T11:02:01.315Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ravemobilesafety.com/",
+      "finalUrl": "https://www.motorolasolutions.com/en_us/products/command-center-software/rave.html",
+      "status": "success",
+      "sha256": "5f4ea5308ab280e8dd6f7d948e978755d354558815675483c1ad4718489606fe",
+      "title": "Rave Mobile Safety Suite - Motorola Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.motorolasolutions.com/en_us/products/two-way-radios/consumer-two-way-radios.html",
+        "https://www.motorolasolutions.com/en_us/solutions/national-government-security.html",
+        "https://www.motorolasolutions.com/en_us/about/customers.html",
+        "https://www.motorolasolutions.com/en_us/about.html",
+        "https://www.motorolasolutions.com/newsroom/leadership.html",
+        "https://www.motorolasolutions.com/en_us/about/careers.html",
+        "https://www.motorolasolutions.com/en_us/about/environmental-social-corporate-governance-esg.html",
+        "https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation.html",
+        "https://www.motorolasolutions.com/en_us/about/trust-center.html",
+        "https://www.motorolasolutions.com/en_us/about/recognition.html",
+        "https://www.motorolasolutions.com/en_us/about/suppliers.html",
+        "https://www.motorolasolutions.com/en_us/about/events.html"
+      ]
+    },
+    {
+      "url": "https://www.motorolasolutions.com/en_us/products/two-way-radios/consumer-two-way-radios.html",
+      "finalUrl": "https://www.motorolasolutions.com/en_us/products/two-way-radios/consumer-two-way-radios.html",
+      "status": "success",
+      "sha256": "023c480334c54d11eae4ecffda5207aed24211997f8fcddf0ccaa606895465d5",
+      "title": "Walkie Talkie Radios | TALKABOUT",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.motorolasolutions.com/en_us/solutions/national-government-security.html",
+        "https://www.motorolasolutions.com/en_us/about/customers.html",
+        "https://www.motorolasolutions.com/en_us/about.html",
+        "https://www.motorolasolutions.com/newsroom/leadership.html",
+        "https://www.motorolasolutions.com/en_us/about/careers.html",
+        "https://www.motorolasolutions.com/en_us/about/environmental-social-corporate-governance-esg.html",
+        "https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation.html",
+        "https://www.motorolasolutions.com/en_us/about/trust-center.html",
+        "https://www.motorolasolutions.com/en_us/about/recognition.html",
+        "https://www.motorolasolutions.com/en_us/products/two-way-radios/consumer-two-way-radios/talkabout-t478.html",
+        "https://www.motorolasolutions.com/en_us/products/two-way-radios/consumer-two-way-radios/talkabout-t470-series.html",
+        "https://www.motorolasolutions.com/en_us/products/two-way-radios/consumer-two-way-radios/talkabout-t380-series.html"
+      ]
+    },
+    {
+      "url": "https://www.motorolasolutions.com/en_us/solutions/national-government-security.html",
+      "finalUrl": "https://www.motorolasolutions.com/en_us/solutions/national-government-security.html",
+      "status": "success",
+      "sha256": "38e3625e05e542cfd321a59ee2a1735ced7a4137a780a2643354f3066f45eb81",
+      "title": "U.S. Federal Government Security Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.motorolasolutions.com/en_us/about/customers.html",
+        "https://www.motorolasolutions.com/en_us/about.html",
+        "https://www.motorolasolutions.com/newsroom/leadership.html",
+        "https://www.motorolasolutions.com/en_us/about/careers.html",
+        "https://www.motorolasolutions.com/en_us/about/environmental-social-corporate-governance-esg.html",
+        "https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation.html",
+        "https://www.motorolasolutions.com/en_us/about/trust-center.html",
+        "https://www.motorolasolutions.com/en_us/about/recognition.html",
+        "https://www.motorolasolutions.com/en_us/solutions/national-government-security/federal-law-enforcement/border-security.html",
+        "https://www.motorolasolutions.com/en_us/about/suppliers.html",
+        "https://www.motorolasolutions.com/en_us/about/events.html",
+        "https://www.motorolasolutions.com/en_us/about/privacy-policy.html"
+      ]
+    },
+    {
+      "url": "https://www.motorolasolutions.com/en_us/about/customers.html",
+      "finalUrl": "https://www.motorolasolutions.com/en_us/about/customers.html",
+      "status": "success",
+      "sha256": "5599b0c09a838813190f53f8bf81704f70784a611ece41e244d6899d9f5b957b",
+      "title": "Customer Case Studies - Motorola Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.motorolasolutions.com/en_us/about.html",
+        "https://www.motorolasolutions.com/newsroom/leadership.html",
+        "https://www.motorolasolutions.com/en_us/about/careers.html",
+        "https://www.motorolasolutions.com/en_us/about/environmental-social-corporate-governance-esg.html",
+        "https://www.motorolasolutions.com/en_us/about/motorola-solutions-foundation.html",
+        "https://www.motorolasolutions.com/en_us/about/trust-center.html",
+        "https://www.motorolasolutions.com/en_us/about/recognition.html",
+        "https://www.motorolasolutions.com/en_us/about/suppliers.html",
+        "https://www.motorolasolutions.com/en_us/about/events.html",
+        "https://www.motorolasolutions.com/en_us/about/privacy-policy.html",
+        "https://www.motorolasolutions.com/en_us/about/terms-use.html"
+      ]
+    }
+  ]
+}

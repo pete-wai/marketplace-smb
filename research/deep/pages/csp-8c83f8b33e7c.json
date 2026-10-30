@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-8c83f8b33e7c",
+  "retrievedAt": "2026-10-30T11:02:21.457Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.totaragov.com/",
+      "finalUrl": "https://totaragov.com/",
+      "status": "success",
+      "sha256": "9d6682332d525f3837a0304a0ef0217dd156f5515cd98d2d3c4ec3e274e92035",
+      "title": "Government LMS for Mission-Ready Workforces - Totara Gov",
+      "signals": [],
+      "discoveredLinks": [
+        "https://totaragov.com/",
+        "https://totaragov.com/government-learning-management-system-lms/",
+        "https://totaragov.com/state-local-government-lms/",
+        "https://totaragov.com/government-performance-management-platform/"
+      ]
+    },
+    {
+      "url": "https://totaragov.com/",
+      "finalUrl": "https://totaragov.com/",
+      "status": "success",
+      "sha256": "9d6682332d525f3837a0304a0ef0217dd156f5515cd98d2d3c4ec3e274e92035",
+      "title": "Government LMS for Mission-Ready Workforces - Totara Gov",
+      "signals": [],
+      "discoveredLinks": [
+        "https://totaragov.com/government-learning-management-system-lms/",
+        "https://totaragov.com/state-local-government-lms/",
+        "https://totaragov.com/government-performance-management-platform/"
+      ]
+    },
+    {
+      "url": "https://totaragov.com/government-learning-management-system-lms/",
+      "finalUrl": "https://totaragov.com/government-learning-management-system-lms/",
+      "status": "success",
+      "sha256": "c428ed214193b4958300e23672b0487cffdbea1fe4c4f729a75e0a227bed9b68",
+      "title": "LMS for Government | FedRAMP® Certified | TotaraGov",
+      "signals": [],
+      "discoveredLinks": [
+        "https://totaragov.com/state-local-government-lms/",
+        "https://totaragov.com/government-performance-management-platform/"
+      ]
+    },
+    {
+      "url": "https://totaragov.com/state-local-government-lms/",
+      "finalUrl": "https://totaragov.com/state-local-government-lms/",
+      "status": "success",
+      "sha256": "d1f92dec8e3b8dbddd90756d9dadff863c5ec2036b60ccb335ecb6edf0b40d5c",
+      "title": "State and Local Government LMS | Workforce Modernization - Totara Gov",
+      "signals": [],
+      "discoveredLinks": [
+        "https://totaragov.com/government-performance-management-platform/",
+        "https://totaragov.com/resources/state-and-local-government-lms-brochure/",
+        "https://totaragov.com/resources/assess-your-agencys-digital-workforce-readiness/"
+      ]
+    }
+  ]
+}

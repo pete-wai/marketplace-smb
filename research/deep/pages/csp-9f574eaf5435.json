@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-9f574eaf5435",
+  "retrievedAt": "2026-10-30T11:01:54.614Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pinecone.io/",
+      "finalUrl": "https://www.pinecone.io/",
+      "status": "success",
+      "sha256": "791b4ddd6cec86fc84984aaa2afdfe7e774f6b3381b59cdaa4699bf034b57426",
+      "title": "The trusted AI knowledge company | Pinecone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pinecone.io/company/"
+      ]
+    },
+    {
+      "url": "https://www.pinecone.io/company/",
+      "finalUrl": "https://www.pinecone.io/company/",
+      "status": "success",
+      "sha256": "1acc4a32a72835fd40bce049192798a972a668b8e28df0e3d298cef81bf7a7da",
+      "title": "Company | Pinecone",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

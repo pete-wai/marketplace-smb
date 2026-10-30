@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-a79f352c4b77",
+  "retrievedAt": "2026-10-30T11:01:44.523Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.netcomm.net/",
+      "finalUrl": "https://www.netcomm.net/",
+      "status": "success",
+      "sha256": "04dd78b5619499b755badc08e7547c416f6950dab03731a45302888603a36b3d",
+      "title": "Welcome to NetComm, Inc. | Beacon Application Platform",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "lutions in the federal government. Recently, NetComm became the first Women-Owned Small Business (WOSB) to achieve FedRAMP Compliant certification with a HHS/ NIH Authority to Operate (ATO). Prior to co-founding NetComm, she spent over 15 years with the Federal government"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.netcomm.net/index.php"
+      ]
+    },
+    {
+      "url": "https://www.netcomm.net/index.php",
+      "finalUrl": "https://www.netcomm.net/index.php",
+      "status": "success",
+      "sha256": "04dd78b5619499b755badc08e7547c416f6950dab03731a45302888603a36b3d",
+      "title": "Welcome to NetComm, Inc. | Beacon Application Platform",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "lutions in the federal government. Recently, NetComm became the first Women-Owned Small Business (WOSB) to achieve FedRAMP Compliant certification with a HHS/ NIH Authority to Operate (ATO). Prior to co-founding NetComm, she spent over 15 years with the Federal government"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

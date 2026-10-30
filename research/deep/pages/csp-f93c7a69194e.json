@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-f93c7a69194e",
+  "retrievedAt": "2026-10-30T11:02:23.797Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html",
+      "finalUrl": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html",
+      "status": "success",
+      "sha256": "f49f38ab3a22b0ea711945ad9a6a6c8740bfe5074f621f695634d25f14118507",
+      "title": "Cloud Security for Government - Trend Cloud One™ | Trend Micro (US)",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trendmicro.com/en_us/about/why-trend-micro.html",
+        "https://www.trendmicro.com/en_us/about/leaders.html",
+        "https://www.trendmicro.com/en_us/about/history-vision-values.html",
+        "https://www.trendmicro.com/en_us/about/corporate-social-responsibility.html",
+        "https://www.trendmicro.com/en_us/about/careers.html",
+        "https://www.trendmicro.com/en_us/about/investor-relations.html",
+        "https://www.trendmicro.com/en_us/about/investor-relations/conference-calendar.html",
+        "https://www.trendmicro.com/en_us/about/compare.html",
+        "https://www.trendmicro.com/en_us/about/events.html",
+        "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html",
+        "https://www.trendmicro.com/en_us/about.html",
+        "https://www.trendmicro.com/en_us/about/trust-center.html"
+      ]
+    },
+    {
+      "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html",
+      "finalUrl": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html",
+      "status": "success",
+      "sha256": "ad62faf00300cf566aff13a14fec5ca38cba8445befea6b44f525df0390b1543",
+      "title": "Modernize Security Operations for Government - Trend Vision One™ | Trend Micro (US)",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trendmicro.com/en_us/about/why-trend-micro.html",
+        "https://www.trendmicro.com/en_us/about/leaders.html",
+        "https://www.trendmicro.com/en_us/about/history-vision-values.html",
+        "https://www.trendmicro.com/en_us/about/corporate-social-responsibility.html",
+        "https://www.trendmicro.com/en_us/about/careers.html",
+        "https://www.trendmicro.com/en_us/about/investor-relations.html",
+        "https://www.trendmicro.com/en_us/about/investor-relations/conference-calendar.html",
+        "https://www.trendmicro.com/en_us/about/compare.html",
+        "https://www.trendmicro.com/en_us/about/events.html",
+        "https://www.trendmicro.com/en_us/about.html",
+        "https://www.trendmicro.com/en_us/about/trust-center.html",
+        "https://www.trendmicro.com/en_us/about/trust-center/privacy.html"
+      ]
+    },
+    {
+      "url": "https://www.trendmicro.com/en_us/about/why-trend-micro.html",
+      "finalUrl": "https://www.trendaisecurity.com/en-us/why-trendai",
+      "status": "success",
+      "sha256": "e1347015f667cb450ed95832f8feabaa48c4711e477d526f917ef2bf8d67ab72",
+      "title": "The Best AI Security for Your Organization | TrendAI (US)",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trendaisecurity.com/en-us/solutions/government",
+        "https://www.trendaisecurity.com/en-us/about/customer-stories/excellence-awards",
+        "https://www.trendaisecurity.com/en-us/about/customer-stories/customer-proof",
+        "https://www.trendaisecurity.com/en-us/about"
+      ]
+    },
+    {
+      "url": "https://www.trendmicro.com/en_us/about/leaders.html",
+      "finalUrl": "https://www.trendmicro.com/en_us/about/leaders.html",
+      "status": "success",
+      "sha256": "9d40a3fc7dadc4b9f6075af8e221e93d39418303dd2d255137f8f2dea7c2ef21",
+      "title": "Leadership | Trend Micro (US)",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "e end of 2004. Under his leadership, Trend grew from US$10 million in annual revenue in 1994 to US$454 million by the end of 2003. The company expanded to more than 2,000 employees across sales, operations, research, support, and development"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.trendmicro.com/en_us/about/history-vision-values.html",
+        "https://www.trendmicro.com/en_us/about/corporate-social-responsibility.html",
+        "https://www.trendmicro.com/en_us/about/careers.html",
+        "https://www.trendmicro.com/en_us/about/investor-relations.html",
+        "https://www.trendmicro.com/en_us/about/investor-relations/conference-calendar.html",
+        "https://www.trendmicro.com/en_us/about/compare.html",
+        "https://www.trendmicro.com/en_us/about/events.html",
+        "https://www.trendmicro.com/en_us/about.html",
+        "https://www.trendmicro.com/en_us/about/trust-center.html",
+        "https://www.trendmicro.com/en_us/about/trust-center/privacy.html",
+        "https://www.trendmicro.com/en_us/about/legal.html",
+        "https://www.trendmicro.com/en_us/about/legal/accessibility-policy.html"
+      ]
+    }
+  ]
+}

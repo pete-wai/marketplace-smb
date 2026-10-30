@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-3b11c3af81fd",
+  "retrievedAt": "2026-10-30T11:00:41.942Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://articulate.com/360",
+      "finalUrl": "https://www.articulate.com/360/",
+      "status": "success",
+      "sha256": "a59d410f8462e80d57fdedd0fc39a0fa5e64d28f31620f2f5a658cbfed1b36ea",
+      "title": "Articulate 360 | Articulate",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.articulate.com/360/",
+        "https://www.articulate.com/capabilities/create/",
+        "https://www.articulate.com/capabilities/collaborate/",
+        "https://www.articulate.com/capabilities/distribute/",
+        "https://www.articulate.com/capabilities/scale/",
+        "https://www.articulate.com/360/integrations/",
+        "https://www.articulate.com/about/",
+        "https://www.articulate.com/about/our-values/",
+        "https://www.articulate.com/about/our-impact/",
+        "https://www.articulate.com/about/accessibility/",
+        "https://www.articulate.com/about/careers/",
+        "https://www.articulate.com/about/contact-us/"
+      ]
+    },
+    {
+      "url": "https://www.articulate.com/360/",
+      "finalUrl": "https://www.articulate.com/360/",
+      "status": "success",
+      "sha256": "ea93f196224140f508424234e3f6b1520c3587979c83bdbaff88dacf2b0fa96f",
+      "title": "Articulate 360 | Articulate",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.articulate.com/capabilities/create/",
+        "https://www.articulate.com/capabilities/collaborate/",
+        "https://www.articulate.com/capabilities/distribute/",
+        "https://www.articulate.com/capabilities/scale/",
+        "https://www.articulate.com/360/integrations/",
+        "https://www.articulate.com/about/",
+        "https://www.articulate.com/about/our-values/",
+        "https://www.articulate.com/about/our-impact/",
+        "https://www.articulate.com/about/accessibility/",
+        "https://www.articulate.com/about/careers/",
+        "https://www.articulate.com/about/contact-us/"
+      ]
+    },
+    {
+      "url": "https://www.articulate.com/capabilities/create/",
+      "finalUrl": "https://www.articulate.com/capabilities/create/",
+      "status": "success",
+      "sha256": "cd8492b56b50ef477e8632a8cd382316e787fbb67791a4df12ca5715a7e0010f",
+      "title": "Award-winning online course creation platform | Articulate",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.articulate.com/capabilities/collaborate/",
+        "https://www.articulate.com/capabilities/distribute/",
+        "https://www.articulate.com/capabilities/scale/",
+        "https://www.articulate.com/es-es/capabilities/create/",
+        "https://www.articulate.com/es/capabilities/create/",
+        "https://www.articulate.com/de/capabilities/create/",
+        "https://www.articulate.com/br/capabilities/create/",
+        "https://www.articulate.com/it/capabilities/create/",
+        "https://www.articulate.com/fr/capabilities/create/",
+        "https://www.articulate.com/nl/capabilities/create/",
+        "https://www.articulate.com/pl/capabilities/create/",
+        "https://www.articulate.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.articulate.com/capabilities/collaborate/",
+      "finalUrl": "https://www.articulate.com/capabilities/collaborate/",
+      "status": "success",
+      "sha256": "c2dbbbe8e8108ceb4e8d4842c0e0b41b20356454e37442de611fceefb936171e",
+      "title": "Effortless e-learning collaboration | Articulate",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.articulate.com/capabilities/distribute/",
+        "https://www.articulate.com/capabilities/scale/",
+        "https://www.articulate.com/es-es/capabilities/collaborate/",
+        "https://www.articulate.com/es/capabilities/collaborate/",
+        "https://www.articulate.com/de/capabilities/collaborate/",
+        "https://www.articulate.com/br/capabilities/collaborate/",
+        "https://www.articulate.com/it/capabilities/collaborate/",
+        "https://www.articulate.com/fr/capabilities/collaborate/",
+        "https://www.articulate.com/nl/capabilities/collaborate/",
+        "https://www.articulate.com/pl/capabilities/collaborate/",
+        "https://www.articulate.com/about/",
+        "https://www.articulate.com/about/our-values/"
+      ]
+    }
+  ]
+}

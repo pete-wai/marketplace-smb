@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-8dfe5e6cf73b",
+  "retrievedAt": "2026-10-30T11:02:01.925Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/aws",
+      "finalUrl": "https://www.redhat.com/en/technologies/cloud-computing/openshift/aws",
+      "status": "success",
+      "sha256": "79f70f7d43478ed1da850b3908ba218c217af41373ad0297cbc7dc0499bc4b86",
+      "title": "Red Hat OpenShift Service on AWS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.redhat.com/en/solutions/public-sector",
+        "https://www.redhat.com/en/solutions/public-sector/us",
+        "https://www.redhat.com/en/about/reviews",
+        "https://www.redhat.com/en/about/press-releases/helvetia-brings-innovation-customers-red-hat-hybrid-cloud-technologies",
+        "https://www.redhat.com/en/about/japan-buy",
+        "https://www.redhat.com/en/about/social",
+        "https://www.redhat.com/en/about",
+        "https://www.redhat.com/en/about/our-culture",
+        "https://www.redhat.com/en/about/newsroom",
+        "https://www.redhat.com/en/about/open-source",
+        "https://www.redhat.com/en/about/community-social-responsibility",
+        "https://www.redhat.com/en/about/office-locations"
+      ]
+    },
+    {
+      "url": "https://www.redhat.com/en/solutions/public-sector",
+      "finalUrl": "https://www.redhat.com/en/solutions/public-sector",
+      "status": "success",
+      "sha256": "028e64484fd466c1442286ca97be2a79fc8f32f0ef5f7966c2ffbd895834c65d",
+      "title": "Red Hat supports government digital infrastructure worldwide",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.redhat.com/en/solutions/public-sector/us",
+        "https://www.redhat.com/en/engage/ai-for-public-sector-ebook",
+        "https://www.redhat.com/en/resources/idc-public-sector-innovation-skills-spotlight",
+        "https://www.redhat.com/en/about/japan-buy",
+        "https://www.redhat.com/en/about/social",
+        "https://www.redhat.com/en/about",
+        "https://www.redhat.com/en/about/our-culture",
+        "https://www.redhat.com/en/about/newsroom",
+        "https://www.redhat.com/en/about/open-source",
+        "https://www.redhat.com/en/about/community-social-responsibility",
+        "https://www.redhat.com/en/about/office-locations",
+        "https://www.redhat.com/en/about/our-culture/inclusion"
+      ]
+    },
+    {
+      "url": "https://www.redhat.com/en/solutions/public-sector/us",
+      "finalUrl": "https://www.redhat.com/en/solutions/public-sector/us",
+      "status": "success",
+      "sha256": "d27ae32a3a1cd75bb3756d11bd9eeab2d6890854f6e178c21cfd569ed3bafa00",
+      "title": "Transform securely. Innovate openly. - Red Hat",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.redhat.com/en/resources/it-automation-in-government-overview",
+        "https://www.redhat.com/en/engage/ai-for-public-sector-ebook",
+        "https://www.redhat.com/en/resources/zero-trust-security-for-governing-agencies-ebook",
+        "https://www.redhat.com/en/resources/edge-computing-public-sector-overview",
+        "https://www.redhat.com/en/resources/openshift-virtualization-public-sector-overview",
+        "https://www.redhat.com/en/solutions/public-sector/civilian-agencies",
+        "https://www.redhat.com/en/solutions/public-sector/dod",
+        "https://www.redhat.com/en/solutions/public-sector/national-security",
+        "https://www.redhat.com/en/solutions/public-sector/state-and-local",
+        "https://www.redhat.com/en/success-stories/CalHEERS",
+        "https://www.redhat.com/en/solutions/public-sector/academic",
+        "https://www.redhat.com/en/blog/red-hat-announces-2024-north-america-public-sector-partner-pinnacle-award-winners"
+      ]
+    },
+    {
+      "url": "https://www.redhat.com/en/about/reviews",
+      "finalUrl": "https://www.redhat.com/en/about/reviews",
+      "status": "success",
+      "sha256": "50e66ce78e85bb754b4dfe79ba8293146fb2808035f23eac6c728d6669da6b1f",
+      "title": "Red Hat Reviews",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.redhat.com/en/about/press-releases/salesforce-standardizes-global-hybrid-cloud-infrastructure-red-hat-enterprise-linux",
+        "https://www.redhat.com/en/about/japan-buy",
+        "https://www.redhat.com/en/about/social",
+        "https://www.redhat.com/en/about",
+        "https://www.redhat.com/en/about/our-culture",
+        "https://www.redhat.com/en/about/newsroom",
+        "https://www.redhat.com/en/about/open-source",
+        "https://www.redhat.com/en/about/community-social-responsibility",
+        "https://www.redhat.com/en/about/office-locations",
+        "https://www.redhat.com/en/about/our-culture/inclusion",
+        "https://www.redhat.com/en/about/privacy-policy",
+        "https://www.redhat.com/en/about/terms-use"
+      ]
+    }
+  ]
+}

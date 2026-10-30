@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-5d1f99baf41f",
+  "retrievedAt": "2026-10-30T11:02:31.310Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.widepoint.com/",
+      "finalUrl": "https://www.widepoint.com/",
+      "status": "success",
+      "sha256": "be333af527cbe7476f0f58156eb3d99f04e9b7206865c7e1e88b1e2e203ef244",
+      "title": "WidePoint Corporation | Providing innovative IT solutions to government and commercial markets.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.widepoint.com/about/",
+        "https://www.widepoint.com/about/leadership/",
+        "https://www.widepoint.com/about/our-story/",
+        "https://www.widepoint.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://www.widepoint.com/about/",
+      "finalUrl": "https://www.widepoint.com/about/",
+      "status": "success",
+      "sha256": "69e10ed3c7cfe124052e8d7bd9c1731048cf0498a90e64df21767e23cba54e2f",
+      "title": "About | WidePoint Corporation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.widepoint.com/about/leadership/",
+        "https://www.widepoint.com/about/our-story/",
+        "https://www.widepoint.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://www.widepoint.com/about/leadership/",
+      "finalUrl": "https://www.widepoint.com/about/leadership/",
+      "status": "success",
+      "sha256": "d8245b060f29f71b72f78ec77404905cbb53a4eb0f9e9cee539613fa7ecbb261",
+      "title": "Leadership | WidePoint Corporation",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "tive Officer and President of WidePoint Integrated Solutions Corp., a wholly-owned subsidiary of the Company, since our acquisition of WidePoint Integrated Solutions Corp. formerly, iSYS, LLC on January 4, 2008. Mr. Kang founded WidePoint Integrated Solutions Corp. in 1999 and"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.widepoint.com/about/our-story/",
+        "https://www.widepoint.com/about/careers/",
+        "https://www.widepoint.com/about",
+        "https://www.widepoint.com/about/leadership",
+        "https://www.widepoint.com/about/our-story",
+        "https://www.widepoint.com/about/careers"
+      ]
+    },
+    {
+      "url": "https://www.widepoint.com/about/our-story/",
+      "finalUrl": "https://www.widepoint.com/about/our-story/",
+      "status": "success",
+      "sha256": "92e08432abcf3519b96e23924a1e4077f9faf5e833f901771f6eb117b05d897b",
+      "title": "Our Story | WidePoint Corporation",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " the symbol WDPT used on the OTC Bulletin Board. Oct-2004 WidePoint’s acquisition of ORC capitalized on the significant increase in government spending on security solutions. ORC, a systems engineering firm, provides mission-critical sensitive and strategic information security solutions to"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.widepoint.com/about/careers/"
+      ]
+    }
+  ]
+}

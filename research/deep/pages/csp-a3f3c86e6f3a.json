@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-a3f3c86e6f3a",
+  "retrievedAt": "2026-10-30T11:01:59.449Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.qlik.com/us/solutions/industries/public-sector/us-public-sector",
+      "finalUrl": "https://www.qlik.com/us/solutions/industry/us-public-sector",
+      "status": "success",
+      "sha256": "04774b30223379de02d1be4021ffcd93300da6a4b2153fd89b045b455cd8fca4",
+      "title": "Public Sector Data Analytics: Cloud Data & Analytics | Qlik",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qlik.com/us/solutions/industry/us-public-sector",
+        "https://www.qlik.com/us/da/capabilities/agentic-ai",
+        "https://www.qlik.com/us/company/trust/ai",
+        "https://www.qlik.com/us/company/trust",
+        "https://www.qlik.com/us/di/capabilities/agentic-data-engineering",
+        "https://www.qlik.com/us/di/capabilities/data-movement",
+        "https://www.qlik.com/us/di/capabilities/data-transformation",
+        "https://www.qlik.com/us/di/capabilities/data-quality-and-governance",
+        "https://www.qlik.com/us/di/capabilities/open-lakehouse",
+        "https://www.qlik.com/us/di/capabilities/data-warehouse-automation",
+        "https://www.qlik.com/us/di/capabilities/application-and-api-integration",
+        "https://www.qlik.com/us/da/capabilities/agentic-analytics"
+      ]
+    },
+    {
+      "url": "https://www.qlik.com/us/solutions/industry/us-public-sector",
+      "finalUrl": "https://www.qlik.com/us/solutions/industry/us-public-sector",
+      "status": "success",
+      "sha256": "04774b30223379de02d1be4021ffcd93300da6a4b2153fd89b045b455cd8fca4",
+      "title": "Public Sector Data Analytics: Cloud Data & Analytics | Qlik",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qlik.com/us/da/capabilities/agentic-ai",
+        "https://www.qlik.com/us/company/trust/ai",
+        "https://www.qlik.com/us/company/trust",
+        "https://www.qlik.com/us/di/capabilities/agentic-data-engineering",
+        "https://www.qlik.com/us/di/capabilities/data-movement",
+        "https://www.qlik.com/us/di/capabilities/data-transformation",
+        "https://www.qlik.com/us/di/capabilities/data-quality-and-governance",
+        "https://www.qlik.com/us/di/capabilities/open-lakehouse",
+        "https://www.qlik.com/us/di/capabilities/data-warehouse-automation",
+        "https://www.qlik.com/us/di/capabilities/application-and-api-integration",
+        "https://www.qlik.com/us/da/capabilities/agentic-analytics",
+        "https://www.qlik.com/us/da/capabilities/visualization-and-dashboards"
+      ]
+    },
+    {
+      "url": "https://www.qlik.com/us/da/capabilities/agentic-ai",
+      "finalUrl": "https://www.qlik.com/us/da/capabilities/agentic-ai",
+      "status": "success",
+      "sha256": "d372ef1985600ade34645767973074659827a0821d9fa0861d3af871c938d5cb",
+      "title": "Agentic AI | AI Agents for Analytics and Data Engineering | Qlik",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qlik.com/de-de/da/capabilities/agentic-ai",
+        "https://www.qlik.com/es-es/da/capabilities/agentic-ai",
+        "https://www.qlik.com/fr-fr/da/capabilities/agentic-ai",
+        "https://www.qlik.com/it-it/da/capabilities/agentic-ai",
+        "https://www.qlik.com/pt-br/da/capabilities/agentic-ai",
+        "https://www.qlik.com/ja-jp/da/capabilities/agentic-ai",
+        "https://www.qlik.com/us/company/trust/ai",
+        "https://www.qlik.com/us/company/trust",
+        "https://www.qlik.com/us/di/capabilities/agentic-data-engineering",
+        "https://www.qlik.com/us/di/capabilities/data-movement",
+        "https://www.qlik.com/us/di/capabilities/data-transformation",
+        "https://www.qlik.com/us/di/capabilities/data-quality-and-governance"
+      ]
+    },
+    {
+      "url": "https://www.qlik.com/us/company/trust/ai",
+      "finalUrl": "https://www.qlik.com/us/company/trust/ai",
+      "status": "success",
+      "sha256": "8231f47609129412e4d733a81a59398dbc52d4c699fb96a9a1c312450d955c8b",
+      "title": "Trust & Responsible AI | Qlik AI Development & Deployment",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.qlik.com/us/company/trust",
+        "https://www.qlik.com/us/di/capabilities/agentic-data-engineering",
+        "https://www.qlik.com/us/di/capabilities/data-movement",
+        "https://www.qlik.com/us/di/capabilities/data-transformation",
+        "https://www.qlik.com/us/di/capabilities/data-quality-and-governance",
+        "https://www.qlik.com/us/di/capabilities/open-lakehouse",
+        "https://www.qlik.com/us/di/capabilities/data-warehouse-automation",
+        "https://www.qlik.com/us/di/capabilities/application-and-api-integration",
+        "https://www.qlik.com/us/da/capabilities/agentic-analytics",
+        "https://www.qlik.com/us/da/capabilities/visualization-and-dashboards",
+        "https://www.qlik.com/us/da/capabilities/embedded-analytics",
+        "https://www.qlik.com/us/da/capabilities/qlik-reporting-service"
+      ]
+    }
+  ]
+}

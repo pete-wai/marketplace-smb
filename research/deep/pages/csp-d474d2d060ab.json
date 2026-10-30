@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-d474d2d060ab",
+  "retrievedAt": "2026-10-30T11:00:35.828Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://38northsecurity.com/northwatch/",
+      "finalUrl": "https://38northsecurity.com/northwatch/",
+      "status": "success",
+      "sha256": "67eba7af82133917db6c199905ab89181b0a7143452274293f2abcf367ddd1b4",
+      "title": "NorthWatch | Compliance Operations Platform for FedRAMP 20x | 38North",
+      "signals": [],
+      "discoveredLinks": [
+        "https://38northsecurity.com/company/",
+        "https://38northsecurity.com/company/leadership/",
+        "https://38northsecurity.com/company/careers/"
+      ]
+    },
+    {
+      "url": "https://38northsecurity.com/company/",
+      "finalUrl": "https://38northsecurity.com/company/",
+      "status": "success",
+      "sha256": "23d7f3aefa53490d48322e23b2ccbe79b2512272f2e5d12374259d95499738ae",
+      "title": "About 38North",
+      "signals": [],
+      "discoveredLinks": [
+        "https://38northsecurity.com/company/leadership/",
+        "https://38northsecurity.com/company/careers/",
+        "https://38northsecurity.com/cloud-security-advisory/"
+      ]
+    },
+    {
+      "url": "https://38northsecurity.com/company/leadership/",
+      "finalUrl": "https://38northsecurity.com/company/leadership/",
+      "status": "success",
+      "sha256": "6050143a62c8bdfb6ed363d488760c92088566075085d20472652b7ff8f15c7c",
+      "title": "38North Leadership",
+      "signals": [],
+      "discoveredLinks": [
+        "https://38northsecurity.com/company/careers/",
+        "https://38northsecurity.com/leadership/matt-earley/",
+        "https://38northsecurity.com/leadership/linda-morales/",
+        "https://38northsecurity.com/leadership/virginia-suazo/",
+        "https://38northsecurity.com/leadership/sam-leestma/",
+        "https://38northsecurity.com/leadership/spence-witten/",
+        "https://38northsecurity.com/leadership/ingrid-woodley/"
+      ]
+    },
+    {
+      "url": "https://38northsecurity.com/company/careers/",
+      "finalUrl": "https://38northsecurity.com/company/careers/",
+      "status": "success",
+      "sha256": "5bccb934460918c6b4b6926e1b688113f51772c2d9fb38a6844e359ded0504af",
+      "title": "38North Careers",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

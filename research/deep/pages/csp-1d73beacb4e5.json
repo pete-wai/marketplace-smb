@@ -1,0 +1,79 @@
+{
+  "providerId": "csp-1d73beacb4e5",
+  "retrievedAt": "2026-10-30T11:01:56.398Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.precisely.com/solution/data-integrity-suite-for-government",
+      "finalUrl": "https://www.precisely.com/solution/data-integrity-suite-for-government/",
+      "status": "success",
+      "sha256": "5b3212bc6ac30d823b101bbe0b7c7835802db9b924badeedf0eeab6cc73c63c3",
+      "title": "FedRAMP® Data Integrity Suite for Government | Precisely",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.precisely.com/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/fr/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/de/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/ja/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/solution/government-solutions/",
+        "https://www.precisely.com/resource-center/product-sheet/enhance-federal-state-and-local-data-governance-initiatives-with-precisely/",
+        "https://www.precisely.com/blog/cat-data-governance/building-trust-in-government-data-with-fedramp-certification/",
+        "https://www.precisely.com/blog/unified-data-management/power-government-modernization-with-fedramp-certified-geo-addressing/",
+        "https://www.precisely.com/about-us/",
+        "https://www.precisely.com/leadership/",
+        "https://www.precisely.com/about-us/precisely-trust-center/"
+      ]
+    },
+    {
+      "url": "https://www.precisely.com/solution/data-integrity-suite-for-government/",
+      "finalUrl": "https://www.precisely.com/solution/data-integrity-suite-for-government/",
+      "status": "success",
+      "sha256": "5b3212bc6ac30d823b101bbe0b7c7835802db9b924badeedf0eeab6cc73c63c3",
+      "title": "FedRAMP® Data Integrity Suite for Government | Precisely",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.precisely.com/fr/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/de/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/ja/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/solution/government-solutions/",
+        "https://www.precisely.com/resource-center/product-sheet/enhance-federal-state-and-local-data-governance-initiatives-with-precisely/",
+        "https://www.precisely.com/blog/cat-data-governance/building-trust-in-government-data-with-fedramp-certification/",
+        "https://www.precisely.com/blog/unified-data-management/power-government-modernization-with-fedramp-certified-geo-addressing/",
+        "https://www.precisely.com/about-us/",
+        "https://www.precisely.com/leadership/",
+        "https://www.precisely.com/about-us/precisely-trust-center/"
+      ]
+    },
+    {
+      "url": "https://www.precisely.com/fr/solution/data-integrity-suite-for-government/",
+      "finalUrl": "https://www.precisely.com/fr/solution/data-integrity-suite-for-government/",
+      "status": "success",
+      "sha256": "ebb553e6b206eb60c0298ccdf492f262fd48df1d2d5913c5dc18a7a91616d8c8",
+      "title": "FedRAMP® Data Integrity Suite for Government | Precisely",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.precisely.com/de/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/ja/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/fr/solution/government-solutions/",
+        "https://www.precisely.com/resource-center/product-sheet/enhance-federal-state-and-local-data-governance-initiatives-with-precisely/",
+        "https://www.precisely.com/leadership/",
+        "https://www.precisely.com/about-us/precisely-trust-center/"
+      ]
+    },
+    {
+      "url": "https://www.precisely.com/de/solution/data-integrity-suite-for-government/",
+      "finalUrl": "https://www.precisely.com/de/solution/data-integrity-suite-for-government/",
+      "status": "success",
+      "sha256": "e5545d407ee24c58b02fc1eab40637077c25dd9ee6c0add0df3b3cf11ceef7e0",
+      "title": "FedRAMP® Data Integrity Suite for Government | Precisely",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.precisely.com/ja/solution/data-integrity-suite-for-government/",
+        "https://www.precisely.com/de/solution/government-solutions/",
+        "https://www.precisely.com/resource-center/product-sheet/enhance-federal-state-and-local-data-governance-initiatives-with-precisely/",
+        "https://www.precisely.com/leadership/",
+        "https://www.precisely.com/about-us/precisely-trust-center/"
+      ]
+    }
+  ]
+}

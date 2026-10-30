@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-28cbc5a35638",
+  "retrievedAt": "2026-10-30T11:01:27.156Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.juniper.net/us/en/products/mist-ai.html",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    }
+  ]
+}

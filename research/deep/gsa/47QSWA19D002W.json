@@ -1,0 +1,18 @@
+{
+  "name": "M. C. DEAN, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QSWA19D002W&contractorName=M.+C.+DEAN%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-1385f241e449"
+  ],
+  "contractNumber": "47QSWA19D002W",
+  "retrievedAt": "2026-10-30T11:07:57.578Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:12.772Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

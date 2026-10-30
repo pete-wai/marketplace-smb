@@ -1,0 +1,108 @@
+{
+  "providerId": "csp-11d1854bc90c",
+  "retrievedAt": "2026-10-30T11:00:52.522Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cleat.ai/",
+      "finalUrl": "https://www.cleat.ai/",
+      "status": "success",
+      "sha256": "4bf639157729fb818273d9001b5f8ada90d550079b7b0e912b89d0e42c39b9a1",
+      "title": "CLEATUS | AI for Government Contracting",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cleat.ai/blog/cuadrant-air-national-guard-case-study",
+        "https://www.cleat.ai/blog/d2-government-solutions-case-study",
+        "https://www.cleat.ai/government/contractors",
+        "https://www.cleat.ai/government/people",
+        "https://www.cleat.ai/coverage",
+        "https://www.cleat.ai/government/agencies",
+        "https://www.cleat.ai/government/contracts/state",
+        "https://www.cleat.ai/government/contracts",
+        "https://www.cleat.ai/government/vehicles",
+        "https://www.cleat.ai/government/nsn",
+        "https://www.cleat.ai/free-govcon-tools/capability-statement-builder",
+        "https://www.cleat.ai/government"
+      ]
+    },
+    {
+      "url": "https://www.cleat.ai/blog/cuadrant-air-national-guard-case-study",
+      "finalUrl": "https://www.cleat.ai/blog/cuadrant-air-national-guard-case-study",
+      "status": "success",
+      "sha256": "39058f24c312fb210c9b73555a4f9525b2759b05e716493c20265f0cfe26f9b8",
+      "title": "How Cuadrant Won a California Air National Guard… | CLEATUS",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "al Time by 50% with CLEATUS How Ancilla Technologies and Services, an SDVOSB federal consultancy and SeaPort-NxG prime, cut proposal development time by 50% and went from one RFP/RFQ submission a month to three with CLEATUS. Customer Stories Jul 3,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.cleat.ai/government/contractors/platform-management-llc-ywxr",
+        "https://www.cleat.ai/government/naics/423430",
+        "https://www.cleat.ai/government/contracts/mob-equipment-7dap",
+        "https://www.cleat.ai/government/agencies/w7mx-uspfo-activity-caang-195-1e0j",
+        "https://www.cleat.ai/government/agencies/department-of-defense-wkxo",
+        "https://www.cleat.ai/government/vehicles/gsa-multiple-award-schedule",
+        "https://www.cleat.ai/government/vehicles/sewp-v-idv-a",
+        "https://www.cleat.ai/government/vehicles/2git-idv-e",
+        "https://www.cleat.ai/government/vehicles/gwac-alliant-2-idv-a",
+        "https://www.cleat.ai/government/vehicles/polaris-idv-a",
+        "https://www.cleat.ai/government/naics/334112",
+        "https://www.cleat.ai/blog/tnc-low-voltage-case-study"
+      ]
+    },
+    {
+      "url": "https://www.cleat.ai/blog/d2-government-solutions-case-study",
+      "finalUrl": "https://www.cleat.ai/blog/d2-government-solutions-case-study",
+      "status": "success",
+      "sha256": "6b29f0698eb2f80a04d2779438e1a47e5e626e1de157486176e3ea120f160bef",
+      "title": "How D2 Government Solutions Tripled Growth… | CLEATUS",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "nment Solutions About D2 Government Solutions D2 Government Solutions is an SBA Certified Service-Disabled Veteran-Owned Small Business (SDVOSB) headquartered in New Bern, North Carolina. Founded in 2010, the company has grown to over 300 employees delivering aviation, administrative, logistics, and"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.cleat.ai/blog/tnc-low-voltage-case-study",
+        "https://www.cleat.ai/free-govcon-tools/capability-statement-builder",
+        "https://www.cleat.ai/government",
+        "https://www.cleat.ai/government/contracts",
+        "https://www.cleat.ai/government/naics",
+        "https://www.cleat.ai/government/contractors",
+        "https://www.cleat.ai/government/agencies",
+        "https://www.cleat.ai/government/people",
+        "https://www.cleat.ai/government/vehicles",
+        "https://www.cleat.ai/government/nsn"
+      ]
+    },
+    {
+      "url": "https://www.cleat.ai/government/contractors",
+      "finalUrl": "https://www.cleat.ai/government/contractors",
+      "status": "success",
+      "sha256": "fc2053c3a035485bfe4706670183dfb01ea72f3dd627b14c4e884c116ca72171",
+      "title": "Government Contractors Database | CLEATUS",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " GVW2YMAK1AC1 $19.5B Awards · 12M OPTUM PUBLIC SECTOR SOLUTIONS, INC. Subsidiary of UNITEDHEALTH GROUP INCORPORATED 524114 Direct Health and Medical Insurance Carriers United States CAGE 4KU58 Last awarded Apr 12, 2025 UEI XMUZGJN98231 $17.3B Awards · 12M RTX CORP"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.cleat.ai/government/catalog/full-index",
+        "https://www.cleat.ai/government/agencies",
+        "https://www.cleat.ai/government/contractors/browse",
+        "https://www.cleat.ai/free-govcon-tools/capability-statement-builder",
+        "https://www.cleat.ai/government",
+        "https://www.cleat.ai/government/contracts",
+        "https://www.cleat.ai/government/naics",
+        "https://www.cleat.ai/government/people",
+        "https://www.cleat.ai/government/vehicles",
+        "https://www.cleat.ai/government/nsn",
+        "https://www.cleat.ai/government/contractors/lockheed-martin-corp-9iq2",
+        "https://www.cleat.ai/government/contractors/the-boeing-company-ag4g"
+      ]
+    }
+  ]
+}

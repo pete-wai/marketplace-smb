@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-6cd5124ba92d",
+  "retrievedAt": "2026-10-30T11:00:36.666Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.accenture.com/us-en/afs-industry-index.aspx",
+      "status": "unavailable",
+      "reason": "HTTP 502"
+    },
+    {
+      "url": "https://www.accenture.com/us-en/industries/accenture-federal-services",
+      "finalUrl": "https://www.accenture.com/en-us/industries/accenture-federal-services?country=US",
+      "status": "success",
+      "sha256": "f6991d8fdc12ea20df28fce50edbf5c934cab7b81487cdd73dde88f763eb2337",
+      "title": "Accenture Federal Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.accenture.com/en-us/industries/accenture-federal-services?country=US",
+        "https://www.accenture.com/en-us/industries/accenture-federal-services",
+        "https://www.accenture.com/en/about/company-index",
+        "https://www.accenture.com/en/about/reinvention-services",
+        "https://www.accenture.com/en/about/leadership",
+        "https://www.accenture.com/en/about/location",
+        "https://www.accenture.com/en/about/company/integrated-reporting",
+        "https://www.accenture.com/en/about/awards-recognition",
+        "https://www.accenture.com/en/about/contact-us",
+        "https://www.accenture.com/en-us/services/us-federal-government/applied-intelligence-federal",
+        "https://www.accenture.com/en-us/industries/accenture-federal-services/cloud-consulting",
+        "https://www.accenture.com/en-us/services/us-federal-government/digital-platforms"
+      ]
+    },
+    {
+      "url": "https://www.accenture.com/en-us/industries/accenture-federal-services?country=US",
+      "finalUrl": "https://www.accenture.com/en-us/industries/accenture-federal-services?country=US",
+      "status": "success",
+      "sha256": "f6991d8fdc12ea20df28fce50edbf5c934cab7b81487cdd73dde88f763eb2337",
+      "title": "Accenture Federal Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.accenture.com/en-us/industries/accenture-federal-services",
+        "https://www.accenture.com/en/about/company-index",
+        "https://www.accenture.com/en/about/reinvention-services",
+        "https://www.accenture.com/en/about/leadership",
+        "https://www.accenture.com/en/about/location",
+        "https://www.accenture.com/en/about/company/integrated-reporting",
+        "https://www.accenture.com/en/about/awards-recognition",
+        "https://www.accenture.com/en/about/contact-us",
+        "https://www.accenture.com/en-us/services/us-federal-government/applied-intelligence-federal",
+        "https://www.accenture.com/en-us/industries/accenture-federal-services/cloud-consulting",
+        "https://www.accenture.com/en-us/services/us-federal-government/digital-platforms",
+        "https://www.accenture.com/en-us/industries/accenture-federal-services/cybersecurity"
+      ]
+    },
+    {
+      "url": "https://www.accenture.com/en-us/industries/accenture-federal-services",
+      "finalUrl": "https://www.accenture.com/en-us/industries/accenture-federal-services",
+      "status": "success",
+      "sha256": "a5f62f6f2b17d82fe999133b732b2d437df7b9174a4ffe3da2caeef7c94bf109",
+      "title": "Accenture Federal Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.accenture.com/en/about/company-index",
+        "https://www.accenture.com/en/about/reinvention-services",
+        "https://www.accenture.com/en/about/leadership",
+        "https://www.accenture.com/en/about/location",
+        "https://www.accenture.com/en/about/company/integrated-reporting",
+        "https://www.accenture.com/en/about/awards-recognition",
+        "https://www.accenture.com/en/about/contact-us",
+        "https://www.accenture.com/en-us/services/us-federal-government/applied-intelligence-federal",
+        "https://www.accenture.com/en-us/industries/accenture-federal-services/cloud-consulting",
+        "https://www.accenture.com/en-us/services/us-federal-government/digital-platforms",
+        "https://www.accenture.com/en-us/industries/accenture-federal-services/cybersecurity",
+        "https://www.accenture.com/en-us/services/us-federal-government/human-capital-consulting"
+      ]
+    }
+  ]
+}

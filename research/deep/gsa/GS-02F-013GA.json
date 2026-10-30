@@ -1,0 +1,16 @@
+{
+  "name": "GOVSTRIVE LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-02F-013GA&contractorName=GOVSTRIVE+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-80364114e6ec"
+  ],
+  "contractNumber": "GS-02F-013GA",
+  "retrievedAt": "2026-10-30T11:06:07.431Z",
+  "status": "success",
+  "sha256": "b4cba1925a50b2d2ece9ece206de5e6606de17efc5d1f085c1c7d6fab7427eda",
+  "uei": "UKXQJYEKUN34",
+  "naics": "541612",
+  "socioEconomic": "Small Business SBA Certified HUBZone Firm",
+  "optionEnd": "Dec 6, 2026",
+  "website": "http://www.govstrive.com"
+}

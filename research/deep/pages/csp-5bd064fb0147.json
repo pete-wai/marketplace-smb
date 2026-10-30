@@ -1,0 +1,89 @@
+{
+  "providerId": "csp-5bd064fb0147",
+  "retrievedAt": "2026-10-30T11:01:48.678Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ontic.co/industries/government/",
+      "finalUrl": "https://ontic.co/industries/government/",
+      "status": "success",
+      "sha256": "2dbf8cecc79c199d3dff453d7f9b8a3aacd65a25daad1ea6f0db2d2e1beba711",
+      "title": "Government Security Solution - Ontic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ontic.co/industries/government",
+        "https://ontic.co/company/about-us",
+        "https://ontic.co/company/leadership",
+        "https://ontic.co/company/careers",
+        "https://ontic.co/company/newsroom",
+        "https://ontic.co/company/trust-and-security",
+        "https://ontic.co/company/partners",
+        "https://ontic.co/solutions/threat-intelligence/",
+        "https://ontic.co/resources/article/the-threat-to-action-gap-is-a-growing-federal-security-risk/",
+        "https://ontic.co/resources/checklist/building-nittf-aligned-insider-risk-programs-for-government-organizations/",
+        "https://ontic.co/resources/article/bringing-the-ontic-platform-to-the-federal-government/"
+      ]
+    },
+    {
+      "url": "https://ontic.co/industries/government",
+      "finalUrl": "https://ontic.co/industries/government/",
+      "status": "success",
+      "sha256": "070508b5c805115e5cdc816488f3ee6093a9d98121b3eabeb0b8778c7defee71",
+      "title": "Government Security Solution - Ontic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ontic.co/company/about-us",
+        "https://ontic.co/company/leadership",
+        "https://ontic.co/company/careers",
+        "https://ontic.co/company/newsroom",
+        "https://ontic.co/company/trust-and-security",
+        "https://ontic.co/company/partners",
+        "https://ontic.co/solutions/threat-intelligence/",
+        "https://ontic.co/resources/article/the-threat-to-action-gap-is-a-growing-federal-security-risk/",
+        "https://ontic.co/resources/checklist/building-nittf-aligned-insider-risk-programs-for-government-organizations/",
+        "https://ontic.co/resources/article/bringing-the-ontic-platform-to-the-federal-government/"
+      ]
+    },
+    {
+      "url": "https://ontic.co/company/about-us",
+      "finalUrl": "https://ontic.co/company/about-us/",
+      "status": "success",
+      "sha256": "52f6e475961cbb41481945fa6d1a3bff2768c95dbcad14845c88d441344ad78c",
+      "title": "About Us - Ontic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ontic.co/company/about-us/",
+        "https://ontic.co/company/leadership",
+        "https://ontic.co/company/careers",
+        "https://ontic.co/company/newsroom",
+        "https://ontic.co/company/trust-and-security",
+        "https://ontic.co/company/partners",
+        "https://ontic.co/resources/client-story/fortune-500-travel-technology-company-leverages-ontic-to-protect-employees-and-customers-with-better-investigations/",
+        "https://ontic.co/company/news",
+        "https://ontic.co/resources/article/bringing-the-ontic-platform-to-the-federal-government/"
+      ]
+    },
+    {
+      "url": "https://ontic.co/company/leadership",
+      "finalUrl": "https://ontic.co/company/leadership/",
+      "status": "success",
+      "sha256": "a7890781b621463e38395e239560602b3bf067278709ae40e13f46d328e58d13",
+      "title": "Leadership - Ontic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ontic.co/company/leadership/",
+        "https://ontic.co/company/careers",
+        "https://ontic.co/company/newsroom",
+        "https://ontic.co/company/trust-and-security",
+        "https://ontic.co/company/partners",
+        "https://ontic.co/company/leadership/lukas-quanstrom",
+        "https://ontic.co/company/leadership/brian-mazza",
+        "https://ontic.co/company/leadership/nitin-navare/",
+        "https://ontic.co/company/leadership/manish-mehta",
+        "https://ontic.co/company/leadership/amy-sullivan",
+        "https://ontic.co/company/leadership/kyle-giunta",
+        "https://ontic.co/company/leadership/scott-shepherd"
+      ]
+    }
+  ]
+}

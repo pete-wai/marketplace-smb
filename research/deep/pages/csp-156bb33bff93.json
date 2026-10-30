@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-156bb33bff93",
+  "retrievedAt": "2026-10-30T11:02:01.344Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.rchilli.com/",
+      "finalUrl": "https://www.rchilli.com/",
+      "status": "success",
+      "sha256": "aeb648479a80c49b86d92f24bb08debb57a46a0ac1e09606d3a9c2a5b603febb",
+      "title": "RChilli AI Agents & Solutions to Streamline the Future of Recruitment",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rchilli.com/core-value"
+      ]
+    },
+    {
+      "url": "https://www.rchilli.com/core-value",
+      "finalUrl": "https://www.rchilli.com/core-value",
+      "status": "success",
+      "sha256": "594b10bb96960ea35f042e552952fd0dcfe2544560c1fe3885e25f6cb4ef5493",
+      "title": "RChilli Core Values - 'Success' is assured when you choose RChilli as a partner",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

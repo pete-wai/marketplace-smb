@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-34feb3621f7b",
+  "retrievedAt": "2026-10-30T11:01:15.975Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.feith.com/",
+      "finalUrl": "https://www.feith.com/",
+      "status": "success",
+      "sha256": "e43406d5b26e941ec16bd5691a7600e273398ae6e847f050c0f8cb580603d9fc",
+      "title": "Audit-grade AI platform for federal records | Feith Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.feith.com/ai-in-feith/",
+        "https://www.feith.com/who-we-are/",
+        "https://www.feith.com/white-papers/records-lifecycle/",
+        "https://www.feith.com/white-papers/ai-records/",
+        "https://www.feith.com/who-we-are/rmu/"
+      ]
+    },
+    {
+      "url": "https://www.feith.com/ai-in-feith/",
+      "finalUrl": "https://www.feith.com/ai-in-feith/",
+      "status": "success",
+      "sha256": "3fc098d8fdf5d8c13bc39607ed5396b36a1ea6f9160140187048ec0a48176fa8",
+      "title": "AI in Feith: AI Where Your Records Live | Feith Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.feith.com/who-we-are/"
+      ]
+    },
+    {
+      "url": "https://www.feith.com/who-we-are/",
+      "finalUrl": "https://www.feith.com/who-we-are/",
+      "status": "success",
+      "sha256": "7a6a56febf9dfc3015b094c65f02d3b15d506db6cbe40953aff2fc812171fe7d",
+      "title": "Who We Are | Feith Systems",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.feith.com/white-papers/records-lifecycle/",
+      "finalUrl": "https://www.feith.com/white-papers/records-lifecycle/",
+      "status": "success",
+      "sha256": "04365dce79264f306ca9ad39d770bcc666aca9b4d5210fa563567cac1b3f3214",
+      "title": "Federal Records Lifecycle Management | Feith Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.feith.com/feith-systems/rmaiq/",
+        "https://www.feith.com/white-papers/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-544b663e2336",
+  "retrievedAt": "2026-10-30T11:02:11.429Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.signifi.com/",
+      "finalUrl": "https://www.signifi.com/",
+      "status": "success",
+      "sha256": "33433f3a427ccdcc104c3e81aaec3f7ed64294c06f89079230ddc98a137aed43",
+      "title": "Signifi Solutions | Smart Vending & Digital Locker Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signifi.com/what-we-do/signifivision-software/",
+        "https://www.signifi.com/about/contact/",
+        "https://www.signifi.com/who-we-serve/public-sector/"
+      ]
+    },
+    {
+      "url": "https://www.signifi.com/what-we-do/signifivision-software/",
+      "finalUrl": "https://www.signifi.com/what-we-do/signifivision-software/",
+      "status": "success",
+      "sha256": "01965e495b1780ae4c3c5cf9d0746dd41b72f77decc0ec46546ea0a1a2332cc9",
+      "title": "SignifiVISION — Cloud-based Kiosk Management Platform - Signifi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signifi.com/about/contact/"
+      ]
+    },
+    {
+      "url": "https://www.signifi.com/about/contact/",
+      "finalUrl": "https://www.signifi.com/about/contact/",
+      "status": "success",
+      "sha256": "595013ef5a089fe9763add29b2047e44ab4c2ab442d3124cedc64baec70e5715",
+      "title": "Contact Us - Signifi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signifi.com/about/ethics-reporting-portal/"
+      ]
+    },
+    {
+      "url": "https://www.signifi.com/who-we-serve/public-sector/",
+      "finalUrl": "https://www.signifi.com/who-we-serve/public-sector/",
+      "status": "success",
+      "sha256": "2ee7dbed30972bdb8f8e3759e3b08f2409a9ca9e9f8e0694bf42fabba6c21364",
+      "title": "Education, Public Sector, and Government - Signifi",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "providerId": "csp-9bb148fd4b7b",
+  "retrievedAt": "2026-10-30T11:00:56.636Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://contentguru.com/en-us",
+      "finalUrl": "https://www.contentguru.com/en-us/",
+      "status": "success",
+      "sha256": "ac2dddf167bc495a10822f522e33fa73604d27421f18dacc4854e09ffc01f0ef",
+      "title": "Cloud CX Solutions - Content Guru Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.contentguru.com/en-us/solutions/industries/government/",
+        "https://www.contentguru.com/en-us/solutions/industries/public-sector/",
+        "https://www.contentguru.com/en-us/about-us/awards/",
+        "https://www.contentguru.com/en-us/about-us/",
+        "https://www.contentguru.com/en-us/about-us/careers/",
+        "https://www.contentguru.com/en-us/about-us/office-locations/",
+        "https://www.contentguru.com/en-us/about-us/accreditations/",
+        "https://www.contentguru.com/en-us/about-us/events/",
+        "https://www.contentguru.com/en-us/about-us/environmental-social-governance/",
+        "https://www.contentguru.com/en-us/about-us/leadership-team/",
+        "https://www.contentguru.com/en-us/about-us-delete__trashed/careers/",
+        "https://www.contentguru.com/en-us/about-us/office-locations/uk-office-location/"
+      ]
+    },
+    {
+      "url": "https://www.contentguru.com/en-us/solutions/industries/government/",
+      "finalUrl": "https://www.contentguru.com/en-us/solutions/industries/government/",
+      "status": "success",
+      "sha256": "9286ddf4432942225f39d32d1058c043a9097527c48307a268de254cab0e71c7",
+      "title": "Government - Content Guru Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.contentguru.com/en-us/solutions/industries/public-sector/",
+        "https://www.contentguru.com/en-us/about-us/awards/",
+        "https://www.contentguru.com/en-us/about-us/",
+        "https://www.contentguru.com/en-us/about-us/careers/",
+        "https://www.contentguru.com/en-us/about-us/office-locations/",
+        "https://www.contentguru.com/en-us/about-us/accreditations/",
+        "https://www.contentguru.com/en-us/about-us/events/",
+        "https://www.contentguru.com/en-us/about-us/environmental-social-governance/",
+        "https://www.contentguru.com/en-us/about-us/leadership-team/",
+        "https://www.contentguru.com/en-us/about-us-delete__trashed/careers/"
+      ]
+    },
+    {
+      "url": "https://www.contentguru.com/en-us/solutions/industries/public-sector/",
+      "finalUrl": "https://www.contentguru.com/en-us/solutions/industries/public-sector/",
+      "status": "success",
+      "sha256": "6ccb4cb70434bd9328a29b293e2530404b2233514f3c32800dcf5c958d27d1b6",
+      "title": "Public Sector - Content Guru Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.contentguru.com/en-us/about-us/awards/",
+        "https://www.contentguru.com/en-us/about-us/",
+        "https://www.contentguru.com/en-us/about-us/careers/",
+        "https://www.contentguru.com/en-us/about-us/office-locations/",
+        "https://www.contentguru.com/en-us/about-us/accreditations/",
+        "https://www.contentguru.com/en-us/about-us/events/",
+        "https://www.contentguru.com/en-us/about-us/environmental-social-governance/",
+        "https://www.contentguru.com/en-us/about-us/leadership-team/",
+        "https://www.contentguru.com/en-us/about-us-delete__trashed/careers/"
+      ]
+    },
+    {
+      "url": "https://www.contentguru.com/en-us/about-us/awards/",
+      "finalUrl": "https://www.contentguru.com/en-us/about-us/awards/",
+      "status": "success",
+      "sha256": "3fbeb223506db5e56435fb5f1b7a1dfe5bdd53f17b8c7771a5d97d9d54e8cbd1",
+      "title": "Awards - Content Guru Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.contentguru.com/en-us/about-us/",
+        "https://www.contentguru.com/en-us/about-us/careers/",
+        "https://www.contentguru.com/en-us/about-us/office-locations/",
+        "https://www.contentguru.com/en-us/about-us/accreditations/",
+        "https://www.contentguru.com/en-us/about-us/events/",
+        "https://www.contentguru.com/en-us/about-us/environmental-social-governance/",
+        "https://www.contentguru.com/en-us/about-us/leadership-team/",
+        "https://www.contentguru.com/en-us/about-us-delete__trashed/careers/",
+        "https://www.contentguru.com/en-us/resources/news/content-guru-wins-international-tech-company-of-the-year-at-the-thames-valley-tech-innovation-awards-2024/",
+        "https://www.contentguru.com/en-us/resources/news/content-guru-wins-thames-valley-tech-company-of-the-year-2022-award/",
+        "https://www.contentguru.com/en-us/resources/news/content-guru-wins-ventana-research-digital-leadership-award-2019/"
+      ]
+    }
+  ]
+}

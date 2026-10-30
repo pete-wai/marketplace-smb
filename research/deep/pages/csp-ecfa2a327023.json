@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-ecfa2a327023",
+  "retrievedAt": "2026-10-30T11:00:38.556Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.myaidin.com/",
+      "finalUrl": "https://www.myaidin.com/",
+      "status": "success",
+      "sha256": "601808a6593583798c14a6832af7e428de27626ea20dbf9f1f3c5ba217fdaad5",
+      "title": "Aidin: Referral Management Software for Better Patient Outcomes",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ferral Management Software for Better Patient Outcomes Aidin has been acquired by LeanTaaS! Learn more, here . Who We Serve Hospitals &#038; Healthcare Systems Post-Acute Care Providers Case Managers Aidin for Epic Users Platform Discharge Planning Improve the flow of"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.myaidin.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.myaidin.com/about/",
+      "finalUrl": "https://leantaas.com/aidin/?utm_source=landing%20page&utm_medium=website&utm_campaign=acquisition-annoucement-aidin-site&utm_content=lt",
+      "status": "success",
+      "sha256": "49c0f899ea4368db0dd51ff9473124cf670a3ae419c4407e5d734d304dde2791",
+      "title": "LeanTaaS X Aidin Page",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leantaas.com/company/overview/",
+        "https://leantaas.com/company/leadership/",
+        "https://leantaas.com/company/careers/",
+        "https://leantaas.com/company/newsroom/",
+        "https://leantaas.com/company/awards/",
+        "https://leantaas.com/company/the-book/",
+        "https://leantaas.com/company/news-room/"
+      ]
+    },
+    {
+      "url": "https://leantaas.com/company/overview/",
+      "finalUrl": "https://leantaas.com/company/overview/",
+      "status": "success",
+      "sha256": "e6fa8d62f80b030a2f5694521109d16ff5d6ce03ece7865fc4eabae437d20039",
+      "title": "Overview - LeanTaaS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leantaas.com/company/leadership/",
+        "https://leantaas.com/company/careers/",
+        "https://leantaas.com/company/newsroom/",
+        "https://leantaas.com/company/awards/",
+        "https://leantaas.com/company/the-book/",
+        "https://leantaas.com/company/news-room/",
+        "https://leantaas.com/company/overview/itemDataObject.url"
+      ]
+    },
+    {
+      "url": "https://leantaas.com/company/leadership/",
+      "finalUrl": "https://leantaas.com/company/leadership/",
+      "status": "success",
+      "sha256": "b51d693de0a559a78cbf26ef3b79b1867120f5f80b1971cbfdf6701cbe90e165",
+      "title": "Leadership - LeanTaaS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leantaas.com/company/careers/",
+        "https://leantaas.com/company/newsroom/",
+        "https://leantaas.com/company/awards/",
+        "https://leantaas.com/company/the-book/",
+        "https://leantaas.com/company/news-room/",
+        "https://leantaas.com/company/leadership/itemDataObject.url"
+      ]
+    }
+  ]
+}

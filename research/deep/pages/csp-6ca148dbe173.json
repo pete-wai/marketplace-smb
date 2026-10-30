@@ -1,0 +1,68 @@
+{
+  "providerId": "csp-6ca148dbe173",
+  "retrievedAt": "2026-10-30T11:00:57.260Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://corasystems.com/industry/govcon-program-management-software/",
+      "finalUrl": "https://corasystems.com/industry/government-contracting-project-management-software",
+      "status": "success",
+      "sha256": "67001f8b26c233b1e8f4c651736505107f52ea81396ed84345b9962c896ddb92",
+      "title": "GovCon Project Management Software (EVMS, FAR/DFARS) | Cora",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corasystems.com/industry/government-contracting-project-management-software",
+        "https://corasystems.com/blog/aerospace-defense-value-framework",
+        "https://corasystems.com/blog/fragmented-systems-limiting-aerospace-defense-growth",
+        "https://corasystems.com/blog/government-contracting-terms-acronyms-govcon-glossary",
+        "https://corasystems.com/government-contract-compliance-software",
+        "https://corasystems.com/about",
+        "https://corasystems.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://corasystems.com/industry/government-contracting-project-management-software",
+      "finalUrl": "https://corasystems.com/industry/government-contracting-project-management-software",
+      "status": "success",
+      "sha256": "67001f8b26c233b1e8f4c651736505107f52ea81396ed84345b9962c896ddb92",
+      "title": "GovCon Project Management Software (EVMS, FAR/DFARS) | Cora",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corasystems.com/blog/aerospace-defense-value-framework",
+        "https://corasystems.com/blog/fragmented-systems-limiting-aerospace-defense-growth",
+        "https://corasystems.com/blog/government-contracting-terms-acronyms-govcon-glossary",
+        "https://corasystems.com/government-contract-compliance-software",
+        "https://corasystems.com/about",
+        "https://corasystems.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://corasystems.com/blog/aerospace-defense-value-framework",
+      "finalUrl": "https://corasystems.com/blog/aerospace-defense-value-framework",
+      "status": "success",
+      "sha256": "840d49a062fa177cd9fa62f58a0f4fc0eead039b362bd5df0db92fcf9f6d2485",
+      "title": "A&D End-to-End Value Framework: Bid to Closeout | Cora Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corasystems.com/blog/fragmented-systems-limiting-aerospace-defense-growth",
+        "https://corasystems.com/government-contract-compliance-software",
+        "https://corasystems.com/about",
+        "https://corasystems.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://corasystems.com/blog/fragmented-systems-limiting-aerospace-defense-growth",
+      "finalUrl": "https://corasystems.com/blog/fragmented-systems-limiting-aerospace-defense-growth",
+      "status": "success",
+      "sha256": "6cd80c57f350e0ead180890eade90a002a745646c379049af9f8ecae1ed25e84",
+      "title": "Built for Scale, Slowed by Sprawl: The A&D Execution Problem",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corasystems.com/blog/government-contracting-terms-acronyms-govcon-glossary",
+        "https://corasystems.com/government-contract-compliance-software",
+        "https://corasystems.com/about",
+        "https://corasystems.com/leadership-team"
+      ]
+    }
+  ]
+}

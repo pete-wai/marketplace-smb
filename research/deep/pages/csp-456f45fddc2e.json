@@ -1,0 +1,88 @@
+{
+  "providerId": "csp-456f45fddc2e",
+  "retrievedAt": "2026-10-30T11:01:38.842Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.lumen.com/en-us/communications/contact-center.html",
+      "finalUrl": "https://www.lumen.com/en-us/contact-us.html",
+      "status": "success",
+      "sha256": "b64c771a2104662014f9ea2a7e57799af8f89d1e8a9c426724143d39446dce61",
+      "title": "Contact Us | Lumen Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lumen.com/en-us/about.html",
+        "https://www.lumen.com/en-us/about/corporate-responsibility.html",
+        "https://www.lumen.com/en-us/public-sector.html",
+        "https://www.lumen.com/en-us/about/doing-business-with-lumen.html",
+        "https://www.lumen.com/en-us/about/legal.html",
+        "https://www.lumen.com/en-us/about/legal/trust-center.html",
+        "https://www.lumen.com/en-us/about/accessibility.html",
+        "https://www.lumen.com/en-us/about/legal/privacy-center.html",
+        "https://www.lumen.com/en-us/about/legal/commission-for-complaints-for-telecom-television-services-ccts.html"
+      ]
+    },
+    {
+      "url": "https://www.lumen.com/en-us/about.html",
+      "finalUrl": "https://www.lumen.com/en-us/about.html",
+      "status": "success",
+      "sha256": "011cb072744299eedca0438d39bbaad58f0dea0ec1f789980b454196cd0ac231",
+      "title": "About Us | Lumen Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lumen.com/en-us/news/press-resources.html",
+        "https://www.lumen.com/en-us/about/corporate-responsibility.html",
+        "https://www.lumen.com/en-us/public-sector.html",
+        "https://www.lumen.com/en-us/about/doing-business-with-lumen.html",
+        "https://www.lumen.com/en-us/about/legal.html",
+        "https://www.lumen.com/en-us/about/legal/trust-center.html",
+        "https://www.lumen.com/en-us/about/accessibility.html",
+        "https://www.lumen.com/en-us/about/legal/privacy-center.html",
+        "https://www.lumen.com/en-us/about/legal/commission-for-complaints-for-telecom-television-services-ccts.html"
+      ]
+    },
+    {
+      "url": "https://www.lumen.com/en-us/about/corporate-responsibility.html",
+      "finalUrl": "https://www.lumen.com/en-us/about/corporate-responsibility.html",
+      "status": "success",
+      "sha256": "dd75e3e96e5aa148775852d172192453b8159831b4b4341a82d1f63d6a72debd",
+      "title": "Corporate Responsibility | Lumen Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lumen.com/en-us/about/corporate-responsibility/environment.html",
+        "https://www.lumen.com/en-us/about/corporate-responsibility/social-responsibility.html",
+        "https://www.lumen.com/en-us/about/governance.html",
+        "https://www.lumen.com/en-us/about/legal/trust-center.html",
+        "https://www.lumen.com/en-us/about/public-policy.html",
+        "https://www.lumen.com/en-us/public-sector.html",
+        "https://www.lumen.com/en-us/about/doing-business-with-lumen.html",
+        "https://www.lumen.com/en-us/about/legal.html",
+        "https://www.lumen.com/en-us/about/accessibility.html",
+        "https://www.lumen.com/en-us/about/legal/privacy-center.html",
+        "https://www.lumen.com/en-us/about/legal/commission-for-complaints-for-telecom-television-services-ccts.html"
+      ]
+    },
+    {
+      "url": "https://www.lumen.com/en-us/public-sector.html",
+      "finalUrl": "https://www.lumen.com/en-us/public-sector.html",
+      "status": "success",
+      "sha256": "0ba6731cfa229db44ffad49354feea39c6235a4d3f05883bc7e68fcf917b0460",
+      "title": "Public Sector | Lumen Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lumen.com/en-us/public-sector/government-solutions.html",
+        "https://www.lumen.com/en-us/public-sector/civilian-agencies.html",
+        "https://www.lumen.com/en-us/public-sector/defense-and-intelligence-community.html",
+        "https://www.lumen.com/en-us/public-sector/state-local/state-local-government.html",
+        "https://www.lumen.com/en-us/public-sector/education/higher-education.html",
+        "https://www.lumen.com/en-us/public-sector/government-healthcare.html",
+        "https://www.lumen.com/en-us/about/doing-business-with-lumen.html",
+        "https://www.lumen.com/en-us/about/legal.html",
+        "https://www.lumen.com/en-us/about/legal/trust-center.html",
+        "https://www.lumen.com/en-us/about/accessibility.html",
+        "https://www.lumen.com/en-us/about/legal/privacy-center.html",
+        "https://www.lumen.com/en-us/about/legal/commission-for-complaints-for-telecom-television-services-ccts.html"
+      ]
+    }
+  ]
+}

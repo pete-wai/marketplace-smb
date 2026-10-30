@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-337500df8cab",
+  "retrievedAt": "2026-10-30T11:01:55.166Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://powersettlements.com/solutions/overview/",
+      "finalUrl": "https://powersettlements.com/solutions/overview/",
+      "status": "success",
+      "sha256": "5a2085492f7b11944fd794afe74aa05bd1925b0171139529c44d47b04d865955",
+      "title": "Platform Overview - Power Settlements",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powersettlements.com/company/",
+        "https://powersettlements.com/company/about/",
+        "https://powersettlements.com/company/news/",
+        "https://powersettlements.com/company/events/",
+        "https://powersettlements.com/company/careers/",
+        "https://powersettlements.com/company/who-we-are/"
+      ]
+    },
+    {
+      "url": "https://powersettlements.com/company/",
+      "finalUrl": "https://powersettlements.com/company/about/",
+      "status": "success",
+      "sha256": "7319044a334c35687695dc0d5a8d8a011c9cb1934ffb0afb4b6fff617ecf4db5",
+      "title": "Who We Are - Power Settlements",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powersettlements.com/company/about/",
+        "https://powersettlements.com/company/news/",
+        "https://powersettlements.com/company/events/",
+        "https://powersettlements.com/company/careers/",
+        "https://powersettlements.com/company/who-we-are/"
+      ]
+    },
+    {
+      "url": "https://powersettlements.com/company/about/",
+      "finalUrl": "https://powersettlements.com/company/about/",
+      "status": "success",
+      "sha256": "7319044a334c35687695dc0d5a8d8a011c9cb1934ffb0afb4b6fff617ecf4db5",
+      "title": "Who We Are - Power Settlements",
+      "signals": [],
+      "discoveredLinks": [
+        "https://powersettlements.com/company/news/",
+        "https://powersettlements.com/company/events/",
+        "https://powersettlements.com/company/careers/",
+        "https://powersettlements.com/company/who-we-are/"
+      ]
+    },
+    {
+      "url": "https://powersettlements.com/company/news/",
+      "finalUrl": "https://powersettlements.com/company/news/",
+      "status": "success",
+      "sha256": "1e4750f98ad17126f61ec6f1810f8a8804f85361b3189a02f74a69bb58fd8d78",
+      "title": "News - Power Settlements",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "8211; Yes Energy, a leader in power markets data, today announced the acquisition of Power Settlements. The combination of Power Settlements and Yes Energy will add value for physical power asset owners and operators by providing near real-time performance tracking"
+        }
+      ],
+      "discoveredLinks": [
+        "https://powersettlements.com/company/events/",
+        "https://powersettlements.com/company/careers/",
+        "https://powersettlements.com/news/idaho-power-company-goes-live-with-settlecore-back-office-solutions-from-power-settlements/",
+        "https://powersettlements.com/news/arizona-public-service-company-reaps-significant-benefits-managing-complex-third-party-contract-settlements-using-the-settlecore-contract-billing-solution/",
+        "https://powersettlements.com/news/el-paso-electric-company-selects-power-settlements-for-western-energy-imbalance-market-participation/",
+        "https://powersettlements.com/company/news/?query-9-page=2",
+        "https://powersettlements.com/company/news/?query-9-page=3",
+        "https://powersettlements.com/company/news/?query-9-page=8",
+        "https://powersettlements.com/company/who-we-are/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PAGEFREEZER SOFTWARE INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA18D00DD&contractorName=PAGEFREEZER+SOFTWARE+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-76b513f9ae7f"
+  ],
+  "contractNumber": "47QTCA18D00DD",
+  "retrievedAt": "2026-10-30T11:08:16.452Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:15.173Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

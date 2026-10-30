@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-a7c4c5ead54c",
+  "retrievedAt": "2026-10-30T11:01:16.019Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.files.com/",
+      "finalUrl": "https://www.files.com/",
+      "status": "success",
+      "sha256": "ed19b192bff6023ba48e647109050407da7804d724d2df16c1b82639fefcbdd6",
+      "title": "Managed File Transfer, SFTP & File Sharing — Files.com",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.files.com/about",
+        "https://www.files.com/team"
+      ]
+    },
+    {
+      "url": "https://www.files.com/about",
+      "finalUrl": "https://www.files.com/about",
+      "status": "success",
+      "sha256": "9ce9620f52c7202533d5cda13b4d092fa722ab03f554a289a50bd5f45fe77eae",
+      "title": "About Files.com — One Company, Four Products",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.files.com/team"
+      ]
+    },
+    {
+      "url": "https://www.files.com/team",
+      "finalUrl": "https://www.files.com/team",
+      "status": "success",
+      "sha256": "58c135580e0b3fb4bfe35ebe3e421f10778b93a4174501058599050ab6a3bc4a",
+      "title": "Leadership Team — Files.com",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

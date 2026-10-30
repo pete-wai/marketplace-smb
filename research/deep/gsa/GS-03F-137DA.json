@@ -1,0 +1,18 @@
+{
+  "name": "XEROX CORPORATION",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-03F-137DA&contractorName=XEROX+CORPORATION&executeQuery=YES",
+  "providerIds": [
+    "csp-ba9d19e7d8f0"
+  ],
+  "contractNumber": "GS-03F-137DA",
+  "retrievedAt": "2026-10-30T11:09:15.986Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:23.081Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

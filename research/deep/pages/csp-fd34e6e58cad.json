@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-fd34e6e58cad",
+  "retrievedAt": "2026-10-30T11:02:13.826Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.socure.com/",
+      "finalUrl": "https://www.socure.com/",
+      "status": "success",
+      "sha256": "bba85b2dffd70b03d3d6563c5dd693dcefeb30a1e0103113251ad1a399724561",
+      "title": "Identity Verification Platform for AI Risk Decisioning | Socure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.socure.com/solutions/riskos",
+        "https://www.socure.com/industries/public-sector",
+        "https://www.socure.com/industries/federal",
+        "https://www.socure.com/company/events",
+        "https://www.socure.com/company",
+        "https://www.socure.com/company/news-and-press",
+        "https://www.socure.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.socure.com/solutions/riskos",
+      "finalUrl": "https://www.socure.com/solutions/riskos",
+      "status": "success",
+      "sha256": "96ce828036f8a03a4445a4d288900151efef99c11185ac5514776ffb7c0d2338",
+      "title": "RiskOS®: Data Orchestration Platform & Risk Decisioning | Socure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.socure.com/industries/public-sector",
+        "https://www.socure.com/industries/federal",
+        "https://www.socure.com/company/events",
+        "https://www.socure.com/company",
+        "https://www.socure.com/company/news-and-press",
+        "https://www.socure.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.socure.com/industries/public-sector",
+      "finalUrl": "https://www.socure.com/industries/public-sector",
+      "status": "success",
+      "sha256": "e10453163c224f632da40d03e5ed5cbb5bcc3180063e2d0a9fa466de783b2150",
+      "title": "FedRAMP-Authorized Government AI Solutions | Socure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.socure.com/industries/federal",
+        "https://www.socure.com/company/events",
+        "https://www.socure.com/company",
+        "https://www.socure.com/company/news-and-press",
+        "https://www.socure.com/company/careers",
+        "https://www.socure.com/news-and-press/socure-fedramp-moderate-authorization",
+        "https://www.socure.com/blog/how-socure-is-fighting-deepfakes-synthetic-ids-and-fraud-with-ai",
+        "https://www.socure.com/blog/how-socures-ability-to-verify-generation-z-can-help-public-sector-agencies",
+        "https://www.socure.com/blog/secure-digital-identity-solution-for-govt-by-socure-and-okta",
+        "https://www.socure.com/resources/reports/government-fraud-patterns-report"
+      ]
+    },
+    {
+      "url": "https://www.socure.com/industries/federal",
+      "finalUrl": "https://www.socure.com/industries/federal",
+      "status": "success",
+      "sha256": "e67cea9f50f176beb768bf9d5b99a123b4753da6898ddbf7bff6dca257e7bf98",
+      "title": "Zero Trust Security for Federal Agencies | Socure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.socure.com/company/events",
+        "https://www.socure.com/company",
+        "https://www.socure.com/company/news-and-press",
+        "https://www.socure.com/company/careers",
+        "https://www.socure.com/news-and-press/socure-fedramp-moderate-authorization",
+        "https://www.socure.com/news-and-press/socure-achieves-fedramp-moderate-in-process-status",
+        "https://www.socure.com/resources/reports/government-fraud-patterns-report"
+      ]
+    }
+  ]
+}

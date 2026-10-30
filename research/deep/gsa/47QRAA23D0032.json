@@ -1,0 +1,18 @@
+{
+  "name": "MDRC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QRAA23D0032&contractorName=MDRC&executeQuery=YES",
+  "providerIds": [
+    "csp-1b182199e823"
+  ],
+  "contractNumber": "47QRAA23D0032",
+  "retrievedAt": "2026-10-30T11:07:58.929Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:13.051Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-a7260b1bd033",
+  "retrievedAt": "2026-10-30T11:02:19.495Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://coleridgeinitiative.org/",
+      "finalUrl": "https://coleridge.us/",
+      "status": "success",
+      "sha256": "e945a2c972b58ee8fc218c46ec8b0fb181478e4a9651ed8f06e15b7adfc3f908",
+      "title": "Home | Coleridge Initiative | Coleridge Initiative",
+      "signals": [],
+      "discoveredLinks": [
+        "https://coleridge.us/about",
+        "https://coleridge.us/about-team",
+        "https://coleridge.us/about-board-of-directors"
+      ]
+    },
+    {
+      "url": "https://coleridge.us/about",
+      "finalUrl": "https://coleridge.us/about",
+      "status": "success",
+      "sha256": "aa37312394b2f044490164c721bc3f01333361b9d863c1eedce391bff779ebf7",
+      "title": "About Coleridge | Coleridge Initiative | Coleridge Initiative",
+      "signals": [],
+      "discoveredLinks": [
+        "https://coleridge.us/about-team",
+        "https://coleridge.us/about-board-of-directors"
+      ]
+    },
+    {
+      "url": "https://coleridge.us/about-team",
+      "finalUrl": "https://coleridge.us/about-team",
+      "status": "success",
+      "sha256": "48f66a2b2aa50526b494af286f4037854a51b818142059fc81a708f5cacff00a",
+      "title": "Team | Coleridge Initiative | Coleridge Initiative",
+      "signals": [],
+      "discoveredLinks": [
+        "https://coleridge.us/about-board-of-directors"
+      ]
+    },
+    {
+      "url": "https://coleridge.us/about-board-of-directors",
+      "finalUrl": "https://coleridge.us/about-board-of-directors",
+      "status": "success",
+      "sha256": "7b83b68962caa602b88d0891b9418ecc15cd3a10bd9ef3ac92eab64cd7d4784a",
+      "title": "Board of Directors | Coleridge Initiative | Coleridge Initiative",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

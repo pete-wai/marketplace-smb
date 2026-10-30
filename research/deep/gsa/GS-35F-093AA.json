@@ -1,0 +1,18 @@
+{
+  "name": "TECSYS, INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-093AA&contractorName=TECSYS%2C+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-536db393b658"
+  ],
+  "contractNumber": "GS-35F-093AA",
+  "retrievedAt": "2026-10-30T11:09:05.189Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:21.663Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

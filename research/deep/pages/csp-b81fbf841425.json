@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-b81fbf841425",
+  "retrievedAt": "2026-10-30T11:01:24.474Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.inteum.com/",
+      "finalUrl": "https://www.inteum.com/",
+      "status": "success",
+      "sha256": "06f68b05cac99ae56f8a25ad8dc4d21345fc849ea652f5c27dda812dc0b47c51",
+      "title": "Inteum | Minuet and FirstIgnite AI for Technology Transfer",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

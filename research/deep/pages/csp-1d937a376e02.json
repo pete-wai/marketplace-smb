@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-1d937a376e02",
+  "retrievedAt": "2026-10-30T11:02:02.914Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.regscale.com/",
+      "finalUrl": "https://regscale.com/",
+      "status": "success",
+      "sha256": "73ed1bb633d327f370bf2f7ef0efedf15777f58b245642bf3706ef33f51e0a57",
+      "title": "RegScale | Continuous Controls Monitoring Platform for Cyber Resilience",
+      "signals": [],
+      "discoveredLinks": [
+        "https://regscale.com/product-policy-and-compliance/",
+        "https://regscale.com/industry-government/",
+        "https://regscale.com/industry-govcon/",
+        "https://regscale.com/blog/",
+        "https://regscale.com/resource-center/ebook-federal-ato-acceleration/",
+        "https://regscale.com/about-us/",
+        "https://regscale.com/partner-with-regscale/"
+      ]
+    },
+    {
+      "url": "https://regscale.com/",
+      "finalUrl": "https://regscale.com/",
+      "status": "success",
+      "sha256": "73ed1bb633d327f370bf2f7ef0efedf15777f58b245642bf3706ef33f51e0a57",
+      "title": "RegScale | Continuous Controls Monitoring Platform for Cyber Resilience",
+      "signals": [],
+      "discoveredLinks": [
+        "https://regscale.com/product-policy-and-compliance/",
+        "https://regscale.com/industry-government/",
+        "https://regscale.com/industry-govcon/",
+        "https://regscale.com/blog/",
+        "https://regscale.com/resource-center/ebook-federal-ato-acceleration/",
+        "https://regscale.com/about-us/",
+        "https://regscale.com/partner-with-regscale/"
+      ]
+    },
+    {
+      "url": "https://regscale.com/product-policy-and-compliance/",
+      "finalUrl": "https://regscale.com/product-policy-and-compliance/",
+      "status": "success",
+      "sha256": "acb7fdc6bd722fc58f7e4897847a6987df12a421a9ef7986f2a7c8a79f61134f",
+      "title": "Driving Policy and Compliance with AI and Automation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://regscale.com/industry-government/",
+        "https://regscale.com/industry-govcon/",
+        "https://regscale.com/blog/",
+        "https://regscale.com/resource-center/ebook-federal-ato-acceleration/",
+        "https://regscale.com/about-us/",
+        "https://regscale.com/partner-with-regscale/",
+        "https://regscale.com/resource-center/customer-story-government-services-centralizes-control-management/",
+        "https://regscale.com/resource-center/customer-story-restaurant-streamlines-compliance/"
+      ]
+    },
+    {
+      "url": "https://regscale.com/industry-government/",
+      "finalUrl": "https://regscale.com/industry-government/",
+      "status": "success",
+      "sha256": "9edfe6a375cfdf368b4d4d47a5fe9d1be78be029e5eaae4d71544c0ba494b3e9",
+      "title": "Government Compliance Solutions | RegScale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://regscale.com/industry-govcon/",
+        "https://regscale.com/blog/",
+        "https://regscale.com/resource-center/ebook-federal-ato-acceleration/",
+        "https://regscale.com/about-us/",
+        "https://regscale.com/partner-with-regscale/",
+        "https://regscale.com/resource-center/customer-story-government-services-centralizes-control-management/"
+      ]
+    }
+  ]
+}

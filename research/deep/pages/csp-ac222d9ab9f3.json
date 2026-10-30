@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-ac222d9ab9f3",
+  "retrievedAt": "2026-10-30T11:02:20.621Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.threadai.com/",
+      "finalUrl": "https://www.threadai.com/",
+      "status": "success",
+      "sha256": "5f2049ab199b73c964167a3931e1e7720dfd4d5ea8c41595e3c6bfe93a1b4c92",
+      "title": "Enterprise AI Workflow Orchestration | Thread AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.threadai.com/government",
+        "https://www.threadai.com/company"
+      ]
+    },
+    {
+      "url": "https://www.threadai.com/government",
+      "finalUrl": "https://www.threadai.com/government",
+      "status": "success",
+      "sha256": "39cc5e69aa20a89a53ec8667ce8003a34df33affd5dcef6c56af798abf3627dd",
+      "title": "Public Sector AI Operations | Thread AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.threadai.com/company",
+        "https://www.threadai.com/contact-us/federal"
+      ]
+    },
+    {
+      "url": "https://www.threadai.com/company",
+      "finalUrl": "https://www.threadai.com/company",
+      "status": "success",
+      "sha256": "0680b916617cc397b104a8e90a6b38653dab2d046f93f3443b1e1ae8baa897b6",
+      "title": "About Thread AI | Enterprise AI Orchestration Company",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.threadai.com/contact-us/federal",
+      "finalUrl": "https://www.threadai.com/contact-us/federal",
+      "status": "success",
+      "sha256": "180cebc253da87fc4648ce33c3c062c04cc1c861bb81520706757dba99535139",
+      "title": "Contact Our Federal Team | Thread AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

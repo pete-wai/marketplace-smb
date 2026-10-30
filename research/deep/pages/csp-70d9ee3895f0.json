@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-70d9ee3895f0",
+  "retrievedAt": "2026-10-30T11:00:37.406Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.gbg.com/",
+      "finalUrl": "https://www.gbg.com/en-us/",
+      "status": "success",
+      "sha256": "b8bfdca1ae329096bda77f3dfbdf4abaa98bc1fa03275cf9c444be71f2a6f296",
+      "title": "GBG | Global identity verification leaders",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.gbg.com/en-us/industry/government/"
+      ]
+    },
+    {
+      "url": "https://www.gbg.com/en-us/industry/government/",
+      "finalUrl": "https://www.gbg.com/en-us/industry/government/",
+      "status": "success",
+      "sha256": "79a69f4536d595938686f2680061debc5f703106c106ebd28f25a59f179aef39",
+      "title": "Government use cases | GBG US",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

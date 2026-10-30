@@ -1,0 +1,16 @@
+{
+  "name": "ERNST & YOUNG LLP",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-00F-290CA&contractorName=ERNST+%26+YOUNG+LLP&executeQuery=YES",
+  "providerIds": [
+    "csp-15c0edb69e72"
+  ],
+  "contractNumber": "GS-00F-290CA",
+  "retrievedAt": "2026-10-30T11:06:05.381Z",
+  "status": "success",
+  "sha256": "ed50c8e6ed1546d9280ba08aeac7cad6b9dd130ff4f098cc4047f5b509a4f4df",
+  "uei": "ECMMFNMSLXM7",
+  "naics": "541211",
+  "socioEconomic": "Other Than Small Business",
+  "optionEnd": "Sep 7, 2030",
+  "website": "http://www.ey.com"
+}

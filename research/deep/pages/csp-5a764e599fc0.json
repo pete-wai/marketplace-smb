@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-5a764e599fc0",
+  "retrievedAt": "2026-10-30T11:01:00.551Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cylogic.com/",
+      "finalUrl": "https://cylogic.com/",
+      "status": "success",
+      "sha256": "59f0a7b993284ab1b2d8927dc6f224a513774df32fd596c39ef0bfc1b3249911",
+      "title": "Home",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cylogic.com/about"
+      ]
+    },
+    {
+      "url": "https://cylogic.com/about",
+      "finalUrl": "https://cylogic.com/about",
+      "status": "success",
+      "sha256": "fcf5cb5bec75c0c977625044ee9762f424b6178698cd2a5dcb393a019ac9d798",
+      "title": "About",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

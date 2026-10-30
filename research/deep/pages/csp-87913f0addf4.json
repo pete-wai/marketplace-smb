@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-87913f0addf4",
+  "retrievedAt": "2026-10-30T11:00:50.492Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cavhq.ai/",
+      "finalUrl": "https://cavhq.ai/",
+      "status": "success",
+      "sha256": "b05a9479529086dfe8447e382c7bd6ff4e2d8154a0acdd993eadaae802064704",
+      "title": "Continuous Cyber Compliance and GRC Automation | Cav",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cavhq.ai/solutions-by-industry/public-sector",
+        "https://cavhq.ai/about-us"
+      ]
+    },
+    {
+      "url": "https://cavhq.ai/solutions-by-industry/public-sector",
+      "finalUrl": "https://cavhq.ai/solutions-by-industry/public-sector",
+      "status": "success",
+      "sha256": "ab6da72d50b83b61045f73213e30c580c426d38514f39cebffa4846280181a85",
+      "title": "FISMA Compliance & ATO Automation for Federal Agencies | Cav | Cav",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cavhq.ai/about-us",
+        "https://cavhq.ai/pdfs/leveraging-cav-technology-to-enable-continuous-ato"
+      ]
+    },
+    {
+      "url": "https://cavhq.ai/about-us",
+      "finalUrl": "https://cavhq.ai/about-us",
+      "status": "success",
+      "sha256": "3e8f6b0c52d80ec5d74c7717abb1314c6ef05a356164ea03e35c9efd17aa4980",
+      "title": "About Us | Cav | Cav",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://cavhq.ai/pdfs/leveraging-cav-technology-to-enable-continuous-ato",
+      "finalUrl": "https://cavhq.ai/pdfs/leveraging-cav-technology-to-enable-continuous-ato",
+      "status": "success",
+      "sha256": "e79740662a34cf1ef6a187e85f346b5cec1fa78afc4c2be77ad0eb6e6fa379f0",
+      "title": "Continuous Cyber Compliance Automation | Cav",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

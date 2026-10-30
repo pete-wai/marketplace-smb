@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-6fae58359fae",
+  "retrievedAt": "2026-10-30T11:01:57.629Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pecinc.com/platform/",
+      "finalUrl": "https://www.pecinc.com/platform/",
+      "status": "success",
+      "sha256": "08a59bc1891eb37f51a44973ac9e1460760b9f2ec6aa082200ffbbe572ac21a0",
+      "title": "PEC Proximal - Next-Gen Virtual Learning Solution | PEC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pecinc.com/about/",
+        "https://www.pecinc.com/about",
+        "https://www.pecinc.com/government"
+      ]
+    },
+    {
+      "url": "https://www.pecinc.com/about/",
+      "finalUrl": "https://www.pecinc.com/about/",
+      "status": "success",
+      "sha256": "149b17cf3b3356ae1365589be3bb2cb9e9648aae7056e9a213be8486a0da1ec3",
+      "title": "About Us | PEC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pecinc.com/about",
+        "https://www.pecinc.com/government"
+      ]
+    },
+    {
+      "url": "https://www.pecinc.com/about",
+      "finalUrl": "https://www.pecinc.com/about",
+      "status": "success",
+      "sha256": "149b17cf3b3356ae1365589be3bb2cb9e9648aae7056e9a213be8486a0da1ec3",
+      "title": "About Us | PEC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pecinc.com/government"
+      ]
+    },
+    {
+      "url": "https://www.pecinc.com/government",
+      "finalUrl": "https://www.pecinc.com/government",
+      "status": "success",
+      "sha256": "8674f4adb8e0d2608572ae8a211655f5a6aef0a36a3e6ae05b2cbd77fdeccbab",
+      "title": "Virtual Learning Solutions for Government & Defense | PEC",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

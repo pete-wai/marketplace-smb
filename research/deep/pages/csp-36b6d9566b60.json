@@ -1,0 +1,88 @@
+{
+  "providerId": "csp-36b6d9566b60",
+  "retrievedAt": "2026-10-30T11:01:30.317Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.kiteworks.com/solutions/government/",
+      "finalUrl": "https://www.kiteworks.com/solutions/government/",
+      "status": "success",
+      "sha256": "c8693d9aac104c41dc57125f5fa6de4982b9ef1501aa709eee9b1f0a123fb586",
+      "title": "Secure Government Solutions: Encrypted File Transfer & Email Service",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kiteworks.com/de/loesungen/government/",
+        "https://www.kiteworks.com/fr/solutions/government/",
+        "https://www.kiteworks.com/platform/compliance/cps-230-it-capability-controls/",
+        "https://www.kiteworks.com/platform/german-federal-data-protection-act/",
+        "https://www.kiteworks.com/company/",
+        "https://www.kiteworks.com/company/management/",
+        "https://www.kiteworks.com/company/investors/",
+        "https://www.kiteworks.com/company/careers/",
+        "https://www.kiteworks.com/risk-compliance-glossary/federal-contract-information/",
+        "https://www.kiteworks.com/solutions/government/federal-and-central/",
+        "https://www.kiteworks.com/solutions/government/state-and-provincial/",
+        "https://www.kiteworks.com/solutions/government/government-local/"
+      ]
+    },
+    {
+      "url": "https://www.kiteworks.com/de/loesungen/government/",
+      "finalUrl": "https://www.kiteworks.com/de/loesungen/government/",
+      "status": "success",
+      "sha256": "3b1c997ed341cf7902cbe8659e1966b61fdc32b8c53b4a7446a13af3d09d6bb3",
+      "title": "Sichere Behördenlösungen: Verschlüsselter Dateitransfer & E-Mail-Service",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kiteworks.com/fr/solutions/government/",
+        "https://www.kiteworks.com/risk-compliance-glossary/federal-contract-information/",
+        "https://www.kiteworks.com/de/loesungen/government/federal-and-central/",
+        "https://www.kiteworks.com/de/loesungen/government/state-provincial-and-local/",
+        "https://www.kiteworks.com/de/loesungen/government/contractors-and-subcontractors/",
+        "https://www.kiteworks.com/solutions/government/state-and-provincial/",
+        "https://www.kiteworks.com/solutions/government/government-local/",
+        "https://www.kiteworks.com/solutions/government/contractors-and-subcontractors/",
+        "https://www.kiteworks.com/risk-compliance-glossary/everything-need-to-know-about-data-residency/",
+        "https://www.kiteworks.com/de/company/management-team/"
+      ]
+    },
+    {
+      "url": "https://www.kiteworks.com/fr/solutions/government/",
+      "finalUrl": "https://www.kiteworks.com/fr/solutions/government/",
+      "status": "success",
+      "sha256": "0ccba18f99034b229bb808d4bcc893f9e98187ce36f5b53d13473e8546a2d6dd",
+      "title": "Solutions sécurisées pour les administrations : transfert de fichiers chiffré et service de messagerie sécurisée",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kiteworks.com/fr/plateforme/loi-federale-allemande-protection-donnees/",
+        "https://www.kiteworks.com/risk-compliance-glossary/federal-contract-information/",
+        "https://www.kiteworks.com/fr/solutions/government/federal-and-central/",
+        "https://www.kiteworks.com/fr/solutions/government/state-provincial-and-local/",
+        "https://www.kiteworks.com/fr/solutions/government/solutions-kiteworks-pour-le-secteur-des-administrations-locales/",
+        "https://www.kiteworks.com/fr/solutions/government/contractors-and-subcontractors/",
+        "https://www.kiteworks.com/solutions/government/state-and-provincial/",
+        "https://www.kiteworks.com/solutions/government/government-local/",
+        "https://www.kiteworks.com/solutions/government/contractors-and-subcontractors/",
+        "https://www.kiteworks.com/risk-compliance-glossary/everything-need-to-know-about-data-residency/"
+      ]
+    },
+    {
+      "url": "https://www.kiteworks.com/platform/compliance/cps-230-it-capability-controls/",
+      "finalUrl": "https://www.kiteworks.com/platform/compliance/cps-230-it-capability-controls/",
+      "status": "success",
+      "sha256": "68bad7d40b1f9e98d0c2f5db037b1a4b9278cc948044d3a362d708800db3ef41",
+      "title": "CPS 230: IT Capability & Embedded Internal Controls",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.kiteworks.com/ja/platform/compliance/cps-230-it-capability-controls/",
+        "https://www.kiteworks.com/nl/platform/naleving/cps-230-it-capability-controls/",
+        "https://www.kiteworks.com/platform/german-federal-data-protection-act/",
+        "https://www.kiteworks.com/company/",
+        "https://www.kiteworks.com/company/management/",
+        "https://www.kiteworks.com/company/investors/",
+        "https://www.kiteworks.com/company/careers/",
+        "https://www.kiteworks.com/company/press-releases/",
+        "https://www.kiteworks.com/company/management-team/"
+      ]
+    }
+  ]
+}

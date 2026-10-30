@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-52d94f06d48c",
+  "retrievedAt": "2026-10-30T11:00:51.592Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cirrusmd.com/",
+      "finalUrl": "https://www.cirrusmd.com/",
+      "status": "success",
+      "sha256": "14c74a68edb8ca69b5668b142a77261e9d083fb11e8b5966ba8766ff4c37c05a",
+      "title": "Physician-first Care & Guidance | CirrusMD",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cirrusmd.com/about-cirrusmd",
+        "https://www.cirrusmd.com/leadership"
+      ]
+    },
+    {
+      "url": "https://www.cirrusmd.com/about-cirrusmd",
+      "finalUrl": "https://www.cirrusmd.com/about-cirrusmd",
+      "status": "success",
+      "sha256": "a1c8c9378ed8b0426a82244ca2039d19ba7c776333f61706eee827399554c810",
+      "title": "About CirrusMD - CirrusMD",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cirrusmd.com/leadership"
+      ]
+    },
+    {
+      "url": "https://www.cirrusmd.com/leadership",
+      "finalUrl": "https://www.cirrusmd.com/leadership",
+      "status": "success",
+      "sha256": "b3505d8b8df62f2003f272d0d552a056f2454f9db2709d0a1c54dd5979d4ec96",
+      "title": "Leadership - CirrusMD",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

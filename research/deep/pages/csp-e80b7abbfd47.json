@@ -1,0 +1,63 @@
+{
+  "providerId": "csp-e80b7abbfd47",
+  "retrievedAt": "2026-10-30T11:00:40.793Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.aquasec.com/solutions/federal/",
+      "finalUrl": "https://www.aquasec.com/solutions/federal/",
+      "status": "success",
+      "sha256": "46fe97faf61b249106d8a92e6abab8190daa7ab786b17bb0eaa6152628865188",
+      "title": "Runtime Security for Federal Agencies | Aquasec",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aquasec.com/solutions/federal/%url%",
+        "https://www.aquasec.com/about-us/contact-us/",
+        "https://www.aquasec.com/about-us/careers/",
+        "https://www.aquasec.com/about-us/",
+        "https://www.aquasec.com/about-us/news/",
+        "https://www.aquasec.com/customers/us-federal-government-agency/",
+        "https://www.aquasec.com/customers/federal-government-agency-anonymous-case-study/"
+      ]
+    },
+    {
+      "url": "https://www.aquasec.com/solutions/federal/%url%",
+      "status": "unavailable",
+      "reason": "HTTP 400"
+    },
+    {
+      "url": "https://www.aquasec.com/about-us/contact-us/",
+      "finalUrl": "https://www.aquasec.com/about-us/contact-us/",
+      "status": "success",
+      "sha256": "da0e25181fa3e019fa8df2fb673753c6b66102a49df16e621f22336e4d25e92e",
+      "title": "Contact Us - Aqua",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aquasec.com/about-us/contact-us/%url%",
+        "https://www.aquasec.com/about-us/careers/",
+        "https://www.aquasec.com/about-us/",
+        "https://www.aquasec.com/about-us/news/"
+      ]
+    },
+    {
+      "url": "https://www.aquasec.com/about-us/careers/",
+      "finalUrl": "https://www.aquasec.com/about-us/careers/",
+      "status": "success",
+      "sha256": "3e72e4c3ac3954ada8b0517a5426153f475321330423937818ef25f1d9bafd80",
+      "title": "Careers at Aqua - Aqua Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aquasec.com/about-us/careers/%url%",
+        "https://www.aquasec.com/about-us/",
+        "https://www.aquasec.com/about-us/news/",
+        "https://www.aquasec.com/about-us/careers/co/hyderabad-india/56.37B/expert-engineer-golang/all",
+        "https://www.aquasec.com/about-us/careers/co/ramat-gan-israel/9E.F63/it-support-engineer/all",
+        "https://www.aquasec.com/about-us/careers/co/tampa-fl-us/52.E59/regional-sales-manager/all",
+        "https://www.aquasec.com/about-us/careers/co/london-uk/AB.76D/regional-sales-manager/all",
+        "https://www.aquasec.com/about-us/careers/co/ramat-gan-israel/26.07D/senior-linux-kernel-engineer-runtime-security/all",
+        "https://www.aquasec.com/about-us/careers/co/ramat-gan-israel/03.36A/senior-security-researcher/all",
+        "https://www.aquasec.com/about-us/careers/co/ramat-gan-israel/1D.F68/senior-software-architect-ai-products/all"
+      ]
+    }
+  ]
+}

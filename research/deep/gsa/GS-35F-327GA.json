@@ -1,0 +1,18 @@
+{
+  "name": "SAMSARA INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-327GA&contractorName=SAMSARA+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-2b219c9dc0a7"
+  ],
+  "contractNumber": "GS-35F-327GA",
+  "retrievedAt": "2026-10-30T11:08:42.222Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:18.795Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

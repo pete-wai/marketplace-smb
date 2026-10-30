@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-43093fd1007f",
+  "retrievedAt": "2026-10-30T11:01:44.112Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.navigatorcre.com/",
+      "finalUrl": "https://www.navigatorcre.com/",
+      "status": "success",
+      "sha256": "351097fc1d04e4a1aa6f2d2d06273d9a0a42a44390d8f0bccf564c33de9b60da",
+      "title": "Commercial Real Estate Data | NavigatorCRE – United States",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.navigatorcre.com/about"
+      ]
+    },
+    {
+      "url": "https://www.navigatorcre.com/about",
+      "finalUrl": "https://www.navigatorcre.com/about",
+      "status": "success",
+      "sha256": "b735c9db27c38ba2aa270552d8c7917af53e7d8a8a69b74a749e30628ecdc098",
+      "title": "Team | NavigatorCRE",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-86dd49c14494",
+  "retrievedAt": "2026-10-30T11:00:50.060Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://platform.gomoderniza.ai/",
+      "finalUrl": "https://platform.gomoderniza.ai/",
+      "status": "success",
+      "sha256": "6fcddec53b1f3dc85d3b7006b85fbcffd790c665004a403ae2a2e6e46c41d112",
+      "title": "BI Moderniza",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

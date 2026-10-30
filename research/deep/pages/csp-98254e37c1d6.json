@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-98254e37c1d6",
+  "retrievedAt": "2026-10-30T11:01:45.055Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.nexgenam.com/",
+      "finalUrl": "https://www.nexgenam.com/",
+      "status": "success",
+      "sha256": "c3f8e26a83cb6a6f09ff838f7627186b38947de5631c64267cc2e92935ed899e",
+      "title": "NEXGEN | A Future-First Asset Management & CMMS Software Solution",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nexgenam.com/industries/fedgov/",
+        "https://www.nexgenam.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.nexgenam.com/industries/fedgov/",
+      "finalUrl": "https://www.nexgenam.com/industries/fedgov/",
+      "status": "success",
+      "sha256": "891c652aeacb8851122f08e1dc013d4d1bea1c24e3449194fcb4974c1a2c2181",
+      "title": "Modernizing Fedral Asset Management with NEXGEN",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nexgenam.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.nexgenam.com/about/",
+      "finalUrl": "https://www.nexgenam.com/about/",
+      "status": "success",
+      "sha256": "1e1f30ca53c6529947f567035874c67d87c7e2461ec81590860231b493977b13",
+      "title": "About Us | NEXGEN",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-d4d4a9397323",
+  "retrievedAt": "2026-10-30T11:02:14.281Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.spectrocloud.com/",
+      "finalUrl": "https://www.spectrocloud.com/",
+      "status": "success",
+      "sha256": "9f82bfd7546ccdf707df94f1e1f1f55c7f648caa0ef528575b7bff85281e0f03",
+      "title": "AI infrastructure management platform | Spectro Cloud",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spectrocloud.com/government",
+        "https://www.spectrocloud.com/state-of-edge-ai",
+        "https://www.spectrocloud.com/company",
+        "https://www.spectrocloud.com/government/why-spectro-cloud"
+      ]
+    },
+    {
+      "url": "https://www.spectrocloud.com/government",
+      "finalUrl": "https://www.spectrocloud.com/government",
+      "status": "success",
+      "sha256": "d9e91838b3bbd4778260c62acac8338ce6c8ed4a06ad2a017e8c108ccd8f3a5b",
+      "title": "Mission-ready cloud infrastructure for defense and government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spectrocloud.com/state-of-edge-ai",
+        "https://www.spectrocloud.com/company",
+        "https://www.spectrocloud.com/get-started",
+        "https://www.spectrocloud.com/government/sovereign-compute",
+        "https://www.spectrocloud.com/government/tactical-edge",
+        "https://www.spectrocloud.com/government/ai-adoption",
+        "https://www.spectrocloud.com/government/defense-modernization",
+        "https://www.spectrocloud.com/government/coalition-interoperability",
+        "https://www.spectrocloud.com/resources/collateral/spectro-cloud-capabilities-statement-pdf",
+        "https://www.spectrocloud.com/government/why-spectro-cloud"
+      ]
+    },
+    {
+      "url": "https://www.spectrocloud.com/state-of-edge-ai",
+      "finalUrl": "https://www.spectrocloud.com/state-of-edge-ai",
+      "status": "success",
+      "sha256": "a5845e10d0e9cee0166fc11e8cc1391da995bf17b642af4e899ad3995fa7a2a5",
+      "title": "The State of Edge AI Report - Spectro Cloud",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spectrocloud.com/company",
+        "https://www.spectrocloud.com/government/why-spectro-cloud"
+      ]
+    },
+    {
+      "url": "https://www.spectrocloud.com/company",
+      "finalUrl": "https://www.spectrocloud.com/company",
+      "status": "success",
+      "sha256": "9d0f4a0e37a88f12025c64f6d9059e97a9e6e8572cef06760fe7a299a8c9a305",
+      "title": "Get to know us and our team of spectronauts - Spectro Cloud",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spectrocloud.com/government/why-spectro-cloud"
+      ]
+    }
+  ]
+}

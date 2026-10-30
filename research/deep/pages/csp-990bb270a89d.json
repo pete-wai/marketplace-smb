@@ -1,0 +1,98 @@
+{
+  "providerId": "csp-990bb270a89d",
+  "retrievedAt": "2026-10-30T11:02:17.697Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.teamviewer.com/en-us/products/dex/",
+      "finalUrl": "https://www.teamviewer.com/en-us/products/dex/",
+      "status": "success",
+      "sha256": "26784eb36bc86c07d5007f3d35ef079eb081af57ad5e05971ba41c35f553b96a",
+      "title": "TeamViewer DEX | TeamViewer",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.teamviewer.com/en-us/platform/one/features/",
+        "https://www.teamviewer.com/en-us/solutions/industries/federal/",
+        "https://www.teamviewer.com/en-us/global/company/press/2026/teamviewer-servicenow-launch-strategic-partnership-accelerate-autonomous-it-operations/",
+        "https://www.teamviewer.com/en-us/success-stories/leading-insurance-company/",
+        "https://www.teamviewer.com/en-us/global/company/press/",
+        "https://www.teamviewer.com/en-us/global/company/careers/",
+        "https://www.teamviewer.com/en-us/global/company/investors/",
+        "https://www.teamviewer.com/en-us/global/company/sport-partnership/",
+        "https://www.teamviewer.com/en-us/global/company/sustainability-and-csr/",
+        "https://www.teamviewer.com/en-us/global/company/corporate-governance/",
+        "https://www.teamviewer.com/en-us/global/company/about-teamviewer/",
+        "https://www.teamviewer.com/en-us/global/company/contact-sales/"
+      ]
+    },
+    {
+      "url": "https://www.teamviewer.com/en-us/platform/one/features/",
+      "finalUrl": "https://www.teamviewer.com/en-us/platform/one/features/",
+      "status": "success",
+      "sha256": "bf7eba92f93ab1fbf05ad6cd0bf965ce6d5b184857ef1381a16347e225fa70d9",
+      "title": "Features | TeamViewer ONE",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.teamviewer.com/en-us/solutions/industries/federal/",
+        "https://www.teamviewer.com/en-us/global/company/press/2026/teamviewer-servicenow-launch-strategic-partnership-accelerate-autonomous-it-operations/",
+        "https://www.teamviewer.com/en-us/global/company/press/",
+        "https://www.teamviewer.com/en-us/global/company/careers/",
+        "https://www.teamviewer.com/en-us/global/company/investors/",
+        "https://www.teamviewer.com/en-us/global/company/sport-partnership/",
+        "https://www.teamviewer.com/en-us/global/company/sustainability-and-csr/",
+        "https://www.teamviewer.com/en-us/global/company/corporate-governance/",
+        "https://www.teamviewer.com/en-us/global/company/about-teamviewer/",
+        "https://www.teamviewer.com/en-us/global/company/contact-sales/",
+        "https://www.teamviewer.com/en-us/global/company/research-projects/"
+      ]
+    },
+    {
+      "url": "https://www.teamviewer.com/en-us/solutions/industries/federal/",
+      "finalUrl": "https://www.teamviewer.com/en-us/solutions/industries/federal/",
+      "status": "success",
+      "sha256": "6ed86a1f39d499f93242098cef12b5a137ea9d2f51bab6f5b71cf447602105bd",
+      "title": "Digital employee experience for the Federal Government | TeamViewer DEX",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "B Industry SIC Code New field DB Job level DB Job role DB Industry DB Annual Revenue DB Employee size marketoTarget pagePath gclid pageName formType Thank you! \\n&quot;,&quot;@type&quot;:&quot;teamviewer/components/tenants/website/adaptiveForm/text&quot;,&quot;fieldType&quot;:&quot;plain-text&quot;}}\" data-cm"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.teamviewer.com/en-us/global/company/",
+        "https://www.teamviewer.com/en-us/global/company/press/2026/teamviewer-servicenow-launch-strategic-partnership-accelerate-autonomous-it-operations/",
+        "https://www.teamviewer.com/en-us/global/company/press/2025/teamviewer-dex-fedramp-compliance/",
+        "https://www.teamviewer.com/en-us/global/company/press/2026/teamviewer-achieves-fedramp-in-process-designation-for-dex-platform/",
+        "https://www.teamviewer.com/en-us/insights/federal-it-in-2026/",
+        "https://www.teamviewer.com/en-us/insights/fixing-federal-it-turning-automation-into-real-mission-outcomes/",
+        "https://www.teamviewer.com/en-us/campaign/teamviewer-dex-for-federal-agencies-solution-brief/",
+        "https://www.teamviewer.com/ams/solutions/industries/federal/?language-switched=true",
+        "https://www.teamviewer.com/en-ca/solutions/industries/federal/?language-switched=true",
+        "https://www.teamviewer.com/en-us/solutions/industries/federal/?language-switched=true",
+        "https://www.teamviewer.com/apac/solutions/industries/federal/?language-switched=true",
+        "https://www.teamviewer.com/en-au/solutions/industries/federal/?language-switched=true"
+      ]
+    },
+    {
+      "url": "https://www.teamviewer.com/en-us/global/company/press/2026/teamviewer-servicenow-launch-strategic-partnership-accelerate-autonomous-it-operations/",
+      "finalUrl": "https://www.teamviewer.com/en-us/global/company/press/2026/teamviewer-servicenow-launch-strategic-partnership-accelerate-autonomous-it-operations/",
+      "status": "success",
+      "sha256": "ee4c8f2f004ab48342a32d3f98b342a8b522279652268e9743eafd2bc3edb746",
+      "title": "TeamViewer and ServiceNow Launch Strategic Partnership to Accelerate Autonomous IT Operations",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.teamviewer.com/en-us/global/company/about-teamviewer/",
+        "https://www.teamviewer.com/en-us/global/company/careers/",
+        "https://www.teamviewer.com/en-us/global/company/investors/",
+        "https://www.teamviewer.com/en-us/global/company/press/",
+        "https://www.teamviewer.com/en-us/global/company/leadership/",
+        "https://www.teamviewer.com/en-us/global/company/sport-partnership/",
+        "https://www.teamviewer.com/en-us/global/company/sustainability-and-csr/",
+        "https://www.teamviewer.com/en-us/global/company/corporate-governance/",
+        "https://www.teamviewer.com/en-us/global/company/",
+        "https://www.teamviewer.com/en-us/global/company/contact-sales/",
+        "https://www.teamviewer.com/en-us/global/company/research-projects/"
+      ]
+    }
+  ]
+}

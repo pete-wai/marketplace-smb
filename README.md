@@ -95,3 +95,22 @@ Add a new grouping in `scripts/analyze.mjs` for additional analyses. Keep defini
 GitHub Actions validates and deploys the committed snapshot to GitHub Pages on pushes to `main`; pull requests build without deployment. The Pages source is GitHub Actions. No scheduled refresh is enabled. Publishing a reviewed update requires a commit and push; source data is never silently updated by CI.
 
 This repository is separate from the `fedramp-web` prototype lab. It does not modify preserved Marketplace fixtures or the reference site. Government/source content retains its original provenance; website signals are short research excerpts. Do not publish private financial records, API keys, personal contacts, or authenticated exports.
+
+## Deeper current-size review (October 30, 2026)
+
+The reviewed pass is recorded in `research/deep/decisions.json`. It has 131 individual decisions and preserves the pre-review snapshot in `research/deep/baseline.json`. Source discovery and researcher proposals are retained separately; proposals are not automatically accepted. The full ledger gives all 707 providers a disposition and distinguishes individual review from screening. It includes 620 bounded site-discovery attempts and the 50-record stratified audit, with overlap. This is not exhaustive individual research of 707 companies.
+
+Current listed small share changed from 182/662 to 179/662 (27.04%); current unknowns fell from 399 to 352. The 68 changes include confidence changes as well as classifications. Historical assessments, Marketplace snapshot, identities, and denominators are preserved. See [the research report](docs/reports/deep-research.md) and [methodology](https://pete-wai.github.io/marketplace-smb/methodology/).
+
+To revise evidence, add or edit an explicit decision with provider ID/name, classification, confidence, identity confidence, reason, source URLs/dates, relevant NAICS, unresolved questions, and a reviewer note. Apply only reviewed decisions:
+
+```sh
+mise exec -- node scripts/apply-deep-decisions.mjs
+mise exec -- npm run analyze
+mise exec -- npm test
+mise exec -- npm run check
+mise exec -- npm run build
+mise exec -- node scripts/check-site.mjs
+```
+
+`analyze` regenerates the ledger CSV/JSON, changes JSON, all reports, and site summary without live fetching. For a new research round, deliberately version the baseline and review date rather than overwriting this comparison. The optional `deep-screen.mjs` and `gsa-research.mjs` use public sources and resumable caches; do not rerun them as part of a build. GSA returned 55 of 124 candidate contract pages; 69 unavailable pages remain visible. Free-source searches cannot establish every private company's receipts or controlling affiliates.

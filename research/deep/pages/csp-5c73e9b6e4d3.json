@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-5c73e9b6e4d3",
+  "retrievedAt": "2026-10-30T11:01:45.633Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ninjaone.com/government/federal/",
+      "finalUrl": "https://www.ninjaone.com/government/federal/",
+      "status": "success",
+      "sha256": "1e74748f8a022bf0325ad6c285c7dc91e16e736d4d30b6e426096bbd78f18a1b",
+      "title": "FedRAMP®️ Authorized Unified IT Platform for Federal Agencies | NinjaOne",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ninjaone.com/government/state-and-local/",
+        "https://www.ninjaone.com/blog/how-public-sector-it-leaders-can-do-more-with-the-same-budget/",
+        "https://www.ninjaone.com/blog/best-government-it-solutions/",
+        "https://www.ninjaone.com/about-us/",
+        "https://www.ninjaone.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.ninjaone.com/government/state-and-local/",
+      "finalUrl": "https://www.ninjaone.com/government/state-and-local/",
+      "status": "success",
+      "sha256": "a6634540872a630e75e3c2e657e7c813ae20bf7550f9d179042bf420d6f98a11",
+      "title": "Centralized IT Management for State & Local Government | NinjaOne",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ninjaone.com/resource/state-and-local-government-reduce-risk-ebook/",
+        "https://www.ninjaone.com/press/govramp-authorization/",
+        "https://www.ninjaone.com/about-us/",
+        "https://www.ninjaone.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.ninjaone.com/blog/how-public-sector-it-leaders-can-do-more-with-the-same-budget/",
+      "finalUrl": "https://www.ninjaone.com/blog/how-public-sector-it-leaders-can-do-more-with-the-same-budget/",
+      "status": "success",
+      "sha256": "c4f29f2b1588d17dc8515ef17283f8fbaa8d2d07c58b0570d04cecde4f13f9dd",
+      "title": "How Public Sector IT Leaders Can Do More with the Same Budget - NinjaOne",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ninjaone.com/about-us/",
+        "https://www.ninjaone.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.ninjaone.com/blog/best-government-it-solutions/",
+      "finalUrl": "https://www.ninjaone.com/blog/best-government-it-solutions/",
+      "status": "success",
+      "sha256": "ce5b3722276e0a58fde1334e7400df845481540b22c5bd6b657ae707c450710d",
+      "title": "Best Government IT Solutions: Top 10 in 2026 | Top Public Sector IT Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ninjaone.com/customer-stories/?customer-stories=%5b%7b%22industry%22:%22government%22%7d%5d",
+        "https://www.ninjaone.com/about-us/",
+        "https://www.ninjaone.com/leadership/"
+      ]
+    }
+  ]
+}

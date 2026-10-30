@@ -1,0 +1,91 @@
+{
+  "providerId": "csp-6969dd7b169a",
+  "retrievedAt": "2026-10-30T11:00:58.886Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.cornerstoneondemand.com/",
+      "finalUrl": "https://www.cornerstoneondemand.com/",
+      "status": "success",
+      "sha256": "a55ef69e42ab75b2150c8a382dfa98d0d31a43ba66d0aeca48c75d742f94c7a1",
+      "title": "Cornerstone OnDemand | The Intelligence Platform for Workforce Readiness",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cornerstoneondemand.com/solutions/leadership-development/",
+        "https://www.cornerstoneondemand.com/industries/public-sector/",
+        "https://www.cornerstoneondemand.com/company/news-room/news/",
+        "https://www.cornerstoneondemand.com/company/",
+        "https://www.cornerstoneondemand.com/company/leadership-team/",
+        "https://www.cornerstoneondemand.com/company/news-room/industry-recognition/",
+        "https://www.cornerstoneondemand.com/company/cornerstone-cares/",
+        "https://www.cornerstoneondemand.com/company/accessibility/"
+      ]
+    },
+    {
+      "url": "https://www.cornerstoneondemand.com/solutions/leadership-development/",
+      "finalUrl": "https://www.cornerstoneondemand.com/solutions/leadership-development/",
+      "status": "success",
+      "sha256": "32e221c500026d605ebc3efb34b04a1017f0a8ab099cc2b36a69cc34419552e2",
+      "title": "Leadership Development Software: Identify & Develop Future Leaders | Cornerstone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cornerstoneondemand.com/br/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/de/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/es/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/fr/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/it/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/jp/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/kr/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/mx/solutions%2Fleadership-development/",
+        "https://www.cornerstoneondemand.com/industries/public-sector/",
+        "https://www.cornerstoneondemand.com/company/news-room/news/",
+        "https://www.cornerstoneondemand.com/company/",
+        "https://www.cornerstoneondemand.com/company/leadership-team/"
+      ]
+    },
+    {
+      "url": "https://www.cornerstoneondemand.com/industries/public-sector/",
+      "finalUrl": "https://www.cornerstoneondemand.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "2ac6c1d3154ccbd68ba61f7ebbfa4531ca7ea22763e59649a1bce11b362c60e7",
+      "title": "LMS for Government: Public Sector Training & Talent Management | Cornerstone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cornerstoneondemand.com/br/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/de/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/es/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/fr/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/it/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/jp/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/kr/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/mx/industries%2Fpublic-sector/",
+        "https://www.cornerstoneondemand.com/company/news-room/news/",
+        "https://www.cornerstoneondemand.com/company/",
+        "https://www.cornerstoneondemand.com/company/leadership-team/",
+        "https://www.cornerstoneondemand.com/company/news-room/industry-recognition/"
+      ]
+    },
+    {
+      "url": "https://www.cornerstoneondemand.com/company/news-room/news/",
+      "finalUrl": "https://www.cornerstoneondemand.com/company/news-room/news/",
+      "status": "success",
+      "sha256": "9ea8f7b48f4db96286db529e4a91e88f4ad3fc397da7a758b4ef230370cf0d02",
+      "title": "News | Cornerstone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cornerstoneondemand.com/br/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/de/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/es/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/fr/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/it/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/jp/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/kr/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/mx/company%2Fnews-room%2Fnews/",
+        "https://www.cornerstoneondemand.com/company/",
+        "https://www.cornerstoneondemand.com/company/leadership-team/",
+        "https://www.cornerstoneondemand.com/company/news-room/industry-recognition/",
+        "https://www.cornerstoneondemand.com/company/news-room/press-releases/"
+      ]
+    }
+  ]
+}

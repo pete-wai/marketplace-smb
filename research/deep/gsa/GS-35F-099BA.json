@@ -1,0 +1,16 @@
+{
+  "name": "IT-CNP INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-099BA&contractorName=IT-CNP+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-537c700f6e61"
+  ],
+  "contractNumber": "GS-35F-099BA",
+  "retrievedAt": "2026-10-30T11:06:11.120Z",
+  "status": "success",
+  "sha256": "4ba68af5b59ee66e044f25791597d532fb9e5f1bc5e9469f63b9c3f9195fd4f1",
+  "uei": "Z2C2EMHA2KG7",
+  "naics": "518210",
+  "socioEconomic": "Small Business",
+  "optionEnd": "Nov 30, 2028",
+  "website": "http://www.it-cnp.com"
+}

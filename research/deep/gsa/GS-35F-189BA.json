@@ -1,0 +1,16 @@
+{
+  "name": "IBOSS, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-189BA&contractorName=IBOSS%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-be1293ff931f"
+  ],
+  "contractNumber": "GS-35F-189BA",
+  "retrievedAt": "2026-10-30T11:06:09.345Z",
+  "status": "success",
+  "sha256": "2e5f5b4a5fa364fcc5b45c0c4e83a12a4fef7ea066cf3e377f9428bc2a5c22b6",
+  "uei": "U3GMKAUG3HH8",
+  "naics": "334111",
+  "socioEconomic": "Small Business SBA Certified Small Disadvantaged Business",
+  "optionEnd": "Jan 30, 2029",
+  "website": "http://www.iboss.com"
+}

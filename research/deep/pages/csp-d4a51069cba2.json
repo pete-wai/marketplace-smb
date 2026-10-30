@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-d4a51069cba2",
+  "retrievedAt": "2026-10-30T11:00:57.737Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://coralogix.com/",
+      "finalUrl": "https://coralogix.com/",
+      "status": "success",
+      "sha256": "9e0f898b64d881dbdd9dd55cb1e097a46514f31262705758a470ca495505ab1d",
+      "title": "Coralogix - The telemetry lake for smarter observability",
+      "signals": [],
+      "discoveredLinks": [
+        "https://coralogix.com/solutions/federal/",
+        "https://coralogix.com/",
+        "https://coralogix.com/about/",
+        "https://coralogix.com/case-studies/how-mews-put-production-truth-in-the-hands-of-850-engineers/",
+        "https://coralogix.com/case-studies/delhivery/",
+        "https://coralogix.com/case-studies/puma/"
+      ]
+    },
+    {
+      "url": "https://coralogix.com/solutions/federal/",
+      "finalUrl": "https://coralogix.com/solutions/federal/",
+      "status": "success",
+      "sha256": "eb9185968411e2ed15f2ed09900666cf5f7e55b3d633f2418df50a93d87f59e9",
+      "title": "Coralogix Federal | Modern Government IT Observability for Zero Trust, Cloud, and Mission Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://coralogix.com/about/"
+      ]
+    },
+    {
+      "url": "https://coralogix.com/",
+      "finalUrl": "https://coralogix.com/",
+      "status": "success",
+      "sha256": "9e0f898b64d881dbdd9dd55cb1e097a46514f31262705758a470ca495505ab1d",
+      "title": "Coralogix - The telemetry lake for smarter observability",
+      "signals": [],
+      "discoveredLinks": [
+        "https://coralogix.com/about/",
+        "https://coralogix.com/case-studies/how-mews-put-production-truth-in-the-hands-of-850-engineers/",
+        "https://coralogix.com/case-studies/delhivery/",
+        "https://coralogix.com/case-studies/puma/"
+      ]
+    },
+    {
+      "url": "https://coralogix.com/about/",
+      "finalUrl": "https://coralogix.com/about/",
+      "status": "success",
+      "sha256": "00e654a76ca520bc7f14f81dee0cc8c2464979c436d53ac3158607668acbb71c",
+      "title": "About Coralogix",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

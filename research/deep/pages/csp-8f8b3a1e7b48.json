@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-8f8b3a1e7b48",
+  "retrievedAt": "2026-10-30T11:01:23.398Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.infotekconsulting.net/fedramp-hosting/",
+      "finalUrl": "https://www.infotekconsulting.net/fedramp-hosting/",
+      "status": "success",
+      "sha256": "ad46194068c69bddfe289a87ace67536684681253d9c0d00ae54c13ccef2bf65",
+      "title": "FedRAMP Hosting | Infotek Consulting",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infotekconsulting.net/about/training/",
+        "https://www.infotekconsulting.net/about/",
+        "https://www.infotekconsulting.net/about/resources/success-stories/",
+        "https://www.infotekconsulting.net/about/careers/",
+        "https://www.infotekconsulting.net/about/resources/events/"
+      ]
+    },
+    {
+      "url": "https://www.infotekconsulting.net/about/training/",
+      "finalUrl": "https://www.infotekconsulting.net/about/training/",
+      "status": "success",
+      "sha256": "e779be276aa49b1107dab560c7190bd36093dd3fdb559f66050e7b501dd9c21d",
+      "title": "Training - Infotek Consulting LLC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infotekconsulting.net/about/",
+        "https://www.infotekconsulting.net/about/resources/success-stories/",
+        "https://www.infotekconsulting.net/about/careers/",
+        "https://www.infotekconsulting.net/about/resources/events/"
+      ]
+    },
+    {
+      "url": "https://www.infotekconsulting.net/about/",
+      "finalUrl": "https://www.infotekconsulting.net/about/",
+      "status": "success",
+      "sha256": "ab79aabe64a138296240a4ddc6dd5dfa996772fabda58031f274309f51d2ac51",
+      "title": "ERP and Digital Transformation Experts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infotekconsulting.net/about/resources/success-stories/",
+        "https://www.infotekconsulting.net/about/careers/",
+        "https://www.infotekconsulting.net/about/resources/events/"
+      ]
+    },
+    {
+      "url": "https://www.infotekconsulting.net/about/resources/success-stories/",
+      "finalUrl": "https://www.infotekconsulting.net/about/resources/success-stories/",
+      "status": "success",
+      "sha256": "e82a8997827ecdbf810802b922377e7f0d458032df2bbcb5ca8666edef690b72",
+      "title": "Check Out Our Success Stories | Infotek Consulting",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infotekconsulting.net/about/careers/",
+        "https://www.infotekconsulting.net/about/resources/events/"
+      ]
+    }
+  ]
+}

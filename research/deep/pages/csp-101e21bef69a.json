@@ -1,0 +1,87 @@
+{
+  "providerId": "csp-101e21bef69a",
+  "retrievedAt": "2026-10-30T11:02:14.528Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.splunk.com/",
+      "finalUrl": "https://www.splunk.com/",
+      "status": "success",
+      "sha256": "3745411941f582c984447e8967cc1799c2b2646b6452a5bee3be9ef2b4db2c5f",
+      "title": "Splunk | Data Platform for Security, Observability & AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/en_us/products/enterprise-security.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/solutions/splunk-artificial-intelligence.html",
+        "https://www.splunk.com/en_us/about-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html"
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/products/observability-cloud.html",
+      "finalUrl": "https://www.splunk.com/en_us/products/observability-cloud.html",
+      "status": "success",
+      "sha256": "35100262d8766a80f14bd600cc57cb56b9e37bb285368e76e34b87a82c0cb731",
+      "title": "Splunk Observability Cloud | Splunk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/en_us/products/enterprise-security.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/products/database-monitoring.html",
+        "https://www.splunk.com/en_us/about-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html"
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/products/enterprise-security.html",
+      "finalUrl": "https://www.splunk.com/en_us/products/enterprise-security.html",
+      "status": "success",
+      "sha256": "53b15d58e4f3b94cffd819a39de8227adbaf3758930db96808a5b591ebc240a7",
+      "title": "Splunk Enterprise Security | Splunk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/about-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html"
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+      "finalUrl": "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+      "status": "success",
+      "sha256": "d2173b569dc6d313955edee63806a6338ed2f63291b2e8b061519e91599d25a3",
+      "title": "Splunk for Public Sector | Splunk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/de_de/solutions/industries/public-sector.html",
+        "https://www.splunk.com/fr_fr/solutions/industries/public-sector.html",
+        "https://www.splunk.com/ja_jp/solutions/industries/public-sector.html",
+        "https://www.splunk.com/ko_kr/solutions/industries/public-sector.html",
+        "https://www.splunk.com/zh_cn/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector/defense-and-intelligence-agencies.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector/federal-civilian-agencies.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-8499b18e3bd7",
+  "retrievedAt": "2026-10-30T11:00:36.458Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://acalvio.com/",
+      "finalUrl": "https://www.acalvio.com/",
+      "status": "success",
+      "sha256": "78953da4d1d76b39658663a65542eaf603b06ea7bcc3596c841894ec24325fed",
+      "title": "Acalvio | Cyber Deception Technology for Preemptive Cybersecurity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acalvio.com/solutions/public-sector/",
+        "https://www.acalvio.com/about-us/",
+        "https://www.acalvio.com/press-releases/acalvio-recognized-as-the-current-company-to-beat-in-the-2025-gartner-ai-vendor-race/"
+      ]
+    },
+    {
+      "url": "https://www.acalvio.com/solutions/public-sector/",
+      "finalUrl": "https://www.acalvio.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "2634f2337bc323bd46213e185fb42ee796f450c40998e5cbd4f5e02e869c2f18",
+      "title": "Cyber Deception Solutions for the Public Sector | Acalvio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.acalvio.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.acalvio.com/about-us/",
+      "finalUrl": "https://www.acalvio.com/about-us/",
+      "status": "success",
+      "sha256": "005dbcd9f6b49a0359e1797e4fe24a28bca08511f143adedabd577a74a3e8e12",
+      "title": "About Acalvio: Leaders in Cyber Deception | Acalvio",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ity solutions “Verified by Visa” and “MasterCard Securecode Arcot was acquired by CA Technologies. Ram served as SVP and GM at CA and established both the company’s New Business Innovation unit and its Silicon Valley R&D center. Prior to founding"
+        }
+      ],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.acalvio.com/press-releases/acalvio-recognized-as-the-current-company-to-beat-in-the-2025-gartner-ai-vendor-race/",
+      "finalUrl": "https://www.acalvio.com/press-releases/acalvio-recognized-as-the-current-company-to-beat-in-the-2025-gartner-ai-vendor-race/",
+      "status": "success",
+      "sha256": "8af521fd8ec8053b363d515d49014f023d9c9064de53229f8f177ac4aa412f40",
+      "title": "Acalvio Wins 2025 Gartner AI Vendor Race | Press Release | Acalvio",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

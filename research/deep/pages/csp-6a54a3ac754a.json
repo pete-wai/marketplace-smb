@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-6a54a3ac754a",
+  "retrievedAt": "2026-10-30T11:01:04.231Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://digital.ai/",
+      "finalUrl": "https://digital.ai/",
+      "status": "success",
+      "sha256": "950deb576c90536b639f0a48611468b9e2023f092dacb6bea630b8e0eea161b5",
+      "title": "AI-Powered DevOps Platform | Digital.ai",
+      "signals": [],
+      "discoveredLinks": [
+        "https://digital.ai/why-digital-ai/about-us/",
+        "https://digital.ai/why-digital-ai/leadership/",
+        "https://digital.ai/why-digital-ai/about-us/in-the-news/",
+        "https://digital.ai/why-digital-ai/about-us/our-history/",
+        "https://digital.ai/leadership/",
+        "https://digital.ai/why-digital-ai/about-us/in-the-news"
+      ]
+    },
+    {
+      "url": "https://digital.ai/why-digital-ai/about-us/",
+      "finalUrl": "https://digital.ai/why-digital-ai/about-us/",
+      "status": "success",
+      "sha256": "88a2c0d9df9ac914f2c97f7820593699a856d3c005a85a9e7be31728b80700e4",
+      "title": "About Us | Digital.ai",
+      "signals": [],
+      "discoveredLinks": [
+        "https://digital.ai/why-digital-ai/leadership/",
+        "https://digital.ai/why-digital-ai/about-us/in-the-news/",
+        "https://digital.ai/why-digital-ai/about-us/our-history/",
+        "https://digital.ai/why-digital-ai/leadership",
+        "https://digital.ai/company/values",
+        "https://digital.ai/why-digital-ai/about-us/press-releases/",
+        "https://digital.ai/why-digital-ai/about-us/analyst-accolades/",
+        "https://digital.ai/leadership/",
+        "https://digital.ai/why-digital-ai/about-us/in-the-news"
+      ]
+    },
+    {
+      "url": "https://digital.ai/why-digital-ai/leadership/",
+      "finalUrl": "https://digital.ai/why-digital-ai/leadership/",
+      "status": "success",
+      "sha256": "530e3388ac85be72cb4664087fcaa90c3b8b1b5313e754b72e871f7f30c318f9",
+      "title": "Leadership | About Us | Digital.ai",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "prior to their successful exits, including: CCC Information Services (acquired by Advent International), IQVIA (NYSE: IQV), Intergraph (acquired by Hexagon AB), and Zscaler (NASDAQ: ZS). Nehal serves on the Board of Trustees of San Francisco Day School and the Advisory"
+        }
+      ],
+      "discoveredLinks": [
+        "https://digital.ai/why-digital-ai/about-us/in-the-news/",
+        "https://digital.ai/why-digital-ai/about-us/our-history/",
+        "https://digital.ai/leadership/",
+        "https://digital.ai/why-digital-ai/about-us/in-the-news"
+      ]
+    },
+    {
+      "url": "https://digital.ai/why-digital-ai/about-us/in-the-news/",
+      "finalUrl": "https://digital.ai/why-digital-ai/about-us/in-the-news/",
+      "status": "success",
+      "sha256": "1022d38801f49990ca8afd3c3b2793f9a4f0b86f12a4f989c1c3db92773ef60d",
+      "title": "Digital.ai in the News | About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://digital.ai/why-digital-ai/about-us/our-history/",
+        "https://digital.ai/why-digital-ai/about-us/press-releases/",
+        "https://digital.ai/why-digital-ai/about-us/media-coverage/",
+        "https://digital.ai/leadership/",
+        "https://digital.ai/why-digital-ai/about-us/in-the-news"
+      ]
+    }
+  ]
+}

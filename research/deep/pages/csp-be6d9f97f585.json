@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-be6d9f97f585",
+  "retrievedAt": "2026-10-30T11:02:23.567Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://acqbot.com/",
+      "finalUrl": "https://acqbot.com/",
+      "status": "success",
+      "sha256": "0b2f8b7bf673fef98e480460b50a39890d0b3830fad77845eba0f69039afacec",
+      "title": "AcqBot: The Future of Government Acquisition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://acqbot.com/blog/stereotypes-in-government-acquisition-the-dark-side",
+        "https://acqbot.com/blog/stereotypes-in-acq"
+      ]
+    },
+    {
+      "url": "https://acqbot.com/blog/stereotypes-in-government-acquisition-the-dark-side",
+      "finalUrl": "https://acqbot.com/blog/stereotypes-in-government-acquisition-the-dark-side",
+      "status": "success",
+      "sha256": "6ad4bfdef524479f4dec82098cbece571dacc789bb029017698e5faf0b1e2930",
+      "title": "Stereotypes in Government Acquisition - The Dark Side - AcqBot: The Future of Government Acquisition",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://acqbot.com/blog/stereotypes-in-acq",
+      "finalUrl": "https://acqbot.com/blog/stereotypes-in-acq",
+      "status": "success",
+      "sha256": "d49b6edf276b78b1a6433935f98e10df03be105617b58f783913b8f712f6cb55",
+      "title": "Stereotypes in Government Acquisition - AcqBot: The Future of Government Acquisition",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

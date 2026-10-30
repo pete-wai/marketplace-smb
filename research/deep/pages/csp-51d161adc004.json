@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-51d161adc004",
+  "retrievedAt": "2026-10-30T11:00:55.911Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.thecomplianceaide.com/",
+      "finalUrl": "https://www.thecomplianceaide.com/",
+      "status": "success",
+      "sha256": "549f439a2daea68809c630518c93ceb41feb0e0d88baa07dfe73e211da11993f",
+      "title": "ComplianceAide | Agentic AI for Compliance Readiness",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.thecomplianceaide.com/solutions-federal-agencies"
+      ]
+    },
+    {
+      "url": "https://www.thecomplianceaide.com/solutions-federal-agencies",
+      "finalUrl": "https://www.thecomplianceaide.com/solutions-federal-agencies",
+      "status": "success",
+      "sha256": "0eecf7dc2940fdad4da64b6cc984b97cbf614a0570787a3f58146282615c6646",
+      "title": "Federal ATO & Defense Industrial Base CMMC Readiness | ComplianceAide",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

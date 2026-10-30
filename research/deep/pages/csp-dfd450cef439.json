@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-dfd450cef439",
+  "retrievedAt": "2026-10-30T11:00:51.056Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://chargie.com/",
+      "finalUrl": "https://www.chargie.com/",
+      "status": "success",
+      "sha256": "97de9c5298060dc4d7535c06cc664e144fde8ed8e5d6f0c45dcb6b484122f3af",
+      "title": "Electric Vehicle (EV) Charging Stations | Chargie",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.chargie.com/government",
+        "https://www.chargie.com/about-us",
+        "https://www.chargie.com/topics/government"
+      ]
+    },
+    {
+      "url": "https://www.chargie.com/government",
+      "finalUrl": "https://www.chargie.com/government",
+      "status": "success",
+      "sha256": "e2074997554c799a853e9024aa750b685bdf4b289f084c559973a77b07703826",
+      "title": "FedRAMP Authorized EV Charging Solutions for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.chargie.com/about-us",
+        "https://www.chargie.com/government/gsa-bpa",
+        "https://www.chargie.com/resources/chargie-receives-fedramp-authorized-designation-from-u-s-government",
+        "https://www.chargie.com/turnkey-services",
+        "https://www.chargie.com/resources/chargie-announces-leadership-updates-to-drive-next-phase-of-growth-and-innovation",
+        "https://www.chargie.com/resources/btc-power-and-chargie-announce-partnership-to-deploy-ev-charging-infrastructure-and-fedramp-r-authorized-software-for-government-properties-and-fleets",
+        "https://www.chargie.com/topics/government"
+      ]
+    },
+    {
+      "url": "https://www.chargie.com/about-us",
+      "finalUrl": "https://www.chargie.com/about-us",
+      "status": "success",
+      "sha256": "ec0757b866474791eb1a38dd0a650629047fbd589d1fa91f4566679529f36887",
+      "title": "About Chargie: Making EV Charging Simple & Accessible",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.chargie.com/topics/government"
+      ]
+    },
+    {
+      "url": "https://www.chargie.com/topics/government",
+      "finalUrl": "https://www.chargie.com/topics/government",
+      "status": "success",
+      "sha256": "af04228898f381f1aff0bba227993f3ec50931ed7e391782bfdcdabfbf815abb",
+      "title": "Government | Chargie Resources",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.chargie.com/resources/btc-power-and-chargie-announce-partnership-to-deploy-ev-charging-infrastructure-and-fedramp-r-authorized-software-for-government-properties-and-fleets",
+        "https://www.chargie.com/resources/ev-charging-at-government-workplaces"
+      ]
+    }
+  ]
+}

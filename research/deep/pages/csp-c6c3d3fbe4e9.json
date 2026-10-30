@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-c6c3d3fbe4e9",
+  "retrievedAt": "2026-10-30T11:00:35.891Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.a-lign.com/a-scend",
+      "finalUrl": "https://www.a-lign.com/a-scend",
+      "status": "success",
+      "sha256": "2010b33008cc4586527ff02c83a9dd77a9717917153b0b5ba33e863b68c6ff0f",
+      "title": "A-SCEND | Audit Management Technology",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.a-lign.com/government",
+        "https://www.a-lign.com/about",
+        "https://www.a-lign.com/articles/blog-everything-you-need-to-know-about-iso27001-certification",
+        "https://www.a-lign.com/articles/everything-you-need-to-know-about-hitrust-certification"
+      ]
+    },
+    {
+      "url": "https://www.a-lign.com/government",
+      "finalUrl": "https://www.a-lign.com/government",
+      "status": "success",
+      "sha256": "527d3f093a73336decfef65f77c33995afde0415b47b037144680f3a5c5f34e4",
+      "title": "Federal Compliance Services | A-LIGN",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.a-lign.com/about",
+        "https://www.a-lign.com/articles/blog-everything-you-need-to-know-about-iso27001-certification",
+        "https://www.a-lign.com/articles/everything-you-need-to-know-about-hitrust-certification"
+      ]
+    },
+    {
+      "url": "https://www.a-lign.com/about",
+      "finalUrl": "https://www.a-lign.com/about",
+      "status": "success",
+      "sha256": "069e079ec0a72b2cdf989c47531f5e00ccb004fcbdccf9ef77eb78e624d91301",
+      "title": "About A-LIGN | Cybersecurity & Compliance Partner",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.a-lign.com/articles/blog-everything-you-need-to-know-about-iso27001-certification",
+        "https://www.a-lign.com/articles/everything-you-need-to-know-about-hitrust-certification"
+      ]
+    },
+    {
+      "url": "https://www.a-lign.com/articles/blog-everything-you-need-to-know-about-iso27001-certification",
+      "finalUrl": "https://www.a-lign.com/articles/blog-everything-you-need-to-know-about-iso27001-certification",
+      "status": "success",
+      "sha256": "8bd2e8b95c1bcd0a6a46a12e2b997ffdbff8ce9029e4f30f0e3d48ce544d89e9",
+      "title": "ISO 27001: Everything You Need to Know",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.a-lign.com/articles/everything-you-need-to-know-about-hitrust-certification"
+      ]
+    }
+  ]
+}

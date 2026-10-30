@@ -1,0 +1,70 @@
+{
+  "providerId": "csp-c553c6eb7ad4",
+  "retrievedAt": "2026-10-30T11:00:53.379Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cofense.com/solutions/industry/federal-government/",
+      "finalUrl": "https://cofense.com/",
+      "status": "success",
+      "sha256": "e4904bfa59dd96718719e17772c6194338ddd205130a29961c30d51ae2a31d66",
+      "title": "Phishing Defense Powered by AI & Human Insight | Cofense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cofense.com/platform",
+        "https://cofense.com/about/partners",
+        "https://cofense.com/about",
+        "https://cofense.com/about/news",
+        "https://cofense.com/about/careers",
+        "https://cofense.com/about/management-team",
+        "https://cofense.com/about/"
+      ]
+    },
+    {
+      "url": "https://cofense.com/platform",
+      "finalUrl": "https://cofense.com/platform",
+      "status": "success",
+      "sha256": "c5ef779c37d6ce1a4ad03dac9ade0744a1662c9ce1b5e6070a3bd975056ffaba",
+      "title": "Unified Phishing Defense Platform Built to Learn & Adapt | Cofense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cofense.com/about/partners",
+        "https://cofense.com/about",
+        "https://cofense.com/about/news",
+        "https://cofense.com/about/careers",
+        "https://cofense.com/about/management-team",
+        "https://cofense.com/about/"
+      ]
+    },
+    {
+      "url": "https://cofense.com/about/partners",
+      "finalUrl": "https://cofense.com/about/partners",
+      "status": "success",
+      "sha256": "426c40e35801a17ff35da1a343f6857315d70ede305e483fcecd4d2ae8813e85",
+      "title": "Cofense Partners | Cofense Email Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cofense.com/about",
+        "https://cofense.com/about/news",
+        "https://cofense.com/about/careers",
+        "https://cofense.com/about/management-team",
+        "https://cofense.com/about/become-a-partner",
+        "https://cofense.com/about/"
+      ]
+    },
+    {
+      "url": "https://cofense.com/about",
+      "finalUrl": "https://cofense.com/about",
+      "status": "success",
+      "sha256": "a7bd74a425dac0af6cd7193335d044d0afd59ede1f2b32cbb348d8166348ab4a",
+      "title": "About Us | Cofense Email Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cofense.com/about/news",
+        "https://cofense.com/about/careers",
+        "https://cofense.com/about/management-team",
+        "https://cofense.com/about/"
+      ]
+    }
+  ]
+}

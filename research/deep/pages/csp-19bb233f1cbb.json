@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-19bb233f1cbb",
+  "retrievedAt": "2026-10-30T11:01:18.997Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://glytec.com/",
+      "finalUrl": "https://glytec.com/",
+      "status": "success",
+      "sha256": "cd88a2f32005e0fea2592f0168446dae20dc89606388bd9c7472953f98646cfd",
+      "title": "Diabetes Management: Intelligent Glycemic Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://glytec.com/who-we-serve/clinical-leadership/",
+        "https://glytec.com/company/about/",
+        "https://glytec.com/company/our-story/",
+        "https://glytec.com/company/leadership-team/",
+        "https://glytec.com/company/testimonials/",
+        "https://glytec.com/company/investor-relations/"
+      ]
+    },
+    {
+      "url": "https://glytec.com/who-we-serve/clinical-leadership/",
+      "finalUrl": "https://glytec.com/who-we-serve/clinical-leadership/",
+      "status": "success",
+      "sha256": "1afa361600b055e30c75f80719fd434b1753ffa60fdd9e1b922fa53d4856fd80",
+      "title": "Achieving Measurable Glycemic Performance in Healthcare",
+      "signals": [],
+      "discoveredLinks": [
+        "https://glytec.com/company/about/",
+        "https://glytec.com/company/our-story/",
+        "https://glytec.com/company/leadership-team/",
+        "https://glytec.com/company/testimonials/",
+        "https://glytec.com/company/investor-relations/"
+      ]
+    },
+    {
+      "url": "https://glytec.com/company/about/",
+      "finalUrl": "https://glytec.com/company/about/",
+      "status": "success",
+      "sha256": "ad6b0534f6f4871e570f53d4bf982c58dc05f285a12fc37cbc830ed958100dac",
+      "title": "About Glytec | Company Overview, Mission & Leadership",
+      "signals": [],
+      "discoveredLinks": [
+        "https://glytec.com/company/our-story/",
+        "https://glytec.com/company/leadership-team/",
+        "https://glytec.com/company/testimonials/",
+        "https://glytec.com/company/investor-relations/"
+      ]
+    },
+    {
+      "url": "https://glytec.com/company/our-story/",
+      "finalUrl": "https://glytec.com/company/our-story/",
+      "status": "success",
+      "sha256": "5fed8ee2785137236268e0e30e8a696ddc721009b6b2ca85b7b83408ede5c7ac",
+      "title": "Glytec Our Story | How We Began & Evolved",
+      "signals": [],
+      "discoveredLinks": [
+        "https://glytec.com/company/leadership-team/",
+        "https://glytec.com/company/testimonials/",
+        "https://glytec.com/company/investor-relations/"
+      ]
+    }
+  ]
+}

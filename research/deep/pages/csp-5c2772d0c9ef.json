@@ -1,0 +1,85 @@
+{
+  "providerId": "csp-5c2772d0c9ef",
+  "retrievedAt": "2026-10-30T11:01:22.609Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://netsfere.com/fedramp",
+      "finalUrl": "https://netsfere.com/fedramp-secure-messaging",
+      "status": "success",
+      "sha256": "ce1396cdcb24b02a4554d8b31c267abf4870f3ca260e66d2113be8aa0ea9101d",
+      "title": "NetSfere FedRAMP Ready Secure Messaging for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://netsfere.com/About-Us/Contact-Info-Secure-Enterprise-Messaging-Solutions",
+        "https://netsfere.com/Industries/Government",
+        "https://netsfere.com/Resources/Press-Releases/NetSfere_Earns_FedRAMP_Ready_Status_Raising_the_Bar_for_Secure_Government_and_Enterprise_Communications",
+        "https://netsfere.com/Omnichannel/Omni-Government",
+        "https://netsfere.com/About-Us/About-Our-Internal-Enterprise-Messaging-Service",
+        "https://netsfere.com/About-Us/Leadership-Team",
+        "https://netsfere.com/About-Us/Core-values",
+        "https://netsfere.com/About-Us/Partners",
+        "https://netsfere.com/About-Us/Careers",
+        "https://netsfere.com/About-Us/SupportSLA",
+        "https://netsfere.com/About-Us/GDPRDataProcessing"
+      ]
+    },
+    {
+      "url": "https://netsfere.com/About-Us/Contact-Info-Secure-Enterprise-Messaging-Solutions",
+      "finalUrl": "https://netsfere.com/About-Us/Contact-Info-Secure-Enterprise-Messaging-Solutions",
+      "status": "success",
+      "sha256": "225e1298d2fbf32189f5e4dd72dbdbe9c02a38bd39a7f643ba18030c5983c5df",
+      "title": "NetSfere - Contact-Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://netsfere.com/Industries/Government",
+        "https://netsfere.com/Omnichannel/Omni-Government",
+        "https://netsfere.com/About-Us/About-Our-Internal-Enterprise-Messaging-Service",
+        "https://netsfere.com/About-Us/Leadership-Team",
+        "https://netsfere.com/About-Us/Core-values",
+        "https://netsfere.com/About-Us/Partners",
+        "https://netsfere.com/About-Us/Careers",
+        "https://netsfere.com/About-Us/Secure-Enterprise-Messaging-Support-Services",
+        "https://netsfere.com/About-Us/SupportSLA",
+        "https://netsfere.com/About-Us/GDPRDataProcessing"
+      ]
+    },
+    {
+      "url": "https://netsfere.com/Industries/Government",
+      "finalUrl": "https://netsfere.com/Industries/Government",
+      "status": "success",
+      "sha256": "2da84e83148b5dd99fe2b62e627196e9ee2720ac4c43d1ee41d8f15e0cbab5fe",
+      "title": "NetSfere | Secure Government Messaging & Public Sector Communication",
+      "signals": [],
+      "discoveredLinks": [
+        "https://netsfere.com/Omnichannel/Omni-Government",
+        "https://netsfere.com/About-Us/About-Our-Internal-Enterprise-Messaging-Service",
+        "https://netsfere.com/About-Us/Partners",
+        "https://netsfere.com/About-Us/Core-values",
+        "https://netsfere.com/About-Us/Leadership-Team",
+        "https://netsfere.com/About-Us/Careers",
+        "https://netsfere.com/About-Us/SupportSLA",
+        "https://netsfere.com/About-Us/GDPRDataProcessing"
+      ]
+    },
+    {
+      "url": "https://netsfere.com/Resources/Press-Releases/NetSfere_Earns_FedRAMP_Ready_Status_Raising_the_Bar_for_Secure_Government_and_Enterprise_Communications",
+      "finalUrl": "https://netsfere.com/Resources/Press-Releases/NetSfere_Earns_FedRAMP_Ready_Status_Raising_the_Bar_for_Secure_Government_and_Enterprise_Communications",
+      "status": "success",
+      "sha256": "33871968d44216a2a6868faba0ab96746891385932717b96e59bdeb53b5c818c",
+      "title": "Press-Releases",
+      "signals": [],
+      "discoveredLinks": [
+        "https://netsfere.com/Omnichannel/Omni-Government",
+        "https://netsfere.com/About-Us/About-Our-Internal-Enterprise-Messaging-Service",
+        "https://netsfere.com/About-Us/Leadership-Team",
+        "https://netsfere.com/About-Us/Core-values",
+        "https://netsfere.com/About-Us/Partners",
+        "https://netsfere.com/About-Us/Careers",
+        "https://netsfere.com/About-Us/Secure-Enterprise-Messaging-Support-Services",
+        "https://netsfere.com/About-Us/SupportSLA",
+        "https://netsfere.com/About-Us/GDPRDataProcessing"
+      ]
+    }
+  ]
+}

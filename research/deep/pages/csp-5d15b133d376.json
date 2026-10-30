@@ -1,0 +1,68 @@
+{
+  "providerId": "csp-5d15b133d376",
+  "retrievedAt": "2026-10-30T11:01:45.838Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.nintex.com/",
+      "finalUrl": "https://www.nintex.com/",
+      "status": "success",
+      "sha256": "d83ac6f789acb99fb9165c219f3621ebd1e734d6e9552c4b4d2feba0a6e7a0f8",
+      "title": "Process Management & Workflow Automation Software | Nintex",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nintex.com/solutions/industry/government/",
+        "https://www.nintex.com/company/",
+        "https://www.nintex.com/company",
+        "https://www.nintex.com/news/",
+        "https://www.nintex.com/solutions/use-cases/automated-quote-to-cash-process/",
+        "https://www.nintex.com/solutions/use-cases/reduce-operational-risk/",
+        "https://www.nintex.com/solutions/use-cases/loan-processing-digital-automation-solutions/",
+        "https://www.nintex.com/solutions/use-cases/remote-education-automated-solutions/"
+      ]
+    },
+    {
+      "url": "https://www.nintex.com/solutions/industry/government/",
+      "finalUrl": "https://www.nintex.com/solutions/industry/government/",
+      "status": "success",
+      "sha256": "3178b05d683b6c0c4891685207b31121248693cadfacd5187de18a0f87bccf0a",
+      "title": "Put automation in government to work today with the Nintex Suite - Nintex",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nintex.com/company/",
+        "https://www.nintex.com/company",
+        "https://www.nintex.com/news/",
+        "https://www.nintex.com/platforms/cloud-automation/government/",
+        "https://www.nintex.com/blog/government-agencies-achieve-their-missions-with-automation/",
+        "https://www.nintex.com/blog/streamlining-employee-experience-for-government/",
+        "https://www.nintex.com/blog/improving-process-in-government-organizations-through-automation/",
+        "https://www.nintex.com/resources/7-processes-state-governments-are-automating-ebook/",
+        "https://www.nintex.com/resources/enhanced-government-effectiveness-saudi-vision-2030/",
+        "https://www.nintex.com/resources/5-processes-state-governments-are-automating-ebook/"
+      ]
+    },
+    {
+      "url": "https://www.nintex.com/company/",
+      "finalUrl": "https://www.nintex.com/company/",
+      "status": "success",
+      "sha256": "16f1d401446087575b7bfaaf42a776f598f5842a500a2230e66522714542f59c",
+      "title": "Why Nintex for Workflow & Process Automation - Nintex",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nintex.com/company",
+        "https://www.nintex.com/news/"
+      ]
+    },
+    {
+      "url": "https://www.nintex.com/company",
+      "finalUrl": "https://www.nintex.com/company/",
+      "status": "success",
+      "sha256": "16f1d401446087575b7bfaaf42a776f598f5842a500a2230e66522714542f59c",
+      "title": "Why Nintex for Workflow & Process Automation - Nintex",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nintex.com/news/"
+      ]
+    }
+  ]
+}

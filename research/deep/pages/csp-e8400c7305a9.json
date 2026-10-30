@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-e8400c7305a9",
+  "retrievedAt": "2026-10-30T11:02:10.923Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.siemensgovt.com/solutions/mendix-cloud",
+      "finalUrl": "https://www.siemensgovt.com/solutions/mendix-cloud/",
+      "status": "success",
+      "sha256": "64cdb04f73943d0b1aea0f51520705899a1772c537aef843da92c62e8c6464f3",
+      "title": "Mendix Cloud for Government | Siemens Government Technologies",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "-grade application development. Siemens Government Technologies – the wholly owned, cleared, federal arm of Siemens – is the cloud service provider supporting Mendix Cloud for Government Secure cloud services can be readily accessed today by federal agencies thanks to the"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.siemensgovt.com/solutions/cloud-solutions-for-government/",
+        "https://www.siemensgovt.com/solutions/siemens-federal-cloud/",
+        "https://www.siemensgovt.com/solutions/mendix-cloud/",
+        "https://www.siemensgovt.com/company/",
+        "https://www.siemensgovt.com/company/about/",
+        "https://www.siemensgovt.com/company/careers/",
+        "https://www.siemensgovt.com/company/executive-leadership/",
+        "https://www.siemensgovt.com/company/veterans/",
+        "https://www.siemensgovt.com/company/board-of-directors/",
+        "https://www.siemensgovt.com/company/working-with-sgt/"
+      ]
+    },
+    {
+      "url": "https://www.siemensgovt.com/solutions/cloud-solutions-for-government/",
+      "finalUrl": "https://www.siemensgovt.com/solutions/cloud-solutions-for-government/",
+      "status": "success",
+      "sha256": "6fddde90350da20d286f42140e1ddfca16aedf9a4cbac7b04c77cbd96410dc75",
+      "title": "Cloud Solutions for Government | Siemens Government Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.siemensgovt.com/solutions/siemens-federal-cloud/",
+        "https://www.siemensgovt.com/solutions/mendix-cloud/",
+        "https://www.siemensgovt.com/company/",
+        "https://www.siemensgovt.com/company/about/",
+        "https://www.siemensgovt.com/company/careers/",
+        "https://www.siemensgovt.com/company/executive-leadership/",
+        "https://www.siemensgovt.com/company/veterans/",
+        "https://www.siemensgovt.com/company/board-of-directors/",
+        "https://www.siemensgovt.com/company/working-with-sgt/",
+        "https://www.siemensgovt.com/insights/articles/article-advancing-government-secure-cloud/"
+      ]
+    },
+    {
+      "url": "https://www.siemensgovt.com/solutions/siemens-federal-cloud/",
+      "finalUrl": "https://www.siemensgovt.com/solutions/siemens-federal-cloud/",
+      "status": "success",
+      "sha256": "89e494a185a2f20a7ffbb17993b0c4e21d456dc3adc437da64a87541944c39dc",
+      "title": "Siemens Federal Cloud | Siemens Government Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.siemensgovt.com/solutions/mendix-cloud/",
+        "https://www.siemensgovt.com/company/",
+        "https://www.siemensgovt.com/company/about/",
+        "https://www.siemensgovt.com/company/careers/",
+        "https://www.siemensgovt.com/company/executive-leadership/",
+        "https://www.siemensgovt.com/company/veterans/",
+        "https://www.siemensgovt.com/company/board-of-directors/",
+        "https://www.siemensgovt.com/company/working-with-sgt/"
+      ]
+    },
+    {
+      "url": "https://www.siemensgovt.com/solutions/mendix-cloud/",
+      "finalUrl": "https://www.siemensgovt.com/solutions/mendix-cloud/",
+      "status": "success",
+      "sha256": "64cdb04f73943d0b1aea0f51520705899a1772c537aef843da92c62e8c6464f3",
+      "title": "Mendix Cloud for Government | Siemens Government Technologies",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "-grade application development. Siemens Government Technologies – the wholly owned, cleared, federal arm of Siemens – is the cloud service provider supporting Mendix Cloud for Government Secure cloud services can be readily accessed today by federal agencies thanks to the"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.siemensgovt.com/company/",
+        "https://www.siemensgovt.com/company/about/",
+        "https://www.siemensgovt.com/company/careers/",
+        "https://www.siemensgovt.com/company/executive-leadership/",
+        "https://www.siemensgovt.com/company/veterans/",
+        "https://www.siemensgovt.com/company/board-of-directors/",
+        "https://www.siemensgovt.com/company/working-with-sgt/"
+      ]
+    }
+  ]
+}

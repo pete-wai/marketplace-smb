@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-a3b0f2ceadf6",
+  "retrievedAt": "2026-10-30T11:00:53.010Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cloudfitsoftware.com/",
+      "finalUrl": "https://cloudfitsoftware.com/",
+      "status": "success",
+      "sha256": "2774f0780b1648b70bb53ba949f482500e2b995dfc55437098781b3376995b2f",
+      "title": "Home | CloudFit",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cloudfitsoftware.com/about-us/",
+        "https://cloudfitsoftware.com/about-us/news/",
+        "https://cloudfitsoftware.com/about-us/contact-us/"
+      ]
+    },
+    {
+      "url": "https://cloudfitsoftware.com/about-us/",
+      "finalUrl": "https://cloudfitsoftware.com/about-us/",
+      "status": "success",
+      "sha256": "0093fca642c6e1fbf979ae97c8abcc2cf605f824f0a8558df571099e11b9171b",
+      "title": "About Us | CloudFit",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cloudfitsoftware.com/about-us/news/",
+        "https://cloudfitsoftware.com/about-us/contact-us/"
+      ]
+    },
+    {
+      "url": "https://cloudfitsoftware.com/about-us/news/",
+      "finalUrl": "https://cloudfitsoftware.com/about-us/news/",
+      "status": "success",
+      "sha256": "0434d3c93eb7f2f1bb17ca068a25ef8822c43cced3182dec315f3f9afe1df84e",
+      "title": "CloudFit News & Industry Updates | CloudFit",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cloudfitsoftware.com/about-us/contact-us/"
+      ]
+    },
+    {
+      "url": "https://cloudfitsoftware.com/about-us/contact-us/",
+      "finalUrl": "https://cloudfitsoftware.com/about-us/contact-us/",
+      "status": "success",
+      "sha256": "13a3691680145bc5cf7224d38acb2a5c89593f3aeac4a4e2460214e610747d20",
+      "title": "Reach Out to CloudFit Experts Today | CloudFit",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

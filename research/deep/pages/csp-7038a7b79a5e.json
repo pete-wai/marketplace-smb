@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-7038a7b79a5e",
+  "retrievedAt": "2026-10-30T11:01:23.619Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://xbu40.com/",
+      "finalUrl": "https://xbu40.com/",
+      "status": "success",
+      "sha256": "33d77c8c88689734e353f1cb30a60aede22433fa7fa8808490f859a0fe181a69",
+      "title": "XBU40",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

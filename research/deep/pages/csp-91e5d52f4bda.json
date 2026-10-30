@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-91e5d52f4bda",
+  "retrievedAt": "2026-10-30T11:02:14.310Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.spiderstrategies.com/",
+      "finalUrl": "https://www.spiderstrategies.com/",
+      "status": "success",
+      "sha256": "3318cda37bc2c61108c19675c6200d891d238aa946dd57182b7ec53f49075ed4",
+      "title": "The Ultimate Strategy Software | Spider Strategies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spiderstrategies.com/industry/federal-government/",
+        "https://www.spiderstrategies.com/industry/state-local-government/",
+        "https://www.spiderstrategies.com/students/",
+        "https://www.spiderstrategies.com/kpi/industry/government-public-administration/",
+        "https://www.spiderstrategies.com/insight/federal-strategic-agility/",
+        "https://www.spiderstrategies.com/insight/modern-city-leadership/",
+        "https://www.spiderstrategies.com/about/",
+        "https://www.spiderstrategies.com/strategy-map/"
+      ]
+    },
+    {
+      "url": "https://www.spiderstrategies.com/industry/federal-government/",
+      "finalUrl": "https://www.spiderstrategies.com/industry/federal-government/",
+      "status": "success",
+      "sha256": "bf309398bc18453cc2e372df5aa6a601e1e56b483e02eaa12622583f4e193b52",
+      "title": "Federal Government Strategy Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spiderstrategies.com/industry/state-local-government/",
+        "https://www.spiderstrategies.com/students/",
+        "https://www.spiderstrategies.com/kpi/industry/government-public-administration/",
+        "https://www.spiderstrategies.com/insight/federal-strategic-agility/",
+        "https://www.spiderstrategies.com/insight/modern-city-leadership/",
+        "https://www.spiderstrategies.com/about/",
+        "https://www.spiderstrategies.com/blog/fedramp/",
+        "https://www.spiderstrategies.com/no-code-apps/",
+        "https://www.spiderstrategies.com/blog/government-it-modernization/"
+      ]
+    },
+    {
+      "url": "https://www.spiderstrategies.com/industry/state-local-government/",
+      "finalUrl": "https://www.spiderstrategies.com/industry/state-local-government/",
+      "status": "success",
+      "sha256": "887f00fd9527d195dd989f0168faf918348252ed67e743a77c507e971019168c",
+      "title": "Local & State Government Strategy Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spiderstrategies.com/students/",
+        "https://www.spiderstrategies.com/kpi/industry/government-public-administration/",
+        "https://www.spiderstrategies.com/insight/federal-strategic-agility/",
+        "https://www.spiderstrategies.com/insight/modern-city-leadership/",
+        "https://www.spiderstrategies.com/about/",
+        "https://www.spiderstrategies.com/no-code-apps/"
+      ]
+    },
+    {
+      "url": "https://www.spiderstrategies.com/students/",
+      "finalUrl": "https://www.spiderstrategies.com/students/",
+      "status": "success",
+      "sha256": "37e39ca28cc72f0da429433bdf2d9144f45231a2475cd64b2189f0c0271383ca",
+      "title": "Learning Strategic Performance Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.spiderstrategies.com/kpi/industry/government-public-administration/",
+        "https://www.spiderstrategies.com/insight/federal-strategic-agility/",
+        "https://www.spiderstrategies.com/insight/modern-city-leadership/",
+        "https://www.spiderstrategies.com/about/",
+        "https://www.spiderstrategies.com/strategy-map/",
+        "https://www.spiderstrategies.com/videos/about/",
+        "https://www.spiderstrategies.com/videos/creating-charts/",
+        "https://www.spiderstrategies.com/videos/creating-using-datasets/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "providerId": "csp-339b162de49c",
+  "retrievedAt": "2026-10-30T11:00:58.345Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://corelight.com/",
+      "finalUrl": "https://corelight.com/",
+      "status": "success",
+      "sha256": "a04b8ddf2661855d8f7ba67079dac49ef32d139f9f50e0aa1a70da1185a76dca",
+      "title": "Corelight | Evidence-Based NDR & Threat Hunting Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corelight.com/solutions/industry/federal",
+        "https://corelight.com/company/about-corelight/",
+        "https://corelight.com/company/leadership",
+        "https://corelight.com/company/investors/",
+        "https://corelight.com/company/careers",
+        "https://corelight.com/company/careers/",
+        "https://corelight.com/company/newsroom?filter=press-releases",
+        "https://corelight.com/company/newsroom?filter=in-the-news",
+        "https://corelight.com/partners/crowdstrike",
+        "https://corelight.com/resources/glossary/ndr-network-detection-and-response",
+        "https://corelight.com/solutions/why-evidence-based-security",
+        "https://corelight.com/resources/glossary/false-positives-cybersecurity"
+      ]
+    },
+    {
+      "url": "https://corelight.com/solutions/industry/federal",
+      "finalUrl": "https://corelight.com/solutions/industry/federal",
+      "status": "success",
+      "sha256": "b60daa5ea65a33217b7a91df7ed014ac56883a4bcc006ed36eea6dc8ff1b53e7",
+      "title": "Federal | Corelight",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corelight.com/company/about-corelight/",
+        "https://corelight.com/company/leadership",
+        "https://corelight.com/company/investors/",
+        "https://corelight.com/company/careers",
+        "https://corelight.com/company/careers/",
+        "https://corelight.com/company/newsroom?filter=press-releases",
+        "https://corelight.com/company/newsroom?filter=in-the-news",
+        "https://corelight.com/company/newsroom/press-releases/2026-06-09-corelight-achieves-fedramp-in-process-certification-advancing-network-detection-and-response-for-federal-government-agencies"
+      ]
+    },
+    {
+      "url": "https://corelight.com/company/about-corelight/",
+      "finalUrl": "https://corelight.com/company/about-corelight/",
+      "status": "success",
+      "sha256": "1a829023a7adec3361219fa4b043bd6841f2d8d76cfcd9c71c9b59f60945540b",
+      "title": "About Us | Corelight",
+      "signals": [],
+      "discoveredLinks": [
+        "https://corelight.com/company/leadership",
+        "https://corelight.com/company/investors/",
+        "https://corelight.com/company/careers",
+        "https://corelight.com/company/careers/",
+        "https://corelight.com/company/newsroom?filter=press-releases",
+        "https://corelight.com/company/newsroom?filter=in-the-news"
+      ]
+    },
+    {
+      "url": "https://corelight.com/company/leadership",
+      "finalUrl": "https://corelight.com/company/leadership",
+      "status": "success",
+      "sha256": "a3e6702416acabe5def5599d33bbc3437fff9c743bc39ba5fc70b96fa4f1e626",
+      "title": "Leadership | Corelight",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "nesses. He was also the CEO/co-founder of Bracket Computing which was acquired by VMware. Before Bracket Computing, Tom was the GM of the Security Technology Group at Cisco where he led the company’s businesses for security management, appliances, applications, and"
+        }
+      ],
+      "discoveredLinks": [
+        "https://corelight.com/company/investors/",
+        "https://corelight.com/company/careers",
+        "https://corelight.com/company/careers/",
+        "https://corelight.com/company/newsroom?filter=press-releases",
+        "https://corelight.com/company/newsroom?filter=in-the-news"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-03be89b3b5d1",
+  "retrievedAt": "2026-10-30T11:01:04.653Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://distributedinc.com/",
+      "finalUrl": "https://distributedinc.com/",
+      "status": "success",
+      "sha256": "e188cd7dadb2d19c4130bcea407040139b94839518095e1e8ddb711bce42b287",
+      "title": "Distributed Solutions, Inc. | Solutions to Empower",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

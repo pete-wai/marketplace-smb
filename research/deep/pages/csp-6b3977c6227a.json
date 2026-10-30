@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-6b3977c6227a",
+  "retrievedAt": "2026-10-30T11:00:50.214Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://usa.canon.com/officecloud",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

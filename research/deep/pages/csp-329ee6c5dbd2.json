@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-329ee6c5dbd2",
+  "retrievedAt": "2026-10-30T11:01:30.846Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.knowledgeservices.com/",
+      "finalUrl": "https://knowledgeservices.com/",
+      "status": "success",
+      "sha256": "244f90ff06035f551358c205e769bb2b4205301f18cfc8f21c929ba18b5847bf",
+      "title": "Knowledge Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knowledgeservices.com/msp-for-public-sector/?hsLang=en",
+        "https://knowledgeservices.com/about-us?hsLang=en",
+        "https://knowledgeservices.com/about-us/?hsLang=en",
+        "https://knowledgeservices.com/about-us"
+      ]
+    },
+    {
+      "url": "https://knowledgeservices.com/msp-for-public-sector/?hsLang=en",
+      "finalUrl": "https://knowledgeservices.com/msp-for-public-sector/",
+      "status": "success",
+      "sha256": "97d17a0556f24b030d60e8a6646ba0f64f07565abe4d47fb4eda66378924e636",
+      "title": "MSP for Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knowledgeservices.com/msp-for-public-sector/",
+        "https://knowledgeservices.com/about-us?hsLang=en",
+        "https://knowledgeservices.com/about-us"
+      ]
+    },
+    {
+      "url": "https://knowledgeservices.com/about-us?hsLang=en",
+      "finalUrl": "https://knowledgeservices.com/about-us",
+      "status": "success",
+      "sha256": "9693d9b04d03e9c85663fc4bf00aad37d1dfb7b0783e2164dd08fdee1807a6b4",
+      "title": "About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knowledgeservices.com/about-us",
+        "https://knowledgeservices.com/our-culture?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://knowledgeservices.com/about-us/?hsLang=en",
+      "finalUrl": "https://knowledgeservices.com/about-us",
+      "status": "success",
+      "sha256": "9693d9b04d03e9c85663fc4bf00aad37d1dfb7b0783e2164dd08fdee1807a6b4",
+      "title": "About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://knowledgeservices.com/about-us",
+        "https://knowledgeservices.com/our-culture?hsLang=en"
+      ]
+    }
+  ]
+}

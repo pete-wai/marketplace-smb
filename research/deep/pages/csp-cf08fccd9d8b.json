@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-cf08fccd9d8b",
+  "retrievedAt": "2026-10-30T11:01:04.249Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.diligent.com/",
+      "finalUrl": "https://www.diligent.com/",
+      "status": "success",
+      "sha256": "7dffcffd578aa013ea9c6b9bc38961dc3b64f65a0a4bb5e722945b588248cb90",
+      "title": "The leading AI platform for GRC | Diligent",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.diligent.com/company/about-us",
+        "https://www.diligent.com/company/careers",
+        "https://www.diligent.com/company/newsroom",
+        "https://www.diligent.com/solutions/board-education",
+        "https://www.diligent.com/solutions/public-companies",
+        "https://www.diligent.com/solutions/private-companies",
+        "https://www.diligent.com/products/community",
+        "https://www.diligent.com/solutions/federal-government",
+        "https://www.diligent.com/solutions/state-and-local-government",
+        "https://www.diligent.com/resources/topic/public-sector",
+        "https://www.diligent.com/resources/events/elevate-leadership-summit-2026",
+        "https://www.diligent.com/elevate"
+      ]
+    },
+    {
+      "url": "https://www.diligent.com/company/about-us",
+      "finalUrl": "https://www.diligent.com/company/about-us",
+      "status": "success",
+      "sha256": "de5c39967b3fe3c6dd7cff09bcf6a3f6402a22c42706548e1699d1842fea9bd4",
+      "title": "Get Acquainted With Diligent&#x27;s Vision & Values",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.diligent.com/company/careers",
+        "https://www.diligent.com/company/newsroom",
+        "https://www.diligent.com/solutions/board-education",
+        "https://www.diligent.com/solutions/public-companies",
+        "https://www.diligent.com/solutions/private-companies",
+        "https://www.diligent.com/products/community",
+        "https://www.diligent.com/solutions/federal-government",
+        "https://www.diligent.com/solutions/state-and-local-government",
+        "https://www.diligent.com/resources/topic/public-sector",
+        "https://www.diligent.com/resources/events/elevate-leadership-summit-2026",
+        "https://www.diligent.com/elevate",
+        "https://www.diligent.com/company/diligent-institute"
+      ]
+    },
+    {
+      "url": "https://www.diligent.com/company/careers",
+      "finalUrl": "https://www.diligent.com/company/careers",
+      "status": "success",
+      "sha256": "9243759afa5466e0a84e9ed71f90a06c9a5e2a71eba3d207ca844288e85624f7",
+      "title": "Careers at Diligent | Be Part of Our Innovation Journey",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.diligent.com/company/newsroom",
+        "https://www.diligent.com/solutions/board-education",
+        "https://www.diligent.com/solutions/public-companies",
+        "https://www.diligent.com/solutions/private-companies",
+        "https://www.diligent.com/products/community",
+        "https://www.diligent.com/solutions/federal-government",
+        "https://www.diligent.com/solutions/state-and-local-government",
+        "https://www.diligent.com/resources/topic/public-sector",
+        "https://www.diligent.com/resources/events/elevate-leadership-summit-2026",
+        "https://www.diligent.com/elevate",
+        "https://www.diligent.com/company/diligent-institute",
+        "https://www.diligent.com/products/due-diligence"
+      ]
+    },
+    {
+      "url": "https://www.diligent.com/company/newsroom",
+      "finalUrl": "https://www.diligent.com/company/newsroom",
+      "status": "success",
+      "sha256": "8f14cd91147bfb81279c4a0a30fd758e2c96bccc91e898f57b569f2b5761c33b",
+      "title": "Newsroom | Diligent",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.diligent.com/solutions/board-education",
+        "https://www.diligent.com/solutions/public-companies",
+        "https://www.diligent.com/solutions/private-companies",
+        "https://www.diligent.com/products/community",
+        "https://www.diligent.com/solutions/federal-government",
+        "https://www.diligent.com/solutions/state-and-local-government",
+        "https://www.diligent.com/resources/topic/public-sector",
+        "https://www.diligent.com/resources/events/elevate-leadership-summit-2026",
+        "https://www.diligent.com/elevate",
+        "https://www.diligent.com/company/diligent-institute",
+        "https://www.diligent.com/products/due-diligence",
+        "https://www.diligent.com/company"
+      ]
+    }
+  ]
+}

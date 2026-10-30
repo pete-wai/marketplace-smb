@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-a4e63bcacf6c",
+  "retrievedAt": "2026-10-30T11:01:20.428Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://usehalo.com/",
+      "finalUrl": "https://www.usehalo.com/",
+      "status": "success",
+      "sha256": "92f8f4520e6242dc13642f2eb3e4ca32495bfb900b8c717516efeb64596e943e",
+      "title": "HALO - Workflow Automation for your Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usehalo.com/",
+        "https://www.usehalo.com/platform",
+        "https://www.usehalo.com/use/public-sector",
+        "https://www.usehalo.com/company/impact",
+        "https://www.usehalo.com/company/enterprise-package",
+        "https://www.usehalo.com/company/milestones"
+      ]
+    },
+    {
+      "url": "https://www.usehalo.com/",
+      "finalUrl": "https://www.usehalo.com/",
+      "status": "success",
+      "sha256": "92f8f4520e6242dc13642f2eb3e4ca32495bfb900b8c717516efeb64596e943e",
+      "title": "HALO - Workflow Automation for your Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usehalo.com/platform",
+        "https://www.usehalo.com/use/public-sector",
+        "https://www.usehalo.com/company/impact",
+        "https://www.usehalo.com/company/enterprise-package",
+        "https://www.usehalo.com/company/milestones"
+      ]
+    },
+    {
+      "url": "https://www.usehalo.com/platform",
+      "finalUrl": "https://www.usehalo.com/platform",
+      "status": "success",
+      "sha256": "15c276a7989a4ae1f230435375e9aba730a80ef118b4a673cad0186bda0ec54b",
+      "title": "Browse Capabilities",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usehalo.com/use/public-sector",
+        "https://www.usehalo.com/company/impact",
+        "https://www.usehalo.com/company/enterprise-package",
+        "https://www.usehalo.com/company/milestones",
+        "https://www.usehalo.com/platform/asset-management-cmdb",
+        "https://www.usehalo.com/platform/change-management",
+        "https://www.usehalo.com/platform/collaboration",
+        "https://www.usehalo.com/platform/contract-management",
+        "https://www.usehalo.com/platform/customer-help-centre",
+        "https://www.usehalo.com/platform/customer-sla-management",
+        "https://www.usehalo.com/platform/finance",
+        "https://www.usehalo.com/platform/incident-management"
+      ]
+    },
+    {
+      "url": "https://www.usehalo.com/use/public-sector",
+      "finalUrl": "https://www.usehalo.com/use/public-sector",
+      "status": "success",
+      "sha256": "d8e7aef88cbbc07a5d459165ea4495022144156cf54370fc9065a871a8e31d5e",
+      "title": "Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usehalo.com/company/impact",
+        "https://www.usehalo.com/company/enterprise-package",
+        "https://www.usehalo.com/company/milestones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-872a294bf889",
+  "retrievedAt": "2026-10-30T11:01:47.796Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.onestream.com/",
+      "finalUrl": "https://www.onestream.com/",
+      "status": "success",
+      "sha256": "73a911392c83855c2e84b9c209e49f151c187e3a4012516df728dc1909fb5669",
+      "title": "OneStream | AI Operating System for Modern Finance | EPM Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.onestream.com/government",
+        "https://www.onestream.com/state-local-government",
+        "https://www.onestream.com/about-us",
+        "https://www.onestream.com/solutions/ai-agentic-finance"
+      ]
+    },
+    {
+      "url": "https://www.onestream.com/government",
+      "finalUrl": "https://www.onestream.com/solutions/government/",
+      "status": "success",
+      "sha256": "f8621f86c9324daaa0d5f6f5d1fc9aba30f95f967dbd3c8bfa064d3a3edc0a06",
+      "title": "Federal Government Planning and Reporting Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.onestream.com/state-local-government",
+        "https://www.onestream.com/about-us",
+        "https://www.onestream.com/resources/solution-brief-federal-agencies/",
+        "https://www.onestream.com/resources/the-2026-mission-resilience-agenda-5-trends-reshaping-federal-financial-management",
+        "https://www.onestream.com/blog/5-strategic-planning-tips-for-government-agencies",
+        "https://www.onestream.com/blog/?category=government"
+      ]
+    },
+    {
+      "url": "https://www.onestream.com/state-local-government",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.onestream.com/about-us",
+      "finalUrl": "https://www.onestream.com/about-us/",
+      "status": "success",
+      "sha256": "8a9fe146745b87fface220fda52728044ad68f2f74e044428e2443f53a864853",
+      "title": "About Us - OneStream Software",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

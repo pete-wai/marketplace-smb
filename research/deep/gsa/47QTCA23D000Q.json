@@ -1,0 +1,18 @@
+{
+  "name": "WIDEPOINT INTEGRATED SOLUTIONS CORP",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA23D000Q&contractorName=WIDEPOINT+INTEGRATED+SOLUTIONS+CORP&executeQuery=YES",
+  "providerIds": [
+    "csp-5d1f99baf41f"
+  ],
+  "contractNumber": "47QTCA23D000Q",
+  "retrievedAt": "2026-10-30T11:09:13.284Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:22.714Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

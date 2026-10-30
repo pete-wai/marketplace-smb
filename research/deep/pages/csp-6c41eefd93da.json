@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-6c41eefd93da",
+  "retrievedAt": "2026-10-30T11:01:14.243Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.everfox.com/products/threat-protection-solutions/remote-browser-isolation",
+      "finalUrl": "https://www.everfox.com/products/threat-protection-solutions/",
+      "status": "success",
+      "sha256": "d24165d74dff14813ecd24acb607945b9d21889b6dd318eb05cb462a7944f5bd",
+      "title": "Threat Protection Solutions | Everfox",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everfox.com/about/",
+        "https://www.everfox.com/solutions/us-government-defense/",
+        "https://www.everfox.com/solutions/global-governments-defense/",
+        "https://www.everfox.com/about/leadership/",
+        "https://www.everfox.com/about/careers/",
+        "https://www.everfox.com/about/compliance/",
+        "https://www.everfox.com/about/executive-advisory-board/",
+        "https://www.everfox.com/about/events/"
+      ]
+    },
+    {
+      "url": "https://www.everfox.com/about/",
+      "finalUrl": "https://www.everfox.com/about/",
+      "status": "success",
+      "sha256": "dd6f906884c475a17505dca0afe5a612420539863eeab540fdaf715b2607268b",
+      "title": "About Everfox Formerly Forcepoint Federal Cybersecurity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everfox.com/solutions/us-government-defense/",
+        "https://www.everfox.com/solutions/global-governments-defense/",
+        "https://www.everfox.com/about/leadership/",
+        "https://www.everfox.com/about/careers/",
+        "https://www.everfox.com/about/compliance/",
+        "https://www.everfox.com/about/executive-advisory-board/",
+        "https://www.everfox.com/about/events/"
+      ]
+    },
+    {
+      "url": "https://www.everfox.com/solutions/us-government-defense/",
+      "finalUrl": "https://www.everfox.com/solutions/us-government-defense/",
+      "status": "success",
+      "sha256": "d4d18ef51d9f3c591571fa98ed2d79bf84c1193b6a8a5acb2c9d6ff6b2d225de",
+      "title": "Cybersecurity Solutions for Government & Defense | Everfox",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everfox.com/solutions/global-governments-defense/",
+        "https://www.everfox.com/about/leadership/",
+        "https://www.everfox.com/about/careers/",
+        "https://www.everfox.com/about/compliance/",
+        "https://www.everfox.com/about/executive-advisory-board/",
+        "https://www.everfox.com/about/events/",
+        "https://www.everfox.com/partners/system-integrators/"
+      ]
+    },
+    {
+      "url": "https://www.everfox.com/solutions/global-governments-defense/",
+      "finalUrl": "https://www.everfox.com/solutions/global-governments-defense/",
+      "status": "success",
+      "sha256": "9a5eac82ff5fe212ee5cb990e0ef98788d3e4457b3a493757996154f9fdc0a26",
+      "title": "Cybersecurity Solutions for Government | Global Defense Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everfox.com/about/leadership/",
+        "https://www.everfox.com/about/careers/",
+        "https://www.everfox.com/about/compliance/",
+        "https://www.everfox.com/about/executive-advisory-board/",
+        "https://www.everfox.com/about/events/",
+        "https://www.everfox.com/products/cross-domain-solutions/"
+      ]
+    }
+  ]
+}

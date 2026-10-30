@@ -1,0 +1,100 @@
+{
+  "providerId": "csp-203d98bc30d4",
+  "retrievedAt": "2026-10-30T11:02:24.636Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tpgsi.com/",
+      "finalUrl": "https://www.tpgsi.com/",
+      "status": "success",
+      "sha256": "1e83b5adce77f451122ecb83fadca72399bee5b4ce42b050f5e38a2ad2c6054c",
+      "title": "TurningPoint Global Solutions | Innovative IT & Telecom Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tpgsi.com/industries/tp_government_healthcare.html",
+        "https://www.tpgsi.com/industries/tp_government_telecom.html",
+        "https://www.tpgsi.com/about_tp/about_us.html",
+        "https://www.tpgsi.com/about_tp/our_digital_playbook.html",
+        "https://www.tpgsi.com/news/tp_press_release/federal_health_it_innovation_award.html",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=index_page&utm_medium=footer&utm_campaign=index_page&utm_content=about_tp",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=index_page&utm_medium=footer&utm_campaign=index_page&utm_content=contract_vehicles",
+        "https://www.tpgsi.com/industries/tp_government_healthcare.html?utm_source=index_page&utm_medium=footer&utm_campaign=index_page&utm_content=gov_health_it",
+        "https://www.tpgsi.com/industries/tp_government_telecom.html?utm_source=index_page&utm_medium=footer&utm_campaign=index_page&utm_content=gov_telecom",
+        "https://www.tpgsi.com/about_tp/certifications.html?utm_source=index_page&utm_medium=footer&utm_campaign=index_page&utm_content=certifications",
+        "https://www.tpgsi.com/about_tp/our_digital_playbook.html?utm_source=index_page&utm_medium=footer&utm_campaign=index_page&utm_content=digital_playbook",
+        "https://www.tpgsi.com/about_tp/privacy_policy.html"
+      ]
+    },
+    {
+      "url": "https://www.tpgsi.com/industries/tp_government_healthcare.html",
+      "finalUrl": "https://www.tpgsi.com/industries/tp_government_healthcare.html",
+      "status": "success",
+      "sha256": "b4e9384a5f751586f9b959afbcf443740c3c7c8012115d9f139ec8418e3a536e",
+      "title": "TurningPoint Global Solutions: Government Healthcare",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tpgsi.com/industries/tp_government_telecom.html",
+        "https://www.tpgsi.com/about_tp/about_us.html",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=tp_government_healthcare&utm_medium=footer&utm_campaign=tp_government_healthcare&utm_content=about_tp",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=tp_government_healthcare&utm_medium=footer&utm_campaign=tp_government_healthcare&utm_content=contract_vehicles",
+        "https://www.tpgsi.com/industries/tp_government_healthcare.html?utm_source=tp_government_healthcare&utm_medium=footer&utm_campaign=tp_government_healthcare&utm_content=gov_health_it",
+        "https://www.tpgsi.com/industries/tp_government_telecom.html?utm_source=tp_government_healthcare&utm_medium=footer&utm_campaign=tp_government_healthcare&utm_content=gov_telecom",
+        "https://www.tpgsi.com/about_tp/certifications.html?utm_source=tp_government_healthcare&utm_medium=footer&utm_campaign=tp_government_healthcare&utm_content=certifications",
+        "https://www.tpgsi.com/about_tp/our_digital_playbook.html?utm_source=tp_government_healthcare&utm_medium=footer&utm_campaign=tp_government_healthcare&utm_content=digital_playbook",
+        "https://www.tpgsi.com/about_tp/privacy_policy.html",
+        "https://www.tpgsi.com/about_tp/legal_notice.html"
+      ]
+    },
+    {
+      "url": "https://www.tpgsi.com/industries/tp_government_telecom.html",
+      "finalUrl": "https://www.tpgsi.com/industries/tp_government_telecom.html",
+      "status": "success",
+      "sha256": "9f21282743ebe4c4980a251cfc82d3735bb11347329c1e32478ad3eb885f4adc",
+      "title": "TurningPoint Global Solutions: Government Telecom",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tpgsi.com/about_tp/about_us.html",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=tp_government_telecom&utm_medium=footer&utm_campaign=tp_government_telecom&utm_content=about_tp",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=tp_government_telecom&utm_medium=footer&utm_campaign=tp_government_telecom&utm_content=contract_vehicles",
+        "https://www.tpgsi.com/industries/tp_government_healthcare.html?utm_source=tp_government_telecom&utm_medium=footer&utm_campaign=tp_government_telecom&utm_content=gov_health_it",
+        "https://www.tpgsi.com/industries/tp_government_telecom.html?utm_source=tp_government_telecom&utm_medium=footer&utm_campaign=tp_government_telecom&utm_content=gov_telecom",
+        "https://www.tpgsi.com/about_tp/certifications.html?utm_source=tp_government_telecom&utm_medium=footer&utm_campaign=tp_government_telecom&utm_content=certifications",
+        "https://www.tpgsi.com/about_tp/our_digital_playbook.html?utm_source=tp_government_telecom&utm_medium=footer&utm_campaign=tp_government_telecom&utm_content=digital_playbook",
+        "https://www.tpgsi.com/about_tp/privacy_policy.html",
+        "https://www.tpgsi.com/about_tp/legal_notice.html"
+      ]
+    },
+    {
+      "url": "https://www.tpgsi.com/about_tp/about_us.html",
+      "finalUrl": "https://www.tpgsi.com/about_tp/about_us.html",
+      "status": "success",
+      "sha256": "fe0a6ff64094f1ff0f767ee68ec10cd2cf511f7fe4448bde2580090b9163241f",
+      "title": "About TurningPoint Global Solutions | Modern",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "the controller of a government contractor, later working at the Big 4 as a DCAA auditor, a small business owner, and an FP&A leader. He holds a CPA, CGMA, MBA, and BS in accounting. He is a member of the"
+        },
+        {
+          "kind": "ownership",
+          "excerpt": " career with Telephone Industry Consultants (TELIC) - a firm that was acquired by Computer Sciences Corporation to expand its telecommunication presence. He has also served as the Regional Vice President of Sales for TCSI, a pioneer in object oriented"
+        },
+        {
+          "kind": "financial",
+          "excerpt": "llite telecommunications and software industries managing contractual revenues of approximately $50-$65M. Sonya holds a Bachelor of Arts in English from"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.tpgsi.com/about_tp/our_digital_playbook.html",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=about_tp",
+        "https://www.tpgsi.com/about_tp/about_us.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=contract_vehicles",
+        "https://www.tpgsi.com/industries/tp_government_healthcare.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=gov_health_it",
+        "https://www.tpgsi.com/industries/tp_government_telecom.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=gov_telecom",
+        "https://www.tpgsi.com/about_tp/certifications.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=certifications",
+        "https://www.tpgsi.com/about_tp/our_digital_playbook.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=digital_playbook",
+        "https://www.tpgsi.com/about_tp/privacy_policy.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=privacy_policy",
+        "https://www.tpgsi.com/about_tp/legal_notice.html?utm_source=about_tp&utm_medium=footer&utm_campaign=about_us&utm_content=legal_notice"
+      ]
+    }
+  ]
+}

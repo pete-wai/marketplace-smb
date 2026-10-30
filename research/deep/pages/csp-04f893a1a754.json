@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-04f893a1a754",
+  "retrievedAt": "2026-10-30T11:02:14.272Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://specset.com/",
+      "finalUrl": "https://www.specset.com/",
+      "status": "success",
+      "sha256": "53070dd3072d2610d74420884bc51172861288a569ae9de244ffdd0e48fd44f2",
+      "title": "Specset: AI document control from design to operations",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.specset.com/solutions/federal",
+        "https://www.specset.com/about"
+      ]
+    },
+    {
+      "url": "https://www.specset.com/solutions/federal",
+      "finalUrl": "https://www.specset.com/solutions/federal",
+      "status": "success",
+      "sha256": "d5c44561caf29e8a9f22a9cd308546114b65ca7026c626259623b3f8d9ef1a00",
+      "title": "Federal & Public Construction AI | Specset",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.specset.com/solutions/federal-spec-revisions",
+        "https://www.specset.com/solutions/federal-audit-readiness",
+        "https://www.specset.com/about"
+      ]
+    },
+    {
+      "url": "https://www.specset.com/about",
+      "finalUrl": "https://www.specset.com/about",
+      "status": "success",
+      "sha256": "4f2c3b3c7e81712d21a71c11a0d5f5269ea1cb03b1b610980ab4e08961020c8f",
+      "title": "About Specset (formerly Specbook AI)",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.specset.com/solutions/federal-spec-revisions",
+      "finalUrl": "https://www.specset.com/solutions/federal-spec-revisions",
+      "status": "success",
+      "sha256": "ef0f7346d8a9ab80cc69595285f63b64c564adb4175b46dab8d7e6952467e35b",
+      "title": "Spec Revision Control for Federal Projects | Specset",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

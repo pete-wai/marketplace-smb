@@ -1,0 +1,21 @@
+{
+  "providerId": "csp-4ec3559fd5b8",
+  "retrievedAt": "2026-10-30T11:02:33.259Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://zevacrypt.zevainc.com/",
+      "finalUrl": "https://zevacrypt.zevainc.com/",
+      "status": "success",
+      "sha256": "7c0bd3915d9eb81ee1be18217a467bda7985e975195d6a682350a9f5c0a9a11c",
+      "title": "ZevaCrypt™, True End-to-End Encryption Solution, by Zeva, Inc.",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "e with tailored services. Founded in 2005 in Virginia, USA, Zeva Inc. is a CMMI Level 3, Woman-Owned Small Business. Zeva develops and licenses commercial off-the-shelf (COTS) products that address the PKI enablement needs of highly regulated agencies. Demonstrating its"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

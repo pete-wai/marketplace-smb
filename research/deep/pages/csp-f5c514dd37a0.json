@@ -1,0 +1,90 @@
+{
+  "providerId": "csp-f5c514dd37a0",
+  "retrievedAt": "2026-10-30T11:02:22.281Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://trackvia.com/",
+      "finalUrl": "https://trackvia.com/",
+      "status": "success",
+      "sha256": "06abba936ecfafbc7dd21789a466c3b56f1bfd49eed784c40b45e6f81ca61cc1",
+      "title": "TrackVia | Field Operations Software, Connected",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trackvia.com/solutions/ai/",
+        "https://trackvia.com/industries/government/",
+        "https://trackvia.com/industries/public-works/",
+        "https://trackvia.com/success-stories/downer-shines-a-light-on-its-field-service-operations/",
+        "https://trackvia.com/success-stories/large-utility-construction-company/",
+        "https://trackvia.com/success-stories/fortune-500-security-logistics-company/",
+        "https://trackvia.com/blog/a-workflow-automation-guide-for-public-sector-teams/",
+        "https://trackvia.com/blog/trackvia-fedramp-ready-status/",
+        "https://trackvia.com/blog/trackvia-government-announcement/",
+        "https://trackvia.com/company/",
+        "https://trackvia.com/company/why-trackvia/",
+        "https://trackvia.com/company/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.trackvia.com/",
+      "finalUrl": "https://trackvia.com/",
+      "status": "success",
+      "sha256": "06abba936ecfafbc7dd21789a466c3b56f1bfd49eed784c40b45e6f81ca61cc1",
+      "title": "TrackVia | Field Operations Software, Connected",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trackvia.com/solutions/ai/",
+        "https://trackvia.com/industries/government/",
+        "https://trackvia.com/industries/public-works/",
+        "https://trackvia.com/success-stories/downer-shines-a-light-on-its-field-service-operations/",
+        "https://trackvia.com/success-stories/large-utility-construction-company/",
+        "https://trackvia.com/success-stories/fortune-500-security-logistics-company/",
+        "https://trackvia.com/blog/a-workflow-automation-guide-for-public-sector-teams/",
+        "https://trackvia.com/blog/trackvia-fedramp-ready-status/",
+        "https://trackvia.com/blog/trackvia-government-announcement/",
+        "https://trackvia.com/company/",
+        "https://trackvia.com/company/why-trackvia/",
+        "https://trackvia.com/company/about-us/"
+      ]
+    },
+    {
+      "url": "https://trackvia.com/solutions/ai/",
+      "finalUrl": "https://trackvia.com/solutions/ai/",
+      "status": "success",
+      "sha256": "dd145a0be5e8977ae6dc447a817057993bac6e1462ac576f8a0f1f21491077a2",
+      "title": "AI Field Service Management Software | TrackVia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trackvia.com/industries/government/",
+        "https://trackvia.com/industries/public-works/",
+        "https://trackvia.com/company/",
+        "https://trackvia.com/company/why-trackvia/",
+        "https://trackvia.com/company/about-us/",
+        "https://trackvia.com/company/careers/"
+      ]
+    },
+    {
+      "url": "https://trackvia.com/industries/government/",
+      "finalUrl": "https://trackvia.com/industries/government/",
+      "status": "success",
+      "sha256": "a09a532a46677e27ab44714decc1efbec20b6ca78e8760dfa0d11be6eaeea35b",
+      "title": "Government Asset Management Software | TrackVia",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ns, audit trails and reporting against contract requirements. FedRAMP Certified &middot; Class C (Moderate) SBA Certified Small Business SOC 2 Type II Listed on SEWP V and NASPO ValuePoint Client stories Operations already running this way &#8249; &#8250; Off the"
+        }
+      ],
+      "discoveredLinks": [
+        "https://trackvia.com/industries/public-works/",
+        "https://trackvia.com/success-stories/fortune-500-security-logistics-company/",
+        "https://trackvia.com/success-stories/large-utility-construction-company/",
+        "https://trackvia.com/solutions/asset-site-operations/",
+        "https://trackvia.com/company/",
+        "https://trackvia.com/company/why-trackvia/",
+        "https://trackvia.com/company/about-us/",
+        "https://trackvia.com/company/careers/"
+      ]
+    }
+  ]
+}

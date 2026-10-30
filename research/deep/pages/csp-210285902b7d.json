@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-210285902b7d",
+  "retrievedAt": "2026-10-30T11:01:58.927Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ptfs.com/",
+      "finalUrl": "https://ptfs.com/",
+      "status": "success",
+      "sha256": "e96053f4a4e109ddb86201d6df3710e9be2d5348b24cf75f796a3198c88b315b",
+      "title": "Home - PTFS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ptfs.com/government-media-conversion-services/",
+        "https://ptfs.com/company/",
+        "https://ptfs.com/leadership/",
+        "https://ptfs.com/ptfs-awarded-key-dod-contract-to-digitize-historical-media-for-federal-agencies/"
+      ]
+    },
+    {
+      "url": "https://ptfs.com/government-media-conversion-services/",
+      "finalUrl": "https://ptfs.com/government-media-conversion-services/",
+      "status": "success",
+      "sha256": "f38a16da238ad3bffe9f1d36a64cdbf2a2d92bec0b84e044495f3e2f6cbb9fed",
+      "title": "Government Media Conversion Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ptfs.com/company/",
+        "https://ptfs.com/leadership/",
+        "https://ptfs.com/ptfs-awarded-key-dod-contract-to-digitize-historical-media-for-federal-agencies/",
+        "https://ptfs.com/knowvation"
+      ]
+    },
+    {
+      "url": "https://ptfs.com/company/",
+      "finalUrl": "https://ptfs.com/company/",
+      "status": "success",
+      "sha256": "aed25c395b5bfb68906d945957e8c2d320c85185fcb0310d57b7237e688a4056",
+      "title": "Company - PTFS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ptfs.com/leadership/",
+        "https://ptfs.com/ptfs-awarded-key-dod-contract-to-digitize-historical-media-for-federal-agencies/"
+      ]
+    },
+    {
+      "url": "https://ptfs.com/leadership/",
+      "finalUrl": "https://ptfs.com/leadership/",
+      "status": "success",
+      "sha256": "f5c6606700f5f103fada3d9725fc889f07290c421d9a1e92a6af567bb01eb99e",
+      "title": "Leadership - PTFS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ptfs.com/ptfs-awarded-key-dod-contract-to-digitize-historical-media-for-federal-agencies/"
+      ]
+    }
+  ]
+}

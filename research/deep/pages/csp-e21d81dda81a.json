@@ -1,0 +1,63 @@
+{
+  "providerId": "csp-e21d81dda81a",
+  "retrievedAt": "2026-10-30T11:02:24.146Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.trmlabs.com/",
+      "finalUrl": "https://www.trmlabs.com/",
+      "status": "success",
+      "sha256": "c75c02605a6ee895fe3afb8e9815e36af8409aac8ab08e44e3bc936c1c08146e",
+      "title": "TRM Labs | AI Investigations and Blockchain Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trmlabs.com/resources/blog",
+        "https://www.trmlabs.com/reports-and-whitepapers/the-capacity-gap-why-todays-crime-fighters-are-falling-behind-and-what-to-do-about-it",
+        "https://www.trmlabs.com/category/company-news"
+      ]
+    },
+    {
+      "url": "https://www.trmlabs.com/resources/blog",
+      "finalUrl": "https://www.trmlabs.com/resources/blog",
+      "status": "success",
+      "sha256": "e2155aa61113e30a37979956591ef79b6f60a4056b991421cd6bd700820c090f",
+      "title": "TRM Labs Blog | Insights on Crypto Crime, Compliance, and Blockchain Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trmlabs.com/reports-and-whitepapers/the-capacity-gap-why-todays-crime-fighters-are-falling-behind-and-what-to-do-about-it",
+        "https://www.trmlabs.com/category/company-news"
+      ]
+    },
+    {
+      "url": "https://www.trmlabs.com/reports-and-whitepapers/the-capacity-gap-why-todays-crime-fighters-are-falling-behind-and-what-to-do-about-it",
+      "finalUrl": "https://www.trmlabs.com/reports-and-whitepapers/the-capacity-gap-why-todays-crime-fighters-are-falling-behind-and-what-to-do-about-it",
+      "status": "success",
+      "sha256": "6d8bf41e4bf5a0aa2f2638b247d3d8b1e096c998c64dc189561d84d4b01aa244",
+      "title": "The Capacity Gap: Why Crime Fighters Are Falling Behind | TRM Labs",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trmlabs.com/category/company-news"
+      ]
+    },
+    {
+      "url": "https://www.trmlabs.com/category/company-news",
+      "finalUrl": "https://www.trmlabs.com/category/company-news",
+      "status": "success",
+      "sha256": "594f5013cac8f72098d7b635fb2bd16f382a419be48ab6f7a944a8dfdbd508ee",
+      "title": "Company News | TRM Blog",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trmlabs.com/about/esteban-castano",
+        "https://www.trmlabs.com/resources/blog/former-ausa-and-fbi-crypto-pioneer-ali-comolli-joins-trm-labs-to-expand-training-and-capacity-building-programs-for-public-sector-agencies",
+        "https://www.trmlabs.com/resources/blog/trm-labs-achieves-fedramp-high-authorization-strengthening-federal-offerings",
+        "https://www.trmlabs.com/resources/blog/trm-labs-secures-fedramp-r-moderate-authorization-expanding-federal-offerings",
+        "https://www.trmlabs.com/resources/blog/trm-labs-strengthens-u-s-federal-offerings-with-fedramp-r-high-il4-and-il5-compliance",
+        "https://www.trmlabs.com/resources/blog/trm-labs-expands-us-federal-team-welcomes-industry-veterans-ethan-bronstein-and-lc-cook",
+        "https://www.trmlabs.com/resources/blog/phil-ariss-former-crypto-lead-for-the-national-police-chiefs-council-cybercrime-programme-joins-trm-as-director-of-uk-public-sector-relations",
+        "https://www.trmlabs.com/resources/blog/matt-humphries-joins-trm-as-apac-director-of-law-enforcement-relations",
+        "https://www.trmlabs.com/resources/blog/trm-labs-acquires-uk-crypto-investigations-training-company-csitech",
+        "https://www.trmlabs.com/resources/blog/ryan-landers-kyle-armstrong-and-chris-janczewski-named-finalists-for-government-service-award-for-terror-fundraising-takedown"
+      ]
+    }
+  ]
+}

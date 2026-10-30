@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-776478d41b21",
+  "retrievedAt": "2026-10-30T11:02:03.916Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://relomw.com/",
+      "finalUrl": "https://relomw.com/",
+      "status": "success",
+      "sha256": "a9fa985101b9115cdd827bdff6e3bbad5719ea1b3f7c5c34cda4d4f27b726317",
+      "title": "RMW VEN | Relocation Management Worldwide",
+      "signals": [],
+      "discoveredLinks": [
+        "https://relomw.com/more-about-rmw",
+        "https://relomw.com/corporate-relocation-software-demo"
+      ]
+    },
+    {
+      "url": "https://relomw.com/more-about-rmw",
+      "finalUrl": "https://relomw.com/more-about-rmw",
+      "status": "success",
+      "sha256": "6c3a3b23df68a2913ef22ecc93f2ee853d353da358bd93906dc92c6b59dcee82",
+      "title": "More About RMW | Relocation Management Worldwide",
+      "signals": [],
+      "discoveredLinks": [
+        "https://relomw.com/Home"
+      ]
+    },
+    {
+      "url": "https://relomw.com/corporate-relocation-software-demo",
+      "finalUrl": "https://relomw.com/corporate-relocation-software-demo",
+      "status": "success",
+      "sha256": "83124e17c11a51f2e4b151f673bd63fb5df2d31565fe3606c158bd3dacadb5fe",
+      "title": "Request a Free Demo | RMW VEN Relocation Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://relomw.com/Home"
+      ]
+    },
+    {
+      "url": "https://relomw.com/Home",
+      "finalUrl": "https://relomw.com/Home",
+      "status": "success",
+      "sha256": "04c4d369971529bd79040343b62bc1e7e305378b73d8010646177f1a4db9af1c",
+      "title": "RMW VEN | Relocation Management Worldwide",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

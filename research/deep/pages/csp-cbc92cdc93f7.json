@@ -1,0 +1,100 @@
+{
+  "providerId": "csp-cbc92cdc93f7",
+  "retrievedAt": "2026-10-30T11:01:01.445Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.databank.com/",
+      "finalUrl": "https://www.databank.com/",
+      "status": "success",
+      "sha256": "3cb49908aa887670832363099c461cb6c530e74125cb9dec539063d9eb52aa4f",
+      "title": "Data Center Solutions in More U.S. Metros",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.databank.com/about-databank/",
+        "https://www.databank.com/about-databank/leadership-team/",
+        "https://www.databank.com/about-databank/our-investors/",
+        "https://www.databank.com/about-databank/databanks-history/",
+        "https://www.databank.com/about-databank/our-culture/",
+        "https://www.databank.com/about-databank/careers-at-databank/",
+        "https://www.databank.com/about-databank/corporate-responsibility/",
+        "https://www.databank.com/about-databank/newsroom/",
+        "https://www.databank.com/about-databank/events/",
+        "https://www.databank.com/about-databank/partner-program/",
+        "https://www.databank.com/about-databank/community-relations/",
+        "https://www.databank.com/resources/white-papers/the-truth-about-data-centers/"
+      ]
+    },
+    {
+      "url": "https://www.databank.com/about-databank/",
+      "finalUrl": "https://www.databank.com/about-databank/",
+      "status": "success",
+      "sha256": "4b1c89191433148a3b56c31c4a385d04f84486ce18567f7e2bfdca7e95904830",
+      "title": "About DataBank and Our Infrastructure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.databank.com/about-databank/leadership-team/",
+        "https://www.databank.com/about-databank/our-investors/",
+        "https://www.databank.com/about-databank/databanks-history/",
+        "https://www.databank.com/about-databank/our-culture/",
+        "https://www.databank.com/about-databank/careers-at-databank/",
+        "https://www.databank.com/about-databank/corporate-responsibility/",
+        "https://www.databank.com/about-databank/newsroom/",
+        "https://www.databank.com/about-databank/events/",
+        "https://www.databank.com/about-databank/partner-program/",
+        "https://www.databank.com/about-databank/community-relations/",
+        "https://www.databank.com/resources/white-papers/the-truth-about-data-centers/",
+        "https://www.databank.com/about-databank/databanks-history/cyrusone-houston/"
+      ]
+    },
+    {
+      "url": "https://www.databank.com/about-databank/leadership-team/",
+      "finalUrl": "https://www.databank.com/about-databank/leadership-team/",
+      "status": "success",
+      "sha256": "69c07c75051e45cc710302bb514a9a661d46b00932726bd874743e20d7adaeea",
+      "title": "Leadership Team - DataBank | Data Center Evolved",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " dot Net, Inc., a global managed hosting and cloud company, which was acquired by Internap Network Services Corp. in 2012. Mr. Martynek also served as the Chief Restructuring Officer of Smart Telecom, a Dublin, Ireland-based fiber carrier which was"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.databank.com/about-databank/our-investors/",
+        "https://www.databank.com/about-databank/databanks-history/",
+        "https://www.databank.com/about-databank/our-culture/",
+        "https://www.databank.com/about-databank/careers-at-databank/",
+        "https://www.databank.com/about-databank/corporate-responsibility/",
+        "https://www.databank.com/about-databank/newsroom/",
+        "https://www.databank.com/about-databank/events/",
+        "https://www.databank.com/about-databank/partner-program/",
+        "https://www.databank.com/about-databank/community-relations/",
+        "https://www.databank.com/resources/white-papers/the-truth-about-data-centers/",
+        "https://www.databank.com/about-databank/databanks-history/cyrusone-houston/",
+        "https://www.databank.com/about-databank/databanks-history/zcolo/"
+      ]
+    },
+    {
+      "url": "https://www.databank.com/about-databank/our-investors/",
+      "finalUrl": "https://www.databank.com/about-databank/our-investors/",
+      "status": "success",
+      "sha256": "924ad36d03fb7aec9c13aba39bfacc81666c45923fb80e6eef37137bfb2bd749",
+      "title": "Meet DataBank Investors Driving Growth",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.databank.com/about-databank/databanks-history/",
+        "https://www.databank.com/about-databank/our-culture/",
+        "https://www.databank.com/about-databank/careers-at-databank/",
+        "https://www.databank.com/about-databank/corporate-responsibility/",
+        "https://www.databank.com/about-databank/newsroom/",
+        "https://www.databank.com/about-databank/events/",
+        "https://www.databank.com/about-databank/partner-program/",
+        "https://www.databank.com/about-databank/community-relations/",
+        "https://www.databank.com/resources/white-papers/the-truth-about-data-centers/",
+        "https://www.databank.com/about-databank/databanks-history/cyrusone-houston/",
+        "https://www.databank.com/about-databank/databanks-history/zcolo/",
+        "https://www.databank.com/about-databank/databanks-history/lightbound/"
+      ]
+    }
+  ]
+}

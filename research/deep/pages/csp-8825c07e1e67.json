@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-8825c07e1e67",
+  "retrievedAt": "2026-10-30T11:02:05.997Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.rsa.com/solutions/public-sector/",
+      "finalUrl": "https://www.rsa.com/solutions/government/",
+      "status": "success",
+      "sha256": "4cb1a9d04b4cd56254e5c336462b1afc2965cfe2a90d076602b4ed3f566c8073",
+      "title": "Cybersecurity Solutions for Government Organizations | RSA",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rsa.com/solutions/government/",
+        "https://www.rsa.com/products/",
+        "https://www.rsa.com/products/id-plus/",
+        "https://www.rsa.com/products/securid/",
+        "https://www.rsa.com/company/secure/",
+        "https://www.rsa.com/ar/solutions/government/",
+        "https://www.rsa.com/fr/solutions/government/",
+        "https://www.rsa.com/fr_ca/solutions/government/",
+        "https://www.rsa.com/de/solutions/government/",
+        "https://www.rsa.com/id/solutions/government/",
+        "https://www.rsa.com/it/solutions/government/",
+        "https://www.rsa.com/ja/solutions/government/"
+      ]
+    },
+    {
+      "url": "https://www.rsa.com/solutions/government/",
+      "finalUrl": "https://www.rsa.com/solutions/government/",
+      "status": "success",
+      "sha256": "4cb1a9d04b4cd56254e5c336462b1afc2965cfe2a90d076602b4ed3f566c8073",
+      "title": "Cybersecurity Solutions for Government Organizations | RSA",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rsa.com/products/",
+        "https://www.rsa.com/products/id-plus/",
+        "https://www.rsa.com/products/securid/",
+        "https://www.rsa.com/company/secure/",
+        "https://www.rsa.com/ar/solutions/government/",
+        "https://www.rsa.com/fr/solutions/government/",
+        "https://www.rsa.com/fr_ca/solutions/government/",
+        "https://www.rsa.com/de/solutions/government/",
+        "https://www.rsa.com/id/solutions/government/",
+        "https://www.rsa.com/it/solutions/government/",
+        "https://www.rsa.com/ja/solutions/government/",
+        "https://www.rsa.com/ko/solutions/government/"
+      ]
+    },
+    {
+      "url": "https://www.rsa.com/products/",
+      "finalUrl": "https://www.rsa.com/products/",
+      "status": "success",
+      "sha256": "c7f4b725b067b8d52af2830c1b06f95a149e53d3489c8ae3c0efc569575e7607",
+      "title": "RSA Tokens & Authenticators for Identity Security Teams",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rsa.com/products/id-plus/",
+        "https://www.rsa.com/products/securid/",
+        "https://www.rsa.com/company/secure/",
+        "https://www.rsa.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.rsa.com/products/id-plus/",
+      "finalUrl": "https://www.rsa.com/products/id-plus/",
+      "status": "success",
+      "sha256": "2a8ddd16fea18803eab69dd20ff82dd63f49742c193c60628b2fc19a00c9b9df",
+      "title": "RSA ID Plus: Cloud Identity & Access Management Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rsa.com/products/securid/",
+        "https://www.rsa.com/company/secure/",
+        "https://www.rsa.com/resources/datasheets/datasheet-rsa-my-page-elevates-sso/",
+        "https://www.rsa.com/resources/solution-briefs/rsa-id-plus-hybrid-failover/",
+        "https://www.rsa.com/news/press-releases/rsa-microsoft-eam-capability/",
+        "https://www.rsa.com/company/"
+      ]
+    }
+  ]
+}

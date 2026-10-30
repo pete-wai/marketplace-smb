@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-86ba12711a9e",
+  "retrievedAt": "2026-10-30T11:01:21.022Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://healthedge.com/",
+      "finalUrl": "https://healthedge.com/",
+      "status": "success",
+      "sha256": "286222cbbaf190742dc9ed835dcd0f376316e36fa4b78a628994162f592d8ad8",
+      "title": "HealthEdge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthedge.com/lines-of-business/plans-with-home-and-host-capabilities/",
+        "https://healthedge.com/lines-of-business/government/",
+        "https://healthedge.com/lines-of-business/government/medicare/",
+        "https://healthedge.com/lines-of-business/government/medicaid/",
+        "https://healthedge.com/lines-of-business/government/dual-eligibles/",
+        "https://healthedge.com/about-us/",
+        "https://healthedge.com/about-us/leadership/",
+        "https://healthedge.com/about-us/careers/",
+        "https://healthedge.com/about-us/careers/life-at-healthedge/",
+        "https://healthedge.com/about-us/careers/us-offices/",
+        "https://healthedge.com/about-us/careers/india-offices/",
+        "https://healthedge.com/about-us/careers/employee-testimonials/"
+      ]
+    },
+    {
+      "url": "https://healthedge.com/lines-of-business/plans-with-home-and-host-capabilities/",
+      "finalUrl": "https://healthedge.com/lines-of-business/plans-with-home-and-host-capabilities/",
+      "status": "success",
+      "sha256": "a3b9ea112c3dd05a1e5029d7bd69d66096dce88be86bddf517820f84907a0909",
+      "title": "Healthcare Home and Host Plans Platform | HealthEdge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthedge.com/lines-of-business/government/",
+        "https://healthedge.com/lines-of-business/government/medicare/",
+        "https://healthedge.com/lines-of-business/government/medicaid/",
+        "https://healthedge.com/lines-of-business/government/dual-eligibles/",
+        "https://healthedge.com/about-us/",
+        "https://healthedge.com/about-us/leadership/",
+        "https://healthedge.com/about-us/careers/",
+        "https://healthedge.com/about-us/careers/life-at-healthedge/",
+        "https://healthedge.com/about-us/careers/us-offices/",
+        "https://healthedge.com/about-us/careers/india-offices/",
+        "https://healthedge.com/about-us/careers/employee-testimonials/",
+        "https://healthedge.com/resources/case-studies-page"
+      ]
+    },
+    {
+      "url": "https://healthedge.com/lines-of-business/government/",
+      "finalUrl": "https://healthedge.com/lines-of-business/government/",
+      "status": "success",
+      "sha256": "1d560d6862c325f52a0c99c99ac3ff0132c11e1bfb5079ea707f8e7ac773c556",
+      "title": "Healthcare Government Plans Software | HealthEdge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthedge.com/lines-of-business/government/medicare/",
+        "https://healthedge.com/lines-of-business/government/medicaid/",
+        "https://healthedge.com/lines-of-business/government/dual-eligibles/",
+        "https://healthedge.com/about-us/",
+        "https://healthedge.com/about-us/leadership/",
+        "https://healthedge.com/about-us/careers/",
+        "https://healthedge.com/about-us/careers/life-at-healthedge/",
+        "https://healthedge.com/about-us/careers/us-offices/",
+        "https://healthedge.com/about-us/careers/india-offices/",
+        "https://healthedge.com/about-us/careers/employee-testimonials/",
+        "https://healthedge.com/resources/"
+      ]
+    },
+    {
+      "url": "https://healthedge.com/lines-of-business/government/medicare/",
+      "finalUrl": "https://healthedge.com/lines-of-business/government/medicare/",
+      "status": "success",
+      "sha256": "35300b9da9eb5455c92cdb64005403ddce18a2eb84af02de1d11520ecede926f",
+      "title": "Medicare Software Solutions | HealthEdge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthedge.com/lines-of-business/government/medicaid/",
+        "https://healthedge.com/lines-of-business/government/dual-eligibles/",
+        "https://healthedge.com/about-us/",
+        "https://healthedge.com/about-us/leadership/",
+        "https://healthedge.com/about-us/careers/",
+        "https://healthedge.com/about-us/careers/life-at-healthedge/",
+        "https://healthedge.com/about-us/careers/us-offices/",
+        "https://healthedge.com/about-us/careers/india-offices/",
+        "https://healthedge.com/about-us/careers/employee-testimonials/",
+        "https://healthedge.com/resources/"
+      ]
+    }
+  ]
+}

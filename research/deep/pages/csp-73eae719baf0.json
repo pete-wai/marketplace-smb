@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-73eae719baf0",
+  "retrievedAt": "2026-10-30T11:01:43.726Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://mycroft.io/",
+      "finalUrl": "https://www.mycroft.io/",
+      "status": "success",
+      "sha256": "84fa57cacd31a768642027172513f30e578d7230ff4a334a9dac8f232075d761",
+      "title": "Mycroft | End to end GRC automation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mycroft.io/about",
+        "https://www.mycroft.io/case-studies/weave",
+        "https://www.mycroft.io/case-studies/wisedocs"
+      ]
+    },
+    {
+      "url": "https://www.mycroft.io/about",
+      "finalUrl": "https://www.mycroft.io/about",
+      "status": "success",
+      "sha256": "415d7453d7a9b7c7ffee0fdcf0a9c70201d44c2fb571979823c2def035793ded",
+      "title": "Mycroft About | Redefining how modern businesses stay secure",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.mycroft.io/case-studies/weave",
+      "finalUrl": "https://www.mycroft.io/case-studies/weave",
+      "status": "success",
+      "sha256": "1c166adfc576754208cf269d9c9a0f5733c52e8eaa1fa1607b4ddd6c788e473c",
+      "title": "How Weave went from zero to SOC 2 in under 30 days",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.mycroft.io/case-studies/wisedocs",
+      "finalUrl": "https://www.mycroft.io/case-studies/wisedocs",
+      "status": "success",
+      "sha256": "1d21e5ad91d40a248ccc802e46b24e8638b2e1ff3f428259dcc665729d631ba0",
+      "title": "From security uncertainty to 100% ROI: the Wisedocs journey",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

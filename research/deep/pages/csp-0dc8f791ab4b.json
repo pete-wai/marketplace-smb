@@ -1,0 +1,68 @@
+{
+  "providerId": "csp-0dc8f791ab4b",
+  "retrievedAt": "2026-10-30T11:02:08.748Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://scale.com/federal",
+      "finalUrl": "https://scale.com/public-sector",
+      "status": "success",
+      "sha256": "6ec8c1181f8a107d978a2d5f2cd833989960b980483e60b33d0bbf4075a03c74",
+      "title": "Scale is the Super Intelligence (SI) partner for the US Public Sector | Scale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://scale.com/public-sector-data-engine",
+        "https://scale.com/blog/scale-public-sector-building-on-our-progress-in-2025",
+        "https://scale.com/public-sector/national-security",
+        "https://scale.com/public-sector",
+        "https://scale.com/global-public-sector",
+        "https://scale.com/about"
+      ]
+    },
+    {
+      "url": "https://scale.com/public-sector-data-engine",
+      "finalUrl": "https://scale.com/public-sector-data-engine",
+      "status": "success",
+      "sha256": "8491985d9a089c5bf615f39ee52e0a743c3f0582d596598f9a80c5c59b9c3a51",
+      "title": "Scale Public Sector Data Engine | Scale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://scale.com/public-sector/national-security",
+        "https://scale.com/public-sector",
+        "https://scale.com/global-public-sector",
+        "https://scale.com/about"
+      ]
+    },
+    {
+      "url": "https://scale.com/blog/scale-public-sector-building-on-our-progress-in-2025",
+      "finalUrl": "https://scale.com/blog/scale-public-sector-building-on-our-progress-in-2025",
+      "status": "success",
+      "sha256": "eebe35a7417bdd019bd501685a565e10ff51527c5a68ecf631d413661c6f0b69",
+      "title": "Scale Public Sector: Building on Our Progress in 2025 | Scale AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://scale.com/blog/category/company",
+        "https://scale.com/blog/responsible-ai-scale-evaluation-for-public-sector",
+        "https://scale.com/public-sector/national-security",
+        "https://scale.com/public-sector",
+        "https://scale.com/global-public-sector",
+        "https://scale.com/about"
+      ]
+    },
+    {
+      "url": "https://scale.com/public-sector/national-security",
+      "finalUrl": "https://scale.com/public-sector/national-security",
+      "status": "success",
+      "sha256": "a5cd4e2ee04977d3b85e818c05904c6f90e66e234a8078ff1d8e6622a9d822ab",
+      "title": "Scale for National Security & Homeland Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://scale.com/evaluation/public-sector",
+        "https://scale.com/blog/thunderforge-ai-for-american-defense",
+        "https://scale.com/public-sector",
+        "https://scale.com/global-public-sector",
+        "https://scale.com/about"
+      ]
+    }
+  ]
+}

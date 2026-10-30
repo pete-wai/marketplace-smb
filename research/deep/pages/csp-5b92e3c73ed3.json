@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-5b92e3c73ed3",
+  "retrievedAt": "2026-10-30T11:02:31.831Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.wiz.io/",
+      "finalUrl": "https://www.wiz.io/",
+      "status": "success",
+      "sha256": "f869a28454f63840ba5012629e7e4266f3f4fd95307d2d08f2d4d1253d24438a",
+      "title": "Wiz: AI Cybersecurity for All Your Cloud and AI Applications",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wiz.io/solutions/red-agent",
+        "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+        "https://www.wiz.io/blog/introducing-wiz-green-agent",
+        "https://www.wiz.io/about"
+      ]
+    },
+    {
+      "url": "https://www.wiz.io/solutions/red-agent",
+      "finalUrl": "https://www.wiz.io/solutions/red-agent",
+      "status": "success",
+      "sha256": "336e22805553a92b0bd2abab9e74d0f6bd7ecd100b674e65c2bc079180e980db",
+      "title": "Wiz Red Agent | AI Pentesting | Wiz",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wiz.io/blog/wiz-asm-auto-recon",
+        "https://www.wiz.io/about"
+      ]
+    },
+    {
+      "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+      "finalUrl": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+      "status": "success",
+      "sha256": "af479246eba9a649e72c53300449f7881959ceec5d4e94eb6865ee0ae30fafae",
+      "title": "The Wiz Blue Agent, now Generally Available | Wiz Blog",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wiz.io/blog/tag/news",
+        "https://www.wiz.io/about"
+      ]
+    },
+    {
+      "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+      "finalUrl": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+      "status": "success",
+      "sha256": "18a9ffddc9518714ac0d6cce014818b22ceadd5a823c47f7c8fcaf14abb98f6c",
+      "title": "Introducing the Green Agent: AI-Powered Remediation | Wiz Blog",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wiz.io/blog/tag/news",
+        "https://www.wiz.io/about"
+      ]
+    }
+  ]
+}

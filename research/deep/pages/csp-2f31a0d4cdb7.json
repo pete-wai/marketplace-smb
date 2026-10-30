@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-2f31a0d4cdb7",
+  "retrievedAt": "2026-10-30T11:01:21.550Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.fedhive.com/",
+      "finalUrl": "https://www.fedhive.com/",
+      "status": "success",
+      "sha256": "7dc3bf311a7d17069cf3310bec13498f8208859dcdf24f0fe189ab81609ea292",
+      "title": "FedRAMP & DoD ATO Accelerator | FedHIVE",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "g IT solutions for federal government since 1986. GSA Contract Holder HUBZone Certified NASPO FedRAMP TX-RAMP StateRAMP GovRAMP DOW IL4 / IL5 CMMC (LEVEL 2) Accessible Contracts: CATTS VETS-2 First Source SPARC JETS SETI SEWP VAT4 OASIS Alliant II SITES"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.fedhive.com/solutions/federal-cloud-readiness-checklist-fedhive/",
+        "https://www.fedhive.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.fedhive.com/solutions/federal-cloud-readiness-checklist-fedhive/",
+      "finalUrl": "https://www.fedhive.com/solutions/federal-cloud-readiness-checklist-fedhive/",
+      "status": "success",
+      "sha256": "578dc963138eda714f7114b3c312a94c0b58484e172c5a6f066df60b5ef36557",
+      "title": "Federal Cloud Readiness Checklist | FedHIVE",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "g IT solutions for federal government since 1986. GSA Contract Holder HUBZone Certified NASPO FedRAMP TX-RAMP StateRAMP GovRAMP DOW IL4 / IL5 CMMC (LEVEL 2) Accessible Contracts: CATTS VETS-2 First Source SPARC JETS SETI SEWP VAT4 OASIS Alliant II SITES"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.fedhive.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.fedhive.com/about-us/",
+      "finalUrl": "https://www.fedhive.com/about-us/",
+      "status": "success",
+      "sha256": "2bdca60c31d54682deb872ae6a55838cdbde6ea19830a695d18c0a39ca7497e7",
+      "title": "About FedHIVE | Our Story",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "g IT solutions for federal government since 1986. GSA Contract Holder HUBZone Certified NASPO FedRAMP TX-RAMP StateRAMP GovRAMP DOW IL4 / IL5 CMMC (LEVEL 2) Accessible Contracts: CATTS VETS-2 First Source SPARC JETS SETI SEWP VAT4 OASIS Alliant II SITES"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

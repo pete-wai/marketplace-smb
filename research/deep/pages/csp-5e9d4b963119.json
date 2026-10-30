@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-5e9d4b963119",
+  "retrievedAt": "2026-10-30T11:00:51.949Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.civisanalytics.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

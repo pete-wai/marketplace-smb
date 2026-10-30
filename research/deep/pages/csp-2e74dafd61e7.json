@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-2e74dafd61e7",
+  "retrievedAt": "2026-10-30T11:01:04.147Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.overleaf.com/for/government",
+      "finalUrl": "https://www.overleaf.com/for/government",
+      "status": "success",
+      "sha256": "cf4acb2ca8bb0bdbc87d4392d199292a190baa1300ff09c364e37d791225adc6",
+      "title": "Overleaf for government - Overleaf, Online LaTeX Editor",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "agencies, we partner with preferred small business resellers that are SDVOSB and/or HUBZone certified. We also support procurement processes for Italy, Japan, Latin and South America, North Africa, Egypt, and India. Inquire about additional countries. NASA SEWP and other contract"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.overleaf.com/about/features-overview",
+        "https://www.overleaf.com/about/ai-features",
+        "https://www.overleaf.com/about/customer-stories",
+        "https://www.overleaf.com/about/why-latex",
+        "https://www.overleaf.com/for/contact-sales-government",
+        "https://www.overleaf.com/about/customer-story/symplectic",
+        "https://www.overleaf.com/about/customer-story/vialab",
+        "https://www.overleaf.com/about/customer-story/cern",
+        "https://www.overleaf.com/about"
+      ]
+    },
+    {
+      "url": "https://www.overleaf.com/about/features-overview",
+      "finalUrl": "https://www.overleaf.com/about/features-overview",
+      "status": "success",
+      "sha256": "d061b37e57a734057bb0679066aacb70147828326afbbd262414845eb225e1aa",
+      "title": "LaTeX editor features & benefits - Overleaf, Online LaTeX Editor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.overleaf.com/about/ai-features",
+        "https://www.overleaf.com/about/customer-stories",
+        "https://www.overleaf.com/about/why-latex",
+        "https://www.overleaf.com/about/customer-story/symplectic",
+        "https://www.overleaf.com/about"
+      ]
+    },
+    {
+      "url": "https://www.overleaf.com/about/ai-features",
+      "finalUrl": "https://www.overleaf.com/about/ai-features",
+      "status": "success",
+      "sha256": "d57867449d4b3373cb2e48c233e1078df470f0519ef5fdcce7b7fa751c6956dc",
+      "title": "AI features - Overleaf, Online LaTeX Editor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.overleaf.com/about/customer-stories",
+        "https://www.overleaf.com/about/why-latex",
+        "https://www.overleaf.com/about"
+      ]
+    },
+    {
+      "url": "https://www.overleaf.com/about/customer-stories",
+      "finalUrl": "https://www.overleaf.com/about/customer-stories",
+      "status": "success",
+      "sha256": "3288047af2bd7601ef72681b1e5c39e126ebbb3a3e2a966175c0b6f3f13c7caf",
+      "title": "Customer Stories - Overleaf, Online LaTeX Editor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.overleaf.com/about/why-latex",
+        "https://www.overleaf.com/about/customer-story/vialab",
+        "https://www.overleaf.com/about/customer-story/university-of-manchester",
+        "https://www.overleaf.com/about/customer-story/cern",
+        "https://www.overleaf.com/about/customer-story/symplectic",
+        "https://www.overleaf.com/about/customer-story/purdue-university",
+        "https://www.overleaf.com/about/customer-story/f1000research",
+        "https://www.overleaf.com/about/customer-story/cuair",
+        "https://www.overleaf.com/about"
+      ]
+    }
+  ]
+}

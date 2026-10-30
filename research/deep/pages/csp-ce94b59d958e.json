@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-ce94b59d958e",
+  "retrievedAt": "2026-10-30T11:01:53.482Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.perplexity.ai/enterprise",
+      "finalUrl": "https://www.perplexity.ai/enterprise",
+      "status": "success",
+      "sha256": "0432f175e3bbe998791d8b3f0133c1ea960313f1fdba8bbc887e0605fef05524",
+      "title": "Perplexity Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.perplexity.ai/hub/security"
+      ]
+    },
+    {
+      "url": "https://www.perplexity.ai/hub/security",
+      "finalUrl": "https://www.perplexity.ai/hub/security",
+      "status": "success",
+      "sha256": "ae219721a52318b367615704e38c3966bc2c71d917e3554f28217897913d4e6a",
+      "title": "Security at Perplexity",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

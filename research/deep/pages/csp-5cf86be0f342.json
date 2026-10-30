@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5cf86be0f342",
+  "retrievedAt": "2026-10-30T11:01:50.770Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://app.orcasecurity-gov.io/",
+      "finalUrl": "https://app.orcasecurity-gov.io/",
+      "status": "success",
+      "sha256": "7ddc03fcf0eb940a0a6de777288bd0fef32db0327bb02c475f9540d65521aea0",
+      "title": "Orca Security",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "providerId": "csp-2f950f206549",
+  "retrievedAt": "2026-10-30T11:01:41.044Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.meridianks.com/",
+      "finalUrl": "https://meridianks.com/",
+      "status": "success",
+      "sha256": "83e33fce351b51c703d5c68c8ca03b0a0c4237f2e030b061fda28cd56ed369fb",
+      "title": "LMS for Complex Government & Enterprise Learning | Meridian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://meridianks.com/industries/federal-government/",
+        "https://meridianks.com/industries/state-government/",
+        "https://meridianks.com/industries/local-government/",
+        "https://meridianks.com/meridian-lms-product-features-briefs/",
+        "https://meridianks.com/about/",
+        "https://meridianks.com/product/features/security-compliance/",
+        "https://meridianks.com/case-study/the-society-of-actuaries-success-story/"
+      ]
+    },
+    {
+      "url": "https://meridianks.com/industries/federal-government/",
+      "finalUrl": "https://meridianks.com/industries/federal-government/",
+      "status": "success",
+      "sha256": "ca358d3758e2815adab23fd3f63d54d537cf503f01076fa370488b946bb42156",
+      "title": "Federal Government LMS for Secure Training | Meridian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://meridianks.com/industries/state-government/",
+        "https://meridianks.com/industries/local-government/",
+        "https://meridianks.com/meridian-lms-product-features-briefs/",
+        "https://meridianks.com/about/",
+        "https://meridianks.com/request-a-demo/",
+        "https://meridianks.com/white-paper/fedramp-20x-federal-lms-readiness-guide/",
+        "https://meridianks.com/industries/government-contractors-federal-systems-integrators/"
+      ]
+    },
+    {
+      "url": "https://meridianks.com/industries/state-government/",
+      "finalUrl": "https://meridianks.com/industries/state-government/",
+      "status": "success",
+      "sha256": "3cb229fadf7094e792f82e34823341d80e40e93905ed5917e90ae9b86f1bb7dc",
+      "title": "State Government LMS for Workforce Training | Meridian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://meridianks.com/industries/local-government/",
+        "https://meridianks.com/meridian-lms-product-features-briefs/",
+        "https://meridianks.com/about/"
+      ]
+    },
+    {
+      "url": "https://meridianks.com/industries/local-government/",
+      "finalUrl": "https://meridianks.com/industries/local-government/",
+      "status": "success",
+      "sha256": "0f4d6d29cdf2cded702bc21ecb2a569f4e4f4288015663f75775e0771e05bec2",
+      "title": "Local Government LMS for Training & Compliance | Meridian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://meridianks.com/meridian-lms-product-features-briefs/",
+        "https://meridianks.com/about/"
+      ]
+    }
+  ]
+}

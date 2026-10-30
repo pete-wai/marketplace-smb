@@ -1,0 +1,79 @@
+{
+  "providerId": "csp-e2af7ef61da7",
+  "retrievedAt": "2026-10-30T11:00:48.463Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.bluevoyantgov.com/",
+      "finalUrl": "https://www.bluevoyantgov.com/",
+      "status": "success",
+      "sha256": "0cd74547ec31cf4f8d505371d14ba31cc45a675008315060a37a87982c1b2eda",
+      "title": "BlueVoyant Government Solutions | Supply Chain Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluevoyantgov.com/customers",
+        "https://www.bluevoyantgov.com/customers/federal-civilian",
+        "https://www.bluevoyantgov.com/company",
+        "https://www.bluevoyantgov.com/company/team",
+        "https://www.bluevoyantgov.com/company/careers",
+        "https://www.bluevoyantgov.com/company/press-releases",
+        "https://www.bluevoyantgov.com/company/events",
+        "https://www.bluevoyantgov.com/company/contracts",
+        "https://www.bluevoyantgov.com/press-releases/carahsoft-partnership"
+      ]
+    },
+    {
+      "url": "https://www.bluevoyantgov.com/customers",
+      "finalUrl": "https://www.bluevoyantgov.com/customers",
+      "status": "success",
+      "sha256": "899b059f83b65f5e43bcee0457d0101ce6c684eb733f224328d05c205e48596a",
+      "title": "Customers | BlueVoyant",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluevoyantgov.com/customers/federal-civilian",
+        "https://www.bluevoyantgov.com/company",
+        "https://www.bluevoyantgov.com/company/team",
+        "https://www.bluevoyantgov.com/company/careers",
+        "https://www.bluevoyantgov.com/company/press-releases",
+        "https://www.bluevoyantgov.com/company/events",
+        "https://www.bluevoyantgov.com/company/contracts"
+      ]
+    },
+    {
+      "url": "https://www.bluevoyantgov.com/customers/federal-civilian",
+      "finalUrl": "https://www.bluevoyantgov.com/customers/federal-civilian",
+      "status": "success",
+      "sha256": "fcf205dbaaeeb16a219fe4a67833f6a6c84d15f459052596c0f6bb9f8787fc2f",
+      "title": "Federal Civilian | BlueVoyant",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bluevoyantgov.com/company",
+        "https://www.bluevoyantgov.com/company/team",
+        "https://www.bluevoyantgov.com/company/careers",
+        "https://www.bluevoyantgov.com/company/press-releases",
+        "https://www.bluevoyantgov.com/company/events",
+        "https://www.bluevoyantgov.com/company/contracts"
+      ]
+    },
+    {
+      "url": "https://www.bluevoyantgov.com/company",
+      "finalUrl": "https://www.bluevoyantgov.com/company",
+      "status": "success",
+      "sha256": "f62a77351eb2f99051a6b22a17d027399a367a0018a740e592d3d58a9994336d",
+      "title": "Company | BlueVoyant",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "rance Join our team BlueVoyant Government Solutions is an independent subsidiary of BlueVoyant built on years of experience securing the world’s most critical and hardened environments. Focused exclusively on U.S. and Allied government missions, we leverage human‑guided AI to provide"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.bluevoyantgov.com/company/team",
+        "https://www.bluevoyantgov.com/company/careers",
+        "https://www.bluevoyantgov.com/company/press-releases",
+        "https://www.bluevoyantgov.com/company/events",
+        "https://www.bluevoyantgov.com/company/contracts"
+      ]
+    }
+  ]
+}

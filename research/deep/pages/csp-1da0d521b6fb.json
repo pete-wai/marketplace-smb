@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1da0d521b6fb",
+  "retrievedAt": "2026-10-30T11:00:38.990Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.altana.ai/",
+      "finalUrl": "https://altana.ai/",
+      "status": "success",
+      "sha256": "2c9038051cd3d7f7010d1635b7038344d9afc5bdfbc0918f928c83891b9b5e0c",
+      "title": "Altana | The AI-Powered Network for Trusted Trade",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

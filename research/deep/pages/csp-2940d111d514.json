@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-2940d111d514",
+  "retrievedAt": "2026-10-30T11:01:41.387Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.mimecast.com/products/incydr/federal-agencies/",
+      "finalUrl": "https://www.mimecast.com/products/mimecast-plans/",
+      "status": "success",
+      "sha256": "a34edf920f07cbd67f04c89aea28e74b28cd30a9c19dd2beb0d0a19b50184f15",
+      "title": "Mimecast Plans | Mimecast",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mimecast.com/company/contact/",
+        "https://www.mimecast.com/company/",
+        "https://www.mimecast.com/company/awards/",
+        "https://www.mimecast.com/company/environmental-social-and-governance/",
+        "https://www.mimecast.com/company/mimecast-leadership/"
+      ]
+    },
+    {
+      "url": "https://www.mimecast.com/company/contact/",
+      "finalUrl": "https://www.mimecast.com/company/contact/",
+      "status": "success",
+      "sha256": "30d0b46623b7b6fa7a17f486ce730cecd81edde46d3208e8c50deeb1b9d79328",
+      "title": "Contact Us Today | Mimecast",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mimecast.com/company/",
+        "https://www.mimecast.com/company/awards/",
+        "https://www.mimecast.com/company/environmental-social-and-governance/",
+        "https://www.mimecast.com/company/corporate-social-responsibility/",
+        "https://www.mimecast.com/company/mimecast-leadership/"
+      ]
+    },
+    {
+      "url": "https://www.mimecast.com/company/",
+      "finalUrl": "https://www.mimecast.com/company/",
+      "status": "success",
+      "sha256": "8132bcc0e04e08e615f9c76c4f4ec3a63055587f8a7003c4bbda2bc624e0b70c",
+      "title": "Company Overview | Mimecast",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mimecast.com/company/awards/",
+        "https://www.mimecast.com/company/environmental-social-and-governance/",
+        "https://www.mimecast.com/company/mimecast-leadership/"
+      ]
+    },
+    {
+      "url": "https://www.mimecast.com/company/awards/",
+      "finalUrl": "https://www.mimecast.com/company/awards/",
+      "status": "success",
+      "sha256": "1ad7bd1391617ee1b354768be6eb5e9c326559c08f75ff6d0808cfd109b2929b",
+      "title": "Email Security Industry Awards | Mimecast | Mimecast",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mimecast.com/company/environmental-social-and-governance/",
+        "https://www.mimecast.com/company/mimecast-leadership/"
+      ]
+    }
+  ]
+}

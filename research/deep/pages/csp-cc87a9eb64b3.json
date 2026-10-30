@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-cc87a9eb64b3",
+  "retrievedAt": "2026-10-30T11:01:26.788Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.jcrinc.com/what-we-offer/software/do-more-with-tracers-with-amp/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

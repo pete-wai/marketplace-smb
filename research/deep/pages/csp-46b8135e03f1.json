@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-46b8135e03f1",
+  "retrievedAt": "2026-10-30T11:00:44.016Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://atxdefense.com/",
+      "finalUrl": "https://atxdefense.com/",
+      "status": "success",
+      "sha256": "713d38898d18a2aedc085a76e98002ead5a70f9dc10f0c70d6e9c2971a0c4e46",
+      "title": "ATX Home - ATX Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://atxdefense.com/capabilities/",
+        "https://atxdefense.com/capabilities/cmmc-assessments/",
+        "https://atxdefense.com/capabilities/cmmc-compliance/",
+        "https://atxdefense.com/capabilities/digital-transformation/",
+        "https://atxdefense.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://atxdefense.com/capabilities/cmmc-compliance/",
+      "finalUrl": "https://atxdefense.com/capabilities/cmmc-compliance/",
+      "status": "success",
+      "sha256": "026f73f921e1d3dcac7ff368f7dcb6e3fd90ef291dc993725b7180b7d66d7211",
+      "title": "CMMC Compliance - ATX Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://atxdefense.com/capabilities/",
+        "https://atxdefense.com/capabilities/cmmc-assessments/",
+        "https://atxdefense.com/capabilities/digital-transformation/",
+        "https://atxdefense.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://atxdefense.com/capabilities/",
+      "finalUrl": "https://atxdefense.com/capabilities/",
+      "status": "success",
+      "sha256": "3e103ebb2e340f9c1bace9808f6671824899809d3d6bebe07c0afc5078682939",
+      "title": "Capabilities - ATX Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://atxdefense.com/capabilities/cmmc-assessments/",
+        "https://atxdefense.com/capabilities/digital-transformation/",
+        "https://atxdefense.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://atxdefense.com/capabilities/cmmc-assessments/",
+      "finalUrl": "https://atxdefense.com/capabilities/cmmc-assessments/",
+      "status": "success",
+      "sha256": "e4cb999400742dd75b1a896ab1a1122f4623d8c898c09033c3d513eed5b49854",
+      "title": "CMMC Assessments - ATX Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://atxdefense.com/capabilities/digital-transformation/",
+        "https://atxdefense.com/about-us/"
+      ]
+    }
+  ]
+}

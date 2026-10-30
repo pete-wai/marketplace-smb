@@ -1,0 +1,70 @@
+{
+  "providerId": "csp-3908eaadb3d4",
+  "retrievedAt": "2026-10-30T11:00:42.195Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.asksage.ai/",
+      "finalUrl": "https://www.asksage.ai/",
+      "status": "success",
+      "sha256": "bb10e60c2c4f4c61d99f8823d17eac7b48032b59960284223b3b1919e108cb0a",
+      "title": "Home - Ask Sage - Generative AI Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.asksage.ai/who-we-serve/civilian-agencies/",
+        "https://www.asksage.ai/company/team/",
+        "https://www.asksage.ai/company/blog/",
+        "https://www.asksage.ai/company/newsroom/",
+        "https://www.asksage.ai/company/partner-ecosystem/",
+        "https://www.asksage.ai/company/contact/",
+        "https://www.asksage.ai/about/contact/"
+      ]
+    },
+    {
+      "url": "https://www.asksage.ai/who-we-serve/civilian-agencies/",
+      "finalUrl": "https://www.asksage.ai/who-we-serve/civilian-agencies/",
+      "status": "success",
+      "sha256": "2be5b9847a62737eabbd6aaa54494f64e2b8d84ad26b8205666271101d01853e",
+      "title": "Civilian Agencies - Ask Sage - Generative AI Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.asksage.ai/company/team/",
+        "https://www.asksage.ai/company/blog/",
+        "https://www.asksage.ai/company/newsroom/",
+        "https://www.asksage.ai/company/partner-ecosystem/",
+        "https://www.asksage.ai/company/contact/",
+        "https://www.asksage.ai/about/contact/"
+      ]
+    },
+    {
+      "url": "https://www.asksage.ai/company/team/",
+      "finalUrl": "https://www.asksage.ai/company/team/",
+      "status": "success",
+      "sha256": "5f70cb5a5c055dd2edb5b3838e40bf018e811a5104234cbdcb4c694260ad2c54",
+      "title": "Meet our Team - Ask Sage - Generative AI Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.asksage.ai/company/blog/",
+        "https://www.asksage.ai/company/newsroom/",
+        "https://www.asksage.ai/company/partner-ecosystem/",
+        "https://www.asksage.ai/company/contact/",
+        "https://www.asksage.ai/about/contact/"
+      ]
+    },
+    {
+      "url": "https://www.asksage.ai/company/blog/",
+      "finalUrl": "https://www.asksage.ai/company/blog/",
+      "status": "success",
+      "sha256": "1836784b0dc045cd2ade9b3e2529a50bb20e5302015ab8421d6968b625b56c29",
+      "title": "Blog - Ask Sage - Generative AI Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.asksage.ai/company/newsroom/",
+        "https://www.asksage.ai/company/partner-ecosystem/",
+        "https://www.asksage.ai/company/contact/",
+        "https://www.asksage.ai/about/contact/",
+        "https://www.asksage.ai/blog/the-operator-is-the-story-why-the-future-of-government-ai-belongs-to-builders/"
+      ]
+    }
+  ]
+}

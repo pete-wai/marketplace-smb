@@ -1,0 +1,93 @@
+{
+  "providerId": "csp-5910003416a6",
+  "retrievedAt": "2026-10-30T11:01:46.324Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.norc.org/about/departments/advanced-data-solutions-center.html",
+      "finalUrl": "https://www.norc.org/about/departments/advanced-data-solutions-center.html",
+      "status": "success",
+      "sha256": "cda6a3a294011f35203387ee6a1ecbf4bdbecd31f62b12106d52a1b2a0360ef0",
+      "title": "Advanced Data Solutions | NORC at the University of Chicago",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.norc.org/about/who-we-are.html",
+        "https://www.norc.org/about/leadership.html",
+        "https://www.norc.org/about/experts.html",
+        "https://www.norc.org/about/departments.html",
+        "https://www.norc.org/about/contract-vehicles.html",
+        "https://www.norc.org/about/people-and-culture.html",
+        "https://www.norc.org/about/careers.html",
+        "https://www.norc.org/about/careers/internship-program.html",
+        "https://www.norc.org/about.html",
+        "https://www.norc.org/about/departments/item0-about",
+        "https://www.norc.org/about/departments/item1-services",
+        "https://www.norc.org/about/departments/item2-products--partner-solutions"
+      ]
+    },
+    {
+      "url": "https://www.norc.org/about/who-we-are.html",
+      "finalUrl": "https://www.norc.org/about/who-we-are.html",
+      "status": "success",
+      "sha256": "5c2fb69cbefa3c4d8df38f06b3a890b2891280b00b798c01d0bb87b03fc1c599",
+      "title": "Who We Are | NORC at the University of Chicago",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "nd analysis for governments and organizations around the world. 300M+ Annual Revenue Our cutting-edge work is funded by national and international government agencies, foundations, corporate, and nonprofit clients who turn to NORC for objectivity and deep expertise. 100+ Countries NORC’s"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.norc.org/about/leadership.html",
+        "https://www.norc.org/about/experts.html",
+        "https://www.norc.org/about/departments.html",
+        "https://www.norc.org/about/contract-vehicles.html",
+        "https://www.norc.org/about/people-and-culture.html",
+        "https://www.norc.org/about/careers.html",
+        "https://www.norc.org/about/careers/internship-program.html",
+        "https://www.norc.org/about.html",
+        "https://www.norc.org/about/who-we-are/norc-history.html",
+        "https://www.norc.org/about/who-we-are/uchicago-affiliation.html",
+        "https://www.norc.org/about/who-we-are/corporate-impact.html"
+      ]
+    },
+    {
+      "url": "https://www.norc.org/about/leadership.html",
+      "finalUrl": "https://www.norc.org/about/leadership.html",
+      "status": "success",
+      "sha256": "9642ab65081f85e11865c87fa8aaceb325b7203325442ffe0ac72f8f69430860",
+      "title": "Leadership | NORC at the University of Chicago",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.norc.org/about/experts.html",
+        "https://www.norc.org/about/departments.html",
+        "https://www.norc.org/about/contract-vehicles.html",
+        "https://www.norc.org/about/people-and-culture.html",
+        "https://www.norc.org/about/careers.html",
+        "https://www.norc.org/about/careers/internship-program.html",
+        "https://www.norc.org/about.html",
+        "https://www.norc.org/about/item0-executive-team",
+        "https://www.norc.org/about/item1-senior-leadership",
+        "https://www.norc.org/about/item2-trustees",
+        "https://www.norc.org/about/experts/michael-davern.html",
+        "https://www.norc.org/about/experts/angela-debello.html"
+      ]
+    },
+    {
+      "url": "https://www.norc.org/about/experts.html",
+      "finalUrl": "https://www.norc.org/about/experts.html",
+      "status": "success",
+      "sha256": "8dcc6d5ba53b86b2603bb027943d640dcaafa63448ea94a93054ebd1a635098e",
+      "title": "Find an Expert | NORC at the University of Chicago",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.norc.org/about/departments.html",
+        "https://www.norc.org/about/contract-vehicles.html",
+        "https://www.norc.org/about/people-and-culture.html",
+        "https://www.norc.org/about/careers.html",
+        "https://www.norc.org/about/careers/internship-program.html",
+        "https://www.norc.org/about.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "RIPCORD INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QSMS26D002M&contractorName=RIPCORD+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-35159d31ae3c"
+  ],
+  "contractNumber": "47QSMS26D002M",
+  "retrievedAt": "2026-10-30T11:08:36.811Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:17.962Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

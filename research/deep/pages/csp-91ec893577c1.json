@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-91ec893577c1",
+  "retrievedAt": "2026-10-30T11:00:59.313Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.creativevet.com/",
+      "finalUrl": "https://www.creativevet.com/",
+      "status": "success",
+      "sha256": "d9838be0e12f938a5ffc44cc667e387db16cc9d0a6323f4d7e6382b42d0cbcdf",
+      "title": "",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

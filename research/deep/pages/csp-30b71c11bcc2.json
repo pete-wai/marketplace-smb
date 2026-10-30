@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-30b71c11bcc2",
+  "retrievedAt": "2026-10-30T11:02:27.540Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.veridix.com/",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "providerId": "csp-56817b335039",
+  "retrievedAt": "2026-10-30T11:01:20.133Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://h2o.ai/",
+      "finalUrl": "https://h2o.ai/",
+      "status": "success",
+      "sha256": "807588e2e304b2ff67cb81ad468737fcee2c15fa4c187b78540af2bcca064f15",
+      "title": "The Trusted Sovereign AI Platform | H2O.ai",
+      "signals": [],
+      "discoveredLinks": [
+        "https://h2o.ai/company/contact-us",
+        "https://h2o.ai/solutions/industry/government",
+        "https://h2o.ai/company/events",
+        "https://h2o.ai/company",
+        "https://h2o.ai/company/why-h2o",
+        "https://h2o.ai/company/team/leadership-team",
+        "https://h2o.ai/company/team/kaggle-grandmasters",
+        "https://h2o.ai/company/careers",
+        "https://h2o.ai/company/press-media"
+      ]
+    },
+    {
+      "url": "https://h2o.ai/company/contact-us",
+      "finalUrl": "https://h2o.ai/company/contact-us",
+      "status": "success",
+      "sha256": "b12e6d304cc81217e9348b6c4d7219121825fd463dda42f030b2e78e49022758",
+      "title": "Contact us | H2O.ai",
+      "signals": [],
+      "discoveredLinks": [
+        "https://h2o.ai/solutions/industry/government",
+        "https://h2o.ai/company/events",
+        "https://h2o.ai/company",
+        "https://h2o.ai/company/why-h2o",
+        "https://h2o.ai/company/team/leadership-team",
+        "https://h2o.ai/company/team/kaggle-grandmasters",
+        "https://h2o.ai/company/careers",
+        "https://h2o.ai/company/press-media"
+      ]
+    },
+    {
+      "url": "https://h2o.ai/solutions/industry/government",
+      "finalUrl": "https://h2o.ai/solutions/industry/government",
+      "status": "success",
+      "sha256": "40e237fba740028b19acc87320ba6838fc89ba2aa6a3e096a6f8c609cf0412c8",
+      "title": "Sovereign AI for the U.S. Federal Government | H2O.ai",
+      "signals": [],
+      "discoveredLinks": [
+        "https://h2o.ai/company/events",
+        "https://h2o.ai/company",
+        "https://h2o.ai/company/why-h2o",
+        "https://h2o.ai/company/team/leadership-team",
+        "https://h2o.ai/company/team/kaggle-grandmasters",
+        "https://h2o.ai/company/careers",
+        "https://h2o.ai/company/press-media",
+        "https://h2o.ai/solutions/use-case/government"
+      ]
+    },
+    {
+      "url": "https://h2o.ai/company/events",
+      "finalUrl": "https://h2o.ai/company/events",
+      "status": "success",
+      "sha256": "a9c3e343e56a6310d261d2a2eeb7b5a9ccb48256e6c942424b12bcbbc67956cc",
+      "title": "Events | H2O.ai",
+      "signals": [],
+      "discoveredLinks": [
+        "https://h2o.ai/company",
+        "https://h2o.ai/company/why-h2o",
+        "https://h2o.ai/company/team/leadership-team",
+        "https://h2o.ai/company/team/kaggle-grandmasters",
+        "https://h2o.ai/company/careers",
+        "https://h2o.ai/company/press-media",
+        "https://h2o.ai/company/events/huntsville-ai-ml-technology-exchange-2026",
+        "https://h2o.ai/company/events/sc26-supercomputing-2026",
+        "https://h2o.ai/company/events/nvidia-gtc-dc-2026",
+        "https://h2o.ai/company/events/tabh2o-in-action-a-hands-on-workshop-on-tabular-foundation-models",
+        "https://h2o.ai/company/events/zero-tuning-state-of-the-art-predictions-how-tabh2o-changes-tabular-ml",
+        "https://h2o.ai/company/events/h2o-ai-super-agent"
+      ]
+    }
+  ]
+}

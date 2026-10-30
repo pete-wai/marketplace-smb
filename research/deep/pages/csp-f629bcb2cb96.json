@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-f629bcb2cb96",
+  "retrievedAt": "2026-10-30T11:02:04.490Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://rescale.com/",
+      "finalUrl": "https://rescale.com/",
+      "status": "success",
+      "sha256": "426dd546ac4a0a5425a0cdc8fba17520fe8bee89629fb7fcb2804d24eba2ede1",
+      "title": "Rescale&#039;s Digital Engineering Platform, Built for the AI Era",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rescale.com/solutions/by-industry/government/",
+        "https://rescale.com/solutions/by-role/executives/",
+        "https://rescale.com/company/about/",
+        "https://rescale.com/company/careers/",
+        "https://rescale.com/company/investors/",
+        "https://rescale.com/company/legal/applicant-privacy-notice/",
+        "https://rescale.com/company/legal/ccpa/",
+        "https://rescale.com/company/legal/cookie-notice/",
+        "https://rescale.com/company/legal/customer-agreement/",
+        "https://rescale.com/company/legal/data-security-policy/",
+        "https://rescale.com/company/legal/privacy-policy/",
+        "https://rescale.com/company/legal/sla/"
+      ]
+    },
+    {
+      "url": "https://rescale.com/solutions/by-industry/government/",
+      "finalUrl": "https://rescale.com/solutions/by-industry/government/",
+      "status": "success",
+      "sha256": "9f8c0fae62fdf2d31cd1090c22f430c141afb4c0c4285686f187d4cbd3c29738",
+      "title": "HPC Cloud Solutions For Government | Rescale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rescale.com/solutions/by-role/executives/",
+        "https://rescale.com/company/about/",
+        "https://rescale.com/company/careers/",
+        "https://rescale.com/company/investors/",
+        "https://rescale.com/company/legal/applicant-privacy-notice/",
+        "https://rescale.com/company/legal/ccpa/",
+        "https://rescale.com/company/legal/cookie-notice/",
+        "https://rescale.com/company/legal/customer-agreement/",
+        "https://rescale.com/company/legal/data-security-policy/",
+        "https://rescale.com/company/legal/privacy-policy/",
+        "https://rescale.com/company/legal/sla/",
+        "https://rescale.com/company/legal/support-policy/"
+      ]
+    },
+    {
+      "url": "https://rescale.com/solutions/by-role/executives/",
+      "finalUrl": "https://rescale.com/solutions/by-role/executives/",
+      "status": "success",
+      "sha256": "9b4ca4483ab806f1a745026eae224409a932fb7960dcc6a5b52813de0fc640d7",
+      "title": "Cloud Computing Solutions for CxOs | Rescale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rescale.com/company/about/",
+        "https://rescale.com/company/careers/",
+        "https://rescale.com/company/investors/",
+        "https://rescale.com/company/legal/applicant-privacy-notice/",
+        "https://rescale.com/company/legal/ccpa/",
+        "https://rescale.com/company/legal/cookie-notice/",
+        "https://rescale.com/company/legal/customer-agreement/",
+        "https://rescale.com/company/legal/data-security-policy/",
+        "https://rescale.com/company/legal/privacy-policy/",
+        "https://rescale.com/company/legal/sla/",
+        "https://rescale.com/company/legal/support-policy/",
+        "https://rescale.com/company/legal"
+      ]
+    },
+    {
+      "url": "https://rescale.com/company/about/",
+      "finalUrl": "https://rescale.com/company/about/",
+      "status": "success",
+      "sha256": "4b7795c9481f27f3f41736370f263042d5550e012005e427180195605e8e7253",
+      "title": "About - Rescale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rescale.com/company/careers/",
+        "https://rescale.com/company/investors/",
+        "https://rescale.com/company/legal/applicant-privacy-notice/",
+        "https://rescale.com/company/legal/ccpa/",
+        "https://rescale.com/company/legal/cookie-notice/",
+        "https://rescale.com/company/legal/customer-agreement/",
+        "https://rescale.com/company/legal/data-security-policy/",
+        "https://rescale.com/company/legal/privacy-policy/",
+        "https://rescale.com/company/legal/sla/",
+        "https://rescale.com/company/legal/support-policy/",
+        "https://rescale.com/leadership/joris-poort/",
+        "https://rescale.com/leadership/adam-mckenzie/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-ea2c9d1f743f",
+  "retrievedAt": "2026-10-30T11:01:31.666Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://kovr.ai/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

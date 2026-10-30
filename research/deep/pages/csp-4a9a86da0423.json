@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-4a9a86da0423",
+  "retrievedAt": "2026-10-30T11:02:14.766Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.federalzengrc.com/",
+      "finalUrl": "https://www.steelpatriotpartners.com/",
+      "status": "success",
+      "sha256": "b0167e60bacea23c08f32ffe6916fe944c9ae39b6bab251693bd67950d8ffaa2",
+      "title": "Steel Patriot Partners | Cybersecurity & Compliance Experts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.steelpatriotpartners.com/about",
+        "https://www.steelpatriotpartners.com/about?hsLang=en",
+        "https://www.steelpatriotpartners.com/events/leadership-dinner-national-cyber-summit?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.steelpatriotpartners.com/about",
+      "finalUrl": "https://www.steelpatriotpartners.com/about",
+      "status": "success",
+      "sha256": "04789fde7ca44f0910cd853d175e715bb3612e2b15078c1e637081155fb22edf",
+      "title": "Who We Are",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.steelpatriotpartners.com/about?hsLang=en",
+      "finalUrl": "https://www.steelpatriotpartners.com/about",
+      "status": "success",
+      "sha256": "04789fde7ca44f0910cd853d175e715bb3612e2b15078c1e637081155fb22edf",
+      "title": "Who We Are",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.steelpatriotpartners.com/events/leadership-dinner-national-cyber-summit?hsLang=en",
+      "finalUrl": "https://www.steelpatriotpartners.com/events/leadership-dinner-national-cyber-summit?hsLang=en",
+      "status": "success",
+      "sha256": "e82e8de4aac460144ff30733d01056a4ec48f7297a37489d3513dcf8087fa1b5",
+      "title": "Leadership Dinner at National Cyber Summit",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

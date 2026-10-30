@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-c4309fa8d327",
+  "retrievedAt": "2026-10-30T11:00:59.486Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.crestpt.com/",
+      "finalUrl": "https://www.crestpt.com/",
+      "status": "success",
+      "sha256": "69cb08b182e5d97ca34490af18112ac8ba3f5142bf7ae87bd8c68d3d77886338",
+      "title": "Home | CrestPoint Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crestpt.com/government",
+        "https://www.crestpt.com/about"
+      ]
+    },
+    {
+      "url": "https://www.crestpt.com/government",
+      "finalUrl": "https://www.crestpt.com/government",
+      "status": "success",
+      "sha256": "fb87734a0fe64d72b15d5d6e866de5d6ae1957fde93155838d145b51731ba633",
+      "title": "Government | CrestPoint Solutions",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "nts to develop best case strategy to capture and retain maximum data. VETERAN OWNED CrestPoint Solutions is a Service Disabled Veteran Owned Small Business (SDVSOB) that provides a full range of solutions to Federal, State and Local Government Entities ranging"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.crestpt.com/about"
+      ]
+    },
+    {
+      "url": "https://www.crestpt.com/about",
+      "finalUrl": "https://www.crestpt.com/about",
+      "status": "success",
+      "sha256": "f5d8681b87b1c5ba54972c2b6bed5ad30f86d5071d9144ad7466cf4c2f2447d3",
+      "title": "About | CrestPoint Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

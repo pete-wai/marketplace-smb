@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-4259bbeceb42",
+  "retrievedAt": "2026-10-30T11:02:16.404Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tmetrics.com/industries/fedramp",
+      "finalUrl": "https://www.tmetrics.com/certifications/fedramp",
+      "status": "success",
+      "sha256": "8995d28081b72c867f0975c88feb3c3c7a7e88ada256a48b384ea2374a9fdbbf",
+      "title": "Contact Center | FedRAMP Authorized for Federal Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tmetrics.com/certifications/fedramp",
+        "https://www.tmetrics.com/about",
+        "https://www.tmetrics.com/support/sales-team"
+      ]
+    },
+    {
+      "url": "https://www.tmetrics.com/certifications/fedramp",
+      "finalUrl": "https://www.tmetrics.com/certifications/fedramp",
+      "status": "success",
+      "sha256": "8995d28081b72c867f0975c88feb3c3c7a7e88ada256a48b384ea2374a9fdbbf",
+      "title": "Contact Center | FedRAMP Authorized for Federal Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tmetrics.com/about",
+        "https://www.tmetrics.com/support/sales-team"
+      ]
+    },
+    {
+      "url": "https://www.tmetrics.com/about",
+      "finalUrl": "https://www.tmetrics.com/about",
+      "status": "success",
+      "sha256": "a0116196fc3953eb3df9fa006867741ef8247c5de49e6c436a7d94523399be2f",
+      "title": "Contact Center | About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tmetrics.com/support/sales-team"
+      ]
+    },
+    {
+      "url": "https://www.tmetrics.com/support/sales-team",
+      "finalUrl": "https://www.tmetrics.com/support/sales-team",
+      "status": "success",
+      "sha256": "9095304a463fef1f322e9ad2239862efb0d2ff4df5a6c0401fc424a8d239353d",
+      "title": "Contact Center | Contact T-Metrics Sales",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

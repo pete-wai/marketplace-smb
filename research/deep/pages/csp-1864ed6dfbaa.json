@@ -1,0 +1,70 @@
+{
+  "providerId": "csp-1864ed6dfbaa",
+  "retrievedAt": "2026-10-30T11:01:16.039Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.filevine.com/integrations/vinesign/",
+      "finalUrl": "https://www.filevine.com/integrations/vinesign/",
+      "status": "success",
+      "sha256": "769f622103b45669a2ad70632fefb120876d1ae205bd937afd149cefd20f2ab6",
+      "title": "Vinesign | Filevine",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.filevine.com/practice-types/federal-government/",
+        "https://www.filevine.com/company/events/",
+        "https://www.filevine.com/about/",
+        "https://www.filevine.com/company/jobs/",
+        "https://www.filevine.com/company/contact-us/",
+        "https://www.filevine.com/practice-types/personal-injury/",
+        "https://www.filevine.com/demo-request/"
+      ]
+    },
+    {
+      "url": "https://www.filevine.com/practice-types/federal-government/",
+      "finalUrl": "https://www.filevine.com/practice-types/federal-government/",
+      "status": "success",
+      "sha256": "1c1d338690069cd2ed9513bf66623049665b90a6d95c91ffd048410aadfee585",
+      "title": "Federal Government | Intelligent Agency Legal and Operational System for Modern Federal Work | Filevine",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.filevine.com/company/events/",
+        "https://www.filevine.com/about/",
+        "https://www.filevine.com/company/jobs/",
+        "https://www.filevine.com/company/contact-us/",
+        "https://www.filevine.com/practice-types/personal-injury/",
+        "https://www.filevine.com/demo-request/",
+        "https://www.filevine.com/security/",
+        "https://www.filevine.com/blog/government-legal-offices-can-modernize-and-improve-compliance/",
+        "https://www.filevine.com/webinars/filevines-commitment-to-government-security-compliance/watch/"
+      ]
+    },
+    {
+      "url": "https://www.filevine.com/company/events/",
+      "finalUrl": "https://www.filevine.com/events/",
+      "status": "success",
+      "sha256": "9381f8b0ead320c15dcd2d3adca1c5729ece3097c7661d3a5c1503933bbef43f",
+      "title": "Events | Filevine",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.filevine.com/about/",
+        "https://www.filevine.com/company/jobs/",
+        "https://www.filevine.com/company/contact-us/",
+        "https://www.filevine.com/practice-types/personal-injury/"
+      ]
+    },
+    {
+      "url": "https://www.filevine.com/about/",
+      "finalUrl": "https://www.filevine.com/about/",
+      "status": "success",
+      "sha256": "ad27f8053224d7596a61d7ec7050ad69fb6b422da3533cfa7c9284108bf13e80",
+      "title": "About | Filevine",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.filevine.com/company/jobs/",
+        "https://www.filevine.com/company/contact-us/",
+        "https://www.filevine.com/practice-types/personal-injury/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "TURNING POINT GLOBAL SOLUTIONS LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA20D0066&contractorName=TURNING+POINT+GLOBAL+SOLUTIONS+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-203d98bc30d4"
+  ],
+  "contractNumber": "47QTCA20D0066",
+  "retrievedAt": "2026-10-30T11:09:09.224Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:22.189Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

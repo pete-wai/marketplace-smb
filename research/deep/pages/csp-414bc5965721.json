@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-414bc5965721",
+  "retrievedAt": "2026-10-30T11:02:09.739Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://secureframe.com/",
+      "finalUrl": "https://secureframe.com/",
+      "status": "success",
+      "sha256": "399659c5428e38c637df75b1f0b8c48dedadbe59a1f4ebd4a1355aac7894d07f",
+      "title": "Secureframe: Build trust. Unlock growth.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://secureframe.com/company-small",
+        "https://secureframe.com/company-enterprise",
+        "https://secureframe.com/about"
+      ]
+    },
+    {
+      "url": "https://secureframe.com/company-small",
+      "finalUrl": "https://secureframe.com/company-small",
+      "status": "success",
+      "sha256": "3829f2194f62fdca17da00a5e892b3aec6d49cdda7d3496be33041cd27840953",
+      "title": "Secureframe for Growing Businesses",
+      "signals": [],
+      "discoveredLinks": [
+        "https://secureframe.com/de-de/company-small",
+        "https://secureframe.com/es-es/company-small",
+        "https://secureframe.com/fr-fr/company-small",
+        "https://secureframe.com/company-enterprise",
+        "https://secureframe.com/about"
+      ]
+    },
+    {
+      "url": "https://secureframe.com/company-enterprise",
+      "finalUrl": "https://secureframe.com/company-enterprise",
+      "status": "success",
+      "sha256": "711068a92e477d1f56cbed14a0030adcbae92834f1f15ab11d83e297c5def774",
+      "title": "Secureframe for Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://secureframe.com/de-de/company-enterprise",
+        "https://secureframe.com/es-es/company-enterprise",
+        "https://secureframe.com/fr-fr/company-enterprise",
+        "https://secureframe.com/about"
+      ]
+    },
+    {
+      "url": "https://secureframe.com/about",
+      "finalUrl": "https://secureframe.com/about",
+      "status": "success",
+      "sha256": "0880bffc2384c1edfeaf20e3a0dfa924a83594217e20073b16623c2fe67efa6f",
+      "title": "A more efficient way to manage security and compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://secureframe.com/de-de/about",
+        "https://secureframe.com/es-es/about",
+        "https://secureframe.com/fr-fr/about"
+      ]
+    }
+  ]
+}

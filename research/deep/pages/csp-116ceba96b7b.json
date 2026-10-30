@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-116ceba96b7b",
+  "retrievedAt": "2026-10-30T11:01:46.730Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.nozominetworks.com/",
+      "finalUrl": "https://www.nozominetworks.com/",
+      "status": "success",
+      "sha256": "01f7d1a94343f8550ebbaaf9a5318abd03a584b0dc6478a903b64f52e0568b2b",
+      "title": "The Leader in OT Cybersecurity Technology | Nozomi Networks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nozominetworks.com/company/careers",
+        "https://www.nozominetworks.com/industries/federal-government",
+        "https://www.nozominetworks.com/industries/state-local-government",
+        "https://www.nozominetworks.com/company",
+        "https://www.nozominetworks.com/company/leadership",
+        "https://www.nozominetworks.com/company/newsroom",
+        "https://www.nozominetworks.com/company/contact-us",
+        "https://www.nozominetworks.com/blog/php2shell-what-ot-and-iot-teams-need-to-know-about-cve-2026-109618-and-cve-2026-109619"
+      ]
+    },
+    {
+      "url": "https://www.nozominetworks.com/company/careers",
+      "finalUrl": "https://www.nozominetworks.com/company/careers",
+      "status": "success",
+      "sha256": "e96f6f642b82de95a6b045df304bf1e3beafcf8db5010e70e9e14e735bc3e0a5",
+      "title": "Careers | Nozomi Networks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nozominetworks.com/industries/federal-government",
+        "https://www.nozominetworks.com/industries/state-local-government",
+        "https://www.nozominetworks.com/company",
+        "https://www.nozominetworks.com/company/leadership",
+        "https://www.nozominetworks.com/company/newsroom",
+        "https://www.nozominetworks.com/company/contact-us",
+        "https://www.nozominetworks.com/company/$%7Blink%7D"
+      ]
+    },
+    {
+      "url": "https://www.nozominetworks.com/industries/federal-government",
+      "finalUrl": "https://www.nozominetworks.com/industries/federal-government",
+      "status": "success",
+      "sha256": "b65ec01d259102281b142c9fce71b803003d6e71c1a64a35150d898ffa416cb8",
+      "title": "Cybersecurity for the Federal Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nozominetworks.com/industries/state-local-government",
+        "https://www.nozominetworks.com/company",
+        "https://www.nozominetworks.com/company/leadership",
+        "https://www.nozominetworks.com/company/newsroom",
+        "https://www.nozominetworks.com/company/contact-us",
+        "https://www.nozominetworks.com/blog/the-federal-government-needs-to-address-ot-iot-security-now",
+        "https://www.nozominetworks.com/resources/binding-operational-directive-23-01-improving-asset-visibility-and-vulnerability-detection-on-federal-networks",
+        "https://www.nozominetworks.com/blog/guide-to-national-cybersecurity-strategy-critical-infrastructure",
+        "https://www.nozominetworks.com/federal/federal-civilian",
+        "https://www.nozominetworks.com/federal/defense-intelligence"
+      ]
+    },
+    {
+      "url": "https://www.nozominetworks.com/industries/state-local-government",
+      "finalUrl": "https://www.nozominetworks.com/industries/state-local-government",
+      "status": "success",
+      "sha256": "5db5e8ca4f71d6ce524bad968018627e1cb4b22a4cf5d00467163bcbac798e39",
+      "title": "State & Local Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nozominetworks.com/company",
+        "https://www.nozominetworks.com/company/leadership",
+        "https://www.nozominetworks.com/company/newsroom",
+        "https://www.nozominetworks.com/company/contact-us"
+      ]
+    }
+  ]
+}

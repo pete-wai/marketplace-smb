@@ -1,0 +1,70 @@
+{
+  "providerId": "csp-4f16da7cc79a",
+  "retrievedAt": "2026-10-30T11:02:32.844Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://yello.co/government-recruiting/",
+      "finalUrl": "https://yello.co/government-recruiting/",
+      "status": "success",
+      "sha256": "b33ce6da104bf77089b810aba82e81884bfcd78f6de05e4e8ad4b23f7b4dac18",
+      "title": "Government Recruiting Solutions - Yello",
+      "signals": [],
+      "discoveredLinks": [
+        "https://yello.co/government-recruiting/how-to-buy/",
+        "https://yello.co/blog/prepare-for-when-the-federal-hiring-freeze-lifts/",
+        "https://yello.co/blog/tech-driven-talent-transforming-public-sector-recruitment/",
+        "https://yello.co/blog/leveraging-technology-to-create-a-proactive-recruitment-program/",
+        "https://yello.co/about/implementation/",
+        "https://yello.co/about/",
+        "https://yello.co/about/newsroom/"
+      ]
+    },
+    {
+      "url": "https://yello.co/government-recruiting/how-to-buy/",
+      "finalUrl": "https://yello.co/government-recruiting/how-to-buy/",
+      "status": "success",
+      "sha256": "6f559d01a68a0eab94a288a1a865a9f7029fca644a36359a1e00f1a1fa3fcd28",
+      "title": "How to Buy - Yello",
+      "signals": [],
+      "discoveredLinks": [
+        "https://yello.co/about/implementation/",
+        "https://yello.co/about/",
+        "https://yello.co/about/newsroom/"
+      ]
+    },
+    {
+      "url": "https://yello.co/blog/prepare-for-when-the-federal-hiring-freeze-lifts/",
+      "finalUrl": "https://yello.co/blog/prepare-for-when-the-federal-hiring-freeze-lifts/",
+      "status": "success",
+      "sha256": "a4a6e34bfdd881ff6166744123ae4f41fe0486cc4838dc57e2190b5a8a1f194b",
+      "title": "Is your agency ready for when the federal hiring freeze lifts? - Yello",
+      "signals": [],
+      "discoveredLinks": [
+        "https://yello.co/blog/category/government-recruiting/",
+        "https://yello.co/blog/tech-driven-talent-transforming-public-sector-recruitment/",
+        "https://yello.co/blog/leveraging-technology-to-create-a-proactive-recruitment-program/",
+        "https://yello.co/blog/empowering-early-talent-in-the-federal-workforce/",
+        "https://yello.co/about/implementation/",
+        "https://yello.co/about/",
+        "https://yello.co/about/newsroom/"
+      ]
+    },
+    {
+      "url": "https://yello.co/blog/tech-driven-talent-transforming-public-sector-recruitment/",
+      "finalUrl": "https://yello.co/blog/tech-driven-talent-transforming-public-sector-recruitment/",
+      "status": "success",
+      "sha256": "59e1426d31ba4d1d6ea347c322aa920958c1573ca7999bebd96b5cdbbcccc6f1",
+      "title": "Tech Driven Talent: Transforming Public Sector Recruitment - Yello",
+      "signals": [],
+      "discoveredLinks": [
+        "https://yello.co/blog/category/government-recruiting/",
+        "https://yello.co/blog/leveraging-technology-to-create-a-proactive-recruitment-program/",
+        "https://yello.co/blog/empowering-early-talent-in-the-federal-workforce/",
+        "https://yello.co/about/implementation/",
+        "https://yello.co/about/",
+        "https://yello.co/about/newsroom/"
+      ]
+    }
+  ]
+}

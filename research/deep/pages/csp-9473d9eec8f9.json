@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-9473d9eec8f9",
+  "retrievedAt": "2026-10-30T11:01:08.623Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.egnyte.com/products/governance",
+      "finalUrl": "https://www.egnyte.com/products/governance",
+      "status": "success",
+      "sha256": "78263e79720e8aa1084e7141ee047a4c433fb69d9b3ef669d2c9ae4cef5f73dc",
+      "title": "Enterprise Data Governance & Security Solutions | Egnyte",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.egnyte.com/industries/public-sector",
+        "https://www.egnyte.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.egnyte.com/industries/public-sector",
+      "finalUrl": "https://www.egnyte.com/industries/public-sector",
+      "status": "success",
+      "sha256": "c36f7978485725b84cadaf75aeadb51b219b84db20afc83c0c2bf270541f30d0",
+      "title": "Secure Collaboration Solution for Public Sector Industries | Egnyte",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.egnyte.com/press-releases/egnyte-achieves-fedramp-moderate-equivalency-and-marketplace-listing-strengthening-secure-cloud-collaboration-for-the-public-sector",
+        "https://www.egnyte.com/blog/post/egnyte-and-fedramp-compliance-unlocking-new-opportunities-for-the-public-sector",
+        "https://www.egnyte.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.egnyte.com/about-us",
+      "finalUrl": "https://www.egnyte.com/about-us",
+      "status": "success",
+      "sha256": "56bd0855e391ea484f1a2974f3aefcea1f790f6bca2d0d7c6e9e5a1fd174716f",
+      "title": "About Egnyte Cloud Content Security Platform | Egnyte",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.egnyte.com/press-releases/egnyte-achieves-fedramp-moderate-equivalency-and-marketplace-listing-strengthening-secure-cloud-collaboration-for-the-public-sector",
+      "finalUrl": "https://www.egnyte.com/press-releases/egnyte-achieves-fedramp-moderate-equivalency-and-marketplace-listing-strengthening-secure-cloud-collaboration-for-the-public-sector",
+      "status": "success",
+      "sha256": "63e1ef75904a7704de8eab4c404535bcc2cdba198f5061f47850f743f4a408c0",
+      "title": "FedRAMP Compliance for Public Sector | Egnyte",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.egnyte.com/solutions/public-sector-industry"
+      ]
+    }
+  ]
+}

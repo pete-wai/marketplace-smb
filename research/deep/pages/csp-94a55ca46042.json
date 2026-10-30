@@ -1,0 +1,36 @@
+{
+  "providerId": "csp-94a55ca46042",
+  "retrievedAt": "2026-10-30T11:02:16.384Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://synergetics.com/openflis/",
+      "finalUrl": "https://synergetics.com/openflis/",
+      "status": "success",
+      "sha256": "f85c1f5c51fb2e6daff978d54a44edc810f9bf2c713813e4536d32020ac245e4",
+      "title": "OpenFLIS | Synergetics",
+      "signals": [],
+      "discoveredLinks": [
+        "https://synergetics.com/certifications-capabilities/",
+        "https://synergetics.com/certifications-capabilities",
+        "https://synergetics.com/about/",
+        "https://synergetics.com/services/"
+      ]
+    },
+    {
+      "url": "https://synergetics.com/certifications-capabilities/",
+      "status": "unavailable",
+      "reason": "HTTP 504"
+    },
+    {
+      "url": "https://synergetics.com/certifications-capabilities",
+      "status": "unavailable",
+      "reason": "HTTP 504"
+    },
+    {
+      "url": "https://synergetics.com/about/",
+      "status": "unavailable",
+      "reason": "HTTP 504"
+    }
+  ]
+}

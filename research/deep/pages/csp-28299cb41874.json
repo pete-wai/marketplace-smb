@@ -1,0 +1,80 @@
+{
+  "providerId": "csp-28299cb41874",
+  "retrievedAt": "2026-10-30T11:01:35.086Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.levelaccess.com/",
+      "finalUrl": "https://www.levelaccess.com/",
+      "status": "success",
+      "sha256": "832949db6c8bfd1a9a272d84890b981d77901ce4bbb0b991025b94e0baab7216",
+      "title": "End-to-End Digital Accessibility | Level Access",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelaccess.com/accessibility-for-the-public-sector/",
+        "https://www.levelaccess.com/product-knowledge/",
+        "https://www.levelaccess.com/news/",
+        "https://www.levelaccess.com/company/"
+      ]
+    },
+    {
+      "url": "https://www.levelaccess.com/accessibility-for-the-public-sector/",
+      "finalUrl": "https://www.levelaccess.com/accessibility-for-the-public-sector/",
+      "status": "success",
+      "sha256": "4fa75d089b00b9f5ce65a97678999c5bf9b50832b75aaf890b78cfa6a1613b7c",
+      "title": "Digital Accessibility for the Public Sector | Level Access",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelaccess.com/product-knowledge/",
+        "https://www.levelaccess.com/news/",
+        "https://www.levelaccess.com/company/",
+        "https://www.levelaccess.com/academy-and-training/",
+        "https://www.levelaccess.com/governance-and-program-management/",
+        "https://www.levelaccess.com/scale-a-program/"
+      ]
+    },
+    {
+      "url": "https://www.levelaccess.com/product-knowledge/",
+      "finalUrl": "https://www.levelaccess.com/product-knowledge/",
+      "status": "success",
+      "sha256": "21aad3583087914db673ada180d48a9ebf18685cb0929211ce7568ec9043ce4b",
+      "title": "Expert Insights & Resources in Accessibility Compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelaccess.com/news/",
+        "https://www.levelaccess.com/company/",
+        "https://www.levelaccess.com/resources/webinar-intelligent-accessibility-scale-your-impact-with-ai-advancements/",
+        "https://www.levelaccess.com/resources/webinar-product-release-spring-2025/",
+        "https://www.levelaccess.com/resources/webinar-release-in-a-box-winter-24/",
+        "https://www.levelaccess.com/resources/webinar-release-in-a-box-autumn-24-edition/",
+        "https://www.levelaccess.com/blog/ai-accessibility-tools-find-fix-and-prove-progress/",
+        "https://www.levelaccess.com/blog/how-to-embed-ai-in-your-accessibility-workflows/",
+        "https://www.levelaccess.com/blog/scale-your-impact-with-ai-summer-25-release-recap/",
+        "https://www.levelaccess.com/blog/test-smarter-deliver-better-spring-25-release-recap/",
+        "https://www.levelaccess.com/blog/mobile-testing-enhanced-reporting-and-more-winter-24-release-recap/"
+      ]
+    },
+    {
+      "url": "https://www.levelaccess.com/news/",
+      "finalUrl": "https://www.levelaccess.com/news/",
+      "status": "success",
+      "sha256": "78ee687db3258732a1e913bde06322effa6ea153abd07b52c0dddb8711dae566",
+      "title": "Press Releases | Level Access",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelaccess.com/company/",
+        "https://www.levelaccess.com/news/level-access-named-a-leader-in-the-2026-gartner-magic-quadrant-for-digital-accessibility-platforms/",
+        "https://www.levelaccess.com/news/press-releases-news/level-access-research-finds-broad-ai-adoption-isnt-closing-the-accessibility-gap/",
+        "https://www.levelaccess.com/news/press-releases-news/level-access-makes-inc-5000-for-the-tenth-time/",
+        "https://www.levelaccess.com/news/press-releases-news/level-access-now-available-in-the-microsoft-marketplace/",
+        "https://www.levelaccess.com/news/press-releases-news/level-access-unlocks-training-and-resources-for-global-accessibility-awareness-day/",
+        "https://www.levelaccess.com/news/level-access-supercharges-partner-program-to-accelerate-digital-accessibility/",
+        "https://www.levelaccess.com/news/research-finds-strong-link-between-digital-accessibility-and-business-growth/",
+        "https://www.levelaccess.com/news/level-access-recognized-as-a-leader-in-digital-accessibility/",
+        "https://www.levelaccess.com/news/level-access-launches-new-ai-agents-to-pioneer-the-next-wave-of-digital-accessibility/",
+        "https://www.levelaccess.com/news/8-in-10-top-u-k-retail-websites-have-critical-accessibility-issues/",
+        "https://www.levelaccess.com/news/level-access-accelerates-investment-in-ai-innovation/"
+      ]
+    }
+  ]
+}

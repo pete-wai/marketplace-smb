@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-51c5a9e3e9da",
+  "retrievedAt": "2026-10-30T11:02:20.123Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://thinktrends.co/",
+      "finalUrl": "https://thinktrends.co/",
+      "status": "success",
+      "sha256": "c02f34dbadf1c12f840ce4dd3601423a6a0784e85a8af242f4844a8c0b4adc50",
+      "title": "ThinkTrends | The Full-Lifecycle Agentic AI Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://thinktrends.co/press-releases/thinktrends-ai-platform-thinkchat-to-power-federal-health-agency-innovation-project"
+      ]
+    },
+    {
+      "url": "https://thinktrends.co/press-releases/thinktrends-ai-platform-thinkchat-to-power-federal-health-agency-innovation-project",
+      "finalUrl": "https://thinktrends.co/press-releases/thinktrends-ai-platform-thinkchat-to-power-federal-health-agency-innovation-project",
+      "status": "success",
+      "sha256": "618005205b2ea5e8aba706d109737a5b5152848fd97687a3abfed306e2e8975c",
+      "title": "ThinkChat Approved for Deployment at a U.S. Federal Health Agency: Agentic AI with Guardrails and MCP Server orchestration to power Ticketing Intelligence and a public information website chat agent",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "providerId": "csp-58c2655d4845",
+  "retrievedAt": "2026-10-30T11:02:26.865Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.vanta.com/",
+      "finalUrl": "https://www.vanta.com/",
+      "status": "success",
+      "sha256": "40af433a4cfbde3859066a4457d3cf57d4eea00202b63e08363abb620794758c",
+      "title": "SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.vanta.com/solutions/government",
+        "https://www.vanta.com/solutions/public-sector",
+        "https://www.vanta.com/company/about",
+        "https://www.vanta.com/company/security",
+        "https://www.vanta.com/company/press",
+        "https://www.vanta.com/company/careers",
+        "https://www.vanta.com/collection/soc-2",
+        "https://www.vanta.com/resourcetype/blogs",
+        "https://www.vanta.com/collection/cmmc"
+      ]
+    },
+    {
+      "url": "https://www.vanta.com/solutions/government",
+      "finalUrl": "https://www.vanta.com/solutions/government",
+      "status": "success",
+      "sha256": "1418afc08e92833ed4cc97f24afbf53eba7525b135691e65428eeec4c41a894a",
+      "title": "Vanta for Government | Government vendors and agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.vanta.com/solutions/public-sector",
+        "https://www.vanta.com/company/about",
+        "https://www.vanta.com/company/security",
+        "https://www.vanta.com/company/press",
+        "https://www.vanta.com/company/careers",
+        "https://www.vanta.com/collection/soc-2",
+        "https://www.vanta.com/resourcetype/blogs",
+        "https://www.vanta.com/collection/cmmc"
+      ]
+    },
+    {
+      "url": "https://www.vanta.com/solutions/public-sector",
+      "finalUrl": "https://www.vanta.com/solutions/government",
+      "status": "success",
+      "sha256": "1418afc08e92833ed4cc97f24afbf53eba7525b135691e65428eeec4c41a894a",
+      "title": "Vanta for Government | Government vendors and agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.vanta.com/company/about",
+        "https://www.vanta.com/company/security",
+        "https://www.vanta.com/company/press",
+        "https://www.vanta.com/company/careers",
+        "https://www.vanta.com/collection/soc-2",
+        "https://www.vanta.com/resourcetype/blogs",
+        "https://www.vanta.com/collection/cmmc"
+      ]
+    },
+    {
+      "url": "https://www.vanta.com/company/about",
+      "finalUrl": "https://www.vanta.com/company/about",
+      "status": "success",
+      "sha256": "87a558598c78b6352bb01153d77f17c9a0dee44a4736d434c3ce9311d7ff1a2f",
+      "title": "Vanta: About us",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "+ countries. Prior to Calendly, John was CFO at Seismic, helping grow annual revenue from approximately $100 million to $300 million. Earlier in his career, John was in finance leadership at ServiceNow and helped support the company’s growth through its"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.vanta.com/company/security",
+        "https://www.vanta.com/company/press",
+        "https://www.vanta.com/company/careers",
+        "https://www.vanta.com/collection/soc-2",
+        "https://www.vanta.com/resourcetype/blogs",
+        "https://www.vanta.com/collection/cmmc"
+      ]
+    }
+  ]
+}

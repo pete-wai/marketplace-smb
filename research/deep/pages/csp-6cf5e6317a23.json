@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-6cf5e6317a23",
+  "retrievedAt": "2026-10-30T11:02:12.943Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.smartsheet.com/solutions/federal-government",
+      "finalUrl": "https://www.smartsheet.com/solutions/government",
+      "status": "success",
+      "sha256": "0c4dc3cb52d87c0c147b3461743b394ec3ca15eb004acd36fdcaffb87abc0a74",
+      "title": "Government solutions | Smartsheet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.smartsheet.com/solutions/government",
+        "https://www.smartsheet.com/services/professional-services",
+        "https://www.smartsheet.com/content-center",
+        "https://www.smartsheet.com/customers/government-of-western-australia",
+        "https://www.smartsheet.com/about",
+        "https://www.smartsheet.com/about/leadership",
+        "https://www.smartsheet.com/about/corporate-responsibility",
+        "https://www.smartsheet.com/engage"
+      ]
+    },
+    {
+      "url": "https://www.smartsheet.com/solutions/government",
+      "finalUrl": "https://www.smartsheet.com/solutions/government",
+      "status": "success",
+      "sha256": "0c4dc3cb52d87c0c147b3461743b394ec3ca15eb004acd36fdcaffb87abc0a74",
+      "title": "Government solutions | Smartsheet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.smartsheet.com/services/professional-services",
+        "https://www.smartsheet.com/content-center",
+        "https://www.smartsheet.com/customers/government-of-western-australia",
+        "https://www.smartsheet.com/about",
+        "https://www.smartsheet.com/about/leadership",
+        "https://www.smartsheet.com/about/corporate-responsibility",
+        "https://www.smartsheet.com/engage"
+      ]
+    },
+    {
+      "url": "https://www.smartsheet.com/services/professional-services",
+      "finalUrl": "https://www.smartsheet.com/services/professional-services",
+      "status": "success",
+      "sha256": "2a186f69e23c10677456903b402245d65d1abba1cebae253157c87599bf5a6cf",
+      "title": "Smartsheet Professional Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.smartsheet.com/content-center",
+        "https://www.smartsheet.com/about",
+        "https://www.smartsheet.com/about/leadership",
+        "https://www.smartsheet.com/about/corporate-responsibility",
+        "https://www.smartsheet.com/engage"
+      ]
+    },
+    {
+      "url": "https://www.smartsheet.com/content-center",
+      "finalUrl": "https://www.smartsheet.com/content-center",
+      "status": "success",
+      "sha256": "8ac1f886abb1ffc15b88773b0b9f467fe3d0715971b6676ca864a75baf9b7ea1",
+      "title": "Content Center | Smartsheet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.smartsheet.com/content-center/leadership",
+        "https://www.smartsheet.com/content-center/inside-smartsheet/company-news/smartsheet-leader-gartner-mq-cwm-2026",
+        "https://www.smartsheet.com/content-center/inside-smartsheet/company-news",
+        "https://www.smartsheet.com/content/program-management-office",
+        "https://www.smartsheet.com/about",
+        "https://www.smartsheet.com/about/leadership",
+        "https://www.smartsheet.com/about/corporate-responsibility",
+        "https://www.smartsheet.com/engage"
+      ]
+    }
+  ]
+}

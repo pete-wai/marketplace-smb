@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-108f8078fb77",
+  "retrievedAt": "2026-10-30T11:02:25.120Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ultra.security/",
+      "finalUrl": "https://ultra.security/",
+      "status": "success",
+      "sha256": "68ba3015f4aff847dada177c011d601a99f5e37362079f7b620da99ebd616c24",
+      "title": "Ultra Security - Runtime security for AI agents",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ultra.security/about"
+      ]
+    },
+    {
+      "url": "https://ultra.security/about",
+      "finalUrl": "https://ultra.security/about",
+      "status": "success",
+      "sha256": "5f32b32808571613772194dbc291ebe93363fc3ea86512269dbf894325791c11",
+      "title": "About - Ultra Security",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

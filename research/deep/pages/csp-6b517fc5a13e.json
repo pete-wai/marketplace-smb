@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-6b517fc5a13e",
+  "retrievedAt": "2026-10-30T11:01:41.802Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.mis-sciences.com/",
+      "finalUrl": "https://www.mis-sciences.com/",
+      "status": "success",
+      "sha256": "0fd16f651f805014f74d99cc6bba5f653fbab00e054e64a19585370b10c6e113",
+      "title": "GovPoint | FedRAMP JAB ATO IaaS PaaS SaaS AUaaS | Private FedRAMP Cloud | MIS Sciences Corporation",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": " 100% hardware and network redundancy. Data Center info. MIS Sciences is an SBA certified Woman Owned Small Business. Documents GovPoint Authorization as a Service GovPoint Data Sheet GovPoint FedRAMP SLA MIS Master Services Agreement (MSA) MIS Acceptable Use Policy"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.mis-sciences.com/",
+        "https://www.mis-sciences.com/gsainformation"
+      ]
+    },
+    {
+      "url": "https://www.mis-sciences.com/",
+      "finalUrl": "https://www.mis-sciences.com/",
+      "status": "success",
+      "sha256": "0fd16f651f805014f74d99cc6bba5f653fbab00e054e64a19585370b10c6e113",
+      "title": "GovPoint | FedRAMP JAB ATO IaaS PaaS SaaS AUaaS | Private FedRAMP Cloud | MIS Sciences Corporation",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": " 100% hardware and network redundancy. Data Center info. MIS Sciences is an SBA certified Woman Owned Small Business. Documents GovPoint Authorization as a Service GovPoint Data Sheet GovPoint FedRAMP SLA MIS Master Services Agreement (MSA) MIS Acceptable Use Policy"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.mis-sciences.com/gsainformation"
+      ]
+    },
+    {
+      "url": "https://www.mis-sciences.com/gsainformation",
+      "finalUrl": "https://www.mis-sciences.com/gsainformation",
+      "status": "success",
+      "sha256": "4a5ad33acde0a3c0978b27c37185e8c6e474e01e1de6d8d5ac8719612ff1eb59",
+      "title": "MIS Sciences Corp | GSA Information",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "5 1.877.262.3923 1.818.847.0214 &ndash; FAX info@mis-sciences.com ​ ​ Woman Owned Small Business (WOSB) | FedRAMP IaaS/PaaS/SaaS (JAB P-ATO) | Copyright 2007 - 2024 MIS Sciences Corporation bottom of page"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

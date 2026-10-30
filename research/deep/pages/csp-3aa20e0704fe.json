@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-3aa20e0704fe",
+  "retrievedAt": "2026-10-30T11:02:27.422Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.veracode.com/",
+      "finalUrl": "https://www.veracode.com/",
+      "status": "success",
+      "sha256": "6f739ff0cb9a60a9de05c8ba204eec2416f7a99afcd2ef7b55d3ab8779367aa5",
+      "title": "Application Risk Management: Secure Your Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.veracode.com/solutions/public-sector/",
+        "https://www.veracode.com/about/",
+        "https://www.veracode.com/about/careers/",
+        "https://www.veracode.com/about/leadership/",
+        "https://www.veracode.com/about/certifications/",
+        "https://www.veracode.com/about/sustainability-governance/"
+      ]
+    },
+    {
+      "url": "https://www.veracode.com/solutions/public-sector/",
+      "finalUrl": "https://www.veracode.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "89d7efbd56722a60da46f561be03d896ab78583255267c8310bb1add38326d04",
+      "title": "Public Sector Solutions | Veracode",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.veracode.com/about/",
+        "https://www.veracode.com/about/careers/",
+        "https://www.veracode.com/about/leadership/",
+        "https://www.veracode.com/about/certifications/",
+        "https://www.veracode.com/about/sustainability-governance/"
+      ]
+    },
+    {
+      "url": "https://www.veracode.com/about/",
+      "finalUrl": "https://www.veracode.com/about/",
+      "status": "success",
+      "sha256": "81ab7b5ea101054de11f28f64a2ea588c9a8d85c48fefe768d7881e80c0cfba2",
+      "title": "About Veracode: Leading the Future of Application Security",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "of research and development at security consultancy @stake, which was acquired by Symantec. In the 1990s, Chris was one of the original vulnerability researchers at The L0pht, a hacker think tank, where he was one of the first to publicize"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.veracode.com/about/careers/",
+        "https://www.veracode.com/about/leadership/",
+        "https://www.veracode.com/about/certifications/",
+        "https://www.veracode.com/about/sustainability-governance/"
+      ]
+    },
+    {
+      "url": "https://www.veracode.com/about/careers/",
+      "finalUrl": "https://www.veracode.com/about/careers/",
+      "status": "success",
+      "sha256": "94175ca65846003d31c4a110a66e81ffd75df88dec9d6f7bc218c3abd78f6b42",
+      "title": "Careers in Software Security | Veracode",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.veracode.com/about/leadership/",
+        "https://www.veracode.com/about/certifications/",
+        "https://www.veracode.com/about/sustainability-governance/",
+        "https://www.veracode.com/newsroom/"
+      ]
+    }
+  ]
+}

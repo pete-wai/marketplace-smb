@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-5529594bb5d3",
+  "retrievedAt": "2026-10-30T11:02:16.867Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.talkdesk.com/call-center-solutions/government-education/government/",
+      "finalUrl": "https://www.talkdesk.com/call-center-solutions/government-education/government/",
+      "status": "success",
+      "sha256": "6a3a1a88acef8cda4969f684ebcecca0b816b827400124fcc4099cf2f08dfacb",
+      "title": "Government Contact Center Solutions | Talkdesk CX Cloud Government Edition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.talkdesk.com/es-es/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/de-de/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/it-it/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-pt/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-br/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/request-demo/government/",
+        "https://www.talkdesk.com/call-center-solutions/government-education/",
+        "https://www.talkdesk.com/call-center-solutions/government-education/higher-education/",
+        "https://www.talkdesk.com/call-center-solutions/government-education/citizen-engagement/",
+        "https://www.talkdesk.com/about/cx-awards/",
+        "https://www.talkdesk.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.talkdesk.com/es-es/call-center-solutions/government-education/government/",
+      "finalUrl": "https://www.talkdesk.com/es-es/call-center-solutions/government-education/government/",
+      "status": "success",
+      "sha256": "83c87103a148dab5ccc01b6a973d58c082c13ff304d0cc4ff799818bd6e32aaa",
+      "title": "Soluciones de Centros de Contacto para la Administración Pública | Talkdesk CX Cloud Government Edition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.talkdesk.com/de-de/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/it-it/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-pt/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-br/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/es-es/request-demo/government/",
+        "https://www.talkdesk.com/es-es/call-center-solutions/government-education/",
+        "https://www.talkdesk.com/es-es/call-center-solutions/government-education/higher-education/",
+        "https://www.talkdesk.com/es-es/call-center-solutions/government-education/citizen-engagement/",
+        "https://www.talkdesk.com/es-es/about/cx-awards/",
+        "https://www.talkdesk.com/es-es/about/",
+        "https://www.talkdesk.com/es-es/about/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.talkdesk.com/de-de/call-center-solutions/government-education/government/",
+      "finalUrl": "https://www.talkdesk.com/de-de/call-center-solutions/government-education/government/",
+      "status": "success",
+      "sha256": "90c0afa37e804e5c292da019201e0f20cabe4f7eac040a309f9ab20829611736",
+      "title": "Contact Center-Lösungen für staatliche Stellen | Talkdesk CX Cloud Government Edition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/it-it/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-pt/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-br/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/de-de/request-demo/government/",
+        "https://www.talkdesk.com/de-de/call-center-solutions/government-education/",
+        "https://www.talkdesk.com/de-de/call-center-solutions/government-education/higher-education/",
+        "https://www.talkdesk.com/de-de/call-center-solutions/government-education/citizen-engagement/",
+        "https://www.talkdesk.com/de-de/about/cx-awards/",
+        "https://www.talkdesk.com/de-de/about/",
+        "https://www.talkdesk.com/de-de/about/leadership/",
+        "https://www.talkdesk.com/de-de/about/awards-and-recognition/"
+      ]
+    },
+    {
+      "url": "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/government/",
+      "finalUrl": "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/government/",
+      "status": "success",
+      "sha256": "5728bbb8d4e1f9f4829b83a57e254554d964f7a030d68c76d48c04fe91a2c94d",
+      "title": "Solutions pour centres de contact gouvernementaux | Talkdesk CX Cloud Government Edition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.talkdesk.com/it-it/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-pt/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/pt-br/call-center-solutions/government-education/government/",
+        "https://www.talkdesk.com/fr-fr/request-demo/government/",
+        "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/",
+        "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/higher-education/",
+        "https://www.talkdesk.com/fr-fr/call-center-solutions/government-education/citizen-engagement/",
+        "https://www.talkdesk.com/fr-fr/about/cx-awards/",
+        "https://www.talkdesk.com/fr-fr/about/",
+        "https://www.talkdesk.com/fr-fr/about/leadership/",
+        "https://www.talkdesk.com/fr-fr/about/awards-and-recognition/"
+      ]
+    }
+  ]
+}

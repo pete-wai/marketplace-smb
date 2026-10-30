@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-d697f0fa44e6",
+  "retrievedAt": "2026-10-30T11:01:25.181Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.iomovo.io/trust",
+      "finalUrl": "https://www.iomovo.io/trust",
+      "status": "success",
+      "sha256": "7d4ccfafd8b650497e741843d8134985d6ca46d5876c3f79cb93cda498f11d1e",
+      "title": "Security and Trust | ioMoVo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.iomovo.io/solutions/b2g-software",
+        "https://www.iomovo.io/about-us",
+        "https://www.iomovo.io/about/jay-hajeer",
+        "https://www.iomovo.io/"
+      ]
+    },
+    {
+      "url": "https://www.iomovo.io/solutions/b2g-software",
+      "finalUrl": "https://www.iomovo.io/solutions/b2g-software",
+      "status": "success",
+      "sha256": "ad0b12b4d5931617e873cd16bf992403661562a25baaacf226d23279e516efee",
+      "title": "Government Digital Asset and Document Management | ioMoVo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.iomovo.io/about-us",
+        "https://www.iomovo.io/about/jay-hajeer",
+        "https://www.iomovo.io/contact-us"
+      ]
+    },
+    {
+      "url": "https://www.iomovo.io/about-us",
+      "finalUrl": "https://www.iomovo.io/about-us",
+      "status": "success",
+      "sha256": "9a21658b6ee89a00da0ff154c9b7e034db1d4add2708375a9cf118ac51b54579",
+      "title": "About ioMoVo: Revolutionizing Digital Asset Management with AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.iomovo.io/about/jay-hajeer",
+        "https://www.iomovo.io/ar/about-us",
+        "https://www.iomovo.io/es/about-us"
+      ]
+    },
+    {
+      "url": "https://www.iomovo.io/about/jay-hajeer",
+      "finalUrl": "https://www.iomovo.io/about/jay-hajeer",
+      "status": "success",
+      "sha256": "012df8c91b30d5be941f5e32528bbdac7720f4226aa8ae539a62168081fbf635",
+      "title": "Jay Hajeer — Founder & CEO | ioMoVo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.iomovo.io/ar/about/jay-hajeer",
+        "https://www.iomovo.io/es/about/jay-hajeer"
+      ]
+    }
+  ]
+}

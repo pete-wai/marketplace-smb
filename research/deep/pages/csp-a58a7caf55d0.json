@@ -1,0 +1,17 @@
+{
+  "providerId": "csp-a58a7caf55d0",
+  "retrievedAt": "2026-10-30T11:02:32.623Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.xtec.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.xtec.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

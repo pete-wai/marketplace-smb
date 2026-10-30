@@ -1,0 +1,93 @@
+{
+  "providerId": "csp-4ad374c47b3b",
+  "retrievedAt": "2026-10-30T11:01:32.354Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://laerdal.com/products/simulation-training/operate-assess-debrief/simcapture/",
+      "finalUrl": "https://www.laerdal.com/us/products/simulation-training/operate-assess-debrief/simcapture/",
+      "status": "success",
+      "sha256": "b2950882d6fb97289617c6b34ea43e437857a5d198e6c194bf9adbfe0d6d2969",
+      "title": "SimCapture | Laerdal Medical",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.laerdal.com/us/about-us/samaritan/",
+        "https://www.laerdal.com/us/about-us/",
+        "https://www.laerdal.com/us/about-us/laerdal-group/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/summer-internship/",
+        "https://www.laerdal.com/us/about-us/sustainability/",
+        "https://www.laerdal.com/us/about-us/corporate-social-responsibility/",
+        "https://www.laerdal.com/us/about-us/sustainability-awards/",
+        "https://www.laerdal.com/us/about-us/laerdal-report-on-sustainability/",
+        "https://www.laerdal.com/us/about-us/our-partners/"
+      ]
+    },
+    {
+      "url": "https://www.laerdal.com/us/about-us/samaritan/",
+      "finalUrl": "https://www.laerdal.com/us/about-us/samaritan/",
+      "status": "success",
+      "sha256": "696e3e1a82aff778f081dbca4ae7e8e7f7151ad9f3dcfc8999da9d35c6042fc8",
+      "title": "Samaritan - Responsible AI across Laerdal products | Laerdal Medical",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.laerdal.com/us/about-us/",
+        "https://www.laerdal.com/us/about-us/laerdal-group/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/summer-internship/",
+        "https://www.laerdal.com/us/about-us/sustainability/",
+        "https://www.laerdal.com/us/about-us/corporate-social-responsibility/",
+        "https://www.laerdal.com/us/about-us/sustainability-awards/",
+        "https://www.laerdal.com/la/about-us/samaritan/",
+        "https://www.laerdal.com/br/about-us/samaritan/",
+        "https://www.laerdal.com/ca/about-us/samaritan/",
+        "https://www.laerdal.com/mx/about-us/samaritan/",
+        "https://www.laerdal.com/au/about-us/samaritan/"
+      ]
+    },
+    {
+      "url": "https://www.laerdal.com/us/about-us/",
+      "finalUrl": "https://www.laerdal.com/us/about-us/",
+      "status": "success",
+      "sha256": "7dcc76526a615d85503d723ec9dc95d80df402a41de1da6eeb853898d6da918f",
+      "title": "This is Laerdal Medical &#x2013; Helping save lives | Laerdal Medical",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.laerdal.com/us/about-us/laerdal-group/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/summer-internship/",
+        "https://www.laerdal.com/us/about-us/sustainability/",
+        "https://www.laerdal.com/us/about-us/corporate-social-responsibility/",
+        "https://www.laerdal.com/us/about-us/sustainability-awards/",
+        "https://www.laerdal.com/la/about-us/",
+        "https://www.laerdal.com/br/about-us/",
+        "https://www.laerdal.com/ca/about-us/",
+        "https://www.laerdal.com/mx/about-us/",
+        "https://www.laerdal.com/au/about-us/",
+        "https://www.laerdal.com/cn/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.laerdal.com/us/about-us/laerdal-group/",
+      "finalUrl": "https://www.laerdal.com/us/about-us/laerdal-group/",
+      "status": "success",
+      "sha256": "2dcddb743b4ad636568d847a8cebf6cd9af43ffc601c1ab3c65fbeccba0a3552",
+      "title": "The Laerdal Group | Laerdal Medical",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/",
+        "https://www.laerdal.com/us/about-us/working-at-laerdal/summer-internship/",
+        "https://www.laerdal.com/us/about-us/sustainability/",
+        "https://www.laerdal.com/us/about-us/corporate-social-responsibility/",
+        "https://www.laerdal.com/us/about-us/sustainability-awards/",
+        "https://www.laerdal.com/la/about-us/laerdal-group/",
+        "https://www.laerdal.com/br/about-us/laerdal-group/",
+        "https://www.laerdal.com/ca/about-us/laerdal-group/",
+        "https://www.laerdal.com/mx/about-us/laerdal-group/",
+        "https://www.laerdal.com/au/about-us/laerdal-group/",
+        "https://www.laerdal.com/cn/about-us/laerdal-group/",
+        "https://www.laerdal.com/hk/about-us/laerdal-group/"
+      ]
+    }
+  ]
+}

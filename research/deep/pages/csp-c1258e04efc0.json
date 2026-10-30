@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-c1258e04efc0",
+  "retrievedAt": "2026-10-30T11:00:39.668Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.anitian.com/fedflex-platform-overview/",
+      "finalUrl": "https://www.anitian.com/fedflex-platform-overview/",
+      "status": "success",
+      "sha256": "35ba2b78ca9dd823d4ab050d4dab5ba855a45a4ce2843b72a9fc37efdf634ae0",
+      "title": "FedFlex Platform Overview | Anitian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.anitian.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.anitian.com/about/",
+      "finalUrl": "https://www.anitian.com/about/",
+      "status": "success",
+      "sha256": "f06867b7ce0cebd4382ca962c6a65b5b950ad6154d6730e4c2ba0ad1f72a5a12",
+      "title": "About | Anitian",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

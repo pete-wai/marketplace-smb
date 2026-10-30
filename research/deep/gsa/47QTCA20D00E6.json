@@ -1,0 +1,18 @@
+{
+  "name": "LEIDOS DIGITAL SOLUTIONS INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA20D00E6&contractorName=LEIDOS+DIGITAL+SOLUTIONS+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-3b57886c008d"
+  ],
+  "contractNumber": "47QTCA20D00E6",
+  "retrievedAt": "2026-10-30T11:07:52.150Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:12.024Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

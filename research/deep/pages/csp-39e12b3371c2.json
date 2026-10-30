@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-39e12b3371c2",
+  "retrievedAt": "2026-10-30T11:01:05.609Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.dssinc.com/",
+      "finalUrl": "https://www.dssinc.com/",
+      "status": "success",
+      "sha256": "011e1dce475c625b50ea9b571d744e98348b9ea0c194ab12237d5d53f1f53d05",
+      "title": "DSS, Inc",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dssinc.com/about-us",
+        "https://www.dssinc.com/federal-health-care",
+        "https://www.dssinc.com/vista-as-a-service",
+        "https://www.dssinc.com/fedhealth-forward/qa-what-vas-fedramp-shift-means-for-federal-cloud-innovation"
+      ]
+    },
+    {
+      "url": "https://www.dssinc.com/about-us",
+      "finalUrl": "https://www.dssinc.com/about-us",
+      "status": "success",
+      "sha256": "819ef11093e5c920703e1c6248b0c22f8e64e1699d3c70da37b654695d11764e",
+      "title": "About Us",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "A MAS IT 47QTCA23D005Q Supplier agreement with SEWP Vendors: Minburn (SDVOSB), Contract #NNG15SD34B Blue Tech (WOSB Hubzone), Contracts: NNG15SD00B, NNG15SC63B, NNG15SE16B Teaming agreements with SDVOSB and Large T4 awardees DSS Core Competencies and Process Learn More GSA Schedule View Corporate"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.dssinc.com/federal-health-care"
+      ]
+    },
+    {
+      "url": "https://www.dssinc.com/federal-health-care",
+      "finalUrl": "https://www.dssinc.com/federal-health-care",
+      "status": "success",
+      "sha256": "5edf0340dbb3bec517a30f2d635d3db1751264445738ad332560c4cce3a4880d",
+      "title": "Federal Health Care",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.dssinc.com/vista-as-a-service",
+      "finalUrl": "https://www.dssinc.com/vista-as-a-service",
+      "status": "success",
+      "sha256": "acad09d37e5755e55d8219791f09b81f20ffcb27264f5c6e98fd89487114a301",
+      "title": "VistA-as-a-Service",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "providerId": "csp-462922cd73c6",
+  "retrievedAt": "2026-10-30T11:01:00.800Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.dailypay.com/industries/public-sector/#public-sector-tabs",
+      "finalUrl": "https://www.dailypay.com/industries/public-sector/#public-sector-tabs",
+      "status": "success",
+      "sha256": "a46e46e2293878b043b9c16d50893e68c69eb6ec5c77634518e510c8971b018d",
+      "title": "Earned Wage Access for Public Sector Employees | DailyPay",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dailypay.com/industries/public-sector/",
+        "https://www.dailypay.com/resource-center/employee-turnover/",
+        "https://www.dailypay.com/about-us/",
+        "https://www.dailypay.com/resource-center/ebooks/transform-public-sector-total-rewards-with-earned-wage-access/",
+        "https://www.dailypay.com/resource-center/blog/attract-public-sector-employees-ewa/",
+        "https://www.dailypay.com/press-center/press-releases/dailypay-and-carahsoft-partner-to-bring-innovative-earned-wage-access/",
+        "https://www.dailypay.com/press-center/thought-leadership/its-time-to-change-pay-for-good-for-federal-employees/",
+        "https://www.dailypay.com/press-center/thought-leadership/",
+        "https://www.dailypay.com/resource-center/blog/how-financial-wellness-benefits-can-solve-federal-cybersecurity-workforce-challenges/",
+        "https://www.dailypay.com/press-center/press-releases/the-majority-of-american-teachers-are-stressed-about-their-finances/",
+        "https://www.dailypay.com/industries/public-sector/$%7BsiteUrl%7D"
+      ]
+    },
+    {
+      "url": "https://www.dailypay.com/industries/public-sector/",
+      "finalUrl": "https://www.dailypay.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "a46e46e2293878b043b9c16d50893e68c69eb6ec5c77634518e510c8971b018d",
+      "title": "Earned Wage Access for Public Sector Employees | DailyPay",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dailypay.com/resource-center/employee-turnover/",
+        "https://www.dailypay.com/about-us/",
+        "https://www.dailypay.com/resource-center/ebooks/transform-public-sector-total-rewards-with-earned-wage-access/",
+        "https://www.dailypay.com/resource-center/blog/attract-public-sector-employees-ewa/",
+        "https://www.dailypay.com/press-center/press-releases/dailypay-and-carahsoft-partner-to-bring-innovative-earned-wage-access/",
+        "https://www.dailypay.com/press-center/thought-leadership/its-time-to-change-pay-for-good-for-federal-employees/",
+        "https://www.dailypay.com/press-center/thought-leadership/",
+        "https://www.dailypay.com/resource-center/blog/how-financial-wellness-benefits-can-solve-federal-cybersecurity-workforce-challenges/",
+        "https://www.dailypay.com/press-center/press-releases/the-majority-of-american-teachers-are-stressed-about-their-finances/",
+        "https://www.dailypay.com/industries/public-sector/$%7BsiteUrl%7D"
+      ]
+    },
+    {
+      "url": "https://www.dailypay.com/resource-center/employee-turnover/",
+      "finalUrl": "https://www.dailypay.com/employee-turnover/",
+      "status": "success",
+      "sha256": "61f6354f68d75ec690eef1370075693f54e6dc9cb2a788c095576f92bf0bd709",
+      "title": "How to Reduce the Employee Turnover Rate at Your Company - DailyPay",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dailypay.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.dailypay.com/about-us/",
+      "finalUrl": "https://www.dailypay.com/about-us/",
+      "status": "success",
+      "sha256": "cdc7bf632b5f6e73a4bd33285a215c288f096734f39692839a1217ee6000b07f",
+      "title": "About DailyPay | On-Demand Pay & Earned Wage Access",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dailypay.com/about-us/board-of-directors/",
+        "https://www.dailypay.com/press-center/press-releases/dailypay-extends-on-demand-pay-leadership-with-deductions-method/",
+        "https://www.dailypay.com/about-us/$%7BsiteUrl%7D"
+      ]
+    }
+  ]
+}

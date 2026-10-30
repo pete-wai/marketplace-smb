@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-ed168fed6757",
+  "retrievedAt": "2026-10-30T11:01:43.779Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.myevaluations.com/",
+      "finalUrl": "https://www.myevaluations.com/",
+      "status": "success",
+      "sha256": "4b7015cf0f99be3db408c0a4c0197a34cf446b27fcb2ee5f595effb366d74224",
+      "title": "MyEvaluations | The Human Approach in Medical Education Management™",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.myevaluations.com/capabilities/"
+      ]
+    },
+    {
+      "url": "https://www.myevaluations.com/capabilities/",
+      "finalUrl": "https://www.myevaluations.com/capabilities/",
+      "status": "success",
+      "sha256": "8a390754c86cb3dafc14a64adeabfba34cf669d342c829e092080463ded63ea6",
+      "title": "Features | The Human Approach in Medical Education Management™ - MyEvaluations",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

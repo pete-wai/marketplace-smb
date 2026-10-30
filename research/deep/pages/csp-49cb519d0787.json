@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-49cb519d0787",
+  "retrievedAt": "2026-10-30T11:00:42.846Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.assyst.net/complysyncato",
+      "finalUrl": "https://www.assyst.net/complysyncato",
+      "status": "success",
+      "sha256": "c45ef3fa93157af9cc0aed7b988ab904be2fa6c7b4c5ea9451373c7a35219cb1",
+      "title": "ComplySyncATO | FedRAMP 20x Certified GRC Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.assyst.net/capabilities",
+        "https://www.assyst.net/aboutus"
+      ]
+    },
+    {
+      "url": "https://www.assyst.net/capabilities",
+      "finalUrl": "https://www.assyst.net/capabilities",
+      "status": "success",
+      "sha256": "fc8da80d31ffc831a70c3717fb476bb56a675cedcd8710de71a3cfaae355b0ce",
+      "title": "Capabilities | ASSYST - The One Point Source",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.assyst.net/aboutus",
+        "https://www.assyst.net/capabilities/aiml-services",
+        "https://www.assyst.net/capabilities/application-modernization-insights",
+        "https://www.assyst.net/capabilities/business-intelligence-solutions",
+        "https://www.assyst.net/capabilities/cloud-managed-services",
+        "https://www.assyst.net/capabilities/cyber-security",
+        "https://www.assyst.net/capabilities/devsecops-services",
+        "https://www.assyst.net/capabilities/digital-transformation-solutions"
+      ]
+    },
+    {
+      "url": "https://www.assyst.net/aboutus",
+      "finalUrl": "https://www.assyst.net/aboutus",
+      "status": "success",
+      "sha256": "a916244824cb74155857fdb9312fdcb97b4bacb239ac52b3d58d0239c3178c53",
+      "title": "About Us | ASSYST - The One Point Source",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.assyst.net/capabilities/aiml-services",
+      "finalUrl": "https://www.assyst.net/capabilities/aiml-services",
+      "status": "success",
+      "sha256": "049f09d22905b2fd3fe91da9ffc5e5c6b2b3c5874797b244828d11e5bfe62f37",
+      "title": "Advanced AI/ML Services | Government, Business, Nonprofits - ASSYST",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.assyst.net/OnPoint/Agentic-AI-Government-Services",
+        "https://www.assyst.net/OnPoint/Cloud-Center-of-Excellence-CloudOps-Federal-Government"
+      ]
+    }
+  ]
+}

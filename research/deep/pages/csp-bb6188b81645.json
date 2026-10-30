@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-bb6188b81645",
+  "retrievedAt": "2026-10-30T11:01:15.834Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.extrahop.com/solutions/industry/public-sector",
+      "finalUrl": "https://www.extrahop.com/solutions/industry/public-sector",
+      "status": "success",
+      "sha256": "685330c0172925c67da08ae498688d6a6d36b40cb95b07e9a1fb864e2a573fe4",
+      "title": "ExtraHop: Public Sector Security & Cyber Resilience (NDR) — ExtraHop",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.extrahop.com/customer-stories/home-depot",
+        "https://www.extrahop.com/news/press-releases/extrahop-achieves-fedramp-authorization-setting-new-standard-for-ndr-protection-for-the-us-government",
+        "https://www.extrahop.com/about",
+        "https://www.extrahop.com/leadership",
+        "https://www.extrahop.com/news",
+        "https://www.extrahop.com/solutions/industry/federal-civilian",
+        "https://www.extrahop.com/solutions/industry/state-and-local"
+      ]
+    },
+    {
+      "url": "https://www.extrahop.com/customer-stories/home-depot",
+      "finalUrl": "https://www.extrahop.com/customer-stories/home-depot",
+      "status": "success",
+      "sha256": "6a024552cd251287da8a8834b4e89b48f3cd6f09c85afbc6dfde9ccd1d62d592",
+      "title": "Home Depot ExtraHop Case Study — ExtraHop",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.extrahop.com/news/press-releases/extrahop-achieves-fedramp-authorization-setting-new-standard-for-ndr-protection-for-the-us-government",
+        "https://www.extrahop.com/about",
+        "https://www.extrahop.com/leadership",
+        "https://www.extrahop.com/news",
+        "https://www.extrahop.com/products/security/capabilities",
+        "https://www.extrahop.com/products/performance/capabilities"
+      ]
+    },
+    {
+      "url": "https://www.extrahop.com/news/press-releases/extrahop-achieves-fedramp-authorization-setting-new-standard-for-ndr-protection-for-the-us-government",
+      "finalUrl": "https://www.extrahop.com/news/press-releases/extrahop-achieves-fedramp-authorization-setting-new-standard-for-ndr-protection-for-the-us-government",
+      "status": "success",
+      "sha256": "ebe80af8d9b854ef32ff5348ed9aa6a0dadfaf1256a0fed9d615674fe5b4eec4",
+      "title": "ExtraHop® Achieves FedRAMP® Authorization, Setting New Standard for NDR Protection for the U.S. Government — ExtraHop",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.extrahop.com/about",
+        "https://www.extrahop.com/leadership",
+        "https://www.extrahop.com/news",
+        "https://www.extrahop.com/demo",
+        "https://www.extrahop.com/modern-ndr"
+      ]
+    },
+    {
+      "url": "https://www.extrahop.com/about",
+      "finalUrl": "https://www.extrahop.com/about",
+      "status": "success",
+      "sha256": "5aebd30a380fc0cefbc44d771cb13ffdadc921ce7f7061d130f6637186860f50",
+      "title": "About ExtraHop — ExtraHop",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.extrahop.com/leadership",
+        "https://www.extrahop.com/news"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-c70eca6b0f88",
+  "retrievedAt": "2026-10-30T11:00:39.752Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://claude.com/product/overview",
+      "finalUrl": "https://claude.com/product/overview",
+      "status": "success",
+      "sha256": "82197d211ca66bd5216619835b4432e851b98e5cc39c3096d004d12c97ea84d5",
+      "title": "Claude | The AI assistant for work",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claude.com/solutions/government"
+      ]
+    },
+    {
+      "url": "https://claude.com/solutions/government",
+      "finalUrl": "https://claude.com/solutions/government",
+      "status": "success",
+      "sha256": "16965a4ad8673f6bc6a7477cbff0dfb177dc9686ac368571e4880bd488d3b343",
+      "title": "Claude for Government | Claude by Anthropic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claude.com/resources/webinars/claude-code-and-public-service-modernizing-how-state-and-local-governments-build-software",
+        "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
+        "https://claude.com/docs/government/overview",
+        "https://claude.com/resources/articles/bringing-claude-code-and-claude-cowork-to-government",
+        "https://claude.com/docs/government/desktop/models"
+      ]
+    },
+    {
+      "url": "https://claude.com/resources/webinars/claude-code-and-public-service-modernizing-how-state-and-local-governments-build-software",
+      "finalUrl": "https://claude.com/resources/webinars/claude-code-and-public-service-modernizing-how-state-and-local-governments-build-software",
+      "status": "success",
+      "sha256": "aad5c8562159d4377955dc204e518dfa59e694d80a997de1f0c5de1588fbe5fb",
+      "title": "Claude Code for state and local governments | Claude by Anthropic",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
+      "finalUrl": "https://claude.com/resources/articles/claude-for-government-is-now-generally-available",
+      "status": "success",
+      "sha256": "b4ba1f5abe01abad7a224979e99acf95759874ba1de233e8ec46c8ec0a1714af",
+      "title": "Claude for Government is now generally available | Claude by Anthropic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claude.com/resources/articles/bringing-claude-code-and-claude-cowork-to-government",
+        "http://claude.com/solutions/government",
+        "https://claude.com/docs/government/overview",
+        "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company"
+      ]
+    }
+  ]
+}

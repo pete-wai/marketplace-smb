@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-6a13050a4b3d",
+  "retrievedAt": "2026-10-30T11:01:27.669Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.juvare.com/",
+      "finalUrl": "https://www.juvare.com/",
+      "status": "success",
+      "sha256": "9291d7c056f532e0118702ea38dafae772804a8c346f8b26343c15332befafc3",
+      "title": "Juvare | Unified Critical Operations Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.juvare.com/products/ucp/",
+        "https://www.juvare.com/company/request-demo/",
+        "https://www.juvare.com/industry/continuity-of-government-plan/",
+        "https://www.juvare.com/industry/mission-coordination/",
+        "https://www.juvare.com/industry/government-asset-management-software/",
+        "https://www.juvare.com/thought-leadership/news/juvare-partners-with-factal-bringing-ai-driven-threat-detection-and-expert-human-verification-directly-into-webeoc/",
+        "https://www.juvare.com/thought-leadership/resource/",
+        "https://www.juvare.com/thought-leadership/resource/case-study/how-harnett-county-emergency-services-uses-juvare-ai-to-optimize-operations-and-save-resources/",
+        "https://www.juvare.com/thought-leadership/resource/video/vicki-travis/",
+        "https://www.juvare.com/thought-leadership/blogs/",
+        "https://www.juvare.com/thought-leadership/events/",
+        "https://www.juvare.com/thought-leadership/news/"
+      ]
+    },
+    {
+      "url": "https://www.juvare.com/products/ucp/",
+      "finalUrl": "https://www.juvare.com/products/ucp/",
+      "status": "success",
+      "sha256": "eb85d976d6ea782c49e945ba6d6dbb2c16e1996a32c534c0d3f66c84d5df5bec",
+      "title": "UCP | Federal Government Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.juvare.com/company/request-demo/",
+        "https://www.juvare.com/industry/continuity-of-government-plan/",
+        "https://www.juvare.com/industry/mission-coordination/",
+        "https://www.juvare.com/industry/government-asset-management-software/",
+        "https://www.juvare.com/thought-leadership/news/juvare-partners-with-factal-bringing-ai-driven-threat-detection-and-expert-human-verification-directly-into-webeoc/",
+        "https://www.juvare.com/thought-leadership/resource/",
+        "https://www.juvare.com/thought-leadership/resource/case-study/how-harnett-county-emergency-services-uses-juvare-ai-to-optimize-operations-and-save-resources/",
+        "https://www.juvare.com/thought-leadership/resource/video/vicki-travis/",
+        "https://www.juvare.com/thought-leadership/blogs/",
+        "https://www.juvare.com/thought-leadership/events/",
+        "https://www.juvare.com/thought-leadership/news/",
+        "https://www.juvare.com/thought-leadership/events/real-time-threat-intelligence-operationalized-webeoc-factal/"
+      ]
+    },
+    {
+      "url": "https://www.juvare.com/company/request-demo/",
+      "finalUrl": "https://www.juvare.com/company/request-demo/",
+      "status": "success",
+      "sha256": "98d0b58beb269c3173fa49ca29d23a490874418d646d1d216e8158fd66c052b4",
+      "title": "Request a Demo | Juvare | Emergency Preparedness & Response Solution",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.juvare.com/industry/continuity-of-government-plan/",
+        "https://www.juvare.com/industry/mission-coordination/",
+        "https://www.juvare.com/industry/government-asset-management-software/",
+        "https://www.juvare.com/thought-leadership/news/juvare-partners-with-factal-bringing-ai-driven-threat-detection-and-expert-human-verification-directly-into-webeoc/",
+        "https://www.juvare.com/thought-leadership/resource/",
+        "https://www.juvare.com/thought-leadership/resource/case-study/how-harnett-county-emergency-services-uses-juvare-ai-to-optimize-operations-and-save-resources/",
+        "https://www.juvare.com/thought-leadership/resource/video/vicki-travis/",
+        "https://www.juvare.com/thought-leadership/blogs/",
+        "https://www.juvare.com/thought-leadership/events/",
+        "https://www.juvare.com/thought-leadership/news/",
+        "https://www.juvare.com/thought-leadership/events/real-time-threat-intelligence-operationalized-webeoc-factal/",
+        "https://www.juvare.com/thought-leadership/blogs/what-could-your-venue-do-with-90-percent-more-time/"
+      ]
+    },
+    {
+      "url": "https://www.juvare.com/industry/continuity-of-government-plan/",
+      "finalUrl": "https://www.juvare.com/industry/continuity-of-government-plan/",
+      "status": "success",
+      "sha256": "48fc4f38bb1aee4dd96a5a0e1970aeb182054900e3b5c6f7e15a9ecdc26377c7",
+      "title": "Juvare WebEOC Nexus | State & Local",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.juvare.com/industry/mission-coordination/",
+        "https://www.juvare.com/industry/government-asset-management-software/",
+        "https://www.juvare.com/thought-leadership/news/juvare-partners-with-factal-bringing-ai-driven-threat-detection-and-expert-human-verification-directly-into-webeoc/",
+        "https://www.juvare.com/thought-leadership/resource/",
+        "https://www.juvare.com/thought-leadership/resource/case-study/how-harnett-county-emergency-services-uses-juvare-ai-to-optimize-operations-and-save-resources/",
+        "https://www.juvare.com/thought-leadership/resource/video/vicki-travis/",
+        "https://www.juvare.com/thought-leadership/blogs/",
+        "https://www.juvare.com/thought-leadership/events/",
+        "https://www.juvare.com/thought-leadership/news/",
+        "https://www.juvare.com/thought-leadership/events/real-time-threat-intelligence-operationalized-webeoc-factal/",
+        "https://www.juvare.com/thought-leadership/blogs/what-could-your-venue-do-with-90-percent-more-time/",
+        "https://www.juvare.com/thought-leadership/resource/success-story/louisiana-gohsep-builds-a-unified-common-operating-picture-with-juvare/"
+      ]
+    }
+  ]
+}

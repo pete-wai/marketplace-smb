@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-3563f1731f2d",
+  "retrievedAt": "2026-10-30T11:02:02.408Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.regdox.com/regdox-cloud-products/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-cb18d06ec020",
+  "retrievedAt": "2026-10-30T11:00:40.468Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.apptio.com/",
+      "finalUrl": "https://www.apptio.com/",
+      "status": "success",
+      "sha256": "4445b32703815197762f6a80a3100d46966061948e8e54f5c2faa543d166ddc1",
+      "title": "Trusted Technology Investment Decisions | Apptio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.apptio.com/solutions/public-sector-it/",
+        "https://www.apptio.com/company/culture-careers/",
+        "https://www.apptio.com/company/leadership/",
+        "https://www.apptio.com/company/trust/",
+        "https://www.apptio.com/company/partners/",
+        "https://www.apptio.com/company/news/",
+        "https://www.apptio.com/company/locations/",
+        "https://www.apptio.com/company/",
+        "https://www.apptio.com/company/technology-business-management/"
+      ]
+    },
+    {
+      "url": "https://www.apptio.com/solutions/public-sector-it/",
+      "finalUrl": "https://www.apptio.com/solutions/public-sector-it/",
+      "status": "success",
+      "sha256": "8cbf95ede202d008fa1e666d640f35189f2b52971a88d407dc22c8f4b1f46ff3",
+      "title": "Public Sector IT – Optimize Government Technology Spend",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.apptio.com/company/culture-careers/",
+        "https://www.apptio.com/company/leadership/",
+        "https://www.apptio.com/company/trust/",
+        "https://www.apptio.com/company/partners/",
+        "https://www.apptio.com/company/news/",
+        "https://www.apptio.com/company/locations/",
+        "https://www.apptio.com/company/",
+        "https://www.apptio.com/company/technology-business-management/",
+        "https://www.apptio.com/products/cloudability-government/",
+        "https://www.apptio.com/company/data-privacy/"
+      ]
+    },
+    {
+      "url": "https://www.apptio.com/company/culture-careers/",
+      "finalUrl": "https://www.apptio.com/company/culture-careers/",
+      "status": "success",
+      "sha256": "f9a0896b86e47ce193c5ce8ec7795f0e59de814c6db6d564c410562186fbb299",
+      "title": "Culture & Careers - Join Our Team - Apptio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.apptio.com/company/leadership/",
+        "https://www.apptio.com/company/trust/",
+        "https://www.apptio.com/company/partners/",
+        "https://www.apptio.com/company/news/",
+        "https://www.apptio.com/company/locations/",
+        "https://www.apptio.com/company/",
+        "https://www.apptio.com/company/technology-business-management/",
+        "https://www.apptio.com/company/data-privacy/"
+      ]
+    },
+    {
+      "url": "https://www.apptio.com/company/leadership/",
+      "finalUrl": "https://www.apptio.com/company/leadership/",
+      "status": "success",
+      "sha256": "d84203448610d41443fb85178d9c977dea94dfdfb917023ad4ba9dc6fcd1efc2",
+      "title": "Executive Leadership - Apptio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.apptio.com/company/trust/",
+        "https://www.apptio.com/company/partners/",
+        "https://www.apptio.com/company/news/",
+        "https://www.apptio.com/company/locations/",
+        "https://www.apptio.com/company/",
+        "https://www.apptio.com/company/technology-business-management/",
+        "https://www.apptio.com/company/data-privacy/"
+      ]
+    }
+  ]
+}

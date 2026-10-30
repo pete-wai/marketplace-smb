@@ -1,0 +1,100 @@
+{
+  "providerId": "csp-8f1486a2e479",
+  "retrievedAt": "2026-10-30T11:00:37.049Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.actsoft.com/government-demo/",
+      "finalUrl": "https://www.actsoft.com/government-capabilities-meeting/",
+      "status": "success",
+      "sha256": "364c6e111a3cb06cb69e84c2e7abdc836ca9278257b96a8d1961be1e0ba47a64",
+      "title": "Government Customized Demo",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "roughly 20% jump in productivity, which led to an average increase in revenue of $1,000 each month. x Pool Maintenance Company Pool Construction/Maintenance Keywords Wireless Forms, Dispatching Scheduler, Mobile Payments, increase revenue, assign jobs, photo capture Soundbite This pool maintenance"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.actsoft.com/government-capabilities-meeting/",
+        "https://www.actsoft.com/capabilities/",
+        "https://www.actsoft.com/workforce-manager-for-gov/",
+        "https://www.actsoft.com/industries/public-sector/",
+        "https://www.actsoft.com/about-us/",
+        "https://www.actsoft.com/about/",
+        "https://www.actsoft.com/company/carriers-and-partners",
+        "https://www.actsoft.com/company/use-cases/",
+        "https://www.actsoft.com/company/videos/",
+        "https://www.actsoft.com/company/international/",
+        "https://www.actsoft.com/company/blog/"
+      ]
+    },
+    {
+      "url": "https://www.actsoft.com/government-capabilities-meeting/",
+      "finalUrl": "https://www.actsoft.com/government-capabilities-meeting/",
+      "status": "success",
+      "sha256": "364c6e111a3cb06cb69e84c2e7abdc836ca9278257b96a8d1961be1e0ba47a64",
+      "title": "Government Customized Demo",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "roughly 20% jump in productivity, which led to an average increase in revenue of $1,000 each month. x Pool Maintenance Company Pool Construction/Maintenance Keywords Wireless Forms, Dispatching Scheduler, Mobile Payments, increase revenue, assign jobs, photo capture Soundbite This pool maintenance"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.actsoft.com/capabilities/",
+        "https://www.actsoft.com/workforce-manager-for-gov/",
+        "https://www.actsoft.com/industries/public-sector/",
+        "https://www.actsoft.com/about-us/",
+        "https://www.actsoft.com/about/",
+        "https://www.actsoft.com/company/carriers-and-partners",
+        "https://www.actsoft.com/company/use-cases/",
+        "https://www.actsoft.com/company/videos/",
+        "https://www.actsoft.com/company/international/",
+        "https://www.actsoft.com/company/blog/"
+      ]
+    },
+    {
+      "url": "https://www.actsoft.com/capabilities/",
+      "finalUrl": "https://www.actsoft.com/capabilities/",
+      "status": "success",
+      "sha256": "29fa86f0d189429feca0408691ebd226ee68c009eff736b7be5e2f736cb6d2ed",
+      "title": "Capabilities - Actsoft, A Global Leader in Mobile Workforce Management and Digital Transformation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.actsoft.com/workforce-manager-for-gov/",
+        "https://www.actsoft.com/industries/public-sector/",
+        "https://www.actsoft.com/about-us/",
+        "https://www.actsoft.com/about/",
+        "https://www.actsoft.com/company/carriers-and-partners",
+        "https://www.actsoft.com/company/use-cases/",
+        "https://www.actsoft.com/company/videos/",
+        "https://www.actsoft.com/company/international/",
+        "https://www.actsoft.com/company/blog/"
+      ]
+    },
+    {
+      "url": "https://www.actsoft.com/workforce-manager-for-gov/",
+      "finalUrl": "https://www.actsoft.com/workforce-manager-for-gov/",
+      "status": "success",
+      "sha256": "98329c372ff235127935afb53125d2d94c79ffe27061c4e8c2f5160d5c01a902",
+      "title": "Workforce Manager for Gov - Actsoft, A Global Leader in Mobile Workforce Management and Digital Transformation",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "roughly 20% jump in productivity, which led to an average increase in revenue of $1,000 each month. x Pool Maintenance Company Pool Construction/Maintenance Keywords Wireless Forms, Dispatching Scheduler, Mobile Payments, increase revenue, assign jobs, photo capture Soundbite This pool maintenance"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.actsoft.com/industries/public-sector/",
+        "https://www.actsoft.com/about-us/",
+        "https://www.actsoft.com/about/",
+        "https://www.actsoft.com/company/carriers-and-partners",
+        "https://www.actsoft.com/company/use-cases/",
+        "https://www.actsoft.com/company/videos/",
+        "https://www.actsoft.com/company/international/",
+        "https://www.actsoft.com/company/blog/"
+      ]
+    }
+  ]
+}

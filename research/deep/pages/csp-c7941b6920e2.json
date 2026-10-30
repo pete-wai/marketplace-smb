@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-c7941b6920e2",
+  "retrievedAt": "2026-10-30T11:01:39.458Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.withmagenta.com/",
+      "finalUrl": "https://www.withmagenta.com/",
+      "status": "success",
+      "sha256": "17b5cf01f17f6adc8edc7e259fc5a1ecdf8283d156826bf28bcd6a9472082991",
+      "title": "Magenta AI - AI for Manufacturing Workflows",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.withmagenta.com/about",
+        "https://www.withmagenta.com/security"
+      ]
+    },
+    {
+      "url": "https://www.withmagenta.com/about",
+      "finalUrl": "https://www.withmagenta.com/about",
+      "status": "success",
+      "sha256": "c671af60c9bfb97e689c516f2a66206a9a1092cabd98dbe8794e6fbc62bc5fa5",
+      "title": "Why Magenta AI",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.withmagenta.com/security",
+      "finalUrl": "https://www.withmagenta.com/security",
+      "status": "success",
+      "sha256": "f1e82d54ce8b29db321c9ee12303ad2529443efb89e581212456fc6e62af139d",
+      "title": "Security | Magenta AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

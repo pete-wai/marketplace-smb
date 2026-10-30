@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-b4e67d0567a8",
+  "retrievedAt": "2026-10-30T11:01:22.319Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://incode.com/",
+      "finalUrl": "https://incode.com/",
+      "status": "success",
+      "sha256": "c532d8dca1177f26ae6231ab097db7c1dd8296514d1ac240d9049c4d9d38fb5b",
+      "title": "AI Identity Verification Software & KYC Platform | Incode",
+      "signals": [],
+      "discoveredLinks": [
+        "https://incode.com/industries/public-sector/",
+        "https://incode.com/platform/",
+        "https://incode.com/about/",
+        "https://incode.com/products/govfacematch/"
+      ]
+    },
+    {
+      "url": "https://incode.com/industries/public-sector/",
+      "finalUrl": "https://incode.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "50b92f5d06539b525ea0aa08ec6fab2012b605eb061c9dc398cbd785ccce8d4b",
+      "title": "Public sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://incode.com/platform/",
+        "https://incode.com/about/",
+        "https://incode.com/products/non-document-verification/"
+      ]
+    },
+    {
+      "url": "https://incode.com/platform/",
+      "finalUrl": "https://incode.com/platform/",
+      "status": "success",
+      "sha256": "10e17ac0385509d59d9f1030ee386f9fb4729078022fc2498bb500d064715d75",
+      "title": "Digital Identity & Fraud Prevention Platform | Incode",
+      "signals": [],
+      "discoveredLinks": [
+        "https://incode.com/about/"
+      ]
+    },
+    {
+      "url": "https://incode.com/about/",
+      "finalUrl": "https://incode.com/about/",
+      "status": "success",
+      "sha256": "d690dc21b28bdbf2c575cf91b32b9fec3d213859167991c90165e1e9903b12bd",
+      "title": "Incode: AI-Powered Identity Verification Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://incode.com/case-studies/login-gov/"
+      ]
+    }
+  ]
+}

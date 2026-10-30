@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-f9b83b92da9f",
+  "retrievedAt": "2026-10-30T11:01:16.298Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.flocksafety.com/",
+      "finalUrl": "https://www.flocksafety.com/",
+      "status": "success",
+      "sha256": "36bdfa19ce23e275e032fd0675567bca185f0c87710cef77d59a4f0cc13ad6fc",
+      "title": "Flock Safety",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.flocksafety.com/industries/federal",
+        "https://www.flocksafety.com/what-is-flock"
+      ]
+    },
+    {
+      "url": "https://www.flocksafety.com/industries/federal",
+      "finalUrl": "https://www.flocksafety.com/industries/federal",
+      "status": "success",
+      "sha256": "0ffbbe7216e40cc6414fc755ac7c5ae79d7ffae2a9c94ae4e607872b213c1283",
+      "title": "Federal | Flock Safety",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.flocksafety.com/what-is-flock",
+        "https://www.flocksafety.com/blog/fewer-victims-stronger-safeguards-the-case-for-principled-federal-collaboration"
+      ]
+    },
+    {
+      "url": "https://www.flocksafety.com/what-is-flock",
+      "finalUrl": "https://www.flocksafety.com/what-is-flock",
+      "status": "success",
+      "sha256": "3ad744401df0c04cf554885bf705d52b23708a3959c6d4ac37824b42bc04805c",
+      "title": "What Is Flock? Public Safety Technology",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.flocksafety.com/trust/myths-facts"
+      ]
+    },
+    {
+      "url": "https://www.flocksafety.com/blog/fewer-victims-stronger-safeguards-the-case-for-principled-federal-collaboration",
+      "finalUrl": "https://www.flocksafety.com/blog/fewer-victims-stronger-safeguards-the-case-for-principled-federal-collaboration",
+      "status": "success",
+      "sha256": "15ef94291bff5d199e673de8a0c6a99b42af895029f3e22fe409cadd181b06b3",
+      "title": "Federal LPR Data Sharing: Local Control, Strict Safeguards",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.flocksafety.com/blog/federal-court-confirms-license-plate-readers-are-constitutional"
+      ]
+    }
+  ]
+}

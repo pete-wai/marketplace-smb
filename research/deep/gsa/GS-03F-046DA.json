@@ -1,0 +1,16 @@
+{
+  "name": "CANON U.S.A., INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-03F-046DA&contractorName=CANON+U.S.A.%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-6b3977c6227a"
+  ],
+  "contractNumber": "GS-03F-046DA",
+  "retrievedAt": "2026-10-30T11:06:00.439Z",
+  "status": "success",
+  "sha256": "8f4d0bb202bda653369c7c0d4462f8af7f2646050c3e9f77b4b072ce82246590",
+  "uei": "DTQLFAEKKCP5",
+  "naics": "333316",
+  "socioEconomic": "Other Than Small Business",
+  "optionEnd": "Jan 20, 2031",
+  "website": "https://www.usa.canon.com/federal-government"
+}

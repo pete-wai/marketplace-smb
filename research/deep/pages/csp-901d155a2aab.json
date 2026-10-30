@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-901d155a2aab",
+  "retrievedAt": "2026-10-30T11:01:42.696Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://moveworks.com/",
+      "finalUrl": "https://www.moveworks.com/",
+      "status": "success",
+      "sha256": "9da3914c3df0d28cfb3ebdc970e4d356ba5c643b8c63a80d12a7602085cadf58",
+      "title": "Moveworks: The AI Assistant Platform That Gets Work Done",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.moveworks.com/us/en/solutions/ai-for-federal-government",
+        "https://www.moveworks.com/us/en/solutions/ai-for-local-government",
+        "https://www.moveworks.com/us/en/company/about",
+        "https://www.moveworks.com/us/en/company/news",
+        "https://www.moveworks.com/us/en/company/careers",
+        "https://www.moveworks.com/us/en/company/contact",
+        "https://www.moveworks.com/us/en/solutions/ai-for-government"
+      ]
+    },
+    {
+      "url": "https://www.moveworks.com/us/en/solutions/ai-for-federal-government",
+      "finalUrl": "https://www.moveworks.com/us/en/solutions/ai-for-federal-government",
+      "status": "success",
+      "sha256": "1322320537571f21343ca3928ecb4a7f574f54d122110d4f22723a3ca73e4dad",
+      "title": "Moveworks is FedRAMP® Authorized for Government Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.moveworks.com/us/en/solutions/ai-for-local-government",
+        "https://www.moveworks.com/us/en/company/about",
+        "https://www.moveworks.com/us/en/company/news",
+        "https://www.moveworks.com/us/en/company/careers",
+        "https://www.moveworks.com/us/en/company/contact",
+        "https://www.moveworks.com/us/en/customers/public-sector-it-support-transformation-with-moveworks",
+        "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-from-servicenow-achieves-fedramp-moderate-authorization-to-provide-secure-conversational-ai-to-public-sector/",
+        "https://www.moveworks.com/us/en/solutions/ai-for-government"
+      ]
+    },
+    {
+      "url": "https://www.moveworks.com/us/en/solutions/ai-for-local-government",
+      "finalUrl": "https://www.moveworks.com/us/en/solutions/ai-for-local-government",
+      "status": "success",
+      "sha256": "2f80a18a6e34244b34201a9f7ffb7677145ab04c7cc0d0c717d55ec6f9ddc3ee",
+      "title": "Moveworks: AI to Securely Support Local Government Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.moveworks.com/us/en/company/about",
+        "https://www.moveworks.com/us/en/company/news",
+        "https://www.moveworks.com/us/en/company/careers",
+        "https://www.moveworks.com/us/en/company/contact",
+        "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-achieves-fedramp-in-process-status-for-moveworks-govcloud",
+        "https://www.moveworks.com/us/en/partners",
+        "https://www.moveworks.com/us/en/customers/public-sector-it-support-transformation-with-moveworks",
+        "https://www.moveworks.com/us/en/solutions/ai-for-government"
+      ]
+    },
+    {
+      "url": "https://www.moveworks.com/us/en/company/about",
+      "finalUrl": "https://www.moveworks.com/us/en/company/about",
+      "status": "success",
+      "sha256": "4a3073db42889bb152dc7fb0e41e90b47dc8ee84d58811bef2ac5320191bb8c0",
+      "title": "What Moveworks Does and How It’s Evolved Over the Years",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.moveworks.com/us/en/company/news",
+        "https://www.moveworks.com/us/en/company/careers",
+        "https://www.moveworks.com/us/en/company/contact",
+        "https://www.moveworks.com/us/en/company/bhavin-shah",
+        "https://www.moveworks.com/us/en/company/varun-singh",
+        "https://www.moveworks.com/us/en/company/jiang-chen",
+        "https://www.moveworks.com/us/en/company/vaibhav-nivargi",
+        "https://www.moveworks.com/us/en/solutions/ai-for-government"
+      ]
+    }
+  ]
+}

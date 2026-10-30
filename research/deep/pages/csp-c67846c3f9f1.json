@@ -1,0 +1,72 @@
+{
+  "providerId": "csp-c67846c3f9f1",
+  "retrievedAt": "2026-10-30T11:00:59.746Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cribl.io/",
+      "finalUrl": "https://cribl.io/",
+      "status": "success",
+      "sha256": "0e03d98a7d71457ca4fe5858c0491827d212c364a67dd121090109b66b78f8a6",
+      "title": "The AI Platform for Telemetry | Cribl",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cribl.io/solutions/industries/public-sector/",
+        "https://cribl.io/solutions/industries/federal/",
+        "https://cribl.io/about-us/",
+        "https://cribl.io/leadership/"
+      ]
+    },
+    {
+      "url": "https://cribl.io/solutions/industries/public-sector/",
+      "finalUrl": "https://cribl.io/solutions/industries/state-local-government-education/",
+      "status": "success",
+      "sha256": "9f859d6ca8a58887bee468e35aa6865dc46996ef9a65244c626f58ec0ceec89f",
+      "title": "Cribl for State, Local Government, and Education | Smarter telemetry control for public sector teams | Cribl",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cribl.io/solutions/industries/federal/",
+        "https://cribl.io/about-us/",
+        "https://cribl.io/leadership/",
+        "https://cribl.io/solutions/industries/state-local-government-education/",
+        "https://cribl.io/resources/sb/cribl-for-the-public-sector/",
+        "https://cribl.io/resources/wp/cribl-for-the-public-sector/",
+        "https://cribl.io/resources/eb/a-practical-guide-to-public-sector-telemetry-modernization/",
+        "https://cribl.io/blog/from-m2131-to-m2614-a-more-practical-path-to-federal-logging-and-visibility/",
+        "https://cribl.io/resources/SB-0048-EN/"
+      ]
+    },
+    {
+      "url": "https://cribl.io/solutions/industries/federal/",
+      "finalUrl": "https://cribl.io/solutions/industries/federal/",
+      "status": "success",
+      "sha256": "9cf7812f0d7978a59d231ffeef772653cc473eaf749668b2504ebaf7f4743923",
+      "title": "Cribl for Federal: Scalable, Compliant Data Management | Cribl",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cribl.io/about-us/",
+        "https://cribl.io/leadership/",
+        "https://cribl.io/resources/sb/cribl-cloud-government-fedramp/",
+        "https://cribl.io/blog/from-m2131-to-m2614-a-more-practical-path-to-federal-logging-and-visibility/",
+        "https://cribl.io/resources/cs/federal-law-enforcement-agency/",
+        "https://cribl.io/resources/cs/accenture-federal-services/",
+        "https://cribl.io/resources/SB-0024-EN/",
+        "https://cribl.io/blog/cribl-cloud-government-is-a-new-era-of-secure-cloud-telemetry-for-federal/",
+        "https://cribl.io/blog/cribl-cloud-goes-to-washington-cribl-cloud-government-fedramp-in-process/",
+        "https://cribl.io/blog/how-cribl-stream-empowers-federal-agencies-observability-use-cases-in-action/"
+      ]
+    },
+    {
+      "url": "https://cribl.io/about-us/",
+      "finalUrl": "https://cribl.io/about-us/",
+      "status": "success",
+      "sha256": "93a2d8dd7b3035c733f99d3d2bb2fd23e797ff44dbf8a86e41fe75e8ace956c7",
+      "title": "About Cribl | Cribl",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cribl.io/leadership/",
+        "https://cribl.io/news/cribl-achieves-fedramp-authority-to-operate-for-us-federal-government-agencies/"
+      ]
+    }
+  ]
+}

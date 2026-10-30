@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-f3e8026c7605",
+  "retrievedAt": "2026-10-30T11:01:47.559Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.turboinnovate.com/",
+      "finalUrl": "https://www.turboinnovate.com/",
+      "status": "success",
+      "sha256": "8e217440488340ad603d579692d927ef5d6433b145ec8bf443a5b588f22e0056",
+      "title": "TurboInnovate",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

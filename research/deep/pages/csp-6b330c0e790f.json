@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-6b330c0e790f",
+  "retrievedAt": "2026-10-30T11:01:57.828Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.projecthosts.com/",
+      "finalUrl": "https://projecthosts.com/",
+      "status": "success",
+      "sha256": "9c2f05066e5fd51858d50f4284cf4cce9c2d25cc0595ce3aad016e948f3d49c5",
+      "title": "Project Hosts | Secure Cloud Solutions & FedRAMP Compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://projecthosts.com/about-us/",
+        "https://projecthosts.com/case-studies/how-oneplan-accelerates-its-path-to-federal-markets-with-project-hosts/"
+      ]
+    },
+    {
+      "url": "https://projecthosts.com/solutions/fedramp/",
+      "finalUrl": "https://projecthosts.com/solutions/fedramp/",
+      "status": "success",
+      "sha256": "6a854695cda464802ad21b7e95e1287ccb02cb2227f32d527e0a399890695759",
+      "title": "FedRAMP Compliance Solutions | Project Hosts Secure Cloud",
+      "signals": [],
+      "discoveredLinks": [
+        "https://projecthosts.com/about-us/",
+        "https://projecthosts.com/case-studies/how-oneplan-accelerates-its-path-to-federal-markets-with-project-hosts/"
+      ]
+    },
+    {
+      "url": "https://projecthosts.com/about-us/",
+      "finalUrl": "https://projecthosts.com/about-us/",
+      "status": "success",
+      "sha256": "6e1efad14bd592848379499b205ac5999cacb084852ae1e660794519c3150e2b",
+      "title": "About Us - Project Hosts",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ng, Scott founded two successful hosting companies — one of which was acquired by a public firm. Before launching Project Hosts in 2003, he built a career in management consulting at McKinsey & Company. He holds a bachelor’s degree from"
+        }
+      ],
+      "discoveredLinks": [
+        "https://projecthosts.com/case-studies/how-oneplan-accelerates-its-path-to-federal-markets-with-project-hosts/"
+      ]
+    },
+    {
+      "url": "https://projecthosts.com/case-studies/how-oneplan-accelerates-its-path-to-federal-markets-with-project-hosts/",
+      "finalUrl": "https://projecthosts.com/case-studies/how-oneplan-accelerates-its-path-to-federal-markets-with-project-hosts/",
+      "status": "success",
+      "sha256": "347692da64d0a71a5483e8a6b709971335bac44f227250bca6abc1f406d7069c",
+      "title": "OnePlan: Faster FedRAMP High With Project Hosts | Project Hosts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://projecthosts.com/case-studies/jamis-powering-its-fedramp-journey-with-project-hosts/"
+      ]
+    }
+  ]
+}

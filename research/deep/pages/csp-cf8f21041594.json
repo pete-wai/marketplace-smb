@@ -1,0 +1,112 @@
+{
+  "providerId": "csp-cf8f21041594",
+  "retrievedAt": "2026-10-30T11:02:12.950Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.smxtech.com/",
+      "finalUrl": "https://www.smxtech.com/",
+      "status": "success",
+      "sha256": "e975dd3ff2a589f7520736b2b52f6b4b1c053ecfdc7f67013e985c944a42002e",
+      "title": "SMX - Harness Technology to Realize Your Digital Future",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "- Harness Technology to Realize Your Digital Future SMX announces the acquisition of cBEYONData, enhancing our digital transformation capabilities and amplifying our ability to improve the business of government. Solutions All Solutions Cybersecurity Data &#038; Analytics Digital Transformation Enterprise App"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.smxtech.com/about-us/news/smx-announces-acquisition-of-cbeyondata/",
+        "https://www.smxtech.com/solutions/smx-elevate-fast-track/government/",
+        "https://www.smxtech.com/category/about-us/news",
+        "https://www.smxtech.com/about-us/events/",
+        "https://www.smxtech.com/about-us/",
+        "https://www.smxtech.com/about-us/awards-recognition/",
+        "https://www.smxtech.com/about-us/clients/",
+        "https://www.smxtech.com/about-us/partners/",
+        "https://www.smxtech.com/about-us/leaders/",
+        "https://www.smxtech.com/about-us/quality-business-certifications/",
+        "https://www.smxtech.com/about-us/news/smx-earns-2026-top-workplaces-usa-award-and-multiple-national-regional-recognitions/",
+        "https://www.smxtech.com/about-us/news/smx-elevate-financial-management%e2%84%a0-now-available-on-the-treasurys-fm-qsmo-marketplace/"
+      ]
+    },
+    {
+      "url": "https://www.smxtech.com/about-us/news/smx-announces-acquisition-of-cbeyondata/",
+      "finalUrl": "https://www.smxtech.com/about-us/news/smx-announces-acquisition-of-cbeyondata/",
+      "status": "success",
+      "sha256": "9f0f3b9c22a035a1ad06faea20042ad52e6b07db770ea4f04eff4dcc8958d9c8",
+      "title": "SMX | SMX Announces Acquisition of cBEYONData",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "SMX | SMX Announces Acquisition of cBEYONData Solutions All Solutions Cybersecurity Data &#038; Analytics Digital Transformation Enterprise Applications Mission Operations &#038; Intelligence Accelerators SMX Elevate Elevate Fast Track ISVs Government Elevate "
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.smxtech.com/solutions/smx-elevate-fast-track/government/",
+        "https://www.smxtech.com/category/about-us/news",
+        "https://www.smxtech.com/about-us/events/",
+        "https://www.smxtech.com/about-us/",
+        "https://www.smxtech.com/about-us/awards-recognition/",
+        "https://www.smxtech.com/about-us/clients/",
+        "https://www.smxtech.com/about-us/partners/",
+        "https://www.smxtech.com/about-us/leaders/",
+        "https://www.smxtech.com/about-us/quality-business-certifications/",
+        "https://www.smxtech.com/about-us",
+        "https://www.smxtech.com/category/about-us/news/",
+        "https://www.smxtech.com/about-us/news/smx-awarded-gsa-oasis-unrestricted-idiq-contract/"
+      ]
+    },
+    {
+      "url": "https://www.smxtech.com/solutions/smx-elevate-fast-track/government/",
+      "finalUrl": "https://www.smxtech.com/solutions/smx-elevate-fast-track/government/",
+      "status": "success",
+      "sha256": "328927675408ee778a5d3af2081b366d8a550a88eeed9fe759ff347e86494b0d",
+      "title": "SMX | SMX Elevate Fast Track for Government",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "their respective owners. SMX consists of operating companies that are wholly owned subsidiaries of SMX Group. We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.smxtech.com/category/about-us/news",
+        "https://www.smxtech.com/about-us/events/",
+        "https://www.smxtech.com/about-us/",
+        "https://www.smxtech.com/about-us/awards-recognition/",
+        "https://www.smxtech.com/about-us/clients/",
+        "https://www.smxtech.com/about-us/partners/",
+        "https://www.smxtech.com/about-us/leaders/",
+        "https://www.smxtech.com/about-us/quality-business-certifications/",
+        "https://www.smxtech.com/about-us/privacy/"
+      ]
+    },
+    {
+      "url": "https://www.smxtech.com/category/about-us/news",
+      "finalUrl": "https://www.smxtech.com/category/about-us/news/",
+      "status": "success",
+      "sha256": "797d2c2441ab8d740f3d4e5ceeb6580a1a95cbb2dd6bcdc7c626fafe39cc9097",
+      "title": "News Archives | SMX",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "their respective owners. SMX consists of operating companies that are wholly owned subsidiaries of SMX Group. We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.smxtech.com/category/about-us/news/",
+        "https://www.smxtech.com/about-us/events/",
+        "https://www.smxtech.com/about-us/",
+        "https://www.smxtech.com/about-us/awards-recognition/",
+        "https://www.smxtech.com/about-us/clients/",
+        "https://www.smxtech.com/about-us/partners/",
+        "https://www.smxtech.com/about-us/leaders/",
+        "https://www.smxtech.com/about-us/quality-business-certifications/",
+        "https://www.smxtech.com/about-us",
+        "https://www.smxtech.com/about-us/news/smx-earns-2026-top-workplaces-usa-award-and-multiple-national-regional-recognitions/",
+        "https://www.smxtech.com/about-us/news/smx-achieves-cmmc-2-0-level-2-certification-reinforcing-commitment-to-cybersecurity-and-national-defense/",
+        "https://www.smxtech.com/about-us/news/outside-analytics-teams-with-scitec-on-u-s-space-force-forge-eos-contract-for-missile-warning-mission/"
+      ]
+    }
+  ]
+}

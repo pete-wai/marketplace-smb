@@ -1,0 +1,18 @@
+{
+  "name": "SYNEREN TECHNOLOGIES CORPORATION",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QRCA24DW127&contractorName=SYNEREN+TECHNOLOGIES+CORPORATION&executeQuery=YES",
+  "providerIds": [
+    "csp-7d82b1bc77c5"
+  ],
+  "contractNumber": "47QRCA24DW127",
+  "retrievedAt": "2026-10-30T11:08:50.340Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:19.886Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-20943f504824",
+  "retrievedAt": "2026-10-30T11:02:05.524Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.rosalind.bio/",
+      "finalUrl": "https://www.rosalind.bio/",
+      "status": "success",
+      "sha256": "d30c3cdf81ddb74ccfa6fd9523e10c8fccc3bf9cc3994c7044ef1057aab56299",
+      "title": "Discovery Platform & Data Hub for Scientists | ROSALIND®",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rosalind.bio/about",
+        "https://www.rosalind.bio/product-comparison",
+        "https://www.rosalind.bio/service-providers"
+      ]
+    },
+    {
+      "url": "https://www.rosalind.bio/about",
+      "finalUrl": "https://www.rosalind.bio/about",
+      "status": "success",
+      "sha256": "dcff423323054e8fe1fd7cedc379e8dd1c812139c268a151b290cc3342f74b0f",
+      "title": "Meet the Strategic Scientific ROSALIND Team",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rosalind.bio/product-comparison",
+        "https://www.rosalind.bio/service-providers"
+      ]
+    },
+    {
+      "url": "https://www.rosalind.bio/product-comparison",
+      "finalUrl": "https://www.rosalind.bio/product-comparison",
+      "status": "success",
+      "sha256": "1834c136f563ec4d93ec947274c64aea5d935bafcd9af2d0e462bd0f9f210374",
+      "title": "product-comparison",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rosalind.bio/service-providers"
+      ]
+    },
+    {
+      "url": "https://www.rosalind.bio/service-providers",
+      "finalUrl": "https://www.rosalind.bio/service-providers",
+      "status": "success",
+      "sha256": "366f1454f919be43ef1d5090d6791e89de9b951622d42c7f048f39e5855a5eef",
+      "title": "Service Providers",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

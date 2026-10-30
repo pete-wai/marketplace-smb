@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-a753983b5b6c",
+  "retrievedAt": "2026-10-30T11:02:12.210Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://placeholder.invalid/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

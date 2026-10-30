@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-9dfe5da8f1ff",
+  "retrievedAt": "2026-10-30T11:02:15.542Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.boltline.com/",
+      "finalUrl": "https://boltline.com/",
+      "status": "success",
+      "sha256": "c46cd168b71becf24ae7905af805c4e8951a71a2e66e638e8dab991ecd4721a2",
+      "title": "Manufacturing Execution Engine for Hardware Teams",
+      "signals": [],
+      "discoveredLinks": [
+        "https://boltline.com/about/"
+      ]
+    },
+    {
+      "url": "https://boltline.com/about/",
+      "finalUrl": "https://boltline.com/about/",
+      "status": "success",
+      "sha256": "3ff8246744f3196894e782e531d09f8365116a8e6b6f2aafb10eb9f38392efcd",
+      "title": "Sometimes it is rocket science. About the team. Boltline",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

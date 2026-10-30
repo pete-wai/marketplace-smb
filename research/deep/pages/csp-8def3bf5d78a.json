@@ -1,0 +1,87 @@
+{
+  "providerId": "csp-8def3bf5d78a",
+  "retrievedAt": "2026-10-30T11:01:40.881Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.melissa.com/govcloud-address-suite",
+      "finalUrl": "https://www.melissa.com/govcloud-address-suite",
+      "status": "success",
+      "sha256": "99179f0cdea6d5569a2394460e3223efd60cfb1ccbcdedc04b0968a10bd74828",
+      "title": "Govcloud Address(TM) Suite By Melissa",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.melissa.com/company/product-support",
+        "https://www.melissa.com/company/about",
+        "https://www.melissa.com/company/partners",
+        "https://www.melissa.com/company/customers",
+        "https://www.melissa.com/company/events",
+        "https://www.melissa.com/industries/government-public-sector",
+        "https://www.melissa.com/firmographic-data",
+        "https://www.melissa.com/consumer-demographic-reference-data-sets",
+        "https://www.melissa.com/company/contact",
+        "https://www.melissa.com/company/certifications"
+      ]
+    },
+    {
+      "url": "https://www.melissa.com/company/product-support",
+      "finalUrl": "https://www.melissa.com/company/product-support",
+      "status": "success",
+      "sha256": "3eb523873aeb455076acaff5af2216785cf6988c4cf00547c597c4ae0e117a12",
+      "title": "Product Support Center",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.melissa.com/company/about",
+        "https://www.melissa.com/company/partners",
+        "https://www.melissa.com/company/customers",
+        "https://www.melissa.com/company/events",
+        "https://www.melissa.com/industries/government-public-sector",
+        "https://www.melissa.com/firmographic-data",
+        "https://www.melissa.com/consumer-demographic-reference-data-sets",
+        "https://www.melissa.com/company/support",
+        "https://www.melissa.com/company/contact",
+        "https://www.melissa.com/company/server-locations-uptime",
+        "https://www.melissa.com/company/certifications"
+      ]
+    },
+    {
+      "url": "https://www.melissa.com/company/about",
+      "finalUrl": "https://www.melissa.com/company/about",
+      "status": "success",
+      "sha256": "7cdf8467a82994326276a05e23a764bef4b966ccc4c1e3d59974baecc7d992b8",
+      "title": "About Melissa",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.melissa.com/company/partners",
+        "https://www.melissa.com/company/customers",
+        "https://www.melissa.com/company/events",
+        "https://www.melissa.com/industries/government-public-sector",
+        "https://www.melissa.com/firmographic-data",
+        "https://www.melissa.com/consumer-demographic-reference-data-sets",
+        "https://www.melissa.com/company/server-locations-uptime",
+        "https://www.melissa.com/company/certifications",
+        "https://www.melissa.com/company/careers",
+        "https://www.melissa.com/company/management-team",
+        "https://www.melissa.com/company/contact",
+        "https://www.melissa.com/company/support"
+      ]
+    },
+    {
+      "url": "https://www.melissa.com/company/partners",
+      "finalUrl": "https://www.melissa.com/company/partners",
+      "status": "success",
+      "sha256": "ceaaf24583231875d2e9f843009c471e1392f5c9e12f63baa621d0d7a50aeb47",
+      "title": "Partners - Resources",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.melissa.com/company/customers",
+        "https://www.melissa.com/company/events",
+        "https://www.melissa.com/industries/government-public-sector",
+        "https://www.melissa.com/firmographic-data",
+        "https://www.melissa.com/consumer-demographic-reference-data-sets",
+        "https://www.melissa.com/company/contact",
+        "https://www.melissa.com/company/certifications"
+      ]
+    }
+  ]
+}

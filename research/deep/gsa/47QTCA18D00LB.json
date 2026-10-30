@@ -1,0 +1,18 @@
+{
+  "name": "PUBLIC HEALTH FOUNDATION",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA18D00LB&contractorName=PUBLIC+HEALTH+FOUNDATION&executeQuery=YES",
+  "providerIds": [
+    "csp-128c1ce89542"
+  ],
+  "contractNumber": "47QTCA18D00LB",
+  "retrievedAt": "2026-10-30T11:08:28.659Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:16.767Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

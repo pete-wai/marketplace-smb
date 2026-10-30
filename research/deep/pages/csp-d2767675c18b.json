@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-d2767675c18b",
+  "retrievedAt": "2026-10-30T11:00:54.628Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://collabware.com/",
+      "finalUrl": "https://collabware.com/",
+      "status": "success",
+      "sha256": "42bfa608efcbcd35049c797bd5997c60d8d14c24977ee9b19c439fad8cf86704",
+      "title": "Collabware | Archive, Discovery & Records Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://collabware.com/government",
+        "https://collabware.com/about-us",
+        "https://collabware.com/leadership"
+      ]
+    },
+    {
+      "url": "https://collabware.com/government",
+      "finalUrl": "https://collabware.com/government",
+      "status": "success",
+      "sha256": "6f3de169525ec994d93ce865094976027df41d8d29b71e1fdc710809d7efc3fa",
+      "title": "Records Governance and Compliance for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://collabware.com/about-us",
+        "https://collabware.com/leadership"
+      ]
+    },
+    {
+      "url": "https://collabware.com/about-us",
+      "finalUrl": "https://collabware.com/about-us",
+      "status": "success",
+      "sha256": "e1ddb086e73816839e7e06ed1bed4d0f4f842a8d165cb7831999c3ec42037bc6",
+      "title": "About Us | Collabware",
+      "signals": [],
+      "discoveredLinks": [
+        "https://collabware.com/leadership"
+      ]
+    },
+    {
+      "url": "https://collabware.com/leadership",
+      "finalUrl": "https://collabware.com/leadership",
+      "status": "success",
+      "sha256": "190b4685451f63edfbeee3bca1b136f29fafe29eec51c13a1cd57cb3bcdb9225",
+      "title": "Leadership - The Collabware Management Team",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

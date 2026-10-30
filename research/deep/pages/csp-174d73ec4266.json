@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-174d73ec4266",
+  "retrievedAt": "2026-10-30T11:01:25.623Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ironbow.com/iron-bow-dhsi-va-triagexpert",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-7b26716eca2f",
+  "retrievedAt": "2026-10-30T11:02:22.878Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://casco.com/",
+      "finalUrl": "https://casco.com/",
+      "status": "success",
+      "sha256": "7c157050711165ef47c3ccef7b57409ec2d788232423e3a19e4dd30d9808d4f0",
+      "title": "Casco | AI-Native AppSec & Continuous AI Pentesting",
+      "signals": [],
+      "discoveredLinks": [
+        "https://casco.com/gov",
+        "https://casco.com/book",
+        "https://casco.com/blog/network-observability"
+      ]
+    },
+    {
+      "url": "https://casco.com/gov",
+      "finalUrl": "https://casco.com/gov",
+      "status": "success",
+      "sha256": "56e75ff0b4e2ca44adaca0e15c3788834e0303a5a34826eb6d4ecdb59140aa65",
+      "title": "Casco for Government | Agentic Offensive Security",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://casco.com/book",
+      "finalUrl": "https://casco.com/demo",
+      "status": "success",
+      "sha256": "d4e72acf0cdbcc524c5a356b22fbc21f678f47cb90487043677d2c383be4d386",
+      "title": "Request a Demo | Casco",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://casco.com/blog/network-observability",
+      "finalUrl": "https://casco.com/blog/network-observability",
+      "status": "success",
+      "sha256": "a53b41a42664f73bbbe70f53fe49f9daf925579d54276c7995717860fd742003",
+      "title": "Identify and Trace AI Pentest Traffic | Casco Observability | Casco",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-e0f5c2c60fac",
+  "retrievedAt": "2026-10-30T11:02:11.642Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://silkline.ai/",
+      "finalUrl": "https://silkline.ai/",
+      "status": "success",
+      "sha256": "4eccdda2e3b2a969de43c0f1e8344b5c4169df549310b8ebf278d1367adf12f9",
+      "title": "Silkline | Supply chain orchestration for advanced manufacturing",
+      "signals": [],
+      "discoveredLinks": [
+        "https://silkline.ai/about"
+      ]
+    },
+    {
+      "url": "https://silkline.ai/about",
+      "finalUrl": "https://silkline.ai/about",
+      "status": "success",
+      "sha256": "6bdc71159c2b381ca76fccba72b044b7ea343c8c35b17cfd82e3e0aea0138ee9",
+      "title": "Silkline | About",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

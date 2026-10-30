@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-77633e4c62e7",
+  "retrievedAt": "2026-10-30T11:01:04.055Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.digicert.com/",
+      "finalUrl": "https://www.digicert.com/",
+      "status": "success",
+      "sha256": "4f32f925c9936497cb82762bfa29796662e25e681ed2442baeaf2262a00b8582",
+      "title": "TLS/SSL Certificate Authority | Leader in Digital Trust | DigiCert",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

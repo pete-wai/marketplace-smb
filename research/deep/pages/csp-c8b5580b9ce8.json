@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-c8b5580b9ce8",
+  "retrievedAt": "2026-10-30T11:02:28.251Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://verkada.com/government",
+      "finalUrl": "https://www.verkada.com/solutions/government-grade/",
+      "status": "success",
+      "sha256": "d9360c8643596445d401ba4d82fa514c963be749a03488319f9d4c41b96bf4ad",
+      "title": "Government Security System and Solutions | Cameras, Gateways, Sensors, and more",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verkada.com/solutions/government-grade/",
+        "https://www.verkada.com/security-cameras/government-grade-cameras/",
+        "https://www.verkada.com/access-control/government-grade-access-control/",
+        "https://www.verkada.com/blog/why-government-agencies-choose-verkada-for-physical-security/",
+        "https://www.verkada.com/blog/behind-the-scenes-of-building-a-government-grade-product/",
+        "https://www.verkada.com/blog/helping-federal-agencies-meet-executive-order-requirements-with-verkada/",
+        "https://www.verkada.com/blog/expanding-access-control-with-new-government-grade-offerings/",
+        "https://www.verkada.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.verkada.com/solutions/government-grade/",
+      "finalUrl": "https://www.verkada.com/solutions/government-grade/",
+      "status": "success",
+      "sha256": "ad3d9537249788109893baeba56466f8c8b898100e50f8195ab939e863f7627e",
+      "title": "Government Security System and Solutions | Cameras, Gateways, Sensors, and more",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verkada.com/security-cameras/government-grade-cameras/",
+        "https://www.verkada.com/access-control/government-grade-access-control/",
+        "https://www.verkada.com/blog/why-government-agencies-choose-verkada-for-physical-security/",
+        "https://www.verkada.com/blog/behind-the-scenes-of-building-a-government-grade-product/",
+        "https://www.verkada.com/blog/helping-federal-agencies-meet-executive-order-requirements-with-verkada/",
+        "https://www.verkada.com/blog/expanding-access-control-with-new-government-grade-offerings/",
+        "https://www.verkada.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.verkada.com/security-cameras/government-grade-cameras/",
+      "finalUrl": "https://www.verkada.com/security-cameras/government-grade-cameras/",
+      "status": "success",
+      "sha256": "255c046f61c0d8d85026275c2f48a22bf45766822f9439def12c05ae0e66d213",
+      "title": "Government-Grade Camera Series | Verkada",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verkada.com/trust/",
+        "https://www.verkada.com/contact/",
+        "https://www.verkada.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.verkada.com/access-control/government-grade-access-control/",
+      "finalUrl": "https://www.verkada.com/access-control/government-grade-access-control/",
+      "status": "success",
+      "sha256": "87b5f58cb3e79d6aeeb37daa379849fa7d95f84b381714b54925fc8c4a11e046",
+      "title": "Verkada Government-Grade Access Control | TAA, FY2019 NDAA, FedRAMP In Process (Moderate), FIPS 140, FASC-N PIV reader",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verkada.com/contact/",
+        "https://www.verkada.com/about/"
+      ]
+    }
+  ]
+}

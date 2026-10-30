@@ -1,0 +1,66 @@
+{
+  "providerId": "csp-31a2eaf79f57",
+  "retrievedAt": "2026-10-30T11:01:22.127Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.illumio.com/solutions/government",
+      "finalUrl": "https://www.illumio.com/solutions/government",
+      "status": "success",
+      "sha256": "40ca1a38b6c631766617e19909cb61a09be86123e778a8fcc4226e198f2c9101",
+      "title": "Federal Government Network Cybersecurity | Illumio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.illumio.com/cyber-resilience-leadership",
+        "https://www.illumio.com/company/about-illumio",
+        "https://www.illumio.com/company/news-awards",
+        "https://www.illumio.com/company/careers",
+        "https://www.illumio.com/company/leadership",
+        "https://www.illumio.com/resource-center/illumio-for-government"
+      ]
+    },
+    {
+      "url": "https://www.illumio.com/cyber-resilience-leadership",
+      "finalUrl": "https://www.illumio.com/cyber-resilience-leadership",
+      "status": "success",
+      "sha256": "beb3e7abf0070a737b780c65228b0f3343c65840407148ce425f9bc8cd4bdff5",
+      "title": "A Breach Containment Platform Built on Cyber Resilience",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.illumio.com/company/about-illumio",
+        "https://www.illumio.com/company/news-awards",
+        "https://www.illumio.com/company/careers",
+        "https://www.illumio.com/company/leadership"
+      ]
+    },
+    {
+      "url": "https://www.illumio.com/company/about-illumio",
+      "finalUrl": "https://www.illumio.com/company/about-illumio",
+      "status": "success",
+      "sha256": "0c5fec805fb8cc6a241f48853a59316e68bc9e55b4b23718213085c91fde885e",
+      "title": "The Leader in Zero Trust Segmentation | Illumio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.illumio.com/company/news-awards",
+        "https://www.illumio.com/company/careers",
+        "https://www.illumio.com/company/leadership"
+      ]
+    },
+    {
+      "url": "https://www.illumio.com/company/news-awards",
+      "finalUrl": "https://www.illumio.com/company/news-awards",
+      "status": "success",
+      "sha256": "5f25f173677d4a2d63959444696ce535b13a17fbd97ea4578f6ae384b17eb388",
+      "title": "Illumio News | Illumio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.illumio.com/company/careers",
+        "https://www.illumio.com/company/leadership",
+        "https://www.illumio.com/news/why-federal-agencies-need-to-rethink-trusted-access-in-the-age-of-ai",
+        "https://www.illumio.com/news/ig-report-finds-government-cyber-directives-lack-teeth",
+        "https://www.illumio.com/company/news-awards?093c686f_page=2",
+        "https://www.illumio.com/company/news-awards?e550e5a7_page=2"
+      ]
+    }
+  ]
+}

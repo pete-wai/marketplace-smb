@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-f37841d1e304",
+  "retrievedAt": "2026-10-30T11:02:09.596Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.secondfront.com/products/game-warden/",
+      "finalUrl": "http://www.secondfront.com/products/game-warden/",
+      "status": "success",
+      "sha256": "a28d3813c1dee34d23ad909332a1706b2c90fff3598ec7af0bc48d98913fefe0",
+      "title": "Game Warden: Accredited DevSecOps for DoD & FedRAMP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.secondfront.com/about/",
+        "https://www.secondfront.com/solutions/government-cloud-hosting/",
+        "https://www.secondfront.com/resources/news/cohere-achieves-fedramp-high-authorization-through-second-front-expanding-secure-ai-access-for-federal-agencies/",
+        "https://www.secondfront.com/resources/pdfs/dummies-book/"
+      ]
+    },
+    {
+      "url": "https://www.secondfront.com/products/",
+      "finalUrl": "https://www.secondfront.com/products/",
+      "status": "success",
+      "sha256": "db55fde15855702cc735005b20b6373d0947dddbab9a00eb6d38083bd90935ee",
+      "title": "The 2F Suite: DevSecOps, DoD ATO & FedRAMP Authorization",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.secondfront.com/about/",
+        "https://www.secondfront.com/solutions/government-cloud-hosting/",
+        "https://www.secondfront.com/resources/blog/what-is-a-pre-accredited-devsecops-platform-and-how-does-it-speed-federal-cloud-market-entry/",
+        "https://www.secondfront.com/resources/news/second-front-systems-launches-ato-accelerator-for-microsoft-azure-government/"
+      ]
+    },
+    {
+      "url": "https://www.secondfront.com/about/",
+      "finalUrl": "https://www.secondfront.com/about/",
+      "status": "success",
+      "sha256": "864f486a8e19ce50cbaa069a08a2ca73c8c5a588be8c0b48410b7880d7264d62",
+      "title": "About Second Front: Our Mission in National Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.secondfront.com/solutions/government-cloud-hosting/",
+        "https://www.secondfront.com/resources/blog/breaking-the-mold-what-it-means-to-be-a-pbc-in-defense/",
+        "https://www.secondfront.com/resources/news/second-front-systems-natsec100-2025/"
+      ]
+    },
+    {
+      "url": "https://www.secondfront.com/solutions/government-cloud-hosting/",
+      "finalUrl": "https://www.secondfront.com/solutions/government-cloud-hosting/",
+      "status": "success",
+      "sha256": "0e297064bf3de1df11efcbfe17a066aa079592a4a0802842d24d7ed1dc09a7c3",
+      "title": "Government Cloud Hosting for DoD & FedRAMP Authorization",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

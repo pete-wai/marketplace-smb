@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-eead95bd823b",
+  "retrievedAt": "2026-10-30T11:01:52.461Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pepelwerk.com/",
+      "finalUrl": "https://www.pepelwerk.com/",
+      "status": "success",
+      "sha256": "410c1ba2601a0ca5b4e931321a7f6f334b8198ac83f1b9c23c368576f8ff8a57",
+      "title": "pepelwerk &#8211; AI-Driven Career Matching and Workforce Solutions—Connecting People and Employers with Purpose",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pepelwerk.com/make-data-driven-decisions-people/"
+      ]
+    },
+    {
+      "url": "https://www.pepelwerk.com/make-data-driven-decisions-people/",
+      "finalUrl": "https://www.pepelwerk.com/make-data-driven-decisions-people/",
+      "status": "success",
+      "sha256": "619dbc1b95b2a28b2f3ef2dfd019f12d6f2009196c89cf6a20364d4cd48b1aa5",
+      "title": "Make Data Driven Decisions People &#8211; pepelwerk",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

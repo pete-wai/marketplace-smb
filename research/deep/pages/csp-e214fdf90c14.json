@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-e214fdf90c14",
+  "retrievedAt": "2026-10-30T11:01:18.167Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.genesys.com/fedramp/genesys-cloud-cx",
+      "finalUrl": "https://www.genesys.com/fedramp/genesys-cloud-cx",
+      "status": "success",
+      "sha256": "16b0563c999865ef73bcb666c8a7a1a8c4eee47afc4356fcbe3a98e645831c74",
+      "title": "Genesys Cloud CX — FedRAMP Certified | Genesys",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

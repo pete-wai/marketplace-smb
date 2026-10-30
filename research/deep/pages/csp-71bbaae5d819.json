@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-71bbaae5d819",
+  "retrievedAt": "2026-10-30T11:01:18.870Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.globality.com/",
+      "finalUrl": "https://www.globality.com/",
+      "status": "success",
+      "sha256": "40cc94595e51562dc38ea77f6bd4ad37ddee32053dc3c959fa9dea150c975564",
+      "title": "Globality | Home",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.globality.com/company/about-us/",
+        "https://www.globality.com/company/careers/",
+        "https://www.globality.com/flexible-intake",
+        "https://www.globality.com/rfx-generation",
+        "https://www.globality.com/planning",
+        "https://www.globality.com/supplier-discovery",
+        "https://www.globality.com/response-collection",
+        "https://www.globality.com/negotiation",
+        "https://www.globality.com/analysis",
+        "https://www.globality.com/supplier-selection",
+        "https://www.globality.com/customers/"
+      ]
+    },
+    {
+      "url": "https://www.globality.com/company/about-us/",
+      "finalUrl": "https://www.globality.com/company/about-us/",
+      "status": "success",
+      "sha256": "baea9d973e736f94addcca66fe06d108a3425b31c0119c682717684a66a23484",
+      "title": "About Us - Globality",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "uding Google and Apple, and at successful startups such as VideoSurf (acquired by Microsoft). Vinod Devan President, Go-To-Market Vinod leads Globality’s commercial organization and growth strategy. He previously led go-to-market teams through periods of rapid scaling at Confluent and Cohere,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.globality.com/company/careers/"
+      ]
+    },
+    {
+      "url": "https://www.globality.com/company/careers/",
+      "finalUrl": "https://www.globality.com/company/careers/",
+      "status": "success",
+      "sha256": "3c4dd1eb34976bbb79295eac87044876484fe77f93837ddb2786759f9db8135b",
+      "title": "Careers",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.globality.com/company/careers/$%7Bjob.absolute_url%7D"
+      ]
+    },
+    {
+      "url": "https://www.globality.com/flexible-intake",
+      "finalUrl": "https://www.globality.com/flexible-intake/",
+      "status": "success",
+      "sha256": "43c37529ae615e6538325c5ecb06f552776e7436e3f13ae8c14057e86ebc4b0f",
+      "title": "Flexible Intake - Globality",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

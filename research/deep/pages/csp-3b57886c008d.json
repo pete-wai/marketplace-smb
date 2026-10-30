@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-3b57886c008d",
+  "retrievedAt": "2026-10-30T11:01:33.890Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://leidosiq.com/federal-government/",
+      "finalUrl": "https://leidosiq.com/federal-government/",
+      "status": "success",
+      "sha256": "3fb40fc8313101b7859d47ed0944e78fe7d59176134fde1540d6d1f05734791c",
+      "title": "Federal Government | Leidos IQ",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leidosiq.com/state-government/",
+        "https://leidosiq.com/local-government/",
+        "https://leidosiq.com/about/",
+        "https://leidosiq.com/2026/03/17/how-government-operations-shift-in-election-years-and-why-technology-becomes-mission-critical/"
+      ]
+    },
+    {
+      "url": "https://leidosiq.com/state-government/",
+      "finalUrl": "https://leidosiq.com/state-government/",
+      "status": "success",
+      "sha256": "a5b529bb808b4e88ded03891ec3f4f01204bd9f6f13749b27666adf8caf76600",
+      "title": "State Government | Leidos IQ",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leidosiq.com/local-government/",
+        "https://leidosiq.com/about/",
+        "https://leidosiq.com/2026/03/17/how-government-operations-shift-in-election-years-and-why-technology-becomes-mission-critical/"
+      ]
+    },
+    {
+      "url": "https://leidosiq.com/local-government/",
+      "finalUrl": "https://leidosiq.com/local-government/",
+      "status": "success",
+      "sha256": "af8ecfdfc9e57a4ee99dc50587dfd2155fb01230574c996b790843ad0558bbe8",
+      "title": "Local Government | Leidos IQ",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leidosiq.com/about/",
+        "https://leidosiq.com/2026/03/17/how-government-operations-shift-in-election-years-and-why-technology-becomes-mission-critical/"
+      ]
+    },
+    {
+      "url": "https://leidosiq.com/about/",
+      "finalUrl": "https://leidosiq.com/about/",
+      "status": "success",
+      "sha256": "6825a12f8764ffe21690be58f80b9abc27a6af88fb82dfd815f9e2eb5030cde9",
+      "title": "About | Leidos IQ",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leidosiq.com/2026/03/17/how-government-operations-shift-in-election-years-and-why-technology-becomes-mission-critical/"
+      ]
+    }
+  ]
+}

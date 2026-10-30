@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-dc2107e57740",
+  "retrievedAt": "2026-10-30T11:00:46.593Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.aztecsoftware.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

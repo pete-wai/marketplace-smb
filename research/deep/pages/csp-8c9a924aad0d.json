@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-8c9a924aad0d",
+  "retrievedAt": "2026-10-30T11:01:25.087Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://intrepid-networks.com/",
+      "finalUrl": "https://www.intrepid-networks.com/",
+      "status": "success",
+      "sha256": "20bb805a5ad64208f3adb6c2022f5694d5e0979ea177784e0d264a944a4b61a1",
+      "title": "Intrepid Networks | Communication | Situational Awareness | United States",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.intrepid-networks.com/government-platform",
+        "https://www.intrepid-networks.com/government-solutions",
+        "https://www.intrepid-networks.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.intrepid-networks.com/government-platform",
+      "finalUrl": "https://www.intrepid-networks.com/government-platform",
+      "status": "success",
+      "sha256": "a14b9ab1786e5e8125de1b1d2c660bfb660ef153e14087b8b0bebdef8654b81b",
+      "title": "Intrepid Networks | Communication | Situational Awareness | United States",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.intrepid-networks.com/government-solutions",
+        "https://www.intrepid-networks.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.intrepid-networks.com/government-solutions",
+      "finalUrl": "https://www.intrepid-networks.com/government-solutions",
+      "status": "success",
+      "sha256": "98c2d72aaee82a7467ea6e7ecb8bb81a1c94a0ffe73ca9948189b882a2bcd292",
+      "title": "Intrepid Networks | Communication | Situational Awareness | United States",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.intrepid-networks.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.intrepid-networks.com/about-us",
+      "finalUrl": "https://www.intrepid-networks.com/about-us",
+      "status": "success",
+      "sha256": "c063bf6aa951e6c20fda893ff9922e1c78344e8d538d5816fa85381f1cf8d64f",
+      "title": "About Us | Intrepid Networks | Situational Awareness",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

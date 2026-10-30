@@ -1,0 +1,17 @@
+{
+  "providerId": "csp-0f9af09305b0",
+  "retrievedAt": "2026-10-30T11:02:07.895Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.sapns2.com/cloud/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://www.sapns2.com/ns2-secure-cloud/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

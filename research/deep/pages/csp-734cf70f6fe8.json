@@ -1,0 +1,17 @@
+{
+  "providerId": "csp-734cf70f6fe8",
+  "retrievedAt": "2026-10-30T11:02:23.264Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.trellix.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://www.trellix.com/products/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

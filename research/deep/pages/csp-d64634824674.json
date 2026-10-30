@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-d64634824674",
+  "retrievedAt": "2026-10-30T11:01:54.489Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://gov.tarly.co/",
+      "finalUrl": "https://gov.tarly.co/",
+      "status": "success",
+      "sha256": "945b265431fb929ad34ea13c48f89d94312f9a8e0a447ee66806fd3f5b983559",
+      "title": "Tarly Cowork — Stop Waste in Federal Procurement",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

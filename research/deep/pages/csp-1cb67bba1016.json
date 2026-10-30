@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-1cb67bba1016",
+  "retrievedAt": "2026-10-30T11:00:37.511Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://adaptiva.com/",
+      "finalUrl": "https://adaptiva.com/",
+      "status": "success",
+      "sha256": "f96551e710ec1a2f671fea4d70a2e601039a3de72bf6095386fa930a5c54a9af",
+      "title": "Adaptiva | The fastest way to patch and manage endpoints at scale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://adaptiva.com/industries/government",
+        "https://adaptiva.com/about",
+        "https://adaptiva.com/blog/php2shell-vulnerabilities",
+        "https://adaptiva.com/blog/on-premises-vs-cloud"
+      ]
+    },
+    {
+      "url": "https://adaptiva.com/industries/government",
+      "finalUrl": "https://adaptiva.com/industries/government",
+      "status": "success",
+      "sha256": "e98797cd5c5d02b6eab1f52b1a69f48feddbf38403840a0837b05322a4185729",
+      "title": "Government | Adaptiva",
+      "signals": [],
+      "discoveredLinks": [
+        "https://adaptiva.com/about"
+      ]
+    },
+    {
+      "url": "https://adaptiva.com/about",
+      "finalUrl": "https://adaptiva.com/about",
+      "status": "success",
+      "sha256": "c46e2aaa9cfb1be025aad51754cf5f72dde738128c2c90d455b2a0be6276b6e4",
+      "title": "Adaptiva | About",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://adaptiva.com/blog/php2shell-vulnerabilities",
+      "finalUrl": "https://adaptiva.com/blog/php2shell-vulnerabilities",
+      "status": "success",
+      "sha256": "8b94f4fa852b549fc65dab2de83c5f0658b90e9b94483b83c99ba9c47ee5f75a",
+      "title": "PHP2Shell: What to do about the critical PHP vulnerabilities",
+      "signals": [],
+      "discoveredLinks": [
+        "https://adaptiva.com/blog/on-premises-vs-cloud"
+      ]
+    }
+  ]
+}

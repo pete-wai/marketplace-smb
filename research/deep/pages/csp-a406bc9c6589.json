@@ -1,0 +1,72 @@
+{
+  "providerId": "csp-a406bc9c6589",
+  "retrievedAt": "2026-10-30T11:01:18.694Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.glassbeam.com/solutions/",
+      "finalUrl": "https://www.glassbeam.com/solutions/",
+      "status": "success",
+      "sha256": "f72e3e7f956f81cd71d72064f3d8ff3cd1685b41b7994161ccfe1b45bc8d4332",
+      "title": "Machine Data Analytics Solutions for Healthcare | Glassbeam",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.glassbeam.com/machine-data-analytics-software-company/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/partners/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/careers/"
+      ]
+    },
+    {
+      "url": "https://www.glassbeam.com/machine-data-analytics-software-company/",
+      "finalUrl": "https://www.glassbeam.com/machine-data-analytics-software-company/",
+      "status": "success",
+      "sha256": "0061d66be33cde76d5aeceff99df8cd2671221e80ac0c9f6e8c3ad80dde6152f",
+      "title": "Machine Data Analytics Software Company | Glassbeam",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " and IT functions, supporting the growth of the business until it was acquired by Intelerad Medical Systems. Previously, Jay started his career in audit at PWC and subsequently worked for large public and venture backed startup companies in senior"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/partners/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/careers/"
+      ]
+    },
+    {
+      "url": "https://www.glassbeam.com/machine-data-analytics-software-company/news/",
+      "finalUrl": "https://www.glassbeam.com/machine-data-analytics-software-company/news/",
+      "status": "success",
+      "sha256": "8a752361ba0904523b6b5eac12dde567c5434cf1334179e576ebb4dba678f574",
+      "title": "Glassbeam News",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.glassbeam.com/machine-data-analytics-software-company/partners/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/careers/",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=1",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=2",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=3",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=4",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=5",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=6",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=7",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=8",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=9",
+        "https://www.glassbeam.com/machine-data-analytics-software-company/news/?pg=10"
+      ]
+    },
+    {
+      "url": "https://www.glassbeam.com/machine-data-analytics-software-company/partners/",
+      "finalUrl": "https://www.glassbeam.com/machine-data-analytics-software-company/partners/",
+      "status": "success",
+      "sha256": "f69c95e1304b3f5fdb57eeadb051212ba260e01ac903f4ec81c1bd4f2fbe556e",
+      "title": "Glassbeam Partners",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.glassbeam.com/machine-data-analytics-software-company/careers/"
+      ]
+    }
+  ]
+}

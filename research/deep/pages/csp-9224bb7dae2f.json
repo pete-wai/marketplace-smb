@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-9224bb7dae2f",
+  "retrievedAt": "2026-10-30T11:01:06.602Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://drata.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

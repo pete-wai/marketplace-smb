@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-b1238abce01d",
+  "retrievedAt": "2026-10-30T11:01:22.095Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ideagen.com/",
+      "finalUrl": "https://www.ideagen.com/noram/",
+      "status": "success",
+      "sha256": "e5420281b711ea5b121f910b2511bf9d3bd114483f0b5b7a9f6ac170db166151",
+      "title": "GRC Software Management Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ideagen.com/industries/government",
+        "https://www.ideagen.com/company/news/ideagen-becomes-first-ai-technology-partner-of-the-commonwealth-games",
+        "https://www.ideagen.com/company/news/ideagen-earns-70-g2-badges-sixth-consecutive-quarter--driven-by-customer-trust-across-regulated-industries",
+        "https://www.ideagen.com/company/events",
+        "https://www.ideagen.com/company/news",
+        "https://www.ideagen.com/company",
+        "https://www.ideagen.com/company/our-people/our-leadership",
+        "https://www.ideagen.com/company/our-customers/proof-point-stats",
+        "https://www.ideagen.com/company/our-customers/awards",
+        "https://www.ideagen.com/company/careers",
+        "https://www.ideagen.com/company/careers/current-vacancies",
+        "https://www.ideagen.com/company/careers/benefits"
+      ]
+    },
+    {
+      "url": "https://www.ideagen.com/industries/government",
+      "finalUrl": "https://www.ideagen.com/noram/industries/government",
+      "status": "success",
+      "sha256": "19d5d2a6505724d3fcaefcd4f8d36308c15ee8d5f771e121489e2d9aa967a471",
+      "title": "Government software and solutions for public sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ideagen.com/company/news/ideagen-becomes-first-ai-technology-partner-of-the-commonwealth-games",
+        "https://www.ideagen.com/company/news/ideagen-earns-70-g2-badges-sixth-consecutive-quarter--driven-by-customer-trust-across-regulated-industries",
+        "https://www.ideagen.com/company/events",
+        "https://www.ideagen.com/company/news",
+        "https://www.ideagen.com/company",
+        "https://www.ideagen.com/company/our-people/our-leadership",
+        "https://www.ideagen.com/company/our-customers/proof-point-stats",
+        "https://www.ideagen.com/company/our-customers/awards",
+        "https://www.ideagen.com/company/careers",
+        "https://www.ideagen.com/company/careers/current-vacancies",
+        "https://www.ideagen.com/company/careers/benefits",
+        "https://www.ideagen.com/company/careers/early-starters"
+      ]
+    },
+    {
+      "url": "https://www.ideagen.com/company/news/ideagen-becomes-first-ai-technology-partner-of-the-commonwealth-games",
+      "finalUrl": "https://www.ideagen.com/company/news/ideagen-becomes-first-ai-technology-partner-of-the-commonwealth-games",
+      "status": "success",
+      "sha256": "eb9a1a3e4a46108fb8374b794a0aefed9e13a719ba38154be9e8a52f2b1ce42d",
+      "title": "Ideagen becomes first AI Technology partner of the Commonwealth Games",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ideagen.com/company/news/ideagen-earns-70-g2-badges-sixth-consecutive-quarter--driven-by-customer-trust-across-regulated-industries",
+        "https://www.ideagen.com/company/events",
+        "https://www.ideagen.com/company/news",
+        "https://www.ideagen.com/company",
+        "https://www.ideagen.com/company/our-people/our-leadership",
+        "https://www.ideagen.com/company/our-customers/proof-point-stats",
+        "https://www.ideagen.com/company/our-customers/awards",
+        "https://www.ideagen.com/company/careers",
+        "https://www.ideagen.com/company/careers/current-vacancies",
+        "https://www.ideagen.com/company/careers/benefits",
+        "https://www.ideagen.com/company/careers/early-starters",
+        "https://www.ideagen.com/company/our-people/our-values"
+      ]
+    },
+    {
+      "url": "https://www.ideagen.com/company/news/ideagen-earns-70-g2-badges-sixth-consecutive-quarter--driven-by-customer-trust-across-regulated-industries",
+      "finalUrl": "https://www.ideagen.com/company/news/ideagen-earns-70-g2-badges-sixth-consecutive-quarter--driven-by-customer-trust-across-regulated-industries",
+      "status": "success",
+      "sha256": "33f9ecdb18f3653df5213ee455efeddf2fb973b29f800383a1bc60dc605203bf",
+      "title": "Ideagen earns 70+ G2 badges for sixth consecutive quarter",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ideagen.com/company/events",
+        "https://www.ideagen.com/company/news",
+        "https://www.ideagen.com/company",
+        "https://www.ideagen.com/company/our-people/our-leadership",
+        "https://www.ideagen.com/company/our-customers/proof-point-stats",
+        "https://www.ideagen.com/company/our-customers/awards",
+        "https://www.ideagen.com/company/careers",
+        "https://www.ideagen.com/company/careers/current-vacancies",
+        "https://www.ideagen.com/company/careers/benefits",
+        "https://www.ideagen.com/company/careers/early-starters",
+        "https://www.ideagen.com/company/our-people/our-values",
+        "https://www.ideagen.com/company/esg"
+      ]
+    }
+  ]
+}

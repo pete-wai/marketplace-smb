@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-cba9e54a6220",
+  "retrievedAt": "2026-10-30T11:02:00.805Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://rksolutions.com/gorpm",
+      "finalUrl": "https://www.rksolutions.com/gorpm",
+      "status": "success",
+      "sha256": "65d6e372a70da9505e9947f61e75b43175c4c31e1c86b385fe3d190dabbe6d25",
+      "title": "GoRPM - Geospatial Real Property Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rksolutions.com/about/our-story",
+        "https://www.rksolutions.com/about/our-mission",
+        "https://www.rksolutions.com/about/our-team",
+        "https://www.rksolutions.com/about/leadership",
+        "https://www.rksolutions.com/markets/federal-government",
+        "https://www.rksolutions.com/markets/state-and-local-government",
+        "https://www.rksolutions.com/gorpm/technical-capabilities"
+      ]
+    },
+    {
+      "url": "https://www.rksolutions.com/about/our-story",
+      "finalUrl": "https://www.rksolutions.com/about/our-story",
+      "status": "success",
+      "sha256": "b3ae0b77737ed29af7e01b5f6106b5a1a432410d9fa17c74fb61a89f74af8be5",
+      "title": "Our Story | R&K Solutions",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ents Careers Insights Get Started Get Started Our Story R&K Solutions is an employee-owned, small business specializing in real property business support for managers of some of the world&#x27;s largest facilities portfolios. Since 1984, R&K has supported government and private"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.rksolutions.com/about/our-mission",
+        "https://www.rksolutions.com/about/our-team",
+        "https://www.rksolutions.com/about/leadership",
+        "https://www.rksolutions.com/markets/federal-government",
+        "https://www.rksolutions.com/markets/state-and-local-government",
+        "https://www.rksolutions.com/gorpm/technical-capabilities"
+      ]
+    },
+    {
+      "url": "https://www.rksolutions.com/about/our-mission",
+      "finalUrl": "https://www.rksolutions.com/about/our-mission",
+      "status": "success",
+      "sha256": "a5aee2ff347295b59ab1f85ab29f7c6f08df08d29e9c7fbfe9d82f1490924b74",
+      "title": "Our Mission | R&K Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rksolutions.com/about/our-team",
+        "https://www.rksolutions.com/about/leadership",
+        "https://www.rksolutions.com/markets/federal-government",
+        "https://www.rksolutions.com/markets/state-and-local-government",
+        "https://www.rksolutions.com/gorpm/technical-capabilities"
+      ]
+    },
+    {
+      "url": "https://www.rksolutions.com/about/our-team",
+      "finalUrl": "https://www.rksolutions.com/about/our-team",
+      "status": "success",
+      "sha256": "bf3e7d329f1d7d0409892d45011ab8977f228e1ed77f4a34e250fffd54ed3175",
+      "title": "Our Team | R&K Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rksolutions.com/about/leadership",
+        "https://www.rksolutions.com/markets/federal-government",
+        "https://www.rksolutions.com/markets/state-and-local-government",
+        "https://www.rksolutions.com/gorpm/technical-capabilities"
+      ]
+    }
+  ]
+}

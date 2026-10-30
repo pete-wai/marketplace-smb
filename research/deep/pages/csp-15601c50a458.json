@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-15601c50a458",
+  "retrievedAt": "2026-10-30T11:00:44.097Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.aurigo.com/masterworks-cloud-platform/",
+      "finalUrl": "https://www.aurigo.com/masterworks-cloud-platform/",
+      "status": "success",
+      "sha256": "e1e26793d592e38f0f4ab01571e90c6c92a566393952bb406eeb90174f1e0b7b",
+      "title": "Masterworks Cloud Platform - Aurigo Software Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management",
+        "https://www.aurigo.com/company/press-release/aurigos-2026-predictions-for-permitting-power-and-project-delivery/",
+        "https://www.aurigo.com/products/masterworks-plan/federal-aid-reimbursement/",
+        "https://www.aurigo.com/industries/federal-agencies/",
+        "https://www.aurigo.com/industries/local-government/",
+        "https://www.aurigo.com/industries/state-and-large-government/",
+        "https://www.aurigo.com/company/press-release/federal-highway-administration-extends-partnership-with-aurigo/",
+        "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management/",
+        "https://www.aurigo.com/resources/leadership-insights/",
+        "https://www.aurigo.com/resources/blogs/why-federal-agencies-need-capital-planning-software-now-more-than-ever/",
+        "https://www.aurigo.com/company/about-aurigo/",
+        "https://www.aurigo.com/company/leadership-team/"
+      ]
+    },
+    {
+      "url": "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management",
+      "finalUrl": "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management/",
+      "status": "success",
+      "sha256": "1f2c4c4e3b56417f84429a4e546d266a18827577b88bfce3049f47901235434a",
+      "title": "City of Toronto Selects Aurigo Software to Modernize Real Estate Capital Program Management - Aurigo Software Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management/",
+        "https://www.aurigo.com/company/press-release/aurigos-2026-predictions-for-permitting-power-and-project-delivery/",
+        "https://www.aurigo.com/products/masterworks-plan/federal-aid-reimbursement/",
+        "https://www.aurigo.com/industries/federal-agencies/",
+        "https://www.aurigo.com/industries/local-government/",
+        "https://www.aurigo.com/industries/state-and-large-government/",
+        "https://www.aurigo.com/company/press-release/federal-highway-administration-extends-partnership-with-aurigo/",
+        "https://www.aurigo.com/resources/leadership-insights/",
+        "https://www.aurigo.com/resources/blogs/why-federal-agencies-need-capital-planning-software-now-more-than-ever/",
+        "https://www.aurigo.com/company/about-aurigo/",
+        "https://www.aurigo.com/company/leadership-team/",
+        "https://www.aurigo.com/company/trust-and-compliance/"
+      ]
+    },
+    {
+      "url": "https://www.aurigo.com/company/press-release/aurigos-2026-predictions-for-permitting-power-and-project-delivery/",
+      "finalUrl": "https://www.aurigo.com/company/press-release/aurigos-2026-predictions-for-permitting-power-and-project-delivery/",
+      "status": "success",
+      "sha256": "7d97812459480fb52c510611bb0d1a7a2e79a4eaf27c802a417ff09396390599",
+      "title": "Aurigo’s 2026 Predictions for Permitting, Power, and Project Delivery - Aurigo Software Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aurigo.com/products/masterworks-plan/federal-aid-reimbursement/",
+        "https://www.aurigo.com/industries/federal-agencies/",
+        "https://www.aurigo.com/industries/local-government/",
+        "https://www.aurigo.com/industries/state-and-large-government/",
+        "https://www.aurigo.com/company/press-release/federal-highway-administration-extends-partnership-with-aurigo/",
+        "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management/",
+        "https://www.aurigo.com/resources/leadership-insights/",
+        "https://www.aurigo.com/resources/blogs/why-federal-agencies-need-capital-planning-software-now-more-than-ever/",
+        "https://www.aurigo.com/company/about-aurigo/",
+        "https://www.aurigo.com/company/leadership-team/",
+        "https://www.aurigo.com/company/trust-and-compliance/",
+        "https://www.aurigo.com/company/press-releases/"
+      ]
+    },
+    {
+      "url": "https://www.aurigo.com/products/masterworks-plan/federal-aid-reimbursement/",
+      "finalUrl": "https://www.aurigo.com/products/masterworks-plan/federal-aid-reimbursement/",
+      "status": "success",
+      "sha256": "7b9db3f96e378d0bfdd92245689e4bbeb28441ab6e79b2c31ea26543012bf854",
+      "title": "Federal Aid Reimbursement Software Solution for Owners | Aurigo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aurigo.com/industries/federal-agencies/",
+        "https://www.aurigo.com/industries/local-government/",
+        "https://www.aurigo.com/industries/state-and-large-government/",
+        "https://www.aurigo.com/company/press-release/federal-highway-administration-extends-partnership-with-aurigo/",
+        "https://www.aurigo.com/company/press-release/city-of-toronto-selects-aurigo-software-to-modernize-real-estate-capital-program-management/",
+        "https://www.aurigo.com/resources/leadership-insights/",
+        "https://www.aurigo.com/resources/blogs/why-federal-agencies-need-capital-planning-software-now-more-than-ever/",
+        "https://www.aurigo.com/company/about-aurigo/",
+        "https://www.aurigo.com/company/leadership-team/",
+        "https://www.aurigo.com/company/trust-and-compliance/",
+        "https://www.aurigo.com/company/press-releases/",
+        "https://www.aurigo.com/company/company-announcements/"
+      ]
+    }
+  ]
+}

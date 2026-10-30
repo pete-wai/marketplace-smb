@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-49d660e3eaf3",
+  "retrievedAt": "2026-10-30T11:02:05.242Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://rohirrim.ai/",
+      "finalUrl": "https://rohirrim.ai/",
+      "status": "success",
+      "sha256": "d8b1c9978463e2cc0efeb87f520c3eda07483373dadbc32d834ef9713cf97472",
+      "title": "Rohirrim | AI-Native Unified Acquisition Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rohirrim.ai/government-contractors/",
+        "https://rohirrim.ai/government-agencies/",
+        "https://rohirrim.ai/about/",
+        "https://rohirrim.ai/blog/government-contractor-falls-out-of-compliance/",
+        "https://rohirrim.ai/blog/the-government-just-sped-up-have-you/"
+      ]
+    },
+    {
+      "url": "https://rohirrim.ai/government-contractors/",
+      "finalUrl": "https://rohirrim.ai/government-contractors/",
+      "status": "success",
+      "sha256": "b2b57f89b27b9b917edcd420ad5d5fce5730906b7576b4991b680e896e07f317",
+      "title": "AI RFP Software for Government Contractors | Rohirrim",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rohirrim.ai/government-agencies/",
+        "https://rohirrim.ai/about/"
+      ]
+    },
+    {
+      "url": "https://rohirrim.ai/government-agencies/",
+      "finalUrl": "https://rohirrim.ai/government-agencies/",
+      "status": "success",
+      "sha256": "bac4887106891c7fa36240e06bd959357da01a8ae6485c6586358a726a90a11d",
+      "title": "AI Procurement for Government Agencies | Rohirrim",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rohirrim.ai/about/"
+      ]
+    },
+    {
+      "url": "https://rohirrim.ai/about/",
+      "finalUrl": "https://rohirrim.ai/about/",
+      "status": "success",
+      "sha256": "371d4851a14445c6382fe9eadff04142fe46ca142800515000499e4f94bc2725",
+      "title": "About Rohirrim AI | AI for Procurement and Acquisition",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

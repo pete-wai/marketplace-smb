@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-04d409243e22",
+  "retrievedAt": "2026-10-30T11:01:31.915Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.labarchives.com/",
+      "finalUrl": "https://www.labarchives.com/",
+      "status": "success",
+      "sha256": "f6f0c5aca0e12356cdc407e01354b10a27a42f3f14522c6617d624cac0a70607",
+      "title": "The Modern Electronic Lab Notebook (ELN) - LabArchives",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.labarchives.com/products/labarchives-for-government",
+        "https://www.labarchives.com/products/eln-for-research",
+        "https://www.labarchives.com/about"
+      ]
+    },
+    {
+      "url": "https://www.labarchives.com/products/labarchives-for-government",
+      "finalUrl": "https://www.labarchives.com/products/labarchives-for-government",
+      "status": "success",
+      "sha256": "cc49dfe7ed53110b81a4cf766dcf60dbbcfbd91e3428ff16b4a378200829e86b",
+      "title": "LabArchives for Government - LabArchives",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.labarchives.com/about"
+      ]
+    },
+    {
+      "url": "https://www.labarchives.com/products/eln-for-research",
+      "finalUrl": "https://www.labarchives.com/products/eln-for-research",
+      "status": "success",
+      "sha256": "f416e6cec8772702533da3b4d869679a57c7d0e82ce43f12d64152ebdbf33a05",
+      "title": "The Best ELN Software - LabArchives ELN for Research",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.labarchives.com/about"
+      ]
+    },
+    {
+      "url": "https://www.labarchives.com/about",
+      "finalUrl": "https://www.labarchives.com/about",
+      "status": "success",
+      "sha256": "6a41e7919b5ff9e31e4dea8611a590a782d66b4e537f319f0a6b1adc25af9529",
+      "title": "About - LabArchives",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

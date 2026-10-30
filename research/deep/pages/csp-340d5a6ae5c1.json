@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-340d5a6ae5c1",
+  "retrievedAt": "2026-10-30T11:02:28.102Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.verint.com/customer-self-service/",
+      "finalUrl": "https://www.verint.com/customer-self-service/",
+      "status": "success",
+      "sha256": "f8ddb9d55ece79a714e4ff4a30fc71f656b32eede1332a2830e8de67140010ff",
+      "title": "Customer Self-Service to Improve CX and Reduce Support Costs",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verint.com/public-sector/",
+        "https://www.verint.com/our-company/",
+        "https://www.verint.com/our-company/legal-documents/",
+        "https://www.verint.com/our-company/corporate-governance/",
+        "https://www.verint.com/our-company/executive-leadership/",
+        "https://www.verint.com/our-company/corporate-responsibility/",
+        "https://www.verint.com/our-company/legal-documents/privacy-policy/",
+        "https://www.verint.com/our-company/global-locations/",
+        "https://www.verint.com/our-company/legal-documents/verintcom-terms-of-service/",
+        "https://www.verint.com/our-company/legal-documents/global-privacy-notice/",
+        "https://www.verint.com/our-company/legal-documents/cookies-overview/",
+        "https://www.verint.com/our-company/legal-documents/intellectual-property/"
+      ]
+    },
+    {
+      "url": "https://www.verint.com/public-sector/",
+      "finalUrl": "https://www.verint.com/public-sector/",
+      "status": "success",
+      "sha256": "ccee679a980085cd9b224423922db42a86665394d9df59f4d38faa16fef0d6b2",
+      "title": "Government CX Solutions for Federal, State & Local | Verint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verint.com/our-company/",
+        "https://www.verint.com/our-company/legal-documents/",
+        "https://www.verint.com/our-company/corporate-governance/",
+        "https://www.verint.com/our-company/executive-leadership/",
+        "https://www.verint.com/our-company/corporate-responsibility/",
+        "https://www.verint.com/public-sector/citizen-engagement/",
+        "https://www.verint.com/public-sector/solutions-for-311/",
+        "https://www.verint.com/public-sector/public-safety/",
+        "https://www.verint.com/resources/intelligent-virtual-assistants-for-public-sector-agencies/",
+        "https://www.verint.com/our-company/legal-documents/privacy-policy/",
+        "https://www.verint.com/our-company/global-locations/",
+        "https://www.verint.com/our-company/legal-documents/verintcom-terms-of-service/"
+      ]
+    },
+    {
+      "url": "https://www.verint.com/our-company/",
+      "finalUrl": "https://www.verint.com/our-company/",
+      "status": "success",
+      "sha256": "20273f38130aa3710d97304cd3d8927b9eb9ec5d19c14a2ce3a105dec2140f07",
+      "title": "Our Company | Verint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verint.com/our-company/legal-documents/",
+        "https://www.verint.com/our-company/corporate-governance/",
+        "https://www.verint.com/our-company/executive-leadership/",
+        "https://www.verint.com/our-company/corporate-responsibility/",
+        "https://www.verint.com/open-da-vinci-ai/",
+        "https://www.verint.com/our-company/global-locations/",
+        "https://www.verint.com/our-company/legal-documents/verintcom-terms-of-service/",
+        "https://www.verint.com/our-company/legal-documents/global-privacy-notice/",
+        "https://www.verint.com/our-company/legal-documents/cookies-overview/",
+        "https://www.verint.com/our-company/legal-documents/intellectual-property/",
+        "https://www.verint.com/our-company/legal-documents/accessibility-statement/"
+      ]
+    },
+    {
+      "url": "https://www.verint.com/our-company/legal-documents/",
+      "finalUrl": "https://www.verint.com/our-company/legal-documents/",
+      "status": "success",
+      "sha256": "8040da4273f82019e552c31961831c4a53cb1fdc16717618246f0ad04e9c8535",
+      "title": "Legal | Verint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verint.com/our-company/corporate-governance/",
+        "https://www.verint.com/our-company/executive-leadership/",
+        "https://www.verint.com/our-company/corporate-responsibility/",
+        "https://www.verint.com/our-company/legal-documents/cookies-overview/",
+        "https://www.verint.com/our-company/legal-documents/global-data-processing-addendum/",
+        "https://www.verint.com/our-company/legal-documents/intellectual-property/",
+        "https://www.verint.com/our-company/legal-documents/master-agreement/",
+        "https://www.verint.com/our-company/legal-documents/master-sponsorship-agreement/",
+        "https://www.verint.com/our-company/legal-documents/global-privacy-notice/",
+        "https://www.verint.com/our-company/legal-documents/global-data-processing-addendum/supplementary-measures/",
+        "https://www.verint.com/our-company/legal-documents/weee-compliance/",
+        "https://www.verint.com/our-company/legal-documents/vendors/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-35159d31ae3c",
+  "retrievedAt": "2026-10-30T11:02:04.914Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ripcord.com/platform",
+      "finalUrl": "https://www.ripcord.com/platform",
+      "status": "success",
+      "sha256": "97f3d53c713f84413f5efd6cdf56d655cc8128a5adb45c9c92f08af5e1881434",
+      "title": "The Ripcord Platform: Turn your documents into powerful data",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ripcord.com/solutions/public-sector",
+        "https://www.ripcord.com/about"
+      ]
+    },
+    {
+      "url": "https://www.ripcord.com/solutions/public-sector",
+      "finalUrl": "https://www.ripcord.com/solutions/public-sector",
+      "status": "success",
+      "sha256": "15ad6304f8d8d4cd443cf4e55ada2dacae618450711019fe0a13450573d064ba",
+      "title": "Public Sector Document Digitization & Automation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ripcord.com/about"
+      ]
+    },
+    {
+      "url": "https://www.ripcord.com/about",
+      "finalUrl": "https://www.ripcord.com/about",
+      "status": "success",
+      "sha256": "6b778aca6626a7915373e0f9158d05f14b3cfa8d8ff563d7bc9fe8650b6d3a76",
+      "title": "About Ripcord",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

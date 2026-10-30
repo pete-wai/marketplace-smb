@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-bc89b78fea28",
+  "retrievedAt": "2026-10-30T11:00:55.388Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cdslegal.com/",
+      "finalUrl": "https://cdslegal.com/",
+      "status": "success",
+      "sha256": "be59850457cd9ced8ed8653c94de7f334d9fd80c8845400b67c6d74ad20c757e",
+      "title": "Real People. Real Results. - Complete Discovery Source",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cdslegal.com/services/federal/"
+      ]
+    },
+    {
+      "url": "https://cdslegal.com/services/federal/",
+      "finalUrl": "https://cdslegal.com/services/federal/",
+      "status": "success",
+      "sha256": "be93792586dbe059385c297153265bbd89cafa16ef3d31746fb4ed231548aa41",
+      "title": "Federal Cloud Services - Complete Discovery Source",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cdslegal.com/insights/5-in-5-episodes-4-6-how-government-teams-legal-pros-litigators-are-using-ai-today/",
+        "https://cdslegal.com/insights/5-in-5-episode-4-exploring-air-for-review-in-relativityone-government/",
+        "https://cdslegal.com/fr/services/federal/?wg-choose-original=false",
+        "https://cdslegal.com/de/services/federal/?wg-choose-original=false"
+      ]
+    },
+    {
+      "url": "https://cdslegal.com/insights/5-in-5-episodes-4-6-how-government-teams-legal-pros-litigators-are-using-ai-today/",
+      "finalUrl": "https://cdslegal.com/insights/5-in-5-episodes-4-6-how-government-teams-legal-pros-litigators-are-using-ai-today/",
+      "status": "success",
+      "sha256": "c5c433063aa93bdeb9ffe38b6d32f0b2e65be140e4b5bc6f962b7a9328b1c9f4",
+      "title": "5 in 5 Episodes 4–6: How Government Teams, Legal Pros & Litigators Are Using AI Today - Complete Discovery Source",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cdslegal.com/insights/5-in-5-episode-4-exploring-air-for-review-in-relativityone-government/",
+        "https://cdslegal.com/category/insights/federal/"
+      ]
+    },
+    {
+      "url": "https://cdslegal.com/insights/5-in-5-episode-4-exploring-air-for-review-in-relativityone-government/",
+      "finalUrl": "https://cdslegal.com/insights/5-in-5-episode-4-exploring-air-for-review-in-relativityone-government/",
+      "status": "success",
+      "sha256": "a2a1dc117ac62ceab9daf84408ba4dbace255c01109f5d173e569ed661a8ff14",
+      "title": "5 in 5 - Episode 4: Exploring aiR for Review in RelativityOne Government - Complete Discovery Source",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cdslegal.com/category/insights/federal/"
+      ]
+    }
+  ]
+}

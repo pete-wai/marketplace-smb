@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-fe814106a139",
+  "retrievedAt": "2026-10-30T11:02:26.094Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://usg.valideval.com/",
+      "finalUrl": "https://usg.valideval.com/",
+      "status": "success",
+      "sha256": "f205449c22afc84a14eebc44487e793e362c0ce2f36a33be8fe988280e2e4cff",
+      "title": "Valid Evaluation",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

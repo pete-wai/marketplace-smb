@@ -1,0 +1,38 @@
+{
+  "providerId": "csp-d58999507a10",
+  "retrievedAt": "2026-10-30T11:01:46.043Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.nominal.io/",
+      "finalUrl": "https://nominal.io/",
+      "status": "success",
+      "sha256": "09f29c3a4b8a22a98d4ea8cb8d4ee08047d22a748cef96b918bc1b318be3ecd5",
+      "title": "Nominal | The unified software suite to test and operate hardware",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nominal.io/about-us"
+      ]
+    },
+    {
+      "url": "https://nominal.io/about-us",
+      "finalUrl": "https://nominal.io/about-us",
+      "status": "success",
+      "sha256": "a0679b9425dc0b6cb5ac72f5f322fa4a6e97a7b2efa667f2400704f5544b1369",
+      "title": "About Us | Nominal - Unified Industrial Data Stack",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nominal.io/blog/anduril-case-study"
+      ]
+    },
+    {
+      "url": "https://nominal.io/blog/anduril-case-study",
+      "finalUrl": "https://nominal.io/blog/anduril-case-study",
+      "status": "success",
+      "sha256": "1dcc6a6fa37d1d3ef4715c6819c9c119092fc1ef3dc0ea13fec2c94d8c9c6c21",
+      "title": "Anduril Case Study: From 5-Hour Test Loops to Real-Time Analysis | Nominal",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

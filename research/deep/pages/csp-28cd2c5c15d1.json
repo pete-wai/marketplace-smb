@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-28cd2c5c15d1",
+  "retrievedAt": "2026-10-30T11:01:26.317Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.island.io/",
+      "finalUrl": "https://www.island.io/",
+      "status": "success",
+      "sha256": "fc3bbbcc0de408b6ac40e1d28d042af41845bb48e68546f3b8ee1b07aed2c3b3",
+      "title": "Island | The Enterprise Agentic Control Plane | AI, Network, Data Protection",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.island.io/industries/government",
+        "https://www.island.io/about",
+        "https://www.island.io/gartner-reviews",
+        "https://www.island.io/webinar/omdia-securing-ai/register"
+      ]
+    },
+    {
+      "url": "https://www.island.io/industries/government",
+      "finalUrl": "https://www.island.io/industries/government",
+      "status": "success",
+      "sha256": "cf2f6de242418d6e88f5564df6eb2c66705ae37b3c52d70fa90fc8e2122cebad",
+      "title": "Government Solutions | Island The Enterprise Browser",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.island.io/about",
+        "https://www.island.io/blog/how-federal-agencies-can-accelerate-the-safe-and-compliant-adoption-of-ai",
+        "https://www.island.io/assets/federal-defense-security-solution-brief"
+      ]
+    },
+    {
+      "url": "https://www.island.io/about",
+      "finalUrl": "https://www.island.io/about",
+      "status": "success",
+      "sha256": "bc1237901d9996a92c822353d7b9e1d8127c40dbd5c99ea1e100bd3f27230b57",
+      "title": "Island Enterprise Browser Background Story and Leadership",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.island.io/press/island-announces-400-million-series-f-bringing-valuation-to-6-4-billion"
+      ]
+    },
+    {
+      "url": "https://www.island.io/gartner-reviews",
+      "finalUrl": "https://www.island.io/gartner-reviews",
+      "status": "success",
+      "sha256": "7416c1a6e8e5df879ebed0643c90906d0e0123d3d9a0a93e9b5e856f734833e1",
+      "title": "Gartner Peer Insights Reviews | Island Enterprise Browser",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-b7b27ea467e4",
+  "retrievedAt": "2026-10-30T11:02:28.499Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.versa-networks.com/",
+      "finalUrl": "https://versa-networks.com/",
+      "status": "success",
+      "sha256": "1a02c2b6a58911c92c5ca875be16391a46546e11998d4244efbe0fcacb0e73a9",
+      "title": "Secure Access Service Edge (SASE) vendor | Versa Networks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://versa-networks.com/solutions/industries/federal-government/",
+        "https://versa-networks.com/solutions/industries/public-sector/",
+        "https://versa-networks.com/",
+        "https://versa-networks.com/about/",
+        "https://versa-networks.com/about/leadership/",
+        "https://versa-networks.com/about/investors/",
+        "https://versa-networks.com/about/awards/",
+        "https://versa-networks.com/about/brand-resources/",
+        "https://versa-networks.com/sase/who-should-use-sase/"
+      ]
+    },
+    {
+      "url": "https://versa-networks.com/solutions/industries/federal-government/",
+      "finalUrl": "https://versa-networks.com/solutions/industries/federal-government/",
+      "status": "success",
+      "sha256": "07e22bd20ba26834f6eeb441895b24c1c1a2a2f8f304bcfd9b887f78fb814282",
+      "title": "Versa SASE for Government | Versa Networks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://versa-networks.com/solutions/industries/public-sector/",
+        "https://versa-networks.com/about/",
+        "https://versa-networks.com/about/leadership/",
+        "https://versa-networks.com/about/investors/",
+        "https://versa-networks.com/about/awards/",
+        "https://versa-networks.com/about/brand-resources/",
+        "https://versa-networks.com/sase/who-should-use-sase/",
+        "https://versa-networks.com/resources/webinars/accelerate-government-modernization-with-sase/"
+      ]
+    },
+    {
+      "url": "https://versa-networks.com/solutions/industries/public-sector/",
+      "finalUrl": "https://versa-networks.com/solutions/industries/public-sector/",
+      "status": "success",
+      "sha256": "59a41ccf8307cd1026dbfa83b02bf39491b066cf94cf9d8ccf377e6d1ce4c31a",
+      "title": "Public Sector Solutions | Versa Networks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://versa-networks.com/about/",
+        "https://versa-networks.com/about/leadership/",
+        "https://versa-networks.com/about/investors/",
+        "https://versa-networks.com/about/awards/",
+        "https://versa-networks.com/about/brand-resources/",
+        "https://versa-networks.com/sase/who-should-use-sase/",
+        "https://versa-networks.com/resources/reports/suss-accelerate-government-modernization-with-sase/"
+      ]
+    },
+    {
+      "url": "https://versa-networks.com/",
+      "finalUrl": "https://versa-networks.com/",
+      "status": "success",
+      "sha256": "1a02c2b6a58911c92c5ca875be16391a46546e11998d4244efbe0fcacb0e73a9",
+      "title": "Secure Access Service Edge (SASE) vendor | Versa Networks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://versa-networks.com/about/",
+        "https://versa-networks.com/about/leadership/",
+        "https://versa-networks.com/about/investors/",
+        "https://versa-networks.com/about/awards/",
+        "https://versa-networks.com/about/brand-resources/",
+        "https://versa-networks.com/sase/who-should-use-sase/"
+      ]
+    }
+  ]
+}

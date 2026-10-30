@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-d3566809b85a",
+  "retrievedAt": "2026-10-30T11:00:51.347Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://circleci.com/",
+      "finalUrl": "https://circleci.com/",
+      "status": "success",
+      "sha256": "93c196b66957edb22e3bdc50fba2f4d599d91db91e1b236f8aa518478a86abca",
+      "title": "Autonomous validation for the AI era - CircleCI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://circleci.com/about/",
+        "https://circleci.com/product/"
+      ]
+    },
+    {
+      "url": "https://circleci.com/about/",
+      "finalUrl": "https://circleci.com/about/",
+      "status": "success",
+      "sha256": "c31329f7ea4f0df76de591a9a79c5ca5ae81ea732abccf41869cc8ca285c598a",
+      "title": "About Us - CircleCI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://circleci.com/de/about/",
+        "https://circleci.com/es/about/",
+        "https://circleci.com/ja/about/",
+        "https://circleci.com/ko/about/",
+        "https://circleci.com/ru/about/",
+        "https://circleci.com/zh/about/"
+      ]
+    },
+    {
+      "url": "https://circleci.com/product/",
+      "finalUrl": "https://circleci.com/product/",
+      "status": "success",
+      "sha256": "62582e638d7a55ca908e9d98ae377308be37fbd81e27245ec10eaf82f0be61c9",
+      "title": "Product and features - CircleCI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://circleci.com/blog/what-is-autonomous-validation/",
+        "https://circleci.com/docs/guides/test/test",
+        "https://circleci.com/blog/smarter-testing-stop-running-tests-that-dont-matter/",
+        "https://circleci.com/blog/introducing-chunk/",
+        "https://circleci.com/docs/guides/deploy/deployment-overview/"
+      ]
+    },
+    {
+      "url": "https://circleci.com/de/about/",
+      "finalUrl": "https://circleci.com/de/about/",
+      "status": "success",
+      "sha256": "d0a8b5e03454ef7bcf44bc16d5d63710e7c3e62da25c22e03ce77689f4f09599",
+      "title": "Über uns - CircleCI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://circleci.com/es/about/",
+        "https://circleci.com/ja/about/",
+        "https://circleci.com/ko/about/",
+        "https://circleci.com/ru/about/",
+        "https://circleci.com/zh/about/"
+      ]
+    }
+  ]
+}

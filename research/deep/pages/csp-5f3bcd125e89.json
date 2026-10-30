@@ -1,0 +1,68 @@
+{
+  "providerId": "csp-5f3bcd125e89",
+  "retrievedAt": "2026-10-30T11:01:40.051Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.mathematica.org/",
+      "finalUrl": "https://www.mathematica.org/",
+      "status": "success",
+      "sha256": "d78d095cd0217afcdf2bb5019788eaaaf6ec9514c23daa7ee50e874c308a15e3",
+      "title": "Mathematica | Progress Together.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mathematica.org/sectors/federal",
+        "https://www.mathematica.org/blogs/modernizing-the-front-door-to-federal-data",
+        "https://www.mathematica.org/about-mathematica",
+        "https://www.mathematica.org/about-mathematica/people",
+        "https://www.mathematica.org/about-mathematica/work-with-us",
+        "https://www.mathematica.org/about-mathematica/ai-principles-and-position-statement"
+      ]
+    },
+    {
+      "url": "https://www.mathematica.org/sectors/federal",
+      "finalUrl": "https://www.mathematica.org/sectors/federal",
+      "status": "success",
+      "sha256": "6e6da4ab1f903b5e58c7b7d767f39c68c46cca04a69731e5ca6f3e831891c749",
+      "title": "Federal | Mathematica",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mathematica.org/about-mathematica/news",
+        "https://www.mathematica.org/about-mathematica",
+        "https://www.mathematica.org/search",
+        "https://www.mathematica.org/solutions/analytics-and-operations",
+        "https://www.mathematica.org/solutions/data-solutions",
+        "https://www.mathematica.org/solutions/research-and-evaluation",
+        "https://www.mathematica.org/about-mathematica/people"
+      ]
+    },
+    {
+      "url": "https://www.mathematica.org/blogs/modernizing-the-front-door-to-federal-data",
+      "finalUrl": "https://www.mathematica.org/blogs/modernizing-the-front-door-to-federal-data",
+      "status": "success",
+      "sha256": "6b47092dd2875d23882d6299d1d38268e2e89439d72ba963264f3c99b2d9bf8c",
+      "title": "Modernizing the front door to federal data",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mathematica.org/about-mathematica",
+        "https://www.mathematica.org/about-mathematica/people",
+        "https://www.mathematica.org/about-mathematica/work-with-us",
+        "https://www.mathematica.org/about-mathematica/ai-principles-and-position-statement",
+        "https://www.mathematica.org/insights/blog-posts"
+      ]
+    },
+    {
+      "url": "https://www.mathematica.org/about-mathematica",
+      "finalUrl": "https://www.mathematica.org/about-mathematica",
+      "status": "success",
+      "sha256": "3c9ace5606d67084c4b4917f433e3968e08515ee120e3c8a3f094726fc0d3939",
+      "title": "About Mathematica",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mathematica.org/about-mathematica/people",
+        "https://www.mathematica.org/about-mathematica/work-with-us",
+        "https://www.mathematica.org/about-mathematica/ai-principles-and-position-statement"
+      ]
+    }
+  ]
+}

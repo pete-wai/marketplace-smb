@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-aa705ca3c030",
+  "retrievedAt": "2026-10-30T11:01:41.309Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://meterbox.ai/",
+      "finalUrl": "https://meterbox.ai/",
+      "status": "success",
+      "sha256": "86fe0bd7135fa66c3405dd522a413ebfc2f6dd906db951864cd3acf130d68d24",
+      "title": "Meterbox | The operating system for software monetization",
+      "signals": [],
+      "discoveredLinks": [
+        "https://meterbox.ai/about"
+      ]
+    },
+    {
+      "url": "https://meterbox.ai/about",
+      "finalUrl": "https://meterbox.ai/about",
+      "status": "success",
+      "sha256": "f7dffceed1ef4dd3702a0596df8b8f2d208bbd371dfb864e5c7f288e18144a64",
+      "title": "About | Meterbox",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

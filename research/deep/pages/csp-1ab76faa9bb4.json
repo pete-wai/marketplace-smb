@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1ab76faa9bb4",
+  "retrievedAt": "2026-10-30T11:02:32.218Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://wraithwatch.com/",
+      "finalUrl": "https://wraithwatch.com/",
+      "status": "success",
+      "sha256": "a91b373d0016e428439d11004b2a41eda33eaa828b9f8f2af994e49b9626ea28",
+      "title": "Wraithwatch | Mission Control for Cyber Defense",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

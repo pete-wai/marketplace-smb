@@ -1,0 +1,18 @@
+{
+  "name": "SOFWARE LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA25D005Y&contractorName=SOFWARE+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-a7f5da6139a3"
+  ],
+  "contractNumber": "47QTCA25D005Y",
+  "retrievedAt": "2026-10-30T11:08:46.273Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:19.339Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

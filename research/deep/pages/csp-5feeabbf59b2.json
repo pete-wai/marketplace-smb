@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-5feeabbf59b2",
+  "retrievedAt": "2026-10-30T11:01:22.792Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.infoblox.com/products/universal-ddi-management/",
+      "finalUrl": "https://www.infoblox.com/products/universal-ddi-management/",
+      "status": "success",
+      "sha256": "81d3d8ed49d8cb697e41ae2bf20067830c9fbe71e068af664d2b45caacedc189",
+      "title": "Universal DDI Management | DNS, DHCP & IPAM for Hybrid Cloud",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infoblox.com/solutions/public-sector/",
+        "https://www.infoblox.com/company/events/",
+        "https://www.infoblox.com/company/",
+        "https://www.infoblox.com/company/customers/",
+        "https://www.infoblox.com/company/careers/",
+        "https://www.infoblox.com/company/inclusion/",
+        "https://www.infoblox.com/company/contact/",
+        "https://www.infoblox.com/partners/",
+        "https://www.infoblox.com/company/why-infoblox/",
+        "https://www.infoblox.com/company/legal/website-terms-and-conditions/",
+        "https://www.infoblox.com/company/legal/",
+        "https://www.infoblox.com/company/legal/privacy-policy/"
+      ]
+    },
+    {
+      "url": "https://www.infoblox.com/solutions/public-sector/",
+      "finalUrl": "https://www.infoblox.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "6935635cec3d39a73444bef42007fe69c14eb543ea5e60880a112b6aeb86c18e",
+      "title": "Public Sector | Scale and Distribute Networking for All",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infoblox.com/company/events/",
+        "https://www.infoblox.com/company/",
+        "https://www.infoblox.com/company/customers/",
+        "https://www.infoblox.com/company/careers/",
+        "https://www.infoblox.com/company/inclusion/",
+        "https://www.infoblox.com/company/contact/",
+        "https://www.infoblox.com/partners/",
+        "https://www.infoblox.com/resources/solution-note/public-sector",
+        "https://www.infoblox.com/solutions/government/state-and-local/",
+        "https://www.infoblox.com/solutions/government/federal/",
+        "https://www.infoblox.com/resources/solution-note/state-local-government-it",
+        "https://www.infoblox.com/resources/solution-note/work-from-anywhere-public-sector"
+      ]
+    },
+    {
+      "url": "https://www.infoblox.com/company/events/",
+      "finalUrl": "https://www.infoblox.com/company/events/",
+      "status": "success",
+      "sha256": "0295a4d3aac1b0a5d9cc9890cabf78bf5653b29c670bf67d6b618a290dba612a",
+      "title": "Events | Infoblox",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infoblox.com/company/",
+        "https://www.infoblox.com/company/customers/",
+        "https://www.infoblox.com/company/careers/",
+        "https://www.infoblox.com/company/inclusion/",
+        "https://www.infoblox.com/company/contact/",
+        "https://www.infoblox.com/partners/",
+        "https://www.infoblox.com/company/why-infoblox/",
+        "https://www.infoblox.com/company/legal/website-terms-and-conditions/",
+        "https://www.infoblox.com/company/legal/",
+        "https://www.infoblox.com/company/legal/privacy-policy/"
+      ]
+    },
+    {
+      "url": "https://www.infoblox.com/company/",
+      "finalUrl": "https://www.infoblox.com/company/",
+      "status": "success",
+      "sha256": "05f832217c7f3fb80510006ac9add354e96179af2aaf82dc4bf42601ee3f3f83",
+      "title": "Learn About Infoblox | The Leader in Networking & Security Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.infoblox.com/company/customers/",
+        "https://www.infoblox.com/company/careers/",
+        "https://www.infoblox.com/company/inclusion/",
+        "https://www.infoblox.com/company/contact/",
+        "https://www.infoblox.com/partners/",
+        "https://www.infoblox.com/company/press-releases/",
+        "https://www.infoblox.com/company/environmental-social-and-governance-policy/",
+        "https://www.infoblox.com/company/why-infoblox/",
+        "https://www.infoblox.com/company/legal/website-terms-and-conditions/",
+        "https://www.infoblox.com/company/legal/",
+        "https://www.infoblox.com/company/legal/privacy-policy/"
+      ]
+    }
+  ]
+}

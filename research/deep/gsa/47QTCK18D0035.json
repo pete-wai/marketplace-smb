@@ -1,0 +1,18 @@
+{
+  "name": "TELOS CORPORATION",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCK18D0035&contractorName=TELOS+CORPORATION&executeQuery=YES",
+  "providerIds": [
+    "csp-c987adc38cb5"
+  ],
+  "contractNumber": "47QTCK18D0035",
+  "retrievedAt": "2026-10-30T11:09:06.533Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:22.027Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

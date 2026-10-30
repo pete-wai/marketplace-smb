@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-5ef359c6ea22",
+  "retrievedAt": "2026-10-30T11:00:35.827Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://xtractiq.tscti.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

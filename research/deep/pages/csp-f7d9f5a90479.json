@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-f7d9f5a90479",
+  "retrievedAt": "2026-10-30T11:02:00.932Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ramp.com/government",
+      "finalUrl": "https://ramp.com/public-sector",
+      "status": "success",
+      "sha256": "c53e763b9f5e234d2c29e477fb1e318d1069ff2524a22be75abb97cd0c215f56",
+      "title": "Public Sector Finance Automation & Spend Management Software | Ramp",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ramp.com/about-us"
+      ]
+    },
+    {
+      "url": "https://ramp.com/about-us",
+      "finalUrl": "https://ramp.com/about-us",
+      "status": "success",
+      "sha256": "a99b4d33def037549ae26b51848417b6234592675dfef5e6c3cdf7cb49f0d57e",
+      "title": "About Us - Different By Design | Ramp",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

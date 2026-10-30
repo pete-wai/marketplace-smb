@@ -1,0 +1,34 @@
+{
+  "providerId": "csp-545b1fe9c188",
+  "retrievedAt": "2026-10-30T11:00:47.969Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.blackohm.com/",
+      "finalUrl": "https://blackohm.com/",
+      "status": "success",
+      "sha256": "1adb3dae78e6948c05b0b6a75640aa6f234ba181343558f11aa5aa2011bd78b5",
+      "title": "Solutions for Personnel, Asset & Drone Tracking | BlackOhm",
+      "signals": [],
+      "discoveredLinks": [
+        "https://blackohm.com/about-blackohm-tracking-technology-company/"
+      ]
+    },
+    {
+      "url": "https://blackohm.com/about-blackohm-tracking-technology-company/",
+      "finalUrl": "https://blackohm.com/about-blackohm-tracking-technology-company/",
+      "status": "success",
+      "sha256": "c8ff316cfec31c85477be0ac7952fc91e26e5106f2b8e9638f0125a015b4701e",
+      "title": "About BlackOhm | Tracking Technology Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://blackohm.com/about-blackohm-tracking-technology-company/itemDataObject.url"
+      ]
+    },
+    {
+      "url": "https://blackohm.com/about-blackohm-tracking-technology-company/itemDataObject.url",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

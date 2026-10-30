@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-a9d620996672",
+  "retrievedAt": "2026-10-30T11:01:20.315Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.haivision.com/products/haivision-hub/",
+      "finalUrl": "https://www.haivision.com/products/",
+      "status": "success",
+      "sha256": "f0433c586783131a7ea3dcfbc4426e0c33d179f19d2798499e5d02c1473ebeb1",
+      "title": "Haivision Video Networking & Video Wall Products",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.haivision.com/industries/government/",
+        "https://www.haivision.com/about/",
+        "https://www.haivision.com/about/awards/",
+        "https://www.haivision.com/about/leadership-team/",
+        "https://www.haivision.com/about/technology-partners/",
+        "https://www.haivision.com/about/press-releases/",
+        "https://www.haivision.com/about/careers/",
+        "https://www.haivision.com/blog/category/government-video-solutions/"
+      ]
+    },
+    {
+      "url": "https://www.haivision.com/industries/government/",
+      "finalUrl": "https://www.haivision.com/industries/government/",
+      "status": "success",
+      "sha256": "aadfa14d06ab7f80de2e0875457e50268cbb7b2e112a073cbac2e270920dc9de",
+      "title": "Haivision Video Solutions for Government Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.haivision.com/about/",
+        "https://www.haivision.com/about/awards/",
+        "https://www.haivision.com/about/leadership-team/",
+        "https://www.haivision.com/about/technology-partners/",
+        "https://www.haivision.com/about/press-releases/",
+        "https://www.haivision.com/about/careers/",
+        "https://www.haivision.com/case-studies/government-space-agency/",
+        "https://www.haivision.com/blog/category/government-video-solutions/"
+      ]
+    },
+    {
+      "url": "https://www.haivision.com/about/",
+      "finalUrl": "https://www.haivision.com/about/",
+      "status": "success",
+      "sha256": "701b82358e515b579c490b000b58bd75f80135be46a5361e2914521b09e7f4c9",
+      "title": "About Haivision: Live Video Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.haivision.com/about/awards/",
+        "https://www.haivision.com/about/leadership-team/",
+        "https://www.haivision.com/about/technology-partners/",
+        "https://www.haivision.com/about/press-releases/",
+        "https://www.haivision.com/about/careers/",
+        "https://www.haivision.com/blog/category/government-video-solutions/"
+      ]
+    },
+    {
+      "url": "https://www.haivision.com/about/awards/",
+      "finalUrl": "https://www.haivision.com/about/awards/",
+      "status": "success",
+      "sha256": "c5bf78a5bfbf5d0a50a75e96db6b0a40fd2f770c2dd1ba6309b04a965689c7d1",
+      "title": "Company Awards & Recognition | Haivision",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.haivision.com/about/leadership-team/",
+        "https://www.haivision.com/about/technology-partners/",
+        "https://www.haivision.com/about/press-releases/",
+        "https://www.haivision.com/about/careers/",
+        "https://www.haivision.com/blog/category/government-video-solutions/"
+      ]
+    }
+  ]
+}

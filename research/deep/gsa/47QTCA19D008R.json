@@ -1,0 +1,18 @@
+{
+  "name": "MERLIN INTERNATIONAL, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA19D008R&contractorName=MERLIN+INTERNATIONAL%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-2fdb1be9c0b8"
+  ],
+  "contractNumber": "47QTCA19D008R",
+  "retrievedAt": "2026-10-30T11:08:04.302Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:13.599Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

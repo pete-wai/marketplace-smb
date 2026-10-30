@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-af42cdbd9265",
+  "retrievedAt": "2026-10-30T11:02:21.409Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.toonimo.com/",
+      "finalUrl": "https://www.toonimo.com/en",
+      "status": "success",
+      "sha256": "d228ae7e49f3550cb9816b84f00fe95e7f5fbace73c45e0cf0f215b430d341bd",
+      "title": "Digital Adoption Platform for AI Transformation | Toonimo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.toonimo.com/en/industries/public-sector-government-organizations",
+        "https://www.toonimo.com/en/about"
+      ]
+    },
+    {
+      "url": "https://www.toonimo.com/en/industries/public-sector-government-organizations",
+      "finalUrl": "https://www.toonimo.com/en/industries/public-sector-government-organizations",
+      "status": "success",
+      "sha256": "8a3b5867e37bb193ee0b596ef5e79d68a255bc50aace761d293d538e2e825d31",
+      "title": "Toonimo | Toonimo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.toonimo.com/en/about"
+      ]
+    },
+    {
+      "url": "https://www.toonimo.com/en/about",
+      "finalUrl": "https://www.toonimo.com/en/about",
+      "status": "success",
+      "sha256": "56dd1e3407c0b43052ee30117dc5f05e0da96b70e6178f23b13d8c917a7a13b1",
+      "title": "About | Toonimo",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

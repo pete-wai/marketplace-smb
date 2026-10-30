@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-60a539de7bb0",
+  "retrievedAt": "2026-10-30T11:01:26.623Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ivanti.com/",
+      "finalUrl": "https://www.ivanti.com/",
+      "status": "success",
+      "sha256": "c457d2229a8f8b1840f0ef539ed14bd84fd026e7ed87dbce29bd05e5effa6954",
+      "title": "Ivanti | Data Authority. Governed Autonomy. Proactive IT.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ivanti.com/company/ivanti-customer-zero"
+      ]
+    },
+    {
+      "url": "https://www.ivanti.com/company/ivanti-customer-zero",
+      "finalUrl": "https://www.ivanti.com/company/ivanti-customer-zero",
+      "status": "success",
+      "sha256": "d7a0c86708a8762df82d1771715e9c4310fe3ec81285b6ec2c6df7d27ffb7fea",
+      "title": "Ivanti Customer Zero: Our Journey to Autonomous Endpoint Management | Ivanti",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ivanti.com/en-au/company/ivanti-customer-zero",
+        "https://www.ivanti.com/en-gb/company/ivanti-customer-zero",
+        "https://www.ivanti.com/de/company/ivanti-customer-zero",
+        "https://www.ivanti.com/es/company/ivanti-customer-zero",
+        "https://www.ivanti.com/fr/company/ivanti-customer-zero",
+        "https://www.ivanti.com/it/company/ivanti-customer-zero",
+        "https://www.ivanti.com/zh-cn/company/ivanti-customer-zero",
+        "https://www.ivanti.com/ja/company/ivanti-customer-zero"
+      ]
+    },
+    {
+      "url": "https://www.ivanti.com/en-au/company/ivanti-customer-zero",
+      "finalUrl": "https://www.ivanti.com/en-au/company/ivanti-customer-zero",
+      "status": "success",
+      "sha256": "3dab8334e3208a63014c4239cb246880e9351539bd95434bb8fc9c3fdb661718",
+      "title": "Ivanti Customer Zero: Our Journey to Autonomous Endpoint Management | Ivanti",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ivanti.com/en-gb/company/ivanti-customer-zero",
+        "https://www.ivanti.com/de/company/ivanti-customer-zero",
+        "https://www.ivanti.com/es/company/ivanti-customer-zero",
+        "https://www.ivanti.com/fr/company/ivanti-customer-zero",
+        "https://www.ivanti.com/it/company/ivanti-customer-zero",
+        "https://www.ivanti.com/zh-cn/company/ivanti-customer-zero",
+        "https://www.ivanti.com/ja/company/ivanti-customer-zero"
+      ]
+    },
+    {
+      "url": "https://www.ivanti.com/en-gb/company/ivanti-customer-zero",
+      "finalUrl": "https://www.ivanti.com/en-gb/company/ivanti-customer-zero",
+      "status": "success",
+      "sha256": "eeebf6291f28af0902e805e47f9635ec468afa4633d079b82e4430e71d09d715",
+      "title": "Ivanti Customer Zero: Our Journey to Autonomous Endpoint Management | Ivanti",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ivanti.com/de/company/ivanti-customer-zero",
+        "https://www.ivanti.com/es/company/ivanti-customer-zero",
+        "https://www.ivanti.com/fr/company/ivanti-customer-zero",
+        "https://www.ivanti.com/it/company/ivanti-customer-zero",
+        "https://www.ivanti.com/zh-cn/company/ivanti-customer-zero",
+        "https://www.ivanti.com/ja/company/ivanti-customer-zero"
+      ]
+    }
+  ]
+}

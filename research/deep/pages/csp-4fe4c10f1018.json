@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-4fe4c10f1018",
+  "retrievedAt": "2026-10-30T11:01:39.901Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://mark43.com/",
+      "finalUrl": "https://mark43.com/",
+      "status": "success",
+      "sha256": "55f5b02aeaf1c42b5997d296b766b60fc058d409fd92c3f87f3d5fe78ea4f4bb",
+      "title": "Made for Your Mission",
+      "signals": [],
+      "discoveredLinks": [
+        "https://mark43.com/solutions/federal/",
+        "https://mark43.com/company/",
+        "https://mark43.com/company/leadership/",
+        "https://mark43.com/company/careers/",
+        "https://mark43.com/company/contact-us/"
+      ]
+    },
+    {
+      "url": "https://mark43.com/solutions/federal/",
+      "finalUrl": "https://mark43.com/solutions/federal/",
+      "status": "success",
+      "sha256": "cf39821c629a868348cf21cd29841528515507d6d986cf60bf24d542a3591d7d",
+      "title": "Mark43 Federal | FedRAMP Authorized Cloud Partner",
+      "signals": [],
+      "discoveredLinks": [
+        "https://mark43.com/company/",
+        "https://mark43.com/company/leadership/",
+        "https://mark43.com/company/careers/",
+        "https://mark43.com/company/contact-us/",
+        "https://mark43.com/resources/tag/federal/"
+      ]
+    },
+    {
+      "url": "https://mark43.com/company/",
+      "finalUrl": "https://mark43.com/company/",
+      "status": "success",
+      "sha256": "68fc85a9e1a54fa4fd5f39a82637aead353415537e98cf21cc7d35a04974e4b9",
+      "title": "Mark43 | Made For Your Mission",
+      "signals": [],
+      "discoveredLinks": [
+        "https://mark43.com/company/leadership/",
+        "https://mark43.com/company/careers/",
+        "https://mark43.com/company/contact-us/",
+        "https://mark43.com/company/leadership/peter-koutoujian/",
+        "https://mark43.com/company/leadership/kathy-otoole/",
+        "https://mark43.com/company/leadership/george-hamilton/",
+        "https://mark43.com/company/leadership/edward-davis/",
+        "https://mark43.com/company/leadership/donald-de-lucca/"
+      ]
+    },
+    {
+      "url": "https://mark43.com/company/leadership/",
+      "finalUrl": "https://mark43.com/company/leadership/",
+      "status": "success",
+      "sha256": "8a62f6743bd98b7bd687ae4d3143bff5deedaf253702a159bcc2a5e88fb5ef40",
+      "title": "The Mark43 Leadership Team | Committed to Public Safety’s Mission",
+      "signals": [],
+      "discoveredLinks": [
+        "https://mark43.com/company/careers/",
+        "https://mark43.com/company/contact-us/",
+        "https://mark43.com/company/leadership/bob-hughes/",
+        "https://mark43.com/company/leadership/scott-crouch/",
+        "https://mark43.com/company/leadership/florian-mayr/",
+        "https://mark43.com/company/leadership/matt-polega/",
+        "https://mark43.com/company/leadership/george-cornell/",
+        "https://mark43.com/company/leadership/charley-dublin/",
+        "https://mark43.com/company/leadership/alison-durant/",
+        "https://mark43.com/company/leadership/kevin-fray/",
+        "https://mark43.com/company/leadership/wendy-gilbert/",
+        "https://mark43.com/company/leadership/steve-hoffman/"
+      ]
+    }
+  ]
+}

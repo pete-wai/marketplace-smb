@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-aa8a07e5035e",
+  "retrievedAt": "2026-10-30T11:02:21.229Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://veteransaffairs.timelooper.com/",
+      "finalUrl": "https://veteransaffairs.timelooper.com/",
+      "status": "success",
+      "sha256": "8b33c7b7706f9d999cefe28b95c9d49e9b0e4c47627bb97db45e7b4ce22d0a85",
+      "title": "Content Management System",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

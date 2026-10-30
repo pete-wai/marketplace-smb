@@ -1,0 +1,87 @@
+{
+  "providerId": "csp-96282e8be772",
+  "retrievedAt": "2026-10-30T11:01:37.920Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://lspedia.com/",
+      "finalUrl": "https://www.lspedia.com/",
+      "status": "success",
+      "sha256": "40ece46cc6cd47daf1ea964f907507d04108e34db4f5d9516f2df6fc958b2cc9",
+      "title": "DSCSA Compliance Software and EPCIS Solutions by LSPedia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lspedia.com/about/contact-us",
+        "https://www.lspedia.com/",
+        "https://www.lspedia.com/industry/pharma",
+        "https://www.lspedia.com/resources",
+        "https://www.lspedia.com/about-lspedia",
+        "https://www.lspedia.com/about/customers",
+        "https://www.lspedia.com/about/testimonial-hub",
+        "https://www.lspedia.com/about/partners",
+        "https://www.lspedia.com/about/leadership",
+        "https://www.lspedia.com/about/careers",
+        "https://www.lspedia.com/about/travel"
+      ]
+    },
+    {
+      "url": "https://www.lspedia.com/about/contact-us",
+      "finalUrl": "https://www.lspedia.com/about/contact-us",
+      "status": "success",
+      "sha256": "49c971c26c0b8cf25a3bb29a561905b08d2c28707a25deef7a1a9938db1007be",
+      "title": "Contact LSPedia for DSCSA and EPCIS Compliance Support",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lspedia.com/de/about/contact-us",
+        "https://www.lspedia.com/fr/about/contact-us",
+        "https://www.lspedia.com/es/about/contact-us",
+        "https://www.lspedia.com/zh-cn/about/contact-us",
+        "https://www.lspedia.com/industry/pharma",
+        "https://www.lspedia.com/resources",
+        "https://www.lspedia.com/about-lspedia",
+        "https://www.lspedia.com/about/customers",
+        "https://www.lspedia.com/about/testimonial-hub",
+        "https://www.lspedia.com/about/partners",
+        "https://www.lspedia.com/about/leadership",
+        "https://www.lspedia.com/about/careers"
+      ]
+    },
+    {
+      "url": "https://www.lspedia.com/",
+      "finalUrl": "https://www.lspedia.com/",
+      "status": "success",
+      "sha256": "40ece46cc6cd47daf1ea964f907507d04108e34db4f5d9516f2df6fc958b2cc9",
+      "title": "DSCSA Compliance Software and EPCIS Solutions by LSPedia",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lspedia.com/industry/pharma",
+        "https://www.lspedia.com/resources",
+        "https://www.lspedia.com/about-lspedia",
+        "https://www.lspedia.com/about/customers",
+        "https://www.lspedia.com/about/testimonial-hub",
+        "https://www.lspedia.com/about/partners",
+        "https://www.lspedia.com/about/leadership",
+        "https://www.lspedia.com/about/careers",
+        "https://www.lspedia.com/about/travel"
+      ]
+    },
+    {
+      "url": "https://www.lspedia.com/industry/pharma",
+      "finalUrl": "https://www.lspedia.com/industry/pharma",
+      "status": "success",
+      "sha256": "65247566942d33a747ee8099d95c14ba82915d6f2a985b8d2afa8408a4db81f2",
+      "title": "LSPedia Pharma Solutions | Streamline Operations and Ensure Compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lspedia.com/resources",
+        "https://www.lspedia.com/about-lspedia",
+        "https://www.lspedia.com/about/customers",
+        "https://www.lspedia.com/about/testimonial-hub",
+        "https://www.lspedia.com/about/partners",
+        "https://www.lspedia.com/about/leadership",
+        "https://www.lspedia.com/about/careers",
+        "https://www.lspedia.com/about/travel"
+      ]
+    }
+  ]
+}

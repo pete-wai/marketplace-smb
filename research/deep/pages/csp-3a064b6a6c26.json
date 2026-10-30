@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-3a064b6a6c26",
+  "retrievedAt": "2026-10-30T11:01:00.858Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://darktracefederal.com/",
+      "finalUrl": "https://www.darktrace.com/federal",
+      "status": "success",
+      "sha256": "10ae625cc089fde373eaea680827ad34c09a2bec9050bfa8c84eb3523227f6f9",
+      "title": "Darktrace Federal | Darktrace",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.darktrace.com/federal",
+        "https://www.darktrace.com/company",
+        "https://www.darktrace.com/company/leadership",
+        "https://www.darktrace.com/federal/legal",
+        "https://www.darktrace.com/fr/federal",
+        "https://www.darktrace.com/de/federal",
+        "https://www.darktrace.com/es/federal",
+        "https://www.darktrace.com/ja/federal"
+      ]
+    },
+    {
+      "url": "https://www.darktrace.com/federal",
+      "finalUrl": "https://www.darktrace.com/federal",
+      "status": "success",
+      "sha256": "337718b0177851b1657cbe460ca696cd7e6e67a932ec52f4fed4d5a10a2744bb",
+      "title": "Darktrace Federal | Darktrace",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.darktrace.com/company",
+        "https://www.darktrace.com/company/leadership",
+        "https://www.darktrace.com/federal/legal",
+        "https://www.darktrace.com/fr/federal",
+        "https://www.darktrace.com/de/federal",
+        "https://www.darktrace.com/es/federal",
+        "https://www.darktrace.com/ja/federal"
+      ]
+    },
+    {
+      "url": "https://www.darktrace.com/company",
+      "finalUrl": "https://www.darktrace.com/company",
+      "status": "success",
+      "sha256": "07face6ef3a27033f3e157e4b556fe271e9d3888055d4e533170e75741aaba99",
+      "title": "Top AI Cyber Security Company | About Darktrace",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.darktrace.com/company/leadership",
+        "https://www.darktrace.com/fr/company",
+        "https://www.darktrace.com/de/company",
+        "https://www.darktrace.com/es/company",
+        "https://www.darktrace.com/ja/company"
+      ]
+    },
+    {
+      "url": "https://www.darktrace.com/company/leadership",
+      "finalUrl": "https://www.darktrace.com/company/leadership",
+      "status": "success",
+      "sha256": "ca91f5ec7eef6dd5b2f5ba1a63f4f62720109da4b4a7878df39d0d4e86406ffe",
+      "title": "Executive Team at Darktrace",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.darktrace.com/fr/company/leadership",
+        "https://www.darktrace.com/de/company/leadership",
+        "https://www.darktrace.com/es/company/leadership",
+        "https://www.darktrace.com/ja/company/leadership"
+      ]
+    }
+  ]
+}

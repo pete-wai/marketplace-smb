@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-fc1f92ce467b",
+  "retrievedAt": "2026-10-30T11:02:06.778Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://eschat.com/",
+      "finalUrl": "https://eschat.com/",
+      "status": "success",
+      "sha256": "3bd96b373fd5469cf4e60ccfb684758bf9d3f159a2bb7eddf332ebfc3b7b1b28",
+      "title": "Home - ESChat is the leading PTT solution in North America",
+      "signals": [],
+      "discoveredLinks": [
+        "https://eschat.com/fedramp/",
+        "https://eschat.com/service/",
+        "https://eschat.com/hosting-options/",
+        "https://eschat.com/interoperability/",
+        "https://eschat.com/viking-connect/"
+      ]
+    },
+    {
+      "url": "https://eschat.com/fedramp/",
+      "finalUrl": "https://eschat.com/fedramp/",
+      "status": "success",
+      "sha256": "036d5b35e105043ccd22150e582f577e085af29ed76705f17b44e2f0f489c13f",
+      "title": "Cybersecure - ESChat",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://eschat.com/service/",
+      "finalUrl": "https://eschat.com/service/",
+      "status": "success",
+      "sha256": "ae039ecb02ba2d2ba71e1b4f7d5c6a3626301425be1aa213fc544eecc5519c86",
+      "title": "Push-to-Talk - ESChat",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://eschat.com/hosting-options/",
+      "finalUrl": "https://eschat.com/hosting-options/",
+      "status": "success",
+      "sha256": "a7ed0c9fcf59a4563f2576b199fb3b69f3591ea99758fbdfd69c4b6fd69c151a",
+      "title": "Service Hosting Options - ESChat",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

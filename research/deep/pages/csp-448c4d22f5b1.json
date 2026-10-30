@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-448c4d22f5b1",
+  "retrievedAt": "2026-10-30T11:01:27.432Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.jupiterone.com/",
+      "finalUrl": "https://www.jupiterone.com/",
+      "status": "success",
+      "sha256": "7a03700d24662842efb5c06fe2edc85e39dd2a4194230effdcbc7b8a4eb2fb1d",
+      "title": "JupiterOne | Surface the Risks That Actually Matter",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.jupiterone.com/company"
+      ]
+    },
+    {
+      "url": "https://www.jupiterone.com/company",
+      "finalUrl": "https://www.jupiterone.com/company",
+      "status": "success",
+      "sha256": "d4b8e26fb8d0fb11bfcf8213392a5fe813dc462b7919b107a923885cf5993df2",
+      "title": "About JupiterOne: One Goal — Simplify Security",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

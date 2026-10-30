@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-74f3bba0747b",
+  "retrievedAt": "2026-10-30T11:00:39.992Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cursor.com/",
+      "finalUrl": "https://cursor.com/",
+      "status": "success",
+      "sha256": "4b6bec3298b3fa32a21bbc05cd85cd9707179ab1967c692841cc3072a517fd18",
+      "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cursor.com/product",
+        "https://cursor.com/docs/cloud-agent",
+        "https://cursor.com/blog/joining-spacex"
+      ]
+    },
+    {
+      "url": "https://cursor.com/product",
+      "finalUrl": "https://cursor.com/product",
+      "status": "success",
+      "sha256": "14c0fdf43272a55b85a0308ee5d5159974203aa06143d4957f7d88e4a1f30ca6",
+      "title": "Cursor — Build Software with AI Agents",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://cursor.com/docs/cloud-agent",
+      "finalUrl": "https://cursor.com/docs/cloud-agent",
+      "status": "success",
+      "sha256": "86cc3b60b60d5348fbc64d3dbd78b5e0c2ea24e593275047fcb42f861e9eb3b2",
+      "title": "Cloud Agents | Cursor Docs",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cursor.com/docs/cli/using",
+        "https://cursor.com/docs/integrations/slack",
+        "https://cursor.com/docs/cloud-agent/capabilities"
+      ]
+    },
+    {
+      "url": "https://cursor.com/blog/joining-spacex",
+      "finalUrl": "https://cursor.com/blog/joining-spacex",
+      "status": "success",
+      "sha256": "150b8fb83a7d15647193a403e4bceddcf02e73c337ac3baec549149e66e8bc25",
+      "title": "Cursor is now a part of SpaceX · Cursor",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Cursor is now a part of SpaceX 2 min read Cursor has officially been acquired by SpaceX. This completes the acquisition process that started in April, when we announced our partnership with SpaceXAI to accelerate our model training efforts."
+        }
+      ],
+      "discoveredLinks": [
+        "https://cursor.com/blog/topic/company",
+        "https://cursor.com/blog/aiuc-1",
+        "https://cursor.com/blog/graphite",
+        "https://cursor.com/blog/cursor-leads-gartner-mq-2026"
+      ]
+    }
+  ]
+}

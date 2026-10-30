@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-2663d0bf60d2",
+  "retrievedAt": "2026-10-30T11:01:36.868Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://linear.app/",
+      "finalUrl": "https://linear.app/",
+      "status": "success",
+      "sha256": "a5a745325d588e40fa224e12d3834a15323a9ab314bad8034ccfc6bcb0b89c55",
+      "title": "Linear – The system for product development",
+      "signals": [],
+      "discoveredLinks": [
+        "https://linear.app/about"
+      ]
+    },
+    {
+      "url": "https://linear.app/about",
+      "finalUrl": "https://linear.app/about",
+      "status": "success",
+      "sha256": "bd38583ab0d35abdfa88ea542d0537e36eb564167aaed3fe68d04f997a9ec3d2",
+      "title": "About – Linear",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

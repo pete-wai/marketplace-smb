@@ -1,0 +1,18 @@
+{
+  "name": "QUZARA LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA21D003D&contractorName=QUZARA+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-f297324022b3"
+  ],
+  "contractNumber": "47QTCA21D003D",
+  "retrievedAt": "2026-10-30T11:08:32.760Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:17.380Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

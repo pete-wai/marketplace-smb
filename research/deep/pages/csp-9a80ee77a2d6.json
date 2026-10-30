@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-9a80ee77a2d6",
+  "retrievedAt": "2026-10-30T11:01:51.889Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://pdri.com/platform/",
+      "finalUrl": "https://pdri.com/platform/",
+      "status": "success",
+      "sha256": "057613d56f79dca7884190a344b7271a43fe404064d20ba202b02a20ff1a95ca",
+      "title": "Palladium - PDRI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://pdri.com/about/leadership-team/",
+        "https://pdri.com/about/join",
+        "https://pdri.com/about/contact"
+      ]
+    },
+    {
+      "url": "https://pdri.com/about/leadership-team/",
+      "finalUrl": "https://pdri.com/leadership-team/",
+      "status": "success",
+      "sha256": "a0963e4bf627079acdcd0ee3437757223ed2bf3d2dd93f35c891ef4bb407a83b",
+      "title": "Leadership Team - PDRI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://pdri.com/leadership-team/",
+        "https://pdri.com/about/join",
+        "https://pdri.com/about/contact",
+        "https://pdri.com/leadership-team/elaine-pulakos-phd/",
+        "https://pdri.com/leadership-team/tracy-kantrowitz-phd/",
+        "https://pdri.com/leadership-team/mike-meyrowitz-ms/",
+        "https://pdri.com/leadership-team/jillian-newton/",
+        "https://pdri.com/leadership-team/ryan-oleary-phd/"
+      ]
+    },
+    {
+      "url": "https://pdri.com/about/join",
+      "finalUrl": "https://pdri.com/join-our-team/",
+      "status": "success",
+      "sha256": "ffe6a93d6314528d4c8464646b8ad75d248af20013db0e012e7c110721cc24a4",
+      "title": "Join Our Team - PDRI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://pdri.com/join-our-team/",
+        "https://pdri.com/about/contact"
+      ]
+    },
+    {
+      "url": "https://pdri.com/about/contact",
+      "finalUrl": "https://pdri.com/contact-us/",
+      "status": "success",
+      "sha256": "7b88480ff441cdadb556e0eebe54e3d623ce765e0f7fafdc27cc1a414402a725",
+      "title": "Contact Us - PDRI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://pdri.com/contact-us/"
+      ]
+    }
+  ]
+}

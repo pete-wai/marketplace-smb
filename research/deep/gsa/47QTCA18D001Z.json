@@ -1,0 +1,18 @@
+{
+  "name": "R & K SOLUTIONS, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA18D001Z&contractorName=R+%26+K+SOLUTIONS%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-cba9e54a6220"
+  ],
+  "contractNumber": "47QTCA18D001Z",
+  "retrievedAt": "2026-10-30T11:08:35.468Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:17.804Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

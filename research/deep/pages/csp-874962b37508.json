@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-874962b37508",
+  "retrievedAt": "2026-10-30T11:02:14.089Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.somnoware.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

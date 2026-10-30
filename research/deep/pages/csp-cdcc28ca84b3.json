@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-cdcc28ca84b3",
+  "retrievedAt": "2026-10-30T11:02:17.387Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tansi.app/",
+      "finalUrl": "https://tansi.io/us/",
+      "status": "success",
+      "sha256": "3f9cd9def9ebca74a80964e164d2fbd0906d0e44f6c964dc95c80c772be670f8",
+      "title": "Tansi &#8212; US Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://tansi.io/us/tribal-governments",
+        "https://tansi.io/us/about",
+        "https://tansi.io/us/trust-center",
+        "https://tansi.io/us/journey",
+        "https://tansi.io/us/what-we-do",
+        "https://tansi.io/us/"
+      ]
+    },
+    {
+      "url": "https://tansi.io/us/tribal-governments",
+      "finalUrl": "https://tansi.io/us/tribal-governments",
+      "status": "success",
+      "sha256": "3f9cd9def9ebca74a80964e164d2fbd0906d0e44f6c964dc95c80c772be670f8",
+      "title": "Tansi &#8212; US Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://tansi.io/us/about",
+        "https://tansi.io/us/trust-center",
+        "https://tansi.io/us/journey",
+        "https://tansi.io/us/what-we-do"
+      ]
+    },
+    {
+      "url": "https://tansi.io/us/about",
+      "finalUrl": "https://tansi.io/us/about",
+      "status": "success",
+      "sha256": "3f9cd9def9ebca74a80964e164d2fbd0906d0e44f6c964dc95c80c772be670f8",
+      "title": "Tansi &#8212; US Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://tansi.io/us/trust-center",
+        "https://tansi.io/us/journey",
+        "https://tansi.io/us/what-we-do"
+      ]
+    },
+    {
+      "url": "https://tansi.io/us/trust-center",
+      "finalUrl": "https://tansi.io/us/trust-center",
+      "status": "success",
+      "sha256": "3f9cd9def9ebca74a80964e164d2fbd0906d0e44f6c964dc95c80c772be670f8",
+      "title": "Tansi &#8212; US Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://tansi.io/us/journey",
+        "https://tansi.io/us/what-we-do"
+      ]
+    }
+  ]
+}

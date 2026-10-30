@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-2e4d06f8fb6a",
+  "retrievedAt": "2026-10-30T11:02:18.886Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ttecdigital.com/solutions/humanify-g",
+      "finalUrl": "https://www.ttecdigital.com/solutions/humanify-g",
+      "status": "success",
+      "sha256": "710d16726e7485d5d9cde1293ad0f21d66cbab1ccb65ec7b5ab7f1a09b464175",
+      "title": "Humanify G | TTEC Digital",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ttecdigital.com/solutions/security-and-governance",
+        "https://www.ttecdigital.com/about",
+        "https://www.ttecdigital.com/news",
+        "https://www.ttecdigital.com/solutions/humanify-g"
+      ]
+    },
+    {
+      "url": "https://www.ttecdigital.com/solutions/security-and-governance",
+      "finalUrl": "https://www.ttecdigital.com/solutions/security-and-governance",
+      "status": "success",
+      "sha256": "50bae0b4b3ecd3ae990d560b984b2fe877c8ad75acf361ff39e869e150fd7360",
+      "title": "Security and Governance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ttecdigital.com/about",
+        "https://www.ttecdigital.com/news"
+      ]
+    },
+    {
+      "url": "https://www.ttecdigital.com/about",
+      "finalUrl": "https://www.ttecdigital.com/about",
+      "status": "success",
+      "sha256": "f26683b9f310db7e7db7d3a733ccdf3faca3d60047f57117ad8dd5724a491cb5",
+      "title": "About TTEC Digital | CX Consulting & Technology Leader",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ttecdigital.com/news"
+      ]
+    },
+    {
+      "url": "https://www.ttecdigital.com/news",
+      "finalUrl": "https://www.ttecdigital.com/news",
+      "status": "success",
+      "sha256": "0c93856f6e9942f821cf5f7700e91bf9b126646ac8c097b024ce3b3b936f2979",
+      "title": "TTEC Digital | News",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ttecdigital.com/news/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences",
+        "https://www.ttecdigital.com/news/ttec-digital-reappointed-to-g-cloud-15-framework-giving-uk-public-sector-a-faster-path-to-ai-powered-citizen-services"
+      ]
+    }
+  ]
+}

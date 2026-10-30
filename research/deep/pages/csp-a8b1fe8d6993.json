@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-a8b1fe8d6993",
+  "retrievedAt": "2026-10-30T11:02:31.051Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.wellspring.com/",
+      "finalUrl": "https://www.wellspring.com/",
+      "status": "success",
+      "sha256": "83b3119fe3bca315468aaf99d47a6df7833437fc25d3697a74cbeefeaa597977",
+      "title": "Innovation, Technology Transfer & IP Management Solutions | Wellspring",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wellspring.com/about",
+        "https://www.wellspring.com/leadership"
+      ]
+    },
+    {
+      "url": "https://www.wellspring.com/about",
+      "finalUrl": "https://www.wellspring.com/about",
+      "status": "success",
+      "sha256": "a9ab1de1a7ad3854966ad5d26743ef34437f92201d10d36d8f6b5d8f19b5fdf6",
+      "title": "About Us - Innovation Management & Tech Transfer Solution | Wellspring",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "form tomorrow. Wellspring Rebrand The Dawn of the Frog. Following the acquisition of Sopheon, Wellspring rebranded itself to reflect its role in serving the entire innovation ecosystem. \"The Wellspring Frog\" is a symbol of abundance and renewal. Frogs are an"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.wellspring.com/leadership",
+        "https://www.wellspring.com/ja-jp/about"
+      ]
+    },
+    {
+      "url": "https://www.wellspring.com/leadership",
+      "finalUrl": "https://www.wellspring.com/leadership",
+      "status": "success",
+      "sha256": "b87bb2a43a4efeb7201dbbf9a7a417e809ae7329ffe62895b4eb3fa757fd7006",
+      "title": "Leadership - Innovation Management Software | Wellspring",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.wellspring.com/ja-jp/about",
+      "finalUrl": "https://www.wellspring.com/ja-jp/about",
+      "status": "success",
+      "sha256": "6f0cbfe1c75180cbecd6db0bfa32225a7035097fe46c111d005f6438b1ccbe04",
+      "title": "会社概要 - イノベーションマネジメント＆技術移転ソリューション｜Wellspring",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-be1293ff931f",
+  "retrievedAt": "2026-10-30T11:01:21.612Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.iboss.com/",
+      "finalUrl": "https://www.iboss.com/",
+      "status": "success",
+      "sha256": "11088dcd679f7a0aa103875f699bbe37daad44f46d2edb3baf7e795f183b001c",
+      "title": "iboss | Unified AI & Data Security Platform",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

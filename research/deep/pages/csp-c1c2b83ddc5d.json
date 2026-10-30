@@ -1,0 +1,84 @@
+{
+  "providerId": "csp-c1c2b83ddc5d",
+  "retrievedAt": "2026-10-30T11:01:20.202Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.hackerone.com/",
+      "finalUrl": "https://www.hackerone.com/",
+      "status": "success",
+      "sha256": "94bf463b89723b4e4cebd13b678709fcdff74441da2d506d7152bb4eedfb6eac",
+      "title": "HackerOne | Leader in Continuous Threat Exposure Management | Security for AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hackerone.com/solutions/public-sector",
+        "https://www.hackerone.com/solutions/united-states-federal",
+        "https://www.hackerone.com/solutions/uk-government",
+        "https://www.hackerone.com/company",
+        "https://www.hackerone.com/company/leadership",
+        "https://www.hackerone.com/company/public-policy",
+        "https://www.hackerone.com/company/newsroom",
+        "https://www.hackerone.com/company/open-source-community",
+        "https://www.hackerone.com/customer-stories/shopify-hai"
+      ]
+    },
+    {
+      "url": "https://www.hackerone.com/solutions/public-sector",
+      "finalUrl": "https://www.hackerone.com/solutions/public-sector",
+      "status": "success",
+      "sha256": "ab9328e9944acda2e964aa4e405e5945e3b4f576daaab8551afde17151e0d961",
+      "title": "Cybersecurity For Government Agencies & Organizations | HackerOne",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hackerone.com/solutions/united-states-federal",
+        "https://www.hackerone.com/solutions/uk-government",
+        "https://www.hackerone.com/company",
+        "https://www.hackerone.com/company/leadership",
+        "https://www.hackerone.com/company/public-policy",
+        "https://www.hackerone.com/company/newsroom",
+        "https://www.hackerone.com/company/open-source-community",
+        "https://www.hackerone.com/resources/i/1512872-hackerone-clear-datasheet/0",
+        "https://www.hackerone.com/resources/one-pager/hackerone-clear-datasheet-2",
+        "https://www.hackerone.com/ga/hacker-powered-security"
+      ]
+    },
+    {
+      "url": "https://www.hackerone.com/solutions/united-states-federal",
+      "finalUrl": "https://www.hackerone.com/solutions/united-states-federal",
+      "status": "success",
+      "sha256": "7a6385b54d5dd322baa95adb374811a5a81f7ab6ec902256cae7dcf3da365035",
+      "title": "US Federal | HackerOne",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hackerone.com/solutions/uk-government",
+        "https://www.hackerone.com/company",
+        "https://www.hackerone.com/company/leadership",
+        "https://www.hackerone.com/company/public-policy",
+        "https://www.hackerone.com/company/newsroom",
+        "https://www.hackerone.com/company/open-source-community",
+        "https://www.hackerone.com/security-compliance/how-human-security-testing-helps-us-governments-zero-trust-mandate",
+        "https://www.hackerone.com/resources/one-pager/hackerone-clear-datasheet-2",
+        "https://www.hackerone.com/ga/hacker-powered-security"
+      ]
+    },
+    {
+      "url": "https://www.hackerone.com/solutions/uk-government",
+      "finalUrl": "https://www.hackerone.com/solutions/uk-government",
+      "status": "success",
+      "sha256": "f667ab7044d408e0b932189d0472fc7ce200ddc84728a2dd84917b6c845cc3fb",
+      "title": "UK government | HackerOne",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hackerone.com/company",
+        "https://www.hackerone.com/company/leadership",
+        "https://www.hackerone.com/company/public-policy",
+        "https://www.hackerone.com/company/newsroom",
+        "https://www.hackerone.com/company/open-source-community",
+        "https://www.hackerone.com/blog/vulnerability-disclosure-now-mandatory-federal-agencies-heres-how-make-it-happen",
+        "https://www.hackerone.com/resources/on-demand-videos/hackerone-and-mod-fireside-chat",
+        "https://www.hackerone.com/resources/i/1512872-hackerone-clear-datasheet",
+        "https://www.hackerone.com/ga/hacker-powered-security"
+      ]
+    }
+  ]
+}

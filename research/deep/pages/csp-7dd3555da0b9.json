@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-7dd3555da0b9",
+  "retrievedAt": "2026-10-30T11:01:15.211Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://laser.ai/",
+      "finalUrl": "https://www.laser.ai/",
+      "status": "success",
+      "sha256": "ef408a22a34baa992bbb054d4c591ab701c92c3da4a65509d32a674cfccaad34",
+      "title": "LASER AI: Accelerate Evidence Synthesis with Secure AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.laser.ai/sectors/government-public-health-institutions",
+        "https://www.laser.ai/about",
+        "https://www.laser.ai/"
+      ]
+    },
+    {
+      "url": "https://www.laser.ai/sectors/government-public-health-institutions",
+      "finalUrl": "https://www.laser.ai/sectors/government-public-health-institutions",
+      "status": "success",
+      "sha256": "bf4b0202315a8096269e5bdd26bddffda7554a6fa63ff91e41597a35912efb97",
+      "title": "Government & Public Health Institutions | Laser AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.laser.ai/about"
+      ]
+    },
+    {
+      "url": "https://www.laser.ai/about",
+      "finalUrl": "https://www.laser.ai/about",
+      "status": "success",
+      "sha256": "063d906183cfb3a73ee9f3bdba1361c4b2714f3dccf88675955b0a3b49152c36",
+      "title": "About Evidence Prime | LASER AI",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.laser.ai/",
+      "finalUrl": "https://www.laser.ai/",
+      "status": "success",
+      "sha256": "ef408a22a34baa992bbb054d4c591ab701c92c3da4a65509d32a674cfccaad34",
+      "title": "LASER AI: Accelerate Evidence Synthesis with Secure AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

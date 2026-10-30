@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-a7f5da6139a3",
+  "retrievedAt": "2026-10-30T11:02:14.079Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://sofwarellc.com/forge.html",
+      "finalUrl": "https://sofwarellc.com/forge.html",
+      "status": "success",
+      "sha256": "95e24a98f143cb79725da49fecf3dd6e5e5b23ad8bd4e0c8a6b3e694df36b38c",
+      "title": "FORGE&trade; | SOFware",
+      "signals": [],
+      "discoveredLinks": [
+        "https://sofwarellc.com/about.html"
+      ]
+    },
+    {
+      "url": "https://sofwarellc.com/about.html",
+      "finalUrl": "https://sofwarellc.com/about.html",
+      "status": "success",
+      "sha256": "3f9a2900359ec97ac536d4d143ab986a7c75cd0161c001ad8a78aa5fd51a5594",
+      "title": "About | SOFware",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

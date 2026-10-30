@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-d4a5bf30005c",
+  "retrievedAt": "2026-10-30T11:01:40.383Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.mcgenergy.com/",
+      "finalUrl": "https://www.mcgenergy.com/",
+      "status": "success",
+      "sha256": "18a73b810ebba9abda89f0cdd3b244cce75e3c7d8744aa19b068b9dd831cc3f0",
+      "title": "Energy Software - MCG Energy",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mcgenergy.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.mcgenergy.com/about/",
+      "finalUrl": "https://www.mcgenergy.com/about/",
+      "status": "success",
+      "sha256": "620a2d2ed52b26c398a0f2955a3cd6a24fb9b4b84a5dddb077365ab85665b9e3",
+      "title": "About MCG Energy Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mcgenergy.com/contact-mcg-energy/",
+        "https://www.mcgenergy.com/paragon-energy-software/",
+        "https://www.mcgenergy.com/versify-solutions/",
+        "https://www.mcgenergy.com/innotap/"
+      ]
+    },
+    {
+      "url": "https://www.mcgenergy.com/contact-mcg-energy/",
+      "finalUrl": "https://www.mcgenergy.com/contact-mcg-energy/",
+      "status": "success",
+      "sha256": "b39c9b5bc80da04813c7ffb5bbabf64ae672f424bed5cd293f78ffac406f76e3",
+      "title": "Contact Us - MCG Energy Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.mcgenergy.com/paragon-energy-software/",
+      "finalUrl": "https://www.mcgenergy.com/paragon-energy-software/",
+      "status": "success",
+      "sha256": "cbc9453923e6c1cac786a5836ee4c25aeaaabef23d7c9851b800e4c9021958de",
+      "title": "Paragon Risk Solutions - MCG Energy",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mcgenergy.com/energy-risk-software/",
+        "https://www.mcgenergy.com/credit-risk-management-software/",
+        "https://www.mcgenergy.com/gas-scheduling-software/"
+      ]
+    }
+  ]
+}

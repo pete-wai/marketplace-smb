@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-ac4d35d196e5",
+  "retrievedAt": "2026-10-30T11:00:44.899Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://wpvip.com/",
+      "finalUrl": "https://wpvip.com/",
+      "status": "success",
+      "sha256": "9007e0a74502c98750bd17f8a03b95ec202b60151110696aa648eae4264707c1",
+      "title": "WordPress VIP | Enterprise Content Platform & Managed WordPress",
+      "signals": [],
+      "discoveredLinks": [
+        "https://wpvip.com/capabilities/content-intelligence-and-analytics/",
+        "https://wpvip.com/capabilities/",
+        "https://wpvip.com/capabilities/performance/",
+        "https://wpvip.com/capabilities/enterprise-content-creation/",
+        "https://wpvip.com/capabilities/security/",
+        "https://wpvip.com/capabilities/ecosystem/",
+        "https://wpvip.com/solutions/public-sector/",
+        "https://wpvip.com/about/"
+      ]
+    },
+    {
+      "url": "https://wpvip.com/capabilities/content-intelligence-and-analytics/",
+      "finalUrl": "https://wpvip.com/capabilities/content-intelligence-and-analytics/",
+      "status": "success",
+      "sha256": "e2e1b21bd151c2fbf91b102822dbff185651f375e187e1b1d02d29089c07d4d7",
+      "title": "Content Intelligence & Analytics by Parse.ly | WordPress VIP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://wpvip.com/capabilities/",
+        "https://wpvip.com/capabilities/performance/",
+        "https://wpvip.com/capabilities/enterprise-content-creation/",
+        "https://wpvip.com/capabilities/security/",
+        "https://wpvip.com/capabilities/ecosystem/",
+        "https://wpvip.com/solutions/public-sector/",
+        "https://wpvip.com/capabilities/content-intelligence-and-analytics/parse-ly-mcp/",
+        "https://wpvip.com/about/"
+      ]
+    },
+    {
+      "url": "https://wpvip.com/capabilities/",
+      "finalUrl": "https://wpvip.com/capabilities/",
+      "status": "success",
+      "sha256": "86dbf160a6bd879495a1f4fad1d2daea80fac963b91f37951b89d68644f92348",
+      "title": "WordPress VIP Capabilities | WP VIP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://wpvip.com/capabilities/performance/",
+        "https://wpvip.com/capabilities/enterprise-content-creation/",
+        "https://wpvip.com/capabilities/security/",
+        "https://wpvip.com/capabilities/ecosystem/",
+        "https://wpvip.com/solutions/public-sector/",
+        "https://wpvip.com/about/"
+      ]
+    },
+    {
+      "url": "https://wpvip.com/capabilities/performance/",
+      "finalUrl": "https://wpvip.com/capabilities/performance/",
+      "status": "success",
+      "sha256": "a81b69e9977c0050f82a1e5a6109beecb3a75a46c04db861c863e84fbf9cea0b",
+      "title": "Performance, Scalability & Reliability | WordPress VIP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://wpvip.com/capabilities/enterprise-content-creation/",
+        "https://wpvip.com/capabilities/security/",
+        "https://wpvip.com/capabilities/ecosystem/",
+        "https://wpvip.com/solutions/public-sector/",
+        "https://wpvip.com/about/"
+      ]
+    }
+  ]
+}

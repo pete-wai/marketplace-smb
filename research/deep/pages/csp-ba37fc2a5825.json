@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-ba37fc2a5825",
+  "retrievedAt": "2026-10-30T11:02:10.420Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.securonix.com/",
+      "finalUrl": "https://www.securonix.com/",
+      "status": "success",
+      "sha256": "7bf02f6238b772bdbc55c398eca9fba2b494b9067a59fe55a6943079908782d9",
+      "title": "Securonix - Unified Defense SIEM, TDIR, UEBA & SOAR Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.securonix.com/company/about/",
+        "https://www.securonix.com/company/leadership/",
+        "https://www.securonix.com/company/newsroom/",
+        "https://www.securonix.com/company/careers/",
+        "https://www.securonix.com/company/events/",
+        "https://www.securonix.com/company/awards/",
+        "https://www.securonix.com/company/press/"
+      ]
+    },
+    {
+      "url": "https://www.securonix.com/company/about/",
+      "finalUrl": "https://www.securonix.com/company/about/",
+      "status": "success",
+      "sha256": "edfac38b2942207d35c63e7276cc976145bdfc0ede4b586b1f88277d8789efef",
+      "title": "About Securonix | Modern AI-Powered Security Operations",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.securonix.com/company/leadership/",
+        "https://www.securonix.com/company/newsroom/",
+        "https://www.securonix.com/company/careers/",
+        "https://www.securonix.com/company/events/",
+        "https://www.securonix.com/company/awards/",
+        "https://www.securonix.com/company/press/"
+      ]
+    },
+    {
+      "url": "https://www.securonix.com/company/leadership/",
+      "finalUrl": "https://www.securonix.com/company/leadership/",
+      "status": "success",
+      "sha256": "98b1401506e659830a2144fc3a98fac38685021cec3042f15b3f8c6aebe39693",
+      "title": "Securonix Executive Team - Meet Our Leaders",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "rowth and customer engagement. Prior to joining Securonix through the acquisition of ThreatQuotient, she served as Chief Revenue Officer and previously SVP of Worldwide Sales at ThreatQuotient, where she was responsible for revenue growth, sales execution, and channel strategy. Earlier"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.securonix.com/company/newsroom/",
+        "https://www.securonix.com/company/careers/",
+        "https://www.securonix.com/company/events/",
+        "https://www.securonix.com/company/awards/",
+        "https://www.securonix.com/company/press/"
+      ]
+    },
+    {
+      "url": "https://www.securonix.com/company/newsroom/",
+      "finalUrl": "https://www.securonix.com/company/newsroom/",
+      "status": "success",
+      "sha256": "1f19bac562b721b27a60290523e3e23d346e46e262cc356cdd4ed4202b21e631",
+      "title": "Latest News and Updates from Securonix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.securonix.com/company/careers/",
+        "https://www.securonix.com/company/events/",
+        "https://www.securonix.com/company/awards/",
+        "https://www.securonix.com/company/press/",
+        "https://www.securonix.com/company/news/"
+      ]
+    }
+  ]
+}

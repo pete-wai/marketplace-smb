@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-fc0e7984b437",
+  "retrievedAt": "2026-10-30T11:00:39.920Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://anyreach.ai/",
+      "finalUrl": "https://anyreach.ai/",
+      "status": "success",
+      "sha256": "248ef459826fd9ee2238a39ab19b7ddeebd040b9c152f4d83b64189e6c3f1610",
+      "title": "Anyreach — Become the AI-native BPO",
+      "signals": [],
+      "discoveredLinks": [
+        "https://anyreach.ai/about"
+      ]
+    },
+    {
+      "url": "https://anyreach.ai/about",
+      "finalUrl": "https://anyreach.ai/about",
+      "status": "success",
+      "sha256": "aa69e17c6452ce374978d87009e0e46edc48858575368778da9370869627a444",
+      "title": "About — Anyreach",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

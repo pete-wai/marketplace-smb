@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-7565e220ea3f",
+  "retrievedAt": "2026-10-30T11:00:38.638Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.opexustech.com/",
+      "finalUrl": "https://www.opexustech.com/",
+      "status": "success",
+      "sha256": "f093e9a3adec96bec8efaf43024ab097ad1dabed0759d42fb57cc85f45e1093f",
+      "title": "OPEXUS: Operational Excellence for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.opexustech.com/government-workforce-management/",
+        "https://www.opexustech.com/product/contracts/",
+        "https://www.opexustech.com/resource/ultimate-foia-solution-for-government/",
+        "https://www.opexustech.com/resource-topic/unstuck-government/",
+        "https://www.opexustech.com/resource-topic/open-government/",
+        "https://www.opexustech.com/why-opexus/"
+      ]
+    },
+    {
+      "url": "https://www.opexustech.com/government-workforce-management/",
+      "finalUrl": "https://www.opexustech.com/government-workforce-management/",
+      "status": "success",
+      "sha256": "be40c291e4fcbe9e5191a9352ff96110f4b33a436f01b942ba9ae133c01dab35",
+      "title": "Government Workforce Management | OPEXUS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.opexustech.com/product/employee-labor-relations/",
+        "https://www.opexustech.com/product/eeo-complaints/",
+        "https://www.opexustech.com/why-opexus/"
+      ]
+    },
+    {
+      "url": "https://www.opexustech.com/product/contracts/",
+      "finalUrl": "https://www.opexustech.com/product/contracts/",
+      "status": "success",
+      "sha256": "c6cbd3eefba9fa19dbe70d262c9c4027fe35e0f1eee81d87623958ee5991af97",
+      "title": "Contracts | OPEXUS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.opexustech.com/resource-topic/unstuck-government/",
+        "https://www.opexustech.com/resource-topic/open-government/",
+        "https://www.opexustech.com/why-opexus/"
+      ]
+    },
+    {
+      "url": "https://www.opexustech.com/resource/ultimate-foia-solution-for-government/",
+      "finalUrl": "https://www.opexustech.com/resource/ultimate-foia-solution-for-government/",
+      "status": "success",
+      "sha256": "7fe80d8f207c9600153585d06c8d115c185170561635262f13630a66d5951a9f",
+      "title": "Sunshine Week: The Ultimate FOIA Request and Management Solution for Government Agencies | OPEXUS + Casepoint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.opexustech.com/why-opexus/"
+      ]
+    }
+  ]
+}

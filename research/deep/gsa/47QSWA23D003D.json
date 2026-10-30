@@ -1,0 +1,18 @@
+{
+  "name": "XTEC, INCORPORATED",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QSWA23D003D&contractorName=XTEC%2C+INCORPORATED&executeQuery=YES",
+  "providerIds": [
+    "csp-a58a7caf55d0"
+  ],
+  "contractNumber": "47QSWA23D003D",
+  "retrievedAt": "2026-10-30T11:09:18.687Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:23.597Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

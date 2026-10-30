@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-b4ecfe3a75c5",
+  "retrievedAt": "2026-10-30T11:00:58.267Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://company.coras.ai/fedramp",
+      "finalUrl": "https://company.coras.ai/fedramp",
+      "status": "success",
+      "sha256": "f0dd3a06f8bc3befccb4bebd698f0c1c3869dadf8d67e8395969edcb382fb2cf",
+      "title": "Fedramp | CORAS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://company.coras.ai/company"
+      ]
+    },
+    {
+      "url": "https://company.coras.ai/company",
+      "finalUrl": "https://company.coras.ai/company",
+      "status": "success",
+      "sha256": "8c3f7c47f28e74fb899226456127222fa9bacdec1b53ab79a9a89d9d36baf296",
+      "title": "About CORAS: AI-Powered Decision Intelligence | CORAS",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

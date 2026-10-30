@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-0f6ec3931aba",
+  "retrievedAt": "2026-10-30T11:01:33.480Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.leadershipconnect.io/",
+      "finalUrl": "https://leadershipconnect.io/",
+      "status": "success",
+      "sha256": "79cff7c0913e1a784496060e9d8151d6d2ebf4738a4cc3247784a504c89e9996",
+      "title": "Home | Leadership Connect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leadershipconnect.io/government-intelligence/",
+        "https://leadershipconnect.io/products/",
+        "https://leadershipconnect.io/products/federal-spend/",
+        "https://leadershipconnect.io/mobile/",
+        "https://leadershipconnect.io/clients/government-affairs-2/",
+        "https://leadershipconnect.io/clients/government-contractors/",
+        "https://leadershipconnect.io/clients/government-agencies/",
+        "https://leadershipconnect.io/policy-insights/",
+        "https://leadershipconnect.io/contracting-insights/",
+        "https://leadershipconnect.io/best-practices/",
+        "https://leadershipconnect.io/federal-government-acronym-guide/",
+        "https://leadershipconnect.io/upcoming-events/"
+      ]
+    },
+    {
+      "url": "https://leadershipconnect.io/government-intelligence/",
+      "finalUrl": "https://leadershipconnect.io/government-intelligence/",
+      "status": "success",
+      "sha256": "84bd8a1174eb7f1e701127636f1a4e4437b71ca21be0d52f4c8f8b235dd0894b",
+      "title": "Government | Leadership Connect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leadershipconnect.io/products/",
+        "https://leadershipconnect.io/products/federal-spend/",
+        "https://leadershipconnect.io/mobile/",
+        "https://leadershipconnect.io/clients/government-affairs-2/",
+        "https://leadershipconnect.io/clients/government-contractors/",
+        "https://leadershipconnect.io/clients/government-agencies/",
+        "https://leadershipconnect.io/policy-insights/",
+        "https://leadershipconnect.io/contracting-insights/",
+        "https://leadershipconnect.io/best-practices/",
+        "https://leadershipconnect.io/federal-government-acronym-guide/",
+        "https://leadershipconnect.io/upcoming-events/",
+        "https://leadershipconnect.io/company"
+      ]
+    },
+    {
+      "url": "https://leadershipconnect.io/products/",
+      "finalUrl": "https://leadershipconnect.io/products/",
+      "status": "success",
+      "sha256": "75f0025a6c65dba983c9c9080a461060ef62d078d9cf7d55fc6e738dc5f88142",
+      "title": "Products | Leadership Connect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leadershipconnect.io/products/federal-spend/",
+        "https://leadershipconnect.io/mobile/",
+        "https://leadershipconnect.io/clients/government-affairs-2/",
+        "https://leadershipconnect.io/clients/government-contractors/",
+        "https://leadershipconnect.io/clients/government-agencies/",
+        "https://leadershipconnect.io/policy-insights/",
+        "https://leadershipconnect.io/contracting-insights/",
+        "https://leadershipconnect.io/best-practices/",
+        "https://leadershipconnect.io/federal-government-acronym-guide/",
+        "https://leadershipconnect.io/upcoming-events/",
+        "https://leadershipconnect.io/company",
+        "https://leadershipconnect.io/press-releases/"
+      ]
+    },
+    {
+      "url": "https://leadershipconnect.io/products/federal-spend/",
+      "finalUrl": "https://leadershipconnect.io/products/federal-spend/",
+      "status": "success",
+      "sha256": "f8d057f64fa46176ee5b107b572f0bbd243639b202f79438a802a0a752b46494",
+      "title": "Federal Spend | Leadership Connect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://leadershipconnect.io/mobile/",
+        "https://leadershipconnect.io/clients/government-affairs-2/",
+        "https://leadershipconnect.io/clients/government-contractors/",
+        "https://leadershipconnect.io/clients/government-agencies/",
+        "https://leadershipconnect.io/policy-insights/",
+        "https://leadershipconnect.io/contracting-insights/",
+        "https://leadershipconnect.io/best-practices/",
+        "https://leadershipconnect.io/federal-government-acronym-guide/",
+        "https://leadershipconnect.io/upcoming-events/",
+        "https://leadershipconnect.io/company",
+        "https://leadershipconnect.io/press-releases/",
+        "https://leadershipconnect.io/careers/"
+      ]
+    }
+  ]
+}

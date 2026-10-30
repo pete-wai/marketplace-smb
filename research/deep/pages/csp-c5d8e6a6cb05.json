@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-c5d8e6a6cb05",
+  "retrievedAt": "2026-10-30T11:00:44.723Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.authentic8.com/",
+      "finalUrl": "https://authentic8.com/",
+      "status": "success",
+      "sha256": "5d0677af3ff93ec9336fb0788a3b3ac9d3ae28a253ce2e2d31b6520692235b18",
+      "title": "Digital Investigations Platform | Authentic8 Silo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://authentic8.com/products/silo-workspace/",
+        "https://authentic8.com/company/",
+        "https://authentic8.com/about/",
+        "https://authentic8.com/company/leadership-team/"
+      ]
+    },
+    {
+      "url": "https://authentic8.com/products/silo-workspace/",
+      "finalUrl": "https://authentic8.com/products/silo-workspace/",
+      "status": "success",
+      "sha256": "5701d72fb3817f54af39a54dae4fec74966fec3fac6eec76434a7e8a4d2ac8b3",
+      "title": "Secure and Anonymous Online Investigations | Silo Workspace",
+      "signals": [],
+      "discoveredLinks": [
+        "https://authentic8.com/company/",
+        "https://authentic8.com/about/",
+        "https://authentic8.com/company/leadership-team/",
+        "https://authentic8.com/silo-nexus-ai/"
+      ]
+    },
+    {
+      "url": "https://authentic8.com/company/",
+      "finalUrl": "https://authentic8.com/company/",
+      "status": "success",
+      "sha256": "612502b91e11d0ddba900fcf30680d35175e7e3bc9f3a4e796cbd8d753dd532d",
+      "title": "Company | Authentic8",
+      "signals": [],
+      "discoveredLinks": [
+        "https://authentic8.com/about/",
+        "https://authentic8.com/company/leadership-team/"
+      ]
+    },
+    {
+      "url": "https://authentic8.com/about/",
+      "finalUrl": "https://authentic8.com/about/",
+      "status": "success",
+      "sha256": "3bc6d52a58292110fe24808b5eb43403af2fd430aa1a2ffe619c9bd759e37674",
+      "title": "About | Authentic8",
+      "signals": [],
+      "discoveredLinks": [
+        "https://authentic8.com/company/leadership-team/"
+      ]
+    }
+  ]
+}

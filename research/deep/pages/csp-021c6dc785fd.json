@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-021c6dc785fd",
+  "retrievedAt": "2026-10-30T11:01:46.736Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://sectornet.us/",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    }
+  ]
+}

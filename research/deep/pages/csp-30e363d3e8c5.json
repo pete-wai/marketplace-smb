@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-30e363d3e8c5",
+  "retrievedAt": "2026-10-30T11:02:10.915Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.siemens.com/us/en/products/energy/topics/transportation-electrification/depot-cloud-services.html",
+      "finalUrl": "https://www.siemens.com/en-us/company/insights/",
+      "status": "success",
+      "sha256": "21390ce28332cb87b896c0a4ed8eb567ded750feee01e6f1624acd1e4608ddc3",
+      "title": "Insights | Siemens",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.siemens.com/en-us/company/insights/",
+        "https://www.siemens.com/en-us/company/",
+        "https://www.siemens.com/en-us/company/insights/success-stories/",
+        "https://www.siemens.com/en-us/company/insights/perspectives/",
+        "https://www.siemens.com/en-us/company/insights/reports-whitepaper/",
+        "https://www.siemens.com/en-us/company/insights/grid-virtualized-protection/",
+        "https://www.siemens.com/en-us/company/insights/us-stories/inside-story-siemens-1-billion-investment-us-manufacturing/",
+        "https://www.siemens.com/en-us/company/artificial-intelligence/siemens-nvidia-partnership/",
+        "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/"
+      ]
+    },
+    {
+      "url": "https://evgateway.com/",
+      "finalUrl": "https://evgateway.com/",
+      "status": "success",
+      "sha256": "7830d2d524da2b01eccea49248c4e87a0ecee872242ff75e4bab1b7c92741648",
+      "title": "EVGATEWAY - EV Charging Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://evgateway.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.siemens.com/en-us/company/insights/",
+      "finalUrl": "https://www.siemens.com/en-us/company/insights/",
+      "status": "success",
+      "sha256": "21390ce28332cb87b896c0a4ed8eb567ded750feee01e6f1624acd1e4608ddc3",
+      "title": "Insights | Siemens",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.siemens.com/en-us/company/",
+        "https://www.siemens.com/en-us/company/insights/success-stories/",
+        "https://www.siemens.com/en-us/company/insights/perspectives/",
+        "https://www.siemens.com/en-us/company/insights/reports-whitepaper/",
+        "https://www.siemens.com/en-us/company/insights/grid-virtualized-protection/",
+        "https://www.siemens.com/en-us/company/insights/us-stories/inside-story-siemens-1-billion-investment-us-manufacturing/",
+        "https://www.siemens.com/en-us/company/artificial-intelligence/siemens-nvidia-partnership/",
+        "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/"
+      ]
+    },
+    {
+      "url": "https://www.siemens.com/en-us/company/",
+      "finalUrl": "https://www.siemens.com/en-us/company/",
+      "status": "success",
+      "sha256": "400ff456b5482fb686637e63663187313b308e75d9abf5e1fb0d982b68b78aa6",
+      "title": "Company | Siemens",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.siemens.com/en-us/company/jobs/",
+        "https://www.siemens.com/en-us/company/investor-relations/financial-results/",
+        "https://www.siemens.com/en-us/company/digital-transformation/",
+        "https://www.siemens.com/en-us/company/sustainability/",
+        "https://www.siemens.com/en-us/company/insights/us-stories/",
+        "https://www.siemens.com/en-us/company/about/",
+        "https://www.siemens.com/en-us/company/about/businesses/",
+        "https://www.siemens.com/en-us/company/about/strategy/",
+        "https://www.siemens.com/en-us/company/leadership/management/",
+        "https://www.siemens.com/en-us/company/history-heritage/",
+        "https://www.siemens.com/en-us/company/compliance/",
+        "https://www.siemens.com/en-us/company/about/government-affairs/"
+      ]
+    }
+  ]
+}

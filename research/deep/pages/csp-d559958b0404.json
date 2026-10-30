@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-d559958b0404",
+  "retrievedAt": "2026-10-30T11:00:40.119Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.monstergovernmentsolutions.com/",
+      "finalUrl": "https://www.applygovernmentsolutions.com/",
+      "status": "success",
+      "sha256": "b403a313f40d617e6ee43fab8d09bf8978ec11b64e23d371713815b28f8aa02d",
+      "title": "Federal Government Workforce Solutions | Apply Government Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.applygovernmentsolutions.com/news/apply-government-solutions-launches-new-brand-to-advance-federal-hr-modernization/",
+        "https://www.applygovernmentsolutions.com/monster-government-solutions-is-now-apply-government-solutions/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/hiring-management/",
+        "https://www.applygovernmentsolutions.com/services/professional-services-federal/",
+        "https://www.applygovernmentsolutions.com/about-us/",
+        "https://www.applygovernmentsolutions.com/",
+        "https://www.applygovernmentsolutions.com/resources/federal-hiring/how-monstergov-enables-opms-merit-hiring-plan/",
+        "https://www.applygovernmentsolutions.com/resources/federal-hiring/the-hiring-edge-why-applygov-beats-usa-staffing/"
+      ]
+    },
+    {
+      "url": "https://www.applygovernmentsolutions.com/",
+      "finalUrl": "https://www.applygovernmentsolutions.com/",
+      "status": "success",
+      "sha256": "b403a313f40d617e6ee43fab8d09bf8978ec11b64e23d371713815b28f8aa02d",
+      "title": "Federal Government Workforce Solutions | Apply Government Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.applygovernmentsolutions.com/news/apply-government-solutions-launches-new-brand-to-advance-federal-hr-modernization/",
+        "https://www.applygovernmentsolutions.com/monster-government-solutions-is-now-apply-government-solutions/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/hiring-management/",
+        "https://www.applygovernmentsolutions.com/services/professional-services-federal/",
+        "https://www.applygovernmentsolutions.com/about-us/",
+        "https://www.applygovernmentsolutions.com/resources/federal-hiring/how-monstergov-enables-opms-merit-hiring-plan/",
+        "https://www.applygovernmentsolutions.com/resources/federal-hiring/the-hiring-edge-why-applygov-beats-usa-staffing/"
+      ]
+    },
+    {
+      "url": "https://www.applygovernmentsolutions.com/news/apply-government-solutions-launches-new-brand-to-advance-federal-hr-modernization/",
+      "finalUrl": "https://www.applygovernmentsolutions.com/news/apply-government-solutions-launches-new-brand-to-advance-federal-hr-modernization/",
+      "status": "success",
+      "sha256": "f7d0aec100cf962ca4b45d6fcaed23fc38da5f1b6dd555ffcc986841f5be8fef",
+      "title": "ApplyGov Launches New Brand to Advance Federal HR Modernization",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.applygovernmentsolutions.com/monster-government-solutions-is-now-apply-government-solutions/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/hiring-management/",
+        "https://www.applygovernmentsolutions.com/services/professional-services-federal/",
+        "https://www.applygovernmentsolutions.com/about-us/",
+        "https://www.applygovernmentsolutions.com/news/sslc-presents-issue-paper-on-federal-workforce-to-hsgac/",
+        "https://www.applygovernmentsolutions.com/news/act-iac-publishes-federal-hr-tech-research/"
+      ]
+    },
+    {
+      "url": "https://www.applygovernmentsolutions.com/monster-government-solutions-is-now-apply-government-solutions/",
+      "finalUrl": "https://www.applygovernmentsolutions.com/monster-government-solutions-is-now-apply-government-solutions/",
+      "status": "success",
+      "sha256": "2b85f874d01e410b893a4177eea0fddb9df97cd368fb02bca488334561d6566b",
+      "title": "MonsterGov is Now Apply Government Solutions | ApplyGov",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/",
+        "https://www.applygovernmentsolutions.com/solutions/fedhire/hiring-management/",
+        "https://www.applygovernmentsolutions.com/services/professional-services-federal/",
+        "https://www.applygovernmentsolutions.com/about-us/",
+        "https://www.applygovernmentsolutions.com/news/"
+      ]
+    }
+  ]
+}

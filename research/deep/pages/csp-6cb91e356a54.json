@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-6cb91e356a54",
+  "retrievedAt": "2026-10-30T11:01:39.762Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://maplarge.com/",
+      "finalUrl": "https://maplarge.com/",
+      "status": "success",
+      "sha256": "28dac62d620d9c4df96dd8fa8d4beba81be1955427d897d62bf4f666b9db0b39",
+      "title": "Rapid Last Mile Applications for Operational AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://maplarge.com/industries/state-local-government.html",
+        "https://maplarge.com/industry-solutions.html",
+        "https://maplarge.com/building-blocks.html"
+      ]
+    },
+    {
+      "url": "https://maplarge.com/industries/state-local-government.html",
+      "finalUrl": "https://maplarge.com/industries/state-local-government.html",
+      "status": "success",
+      "sha256": "9a1a5063934c61f0afb8457f100c36a78b4c3b0e3afb9a4842b214c78faaef48",
+      "title": "State & Local Government",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://maplarge.com/industry-solutions.html",
+      "finalUrl": "https://maplarge.com/industry-solutions.html",
+      "status": "success",
+      "sha256": "5610f4bb9855ba5d525c5fad2a8ad26055ca8b0235b582614eed5c4c750654c1",
+      "title": "Solutions | MapLarge Industry Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://maplarge.com/building-blocks.html",
+      "finalUrl": "https://maplarge.com/building-blocks.html",
+      "status": "success",
+      "sha256": "3cea57d1ec03e90ea768c97369588e20c5bbf63fbd9e793a07ca9b150daeb4f4",
+      "title": "Building Blocks | MapLarge Applicaiton Components",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

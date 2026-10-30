@@ -1,0 +1,70 @@
+{
+  "providerId": "csp-99a5cbcb6d85",
+  "retrievedAt": "2026-10-30T11:02:25.777Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.usai.io/",
+      "finalUrl": "https://www.usai.io/",
+      "status": "success",
+      "sha256": "4190bd2f333b71c95b62d871d0c7355f49bcdf4dcb5ccaee517b4e05541e2c61",
+      "title": "Home | (US) AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usai.io/about"
+      ]
+    },
+    {
+      "url": "https://www.usai.io/about",
+      "finalUrl": "https://www.usai.io/about-us/",
+      "status": "success",
+      "sha256": "390d193d66b95070bf83139dee87cc1f1c7afe9cd249d9456b13db66c025c235",
+      "title": "(US) AI | About Us | Innovators in Codeless AI and Cybersecurity Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usai.io/about-us/",
+        "https://www.usai.io/about-us/david-nguyen/",
+        "https://www.usai.io/about-us/macey-smith/",
+        "https://www.usai.io/about-us/scott-melcher/",
+        "https://www.usai.io/about-us/kim-tuyen-tran/",
+        "https://www.usai.io/about-us/raiza-basilio/",
+        "https://www.usai.io/about-us/sol-barbera/",
+        "https://www.usai.io/about-us/joe-raetano/",
+        "https://www.usai.io/about-us/robert-goebel/",
+        "https://www.usai.io/about-us/matthew-coughlin/",
+        "https://www.usai.io/about-us/thuan-nguyen/",
+        "https://www.usai.io/about-us/mo-turner/"
+      ]
+    },
+    {
+      "url": "https://www.usai.io/about-us/",
+      "finalUrl": "https://www.usai.io/about-us/",
+      "status": "success",
+      "sha256": "390d193d66b95070bf83139dee87cc1f1c7afe9cd249d9456b13db66c025c235",
+      "title": "(US) AI | About Us | Innovators in Codeless AI and Cybersecurity Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usai.io/about-us/david-nguyen/",
+        "https://www.usai.io/about-us/macey-smith/",
+        "https://www.usai.io/about-us/scott-melcher/",
+        "https://www.usai.io/about-us/kim-tuyen-tran/",
+        "https://www.usai.io/about-us/raiza-basilio/",
+        "https://www.usai.io/about-us/sol-barbera/",
+        "https://www.usai.io/about-us/joe-raetano/",
+        "https://www.usai.io/about-us/robert-goebel/",
+        "https://www.usai.io/about-us/matthew-coughlin/",
+        "https://www.usai.io/about-us/thuan-nguyen/",
+        "https://www.usai.io/about-us/mo-turner/"
+      ]
+    },
+    {
+      "url": "https://www.usai.io/about-us/david-nguyen/",
+      "finalUrl": "https://www.usai.io/about-us/david-nguyen/",
+      "status": "success",
+      "sha256": "409b9f2abb40718b0dfddbcbc1f4aa577a19e56b643dd28be2e44eea4303233e",
+      "title": "David T. Nguyen, JD, MBA | (US) AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

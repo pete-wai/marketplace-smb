@@ -1,0 +1,18 @@
+{
+  "name": "NEXGEN ASSET MANAGEMENT",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA22D00D9&contractorName=NEXGEN+ASSET+MANAGEMENT&executeQuery=YES",
+  "providerIds": [
+    "csp-98254e37c1d6"
+  ],
+  "contractNumber": "47QTCA22D00D9",
+  "retrievedAt": "2026-10-30T11:08:11.059Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:14.631Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

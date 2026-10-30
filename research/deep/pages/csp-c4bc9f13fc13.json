@@ -1,0 +1,93 @@
+{
+  "providerId": "csp-c4bc9f13fc13",
+  "retrievedAt": "2026-10-30T11:00:51.140Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://checkmarx.com/product/application-security-platform/",
+      "finalUrl": "https://checkmarx.com/product/application-security-platform/",
+      "status": "success",
+      "sha256": "325730295f31be1834743a586bff0584544732f9009e488a0d7d95b8a63e7f66",
+      "title": "AI-powered Application Security Testing Platform - Checkmarx One",
+      "signals": [],
+      "discoveredLinks": [
+        "https://checkmarx.com/company/checkmarx-appsec-partner-program/",
+        "https://checkmarx.com/global-capability-centers/",
+        "https://checkmarx.com/company/public-sector/",
+        "https://checkmarx.com/company/awards-and-industry-recognition/",
+        "https://checkmarx.com/company/about-checkmarx/",
+        "https://checkmarx.com/leadership/",
+        "https://checkmarx.com/press-releases/",
+        "https://checkmarx.com/checkmate-the-tour/",
+        "https://checkmarx.com/company/events/",
+        "https://checkmarx.com/company/careers/",
+        "https://checkmarx.com/resources/checkmarx-one-solution-brief/",
+        "https://checkmarx.com/blog/"
+      ]
+    },
+    {
+      "url": "https://checkmarx.com/company/checkmarx-appsec-partner-program/",
+      "finalUrl": "https://checkmarx.com/company/checkmarx-appsec-partner-program/",
+      "status": "success",
+      "sha256": "926c8f108dbc29ae6af3569342c226acccf033dc128f6bef5a5b3ea1794d5f98",
+      "title": "Checkmarx Appsec Partner Program New - Checkmarx",
+      "signals": [],
+      "discoveredLinks": [
+        "https://checkmarx.com/global-capability-centers/",
+        "https://checkmarx.com/company/public-sector/",
+        "https://checkmarx.com/company/awards-and-industry-recognition/",
+        "https://checkmarx.com/company/about-checkmarx/",
+        "https://checkmarx.com/leadership/",
+        "https://checkmarx.com/press-releases/",
+        "https://checkmarx.com/checkmate-the-tour/",
+        "https://checkmarx.com/company/events/",
+        "https://checkmarx.com/company/careers/",
+        "https://checkmarx.com/company/find-a-partner/",
+        "https://checkmarx.com/blog/",
+        "https://checkmarx.com/company/awards/"
+      ]
+    },
+    {
+      "url": "https://checkmarx.com/global-capability-centers/",
+      "finalUrl": "https://checkmarx.com/global-capability-centers/",
+      "status": "success",
+      "sha256": "9e36409c30f45d0ff7baa92db5916a146dd59e810ca302b05142747b555f46ed",
+      "title": "Global Capability Centers - Checkmarx",
+      "signals": [],
+      "discoveredLinks": [
+        "https://checkmarx.com/company/public-sector/",
+        "https://checkmarx.com/company/awards-and-industry-recognition/",
+        "https://checkmarx.com/company/about-checkmarx/",
+        "https://checkmarx.com/leadership/",
+        "https://checkmarx.com/press-releases/",
+        "https://checkmarx.com/checkmate-the-tour/",
+        "https://checkmarx.com/company/events/",
+        "https://checkmarx.com/company/careers/",
+        "https://checkmarx.com/blog/",
+        "https://checkmarx.com/company/awards/",
+        "https://checkmarx.com/company/news/"
+      ]
+    },
+    {
+      "url": "https://checkmarx.com/company/public-sector/",
+      "finalUrl": "https://checkmarx.com/company/public-sector/",
+      "status": "success",
+      "sha256": "e51b7537326dec1de8580a54782a5c8ee7a578f40ad8782f3a2f483e6cc883fb",
+      "title": "Application Security for Public Sector | Checkmarx AppSec Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://checkmarx.com/company/awards-and-industry-recognition/",
+        "https://checkmarx.com/company/about-checkmarx/",
+        "https://checkmarx.com/leadership/",
+        "https://checkmarx.com/press-releases/",
+        "https://checkmarx.com/checkmate-the-tour/",
+        "https://checkmarx.com/company/events/",
+        "https://checkmarx.com/company/careers/",
+        "https://checkmarx.com/press-releases/checkmarx-one-for-government-application-security-platform-achieves-fedramp-moderate-certification/",
+        "https://checkmarx.com/blog/",
+        "https://checkmarx.com/company/awards/",
+        "https://checkmarx.com/company/news/"
+      ]
+    }
+  ]
+}

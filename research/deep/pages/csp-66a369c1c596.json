@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-66a369c1c596",
+  "retrievedAt": "2026-10-30T11:01:13.694Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.everbridge.com/",
+      "finalUrl": "https://www.everbridge.com/",
+      "status": "success",
+      "sha256": "10882723d67fcb7e1cadb1404a25a451ba742a5f00210bc3d887b09070d6b616",
+      "title": "Empowering Enterprise Resilience - Everbridge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everbridge.com/industries/federal/",
+        "https://www.everbridge.com/industries/states-and-local-governments/",
+        "https://www.everbridge.com/about/why-everbridge/",
+        "https://www.everbridge.com/about/careers/",
+        "https://www.everbridge.com/about/legal/",
+        "https://www.everbridge.com/about/sustainability-at-everbridge/",
+        "https://www.everbridge.com/about/leadership/",
+        "https://www.everbridge.com/about/history/",
+        "https://www.everbridge.com/about/legal/cookie-policy/",
+        "https://www.everbridge.com/about/legal/acceptable-use-policy/",
+        "https://www.everbridge.com/about/legal/notice-of-right-to-opt-out-of-sale-and-sharing-of-personal-information"
+      ]
+    },
+    {
+      "url": "https://everbridge.com/fedramp",
+      "finalUrl": "https://www.everbridge.com/industries/federal/",
+      "status": "success",
+      "sha256": "360f656d0eecd3d0e5595276dbb286a9bf2939f3513d588d4a68f4529ee5ba9a",
+      "title": "Government + Federal Agencies - Everbridge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everbridge.com/industries/federal/",
+        "https://www.everbridge.com/industries/states-and-local-governments/",
+        "https://www.everbridge.com/about/why-everbridge/",
+        "https://www.everbridge.com/about/careers/",
+        "https://www.everbridge.com/about/legal/",
+        "https://www.everbridge.com/about/sustainability-at-everbridge/",
+        "https://www.everbridge.com/about/leadership/",
+        "https://www.everbridge.com/about/history/",
+        "https://www.everbridge.com/blog/building-a-thriving-workplace-how-culture-drives-resilience/",
+        "https://www.everbridge.com/resource/everbridge-critical-event-management-federal-agencies/",
+        "https://www.everbridge.com/about/legal/cookie-policy/",
+        "https://www.everbridge.com/about/legal/acceptable-use-policy/"
+      ]
+    },
+    {
+      "url": "https://www.everbridge.com/industries/federal/",
+      "finalUrl": "https://www.everbridge.com/industries/federal/",
+      "status": "success",
+      "sha256": "9998e314872b9acdeb95694fc5d642d60228420471c1adb65ccfa37ac520bc00",
+      "title": "Government + Federal Agencies - Everbridge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everbridge.com/industries/states-and-local-governments/",
+        "https://www.everbridge.com/about/why-everbridge/",
+        "https://www.everbridge.com/about/careers/",
+        "https://www.everbridge.com/about/legal/",
+        "https://www.everbridge.com/about/sustainability-at-everbridge/",
+        "https://www.everbridge.com/about/leadership/",
+        "https://www.everbridge.com/about/history/",
+        "https://www.everbridge.com/blog/building-a-thriving-workplace-how-culture-drives-resilience/",
+        "https://www.everbridge.com/resource/everbridge-critical-event-management-federal-agencies/",
+        "https://www.everbridge.com/about/legal/cookie-policy/",
+        "https://www.everbridge.com/about/legal/acceptable-use-policy/",
+        "https://www.everbridge.com/about/legal/notice-of-right-to-opt-out-of-sale-and-sharing-of-personal-information"
+      ]
+    },
+    {
+      "url": "https://www.everbridge.com/industries/states-and-local-governments/",
+      "finalUrl": "https://www.everbridge.com/industries/states-and-local-governments/",
+      "status": "success",
+      "sha256": "0cf2608de5c7e8a7786c9bba189b328237ac7789f92a44bcc6e306a790e25b80",
+      "title": "State & Local Government Alerting - Everbridge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everbridge.com/about/why-everbridge/",
+        "https://www.everbridge.com/about/careers/",
+        "https://www.everbridge.com/about/legal/",
+        "https://www.everbridge.com/about/sustainability-at-everbridge/",
+        "https://www.everbridge.com/about/leadership/",
+        "https://www.everbridge.com/about/history/",
+        "https://www.everbridge.com/industries/states-and-local-governments/statewide-notification-deployment/",
+        "https://www.everbridge.com/about/legal/cookie-policy/",
+        "https://www.everbridge.com/about/legal/acceptable-use-policy/",
+        "https://www.everbridge.com/about/legal/notice-of-right-to-opt-out-of-sale-and-sharing-of-personal-information"
+      ]
+    }
+  ]
+}

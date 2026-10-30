@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-02e19ea8d338",
+  "retrievedAt": "2026-10-30T11:01:07.048Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://dtexsystems.com/",
+      "finalUrl": "https://www.dtex.ai/",
+      "status": "success",
+      "sha256": "400df514e65080fecdc2336cac0d5b2192297c20ee8650e2bfa7d9bd542b2dd2",
+      "title": "DTEX | The Risk-Adaptive Security Platform for the Human and AI Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dtex.ai/capabilities/ai-risk-management/",
+        "https://www.dtex.ai/capabilities/insider-risk-management/",
+        "https://www.dtex.ai/capabilities/risk-adaptive-dlp/",
+        "https://www.dtex.ai/capabilities/privacy/",
+        "https://www.dtex.ai/capabilities/uam/",
+        "https://www.dtex.ai/capabilities/ueba/",
+        "https://www.dtex.ai/capabilities/triage-guardian/",
+        "https://www.dtex.ai/capabilities/threat-hunter/",
+        "https://www.dtex.ai/capabilities/risk-assistant/",
+        "https://www.dtex.ai/government/",
+        "https://www.dtex.ai/about-dtex/",
+        "https://www.dtex.ai/capabilities/ai-risk-management"
+      ]
+    },
+    {
+      "url": "https://www.dtex.ai/capabilities/ai-risk-management/",
+      "finalUrl": "https://www.dtex.ai/capabilities/ai-risk-management/",
+      "status": "success",
+      "sha256": "c687232597da3a8a9572611a9dc147d4185af320a5b4c7ece945c43fa16edb75",
+      "title": "DTEX AI Risk Management | DTEX",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dtex.ai/capabilities/insider-risk-management/",
+        "https://www.dtex.ai/capabilities/risk-adaptive-dlp/",
+        "https://www.dtex.ai/capabilities/privacy/",
+        "https://www.dtex.ai/capabilities/uam/",
+        "https://www.dtex.ai/capabilities/ueba/",
+        "https://www.dtex.ai/capabilities/triage-guardian/",
+        "https://www.dtex.ai/capabilities/threat-hunter/",
+        "https://www.dtex.ai/capabilities/risk-assistant/",
+        "https://www.dtex.ai/government/",
+        "https://www.dtex.ai/about-dtex/",
+        "https://www.dtex.ai/capabilities/triage-guardian",
+        "https://www.dtex.ai/capabilities/threat-hunter"
+      ]
+    },
+    {
+      "url": "https://www.dtex.ai/capabilities/insider-risk-management/",
+      "finalUrl": "https://www.dtex.ai/capabilities/insider-risk-management/",
+      "status": "success",
+      "sha256": "bc408f1754d1279a48b5ce3800c9a2f31e377408e0eb8d6b8807340deb6f9ee7",
+      "title": "Proactive Insider Risk Management for the Modern Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dtex.ai/capabilities/risk-adaptive-dlp/",
+        "https://www.dtex.ai/capabilities/privacy/",
+        "https://www.dtex.ai/capabilities/uam/",
+        "https://www.dtex.ai/capabilities/ueba/",
+        "https://www.dtex.ai/capabilities/triage-guardian/",
+        "https://www.dtex.ai/capabilities/threat-hunter/",
+        "https://www.dtex.ai/capabilities/risk-assistant/",
+        "https://www.dtex.ai/government/",
+        "https://www.dtex.ai/about-dtex/",
+        "https://www.dtex.ai/capabilities/triage-guardian",
+        "https://www.dtex.ai/capabilities/threat-hunter",
+        "https://www.dtex.ai/capabilities/risk-assistant"
+      ]
+    },
+    {
+      "url": "https://www.dtex.ai/capabilities/risk-adaptive-dlp/",
+      "finalUrl": "https://www.dtex.ai/capabilities/risk-adaptive-dlp/",
+      "status": "success",
+      "sha256": "107f54df39c4dc861d355a13e5d3dac3a7d79bace640ba7a5b8e4c9063cf053b",
+      "title": "DTEX Risk-Adaptive DLP",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dtex.ai/capabilities/privacy/",
+        "https://www.dtex.ai/capabilities/uam/",
+        "https://www.dtex.ai/capabilities/ueba/",
+        "https://www.dtex.ai/capabilities/triage-guardian/",
+        "https://www.dtex.ai/capabilities/threat-hunter/",
+        "https://www.dtex.ai/capabilities/risk-assistant/",
+        "https://www.dtex.ai/government/",
+        "https://www.dtex.ai/about-dtex/",
+        "https://www.dtex.ai/capabilities/ai-security/"
+      ]
+    }
+  ]
+}

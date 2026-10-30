@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-bb7b73cd3b82",
+  "retrievedAt": "2026-10-30T11:00:46.786Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://bamboohealth.com/",
+      "finalUrl": "https://bamboohealth.com/",
+      "status": "success",
+      "sha256": "e948c8d174b3dfa1e902d0e4816a7d17481132399471e30b8bfd12da4019368a",
+      "title": "Bamboo Health",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bamboohealth.com/about-us/",
+        "https://bamboohealth.com/audience/state-governments/",
+        "https://bamboohealth.com/blog/2026/08/17/what-93-burnout-tells-us-about-where-agentic-ai-can-drive-value-in-healthcare/",
+        "https://bamboohealth.com/management/"
+      ]
+    },
+    {
+      "url": "https://bamboohealth.com/about-us/",
+      "finalUrl": "https://bamboohealth.com/about-us/",
+      "status": "success",
+      "sha256": "fbb4847a58f0ed5d296df53adbe08ef8baf20ed395c22c648dc51b5bc9894ff8",
+      "title": "About Bamboo Health | Our Mission & Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bamboohealth.com/audience/state-governments/",
+        "https://bamboohealth.com/impact-report-2025/",
+        "https://bamboohealth.com/management/"
+      ]
+    },
+    {
+      "url": "https://bamboohealth.com/audience/state-governments/",
+      "finalUrl": "https://bamboohealth.com/audience/governments/",
+      "status": "success",
+      "sha256": "984e97439458ff658c94bac30d17a2a100c2570878623365c70c9f9e63ab0f68",
+      "title": "Improving Government Health Outcomes | Bamboo Health",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bamboohealth.com/audience/governments/",
+        "https://bamboohealth.com/management/"
+      ]
+    },
+    {
+      "url": "https://bamboohealth.com/blog/2026/08/17/what-93-burnout-tells-us-about-where-agentic-ai-can-drive-value-in-healthcare/",
+      "finalUrl": "https://bamboohealth.com/blog/2026/08/17/what-93-burnout-tells-us-about-where-agentic-ai-can-drive-value-in-healthcare/",
+      "status": "success",
+      "sha256": "5c8486774de9dc57f78f833d3805aa8cae51780dadb8086ef5f3c7d7cc0e8020",
+      "title": "What Healthcare Burnout Tells Us About How AI Drives Value",
+      "signals": [],
+      "discoveredLinks": [
+        "https://bamboohealth.com/management/"
+      ]
+    }
+  ]
+}

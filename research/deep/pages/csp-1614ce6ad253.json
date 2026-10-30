@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-1614ce6ad253",
+  "retrievedAt": "2026-10-30T11:01:42.816Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://movius.ai/",
+      "finalUrl": "https://movius.ai/",
+      "status": "success",
+      "sha256": "ea2b87eab4b181ae36d8a9efb697181216269e701d762edee25bd426125031cd",
+      "title": "Home | Movius",
+      "signals": [],
+      "discoveredLinks": [
+        "https://movius.ai/about-us/"
+      ]
+    },
+    {
+      "url": "https://movius.ai/about-us/",
+      "finalUrl": "https://movius.ai/about-us/",
+      "status": "success",
+      "sha256": "b15962400d8bbcedf0b2f40abfbfbcae1d19ec1b072241aa24aa14e6aad14d1f",
+      "title": "About Us | Movius",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

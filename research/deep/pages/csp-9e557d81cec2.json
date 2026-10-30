@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-9e557d81cec2",
+  "retrievedAt": "2026-10-30T11:02:00.886Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.rackspace.com/cloud/rackspace-government-cloud",
+      "finalUrl": "https://www.rackspace.com/cloud/rackspace-government-cloud",
+      "status": "success",
+      "sha256": "0947b71076db72e36a0bb9e0227fe7587477095ff94c5b491b321acebfedc6a6",
+      "title": "Zero Trust Government Cloud | Rackspace Technology",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.rackspace.com/cloud/industry/government",
+        "https://www.rackspace.com/cloud/case-studies",
+        "https://www.rackspace.com/cloud/about",
+        "https://www.rackspace.com/cloud/about/culture",
+        "https://www.rackspace.com/cloud/about/leadership",
+        "https://www.rackspace.com/cloud/about/strategic-alliances",
+        "https://www.rackspace.com/cloud/about/channel-partners",
+        "https://www.rackspace.com/blog/seven-common-misconceptions-about-fedramp-ato",
+        "https://www.rackspace.com/industry/government",
+        "https://www.rackspace.com/cloud/rackspace-government-cloud/aws",
+        "https://www.rackspace.com/cloud/rackspace-government-cloud/vmware",
+        "https://www.rackspace.com/resources/data-sheet-zero-trust-and-rackspace-government-cloud"
+      ]
+    },
+    {
+      "url": "https://www.rackspace.com/cloud/industry/government",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.rackspace.com/cloud/case-studies",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.rackspace.com/cloud/about",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

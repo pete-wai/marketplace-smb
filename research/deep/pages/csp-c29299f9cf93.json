@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-c29299f9cf93",
+  "retrievedAt": "2026-10-30T11:00:58.781Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ciswired.com/",
+      "finalUrl": "https://www.ciswired.com/",
+      "status": "success",
+      "sha256": "7673ece46cebdc79897de94d8244caa01db136d9146aca2a06a5f424bf421dff",
+      "title": "Travel Management Operations and Automation | Cornerstone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ciswired.com/company/",
+        "https://www.ciswired.com/total-trip-cost-what-travel-leaders-are-learning-about-smarter-spend-better-visibility-and-more-defensible-decisions/"
+      ]
+    },
+    {
+      "url": "https://www.ciswired.com/company/",
+      "finalUrl": "https://www.ciswired.com/company/",
+      "status": "success",
+      "sha256": "692071f7279f83029a88a7e699c8438c34dda13bacf28e4be68ba9ecf2977242",
+      "title": "Company - Travel Management Operations and Automation | Cornerstone",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.ciswired.com/total-trip-cost-what-travel-leaders-are-learning-about-smarter-spend-better-visibility-and-more-defensible-decisions/",
+      "finalUrl": "https://www.ciswired.com/total-trip-cost-what-travel-leaders-are-learning-about-smarter-spend-better-visibility-and-more-defensible-decisions/",
+      "status": "success",
+      "sha256": "bb3f4b6b3448525444b4f505434f21958acdd477fffb2fc11eb2c1bed868bc86",
+      "title": "Total Trip Cost: What Travel Leaders Are Learning About Smarter Spend, Better Visibility, and More Defensible Decisions - Travel Management Operations and Automation | Cornerstone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ciswired.com/total-trip-cost-what-travel-leaders-are-learning-about-smarter-spend-better-visibility-and-more-defensible-decisions/ttc_infographic_redesign_v5-1-2/"
+      ]
+    },
+    {
+      "url": "https://www.ciswired.com/total-trip-cost-what-travel-leaders-are-learning-about-smarter-spend-better-visibility-and-more-defensible-decisions/ttc_infographic_redesign_v5-1-2/",
+      "status": "unavailable",
+      "reason": "Not HTML"
+    }
+  ]
+}

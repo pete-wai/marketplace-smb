@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-5df0a07efe0c",
+  "retrievedAt": "2026-10-30T11:01:18.392Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.geographicsolutions.com/",
+      "finalUrl": "https://www.geographicsolutions.com/",
+      "status": "success",
+      "sha256": "9126fad9d755b048692ca0b958daf0732443c9700b39bf77274beb33fa200038",
+      "title": "Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geographicsolutions.com/Company/About-Us",
+        "https://www.geographicsolutions.com/Company/Clients",
+        "https://www.geographicsolutions.com/Company/Partnerships",
+        "https://www.geographicsolutions.com/Company/Accolades-Achievements",
+        "https://www.geographicsolutions.com/Company/GSI-International",
+        "https://www.geographicsolutions.com/Solutions/Federal-Programs/Apprenticeships",
+        "https://www.geographicsolutions.com/2026-WTC"
+      ]
+    },
+    {
+      "url": "https://www.geographicsolutions.com/Company/About-Us",
+      "finalUrl": "https://www.geographicsolutions.com/Company/About-Us",
+      "status": "success",
+      "sha256": "6939742874d1acdeeba7775222002002d7db0c3e2fcbfce60304bf25ae38abf1",
+      "title": "Geographic Solutions | Integrated Workforce Development Systems > Company > About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geographicsolutions.com/Company/Clients",
+        "https://www.geographicsolutions.com/Company/Partnerships",
+        "https://www.geographicsolutions.com/Company/Accolades-Achievements",
+        "https://www.geographicsolutions.com/Company/GSI-International",
+        "https://www.geographicsolutions.com/Solutions/Federal-Programs/Apprenticeships",
+        "https://www.geographicsolutions.com/2026-WTC",
+        "https://www.geographicsolutions.com/VOS",
+        "https://www.geographicsolutions.com/Solutions/Software/GUS-Geographic-Solutions-Unemployment-System",
+        "https://www.geographicsolutions.com/Solutions/Software/REX-Reemployment-Exchange",
+        "https://www.geographicsolutions.com/Solutions/Software/VLMI-Virtual-Labor-Market-Information",
+        "https://www.geographicsolutions.com/Solutions/Software/ALMA-Americas-Labor-Market-Analyzer",
+        "https://www.geographicsolutions.com/Solutions/Software/VCC-Virtual-Career-Center"
+      ]
+    },
+    {
+      "url": "https://www.geographicsolutions.com/Company/Clients",
+      "finalUrl": "https://www.geographicsolutions.com/Company/Clients",
+      "status": "success",
+      "sha256": "00ea6a4a80bbb740ec668c477e8c304f4540c821d73278ccb972d199096daf03",
+      "title": "Clients",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geographicsolutions.com/Company/Partnerships",
+        "https://www.geographicsolutions.com/Company/Accolades-Achievements",
+        "https://www.geographicsolutions.com/Company/GSI-International",
+        "https://www.geographicsolutions.com/Solutions/Federal-Programs/Apprenticeships",
+        "https://www.geographicsolutions.com/2026-WTC"
+      ]
+    },
+    {
+      "url": "https://www.geographicsolutions.com/Company/Partnerships",
+      "finalUrl": "https://www.geographicsolutions.com/Company/Partnerships",
+      "status": "success",
+      "sha256": "e387457c42ca7b072f11db35fe33a7d3f1578a5057263ebf6b26a6409f834128",
+      "title": "Partnerships",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geographicsolutions.com/Company/Accolades-Achievements",
+        "https://www.geographicsolutions.com/Company/GSI-International",
+        "https://www.geographicsolutions.com/Solutions/Federal-Programs/Apprenticeships",
+        "https://www.geographicsolutions.com/2026-WTC"
+      ]
+    }
+  ]
+}

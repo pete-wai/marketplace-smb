@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-3c4b63f5566e",
+  "retrievedAt": "2026-10-30T11:01:17.982Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://gdcii.com/",
+      "finalUrl": "https://gdcii.com/",
+      "status": "success",
+      "sha256": "94c91ef6722facf4f9048ebb9a0836262ce6be947853c1360b2e7fac818c148b",
+      "title": "GDCI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://gdcii.com/about.html"
+      ]
+    },
+    {
+      "url": "https://gdcii.com/about.html",
+      "finalUrl": "https://gdcii.com/about.html",
+      "status": "success",
+      "sha256": "74f47750cb1b46600f3bff13d82973e44a95e9775cf66744bdf10d9fbb29c0cf",
+      "title": "About",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

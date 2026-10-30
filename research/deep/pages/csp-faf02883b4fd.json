@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-faf02883b4fd",
+  "retrievedAt": "2026-10-30T11:00:52.016Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.readyop.com/",
+      "finalUrl": "https://www.readyop.com/",
+      "status": "success",
+      "sha256": "60592d2810ac3f0afc83abfc9ee4d9d5fea914e7c4fb675dc20386e9a7412716",
+      "title": "ReadyOp",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.readyop.com/who-uses-readyop/local-government-agencies/",
+        "https://www.readyop.com/who-uses-readyop/state-and-federal-agencies/",
+        "https://www.readyop.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.readyop.com/who-uses-readyop/local-government-agencies/",
+      "finalUrl": "https://www.readyop.com/who-uses-readyop/local-government-agencies/",
+      "status": "success",
+      "sha256": "d7c9f4ceb8c0a8034797453bbc190d7acfe68e62095a9ba94d8788fa78ce123b",
+      "title": "Local Government Agencies | ReadyOp",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.readyop.com/who-uses-readyop/state-and-federal-agencies/",
+        "https://www.readyop.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.readyop.com/who-uses-readyop/state-and-federal-agencies/",
+      "finalUrl": "https://www.readyop.com/who-uses-readyop/state-and-federal-agencies/",
+      "status": "success",
+      "sha256": "dcb2244c11f42e9ec87a2497bd7a6ec815c7fa318f1fc99364f2ea8fc911524a",
+      "title": "State and Federal Agencies | ReadyOp",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.readyop.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.readyop.com/about/",
+      "finalUrl": "https://www.readyop.com/about/",
+      "status": "success",
+      "sha256": "f63f5f21c106590b8ddd3d270db08cf399f5714e011a3871549dc980f3432775",
+      "title": "About | ReadyOp",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "red by ReadyOp Communications, Inc. ReadyOp Communications, Inc. is a wholly-owned subsidiary of Cleartronic, Inc., a fully reporting public company. For more information about ReadyOp, please contact support@readyop.com or call +1 (813) 289-7620 . For more information about our company"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-ebc1494640f8",
+  "retrievedAt": "2026-10-30T11:01:05.061Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.dnanexus.com/",
+      "finalUrl": "https://www.dnanexus.com/",
+      "status": "success",
+      "sha256": "8e0e2e40d9d70056f4b5c9354e48011eecc25d5a16285aa4c2a1484a5306efc1",
+      "title": "The Precision Health Data Cloud | DNAnexus®",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dnanexus.com/partnerships/ukbiobank",
+        "https://www.dnanexus.com/company",
+        "https://www.dnanexus.com/team",
+        "https://www.dnanexus.com/press/dnanexus-scales-ai-driven-capabilities",
+        "https://www.dnanexus.com/platform-security-compliance",
+        "https://www.dnanexus.com/professional-services",
+        "https://www.dnanexus.com/press/frost-sullivans-2025-technology-innovation-leadership-award?utm_campaign=Frost%20%26%20Sullivan%20Award&amp;utm_content=352575891&amp;utm_medium=social&amp;utm_source=linkedin&amp;hss_channel=lcp-912957",
+        "https://www.dnanexus.com/dnanexus-fast-companys-10-most-innovative-companies",
+        "https://www.dnanexus.com/standardizing-portable-and-reproducible-genomics-data-analysis-pipelines"
+      ]
+    },
+    {
+      "url": "https://www.dnanexus.com/partnerships/ukbiobank",
+      "finalUrl": "https://www.dnanexus.com/partnerships/ukbiobank",
+      "status": "success",
+      "sha256": "bbb0bd303aac3802566533c85f870f28494226ac8791f6b0ed7e30ccbc7ffa93",
+      "title": "Discover the UK Biobank!",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.dnanexus.com/company",
+      "finalUrl": "https://www.dnanexus.com/company",
+      "status": "success",
+      "sha256": "9f7b9b9453b8b8c7d182e3aec9d588c82f05707384847447d2f45399fecfabe2",
+      "title": "Our Story | DNAnexus®",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dnanexus.com/team",
+        "https://www.dnanexus.com/press"
+      ]
+    },
+    {
+      "url": "https://www.dnanexus.com/team",
+      "finalUrl": "https://www.dnanexus.com/team",
+      "status": "success",
+      "sha256": "fd4f12007514c4d815671a540e023d6ebae696e5a269971d59238698eab7626b",
+      "title": "Our Leadership & Executive Team | DNAnexus®",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

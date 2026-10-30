@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-0fec097499f8",
+  "retrievedAt": "2026-10-30T11:02:03.053Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.relativity.com/",
+      "finalUrl": "https://www.relativity.com/",
+      "status": "success",
+      "sha256": "30a5f9030dc9874d2517909d669dd08dcd35922eff40047e5ef5d67c5473e7ae",
+      "title": "AI-Powered Legal Data Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.relativity.com/platform/government/",
+        "https://www.relativity.com/solutions/federal-agencies/",
+        "https://www.relativity.com/solutions/state-local-government/",
+        "https://www.relativity.com/company/our-people/",
+        "https://www.relativity.com/company/our-people/inclusion/",
+        "https://www.relativity.com/company/our-people/leadership-team/",
+        "https://www.relativity.com/company/commitments/",
+        "https://www.relativity.com/company/commitments/social-impact/justice-for-change/",
+        "https://www.relativity.com/company/commitments/social-impact/",
+        "https://www.relativity.com/company/commitments/sustainability/",
+        "https://www.relativity.com/company/careers/",
+        "https://www.relativity.com/company/careers/internships/"
+      ]
+    },
+    {
+      "url": "https://www.relativity.com/platform/government/",
+      "finalUrl": "https://www.relativity.com/platform/government/",
+      "status": "success",
+      "sha256": "a3d20a545f1034dcc9a1abffafac7ce29e18737b0d5af680705fdbbaf6050a2c",
+      "title": "eDiscovery & Legal Intelligence for Government &#x7c; Relativity aiR Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.relativity.com/solutions/federal-agencies/",
+        "https://www.relativity.com/solutions/state-local-government/",
+        "https://www.relativity.com/company/our-people/",
+        "https://www.relativity.com/company/our-people/inclusion/",
+        "https://www.relativity.com/company/our-people/leadership-team/",
+        "https://www.relativity.com/company/commitments/",
+        "https://www.relativity.com/company/commitments/social-impact/justice-for-change/",
+        "https://www.relativity.com/company/commitments/social-impact/",
+        "https://www.relativity.com/company/commitments/sustainability/",
+        "https://www.relativity.com/company/careers/",
+        "https://www.relativity.com/company/careers/internships/",
+        "https://www.relativity.com/company/relevate/"
+      ]
+    },
+    {
+      "url": "https://www.relativity.com/solutions/federal-agencies/",
+      "finalUrl": "https://www.relativity.com/solutions/federal-agencies/",
+      "status": "success",
+      "sha256": "76295c05950b27c1a27863beaf8b51d101d83385805a3b0e41abec2bae7c792a",
+      "title": "Legal Data Intelligence for Federal Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.relativity.com/solutions/state-local-government/",
+        "https://www.relativity.com/company/our-people/",
+        "https://www.relativity.com/company/our-people/inclusion/",
+        "https://www.relativity.com/company/our-people/leadership-team/",
+        "https://www.relativity.com/company/commitments/",
+        "https://www.relativity.com/company/commitments/social-impact/justice-for-change/",
+        "https://www.relativity.com/company/commitments/social-impact/",
+        "https://www.relativity.com/company/commitments/sustainability/",
+        "https://www.relativity.com/company/careers/",
+        "https://www.relativity.com/company/careers/internships/",
+        "https://www.relativity.com/company/relevate/",
+        "https://www.relativity.com/company/careers/interview-process/"
+      ]
+    },
+    {
+      "url": "https://www.relativity.com/solutions/state-local-government/",
+      "finalUrl": "https://www.relativity.com/solutions/state-local-government/",
+      "status": "success",
+      "sha256": "be1508c2fd4cc54a9bc6b1f6788498a60284b8a9d657c37447daa071545e768d",
+      "title": "Legal Data Intelligence for State & Local Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.relativity.com/company/our-people/",
+        "https://www.relativity.com/company/our-people/inclusion/",
+        "https://www.relativity.com/company/our-people/leadership-team/",
+        "https://www.relativity.com/company/commitments/",
+        "https://www.relativity.com/company/commitments/social-impact/justice-for-change/",
+        "https://www.relativity.com/company/commitments/social-impact/",
+        "https://www.relativity.com/company/commitments/sustainability/",
+        "https://www.relativity.com/company/careers/",
+        "https://www.relativity.com/company/careers/internships/",
+        "https://www.relativity.com/company/relevate/",
+        "https://www.relativity.com/company/careers/interview-process/",
+        "https://www.relativity.com/resources/customers/jnd-air-for-review-public-sector/"
+      ]
+    }
+  ]
+}

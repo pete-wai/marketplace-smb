@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-b48c6f284eb2",
+  "retrievedAt": "2026-10-30T11:01:14.381Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.everlaw.com/federal-government/",
+      "finalUrl": "https://www.everlaw.com/federal-government/",
+      "status": "success",
+      "sha256": "3d4efc3d6890c3b1e5d5d7c5bdbf962857864843507814e6a34c49e3ea2c5690",
+      "title": "Everlaw for Federal Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everlaw.com/state-local-government/",
+        "https://www.everlaw.com/trust/security/",
+        "https://www.everlaw.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.everlaw.com/state-local-government/",
+      "finalUrl": "https://www.everlaw.com/state-local-government/",
+      "status": "success",
+      "sha256": "7528b8d67a32853dba7342d67616a5ca7f220b04f6af7fdc7dcbaec76a4cf6a5",
+      "title": "Everlaw for State and Local Governments",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everlaw.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.everlaw.com/trust/security/",
+      "finalUrl": "https://www.everlaw.com/trust/security/",
+      "status": "success",
+      "sha256": "679f133f1a107e6e47909dbf16f4d31a506481d2ae1e4c39e4242951cedc7a25",
+      "title": "Data Security and Compliance at Everlaw",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.everlaw.com/government-compliance/",
+        "https://www.everlaw.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.everlaw.com/about/",
+      "finalUrl": "https://www.everlaw.com/about/",
+      "status": "success",
+      "sha256": "2314b43b1951285816e24b89eddaa20201b7af5205850a0c3b9a0c394a62e3f5",
+      "title": "About Everlaw | Everlaw Company History, Leadership, Mission & Vision",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

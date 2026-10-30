@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-68738601a5ad",
+  "retrievedAt": "2026-10-30T11:00:51.785Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.appdynamics.com/",
+      "finalUrl": "https://www.splunk.com/en_us/appdynamics-joins-splunk.html?301=appdynamics",
+      "status": "success",
+      "sha256": "5fc0e8a0d36a3045e1624c65eac04c3941b8b362972c505b3b45815c02a590e4",
+      "title": "AppDynamics joins the Splunk Observability portfolio | Splunk",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "telligence. Many integration capabilities are available now. With the acquisition of Splunk, is Cisco sunsetting AppDynamics? Nope! AppDynamics is a critical component of the Splunk Observability portfolio. It is a foundational enabler that helps our customers achieve full-stack observability for"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.splunk.com/en_us/products/enterprise-security.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/about-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html"
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/products/enterprise-security.html",
+      "finalUrl": "https://www.splunk.com/en_us/products/enterprise-security.html",
+      "status": "success",
+      "sha256": "52d80fdd025b19cdf985d3393c624bd399ed47a1ac7adb58c398b9ed195459db",
+      "title": "Splunk Enterprise Security | Splunk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/about-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html"
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+      "finalUrl": "https://www.splunk.com/en_us/solutions/industries/public-sector.html",
+      "status": "success",
+      "sha256": "8b8dde1c0a79ba364bbe68b6e519e51aaa4639ca9004814c206f81dc19bc53f7",
+      "title": "Splunk for Public Sector | Splunk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/de_de/solutions/industries/public-sector.html",
+        "https://www.splunk.com/fr_fr/solutions/industries/public-sector.html",
+        "https://www.splunk.com/ja_jp/solutions/industries/public-sector.html",
+        "https://www.splunk.com/ko_kr/solutions/industries/public-sector.html",
+        "https://www.splunk.com/zh_cn/solutions/industries/public-sector.html",
+        "https://www.splunk.com/en_us/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector/defense-and-intelligence-agencies.html",
+        "https://www.splunk.com/en_us/solutions/industries/public-sector/federal-civilian-agencies.html"
+      ]
+    },
+    {
+      "url": "https://www.splunk.com/en_us/about-us/events.html",
+      "finalUrl": "https://www.splunk.com/en_us/about-us/events.html",
+      "status": "success",
+      "sha256": "4b7ac49b7ced75c9822ee84ee254bd411b19e1ba4aecdac53afc66dd6660b718",
+      "title": "Where We&#39;ll Be Next Events Live! | Splunk",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.splunk.com/de_de/about-us/events.html",
+        "https://www.splunk.com/fr_fr/about-us/events.html",
+        "https://www.splunk.com/ja_jp/about-us/events.html",
+        "https://www.splunk.com/zh_cn/about-us/events.html",
+        "https://www.splunk.com/zh_tw/about-us/events.html",
+        "https://www.splunk.com/en_us/about-us/why-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/awards.html",
+        "https://www.splunk.com/en_us/about-us/how-splunk-compares.html",
+        "https://www.splunk.com/en_us/about-splunk/contact-us.html",
+        "https://www.splunk.com/en_us/about-splunk.html",
+        "https://www.splunk.com/en_us/about-splunk/splunk-data-security-and-privacy.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-31d59d268939",
+  "retrievedAt": "2026-10-30T11:00:47.990Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.bland.ai/",
+      "finalUrl": "https://www.bland.ai/",
+      "status": "success",
+      "sha256": "2a3620bdadc52d735af96fc4a07a6aa7fc9761a4fde419da28feccfebb95536a",
+      "title": "Bland | Enterprise Voice AI Platform for Phone Agents",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": " hiring Read customer story Capture additional revenue $430M in added annual revenue from automated qualification Read customer story Happier customers +13 pts increase in customer satisfaction (CSAT) Read customer story One platform for every call IVR replacement Answer inbound"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.bland.ai/about"
+      ]
+    },
+    {
+      "url": "https://www.bland.ai/about",
+      "finalUrl": "https://www.bland.ai/about",
+      "status": "success",
+      "sha256": "8c01e4ffe2c98cb243c51aaddb1b107e16eec18945867068f3027dbd2be7ee22",
+      "title": "About | Bland AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-a0a31929735b",
+  "retrievedAt": "2026-10-30T11:01:18.492Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.getwellnetwork.com/",
+      "finalUrl": "https://www.getwellnetwork.com/",
+      "status": "success",
+      "sha256": "06a9cb089e05f415966593d5f6bba2bd002b4cd91c003b0f0cf4cf1a201d45b7",
+      "title": "Get Well | GW RhythmX Digital Patient Engagement Platform",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ucing burnout. Read more SAIGroup Expands Healthcare AI Platform with Acquisition of Get Well Get Well is now part of SAI Group &#8211; a leader in enterprise AI solutions. Read more Get Well 360 empowers healthcare organizations to deliver the"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.getwellnetwork.com/veteran-patient-experience/",
+        "https://www.getwellnetwork.com/state-and-local-government/",
+        "https://www.getwellnetwork.com/about-patient-centered/",
+        "https://www.getwellnetwork.com/about-patient-centered/partnerships/",
+        "https://www.getwellnetwork.com/about-patient-centered/careers/",
+        "https://www.getwellnetwork.com/about-patient-centered/leadership/",
+        "https://www.getwellnetwork.com/about-patient-centered/oneil-center-for-patient-engagement-research/"
+      ]
+    },
+    {
+      "url": "https://www.getwellnetwork.com/veteran-patient-experience/",
+      "finalUrl": "https://www.getwellnetwork.com/veteran-patient-experience/",
+      "status": "success",
+      "sha256": "c502f707538775037932d2a803b012273d56038876a1b47b2876133d68aa3092",
+      "title": "Veteran Patient Experience and Government - Get Well",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.getwellnetwork.com/state-and-local-government/",
+        "https://www.getwellnetwork.com/about-patient-centered/",
+        "https://www.getwellnetwork.com/about-patient-centered/partnerships/",
+        "https://www.getwellnetwork.com/about-patient-centered/careers/",
+        "https://www.getwellnetwork.com/about-patient-centered/leadership/",
+        "https://www.getwellnetwork.com/about-patient-centered/oneil-center-for-patient-engagement-research/"
+      ]
+    },
+    {
+      "url": "https://www.getwellnetwork.com/state-and-local-government/",
+      "finalUrl": "https://www.getwellnetwork.com/state-and-local-government/",
+      "status": "success",
+      "sha256": "1451de9ac7aa15c2f9b23838b3386f919c981cbd075266b72594594c8bc78891",
+      "title": "Benefits of Public Health Education | Community Engagement | Get Well",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.getwellnetwork.com/about-patient-centered/",
+        "https://www.getwellnetwork.com/about-patient-centered/partnerships/",
+        "https://www.getwellnetwork.com/about-patient-centered/careers/",
+        "https://www.getwellnetwork.com/about-patient-centered/leadership/",
+        "https://www.getwellnetwork.com/about-patient-centered/oneil-center-for-patient-engagement-research/"
+      ]
+    },
+    {
+      "url": "https://www.getwellnetwork.com/about-patient-centered/",
+      "finalUrl": "https://www.getwellnetwork.com/about-patient-centered/",
+      "status": "success",
+      "sha256": "bd340dc172625e49e5dc92cd81e774323b77878207688e6229cc19a6a3e9f5f8",
+      "title": "About Get Well- Patient Centered | Get Well",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.getwellnetwork.com/about-patient-centered/partnerships/",
+        "https://www.getwellnetwork.com/about-patient-centered/careers/",
+        "https://www.getwellnetwork.com/about-patient-centered/leadership/",
+        "https://www.getwellnetwork.com/about-patient-centered/oneil-center-for-patient-engagement-research/"
+      ]
+    }
+  ]
+}

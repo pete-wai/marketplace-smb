@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-58da0706709b",
+  "retrievedAt": "2026-10-30T11:02:27.032Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.vaultara.com/",
+      "finalUrl": "https://www.vaultara.com/",
+      "status": "success",
+      "sha256": "e9d28e9c4d806cc3e4a17bf4304cd404c78eb03647c7a46f8085005cf7eaa2c2",
+      "title": "Vaultara",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

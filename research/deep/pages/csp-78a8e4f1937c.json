@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-78a8e4f1937c",
+  "retrievedAt": "2026-10-30T11:01:48.131Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://onspring.com/solutions/grc-software-for-the-federal-government/",
+      "finalUrl": "https://onspring.com/products/govcloud/",
+      "status": "success",
+      "sha256": "db78e600b48ada65226cf1709e8ec60376484e9ab013a148beb278bb592815ba",
+      "title": "GovCloud - Government Compliance Software | Onspring",
+      "signals": [],
+      "discoveredLinks": [
+        "https://onspring.com/company/",
+        "https://onspring.com/company/find-partners/",
+        "https://onspring.com/company/careers/",
+        "https://onspring.com/company/media-press/",
+        "https://onspring.com/automation/no-code-development/",
+        "https://onspring.com/products/govcloud/",
+        "https://onspring.com/company/find-partners",
+        "https://onspring.com/resources/e-book-white-paper/evaluating-grc-solutions-for-public-sector-e-book/",
+        "https://onspring.com/for-clients/training/",
+        "https://onspring.com/resources/blog/fedramp-certified-vs-hosted-federal-procurement/",
+        "https://onspring.com/resources/blog/healthcare-cybersecurity-federal-government/",
+        "https://onspring.com/company/who-we-serve/"
+      ]
+    },
+    {
+      "url": "https://onspring.com/company/",
+      "finalUrl": "https://onspring.com/company/",
+      "status": "success",
+      "sha256": "84a4ed583cab18d83ba76cfdfbf6d6f8d3fdb72654e72fc559e912016dad8a2a",
+      "title": "People-powered Automation for Businesses | Onspring",
+      "signals": [],
+      "discoveredLinks": [
+        "https://onspring.com/company/find-partners/",
+        "https://onspring.com/company/careers/",
+        "https://onspring.com/company/media-press/",
+        "https://onspring.com/automation/no-code-development/",
+        "https://onspring.com/company/find-partners",
+        "https://onspring.com/company/grc-quadrant-report-2024/",
+        "https://onspring.com/company/who-we-serve/",
+        "https://onspring.com/company/partner-deal-registration/"
+      ]
+    },
+    {
+      "url": "https://onspring.com/company/find-partners/",
+      "finalUrl": "https://onspring.com/company/find-partners/",
+      "status": "success",
+      "sha256": "00684de2f403e7e57afafbc5bb89e381cf3d4f1c565f97b7f1a37614bb8e3e5f",
+      "title": "Partners - Onspring",
+      "signals": [],
+      "discoveredLinks": [
+        "https://onspring.com/company/careers/",
+        "https://onspring.com/company/media-press/",
+        "https://onspring.com/automation/no-code-development/",
+        "https://onspring.com/company/find-partners",
+        "https://onspring.com/company/who-we-serve/",
+        "https://onspring.com/company/partner-deal-registration/"
+      ]
+    },
+    {
+      "url": "https://onspring.com/company/careers/",
+      "finalUrl": "https://onspring.com/company/careers/",
+      "status": "success",
+      "sha256": "e12b84dc717dfd9d40369fc78aa8fc9465952ccc303e9ced5b14f3c9a174b9a6",
+      "title": "Careers - Onspring",
+      "signals": [],
+      "discoveredLinks": [
+        "https://onspring.com/company/media-press/",
+        "https://onspring.com/automation/no-code-development/",
+        "https://onspring.com/company/find-partners",
+        "https://onspring.com/company/who-we-serve/",
+        "https://onspring.com/company/partner-deal-registration/"
+      ]
+    }
+  ]
+}

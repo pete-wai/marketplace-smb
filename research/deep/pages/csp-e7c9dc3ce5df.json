@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-e7c9dc3ce5df",
+  "retrievedAt": "2026-10-30T11:02:05.017Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.riverbed.com/solutions/platform-for-government/",
+      "finalUrl": "https://www.riverbed.com/solutions/platform-for-government/",
+      "status": "success",
+      "sha256": "eb8b044feefb2259d5a094c566bf296270df48c084391c1a7997d23e47eca118",
+      "title": "Riverbed Platform for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.riverbed.com/press-releases/riverbed-achieves-fedramp-class-d-high-certification-for-government/",
+        "https://www.riverbed.com/solutions/us-public-sector/",
+        "https://www.riverbed.com/about/events/",
+        "https://www.riverbed.com/about/newsroom/",
+        "https://www.riverbed.com/about/",
+        "https://www.riverbed.com/about/leadership/",
+        "https://www.riverbed.com/about/global-locations/",
+        "https://www.riverbed.com/about/press-releases/",
+        "https://www.riverbed.com/resource/solution-brief/optimize-dex-for-public-sector/",
+        "https://www.riverbed.com/resource/solution-brief/secure-mobile-dex-for-government-workers/",
+        "https://www.riverbed.com/resource/data-spec-sheet/npm-for-government/",
+        "https://www.riverbed.com/resource/solution-brief/unified-communication-for-government/"
+      ]
+    },
+    {
+      "url": "https://www.riverbed.com/press-releases/riverbed-achieves-fedramp-class-d-high-certification-for-government/",
+      "finalUrl": "https://www.riverbed.com/press-releases/riverbed-achieves-fedramp-class-d-high-certification-for-government/",
+      "status": "success",
+      "sha256": "fa36afcfa94c82cc32deaf1137d5f64019ff06fe644e97ecce3bed6c04e39bfe",
+      "title": "Riverbed Achieves FedRAMP® Class D (High) Certification for Its High-Security Cloud Platform for Government | Riverbed",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.riverbed.com/solutions/us-public-sector/",
+        "https://www.riverbed.com/about/events/",
+        "https://www.riverbed.com/about/newsroom/",
+        "https://www.riverbed.com/about/",
+        "https://www.riverbed.com/about/leadership/",
+        "https://www.riverbed.com/about/global-locations/",
+        "https://www.riverbed.com/about/press-releases/",
+        "https://www.riverbed.com/about/sustainability-and-corporate-social-responsibility/",
+        "https://www.riverbed.com/about/environment-and-sustainability/",
+        "https://www.riverbed.com/fr/press-releases/riverbed-achieves-fedramp-class-d-high-certification-for-government/",
+        "https://www.riverbed.com/de/press-releases/riverbed-achieves-fedramp-class-d-high-certification-for-government/"
+      ]
+    },
+    {
+      "url": "https://www.riverbed.com/solutions/us-public-sector/",
+      "finalUrl": "https://www.riverbed.com/solutions/us-public-sector/",
+      "status": "success",
+      "sha256": "a1f94cb75fdbc07b2da309d54ca2a63b98c7960cf32ef94cdde2880e45a044c1",
+      "title": "Unify Data for Mission Success | Riverbed Public Sector Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.riverbed.com/about/events/",
+        "https://www.riverbed.com/about/newsroom/",
+        "https://www.riverbed.com/about/",
+        "https://www.riverbed.com/about/leadership/",
+        "https://www.riverbed.com/about/global-locations/",
+        "https://www.riverbed.com/about/press-releases/",
+        "https://www.riverbed.com/resource/white-paper/riverbed-public-sector-overview-unifying-data-insights-and-actions-mission-speed/",
+        "https://www.riverbed.com/solutions/government-improve-performance-government-networks-and-applications/",
+        "https://www.riverbed.com/solutions/government-optimize-tactical-and-satellite-communications/",
+        "https://www.riverbed.com/solutions/government-accelerate-encrypted-network-traffic-and-apps-ease/",
+        "https://www.riverbed.com/solutions/government-achieve-cyber-resilience/",
+        "https://www.riverbed.com/solutions/government-simplify-it-modernization-initiatives/"
+      ]
+    },
+    {
+      "url": "https://www.riverbed.com/about/events/",
+      "finalUrl": "https://www.riverbed.com/about/events/",
+      "status": "success",
+      "sha256": "b1b722e17b5201767080cd058a28b06de2278f07a1f6376f754b358adf27965b",
+      "title": "Events & Webinars | Riverbed | Page 1 of Page 5",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.riverbed.com/about/newsroom/",
+        "https://www.riverbed.com/about/",
+        "https://www.riverbed.com/about/leadership/",
+        "https://www.riverbed.com/about/global-locations/",
+        "https://www.riverbed.com/about/press-releases/",
+        "https://www.riverbed.com/event/live-event/california-government-technology-summit/",
+        "https://www.riverbed.com/about/events/page/2/",
+        "https://www.riverbed.com/about/events/page/3/",
+        "https://www.riverbed.com/about/events/page/4/",
+        "https://www.riverbed.com/about/events/page/5/",
+        "https://www.riverbed.com/about/sustainability-and-corporate-social-responsibility/",
+        "https://www.riverbed.com/about/environment-and-sustainability/"
+      ]
+    }
+  ]
+}

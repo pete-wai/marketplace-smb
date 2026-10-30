@@ -1,0 +1,100 @@
+{
+  "providerId": "csp-434483c9664f",
+  "retrievedAt": "2026-10-30T11:02:10.330Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.securityscorecard.com/",
+      "finalUrl": "https://securityscorecard.com/",
+      "status": "success",
+      "sha256": "66eb940879da45ca8cf92275b5cbe1d008110b04426b7460916160921287ce1e",
+      "title": "SecurityScorecard | Supply Chain & Third-Party Risk Platform",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "rd-party risk management (TPRM), today announced it has completed the acquisition of Driftnet, a pioneer in global internet scanning and next-generation threat intelligence. This acquisition will bring Driftnet&#8217;s high-fidelity internet discovery engine into SecurityScorecard&#8217;s TITAN AI platform, g"
+        }
+      ],
+      "discoveredLinks": [
+        "https://securityscorecard.com/solutions/industry/public-sector/",
+        "https://securityscorecard.com/company/",
+        "https://securityscorecard.com/company/why-securityscorecard/",
+        "https://securityscorecard.com/company/leadership/",
+        "https://securityscorecard.com/company/press/",
+        "https://securityscorecard.com/company/events/",
+        "https://securityscorecard.com/company/careers/",
+        "https://securityscorecard.com/company/alumni/",
+        "https://securityscorecard.com/company/contact-us/",
+        "https://securityscorecard.com/resources/case-studies/new-york-life/",
+        "https://securityscorecard.com/",
+        "https://securityscorecard.com/company/press/securityscorecard-acquires-driftnet-to-power-real-time-threat-informed-third-party-risk-management/"
+      ]
+    },
+    {
+      "url": "https://securityscorecard.com/solutions/industry/public-sector/",
+      "finalUrl": "https://securityscorecard.com/solutions/industry/public-sector/",
+      "status": "success",
+      "sha256": "d3f2a09a9072014cf79efc24ff7b30166817ca3884bd52bdb182863170accb28",
+      "title": "Public Sector - SecurityScorecard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://securityscorecard.com/company/",
+        "https://securityscorecard.com/company/why-securityscorecard/",
+        "https://securityscorecard.com/company/leadership/",
+        "https://securityscorecard.com/company/press/",
+        "https://securityscorecard.com/company/events/",
+        "https://securityscorecard.com/company/careers/",
+        "https://securityscorecard.com/company/alumni/",
+        "https://securityscorecard.com/company/contact-us/",
+        "https://securityscorecard.com/company/press/securityscorecard-reaffirms-fedramp-and-achieves-stateramp-ready-status/",
+        "https://securityscorecard.com/company/press/securityscorecard-added-to-the-department-of-homeland-securitys-continuous-diagnostics-and-mitigation-programs-approved-products-list-cdm-apl/",
+        "https://securityscorecard.com/company/press/cisa-adds-securityscorecard-to-free-cybersecurity-resources-for-vulnerable-critical-infrastructure-sectors/",
+        "https://securityscorecard.com/company/press/securityscorecard-and-conference-of-state-bank-supervisors-partner-to-enhance-state-financial-regulators-cybersecurity-oversight/"
+      ]
+    },
+    {
+      "url": "https://securityscorecard.com/company/",
+      "finalUrl": "https://securityscorecard.com/company/",
+      "status": "success",
+      "sha256": "e788152297ebe57f1cd7f157233cf29c848d8d81e5a1941b2ac9c533fd8ed582",
+      "title": "Company - SecurityScorecard",
+      "signals": [],
+      "discoveredLinks": [
+        "https://securityscorecard.com/company/why-securityscorecard/",
+        "https://securityscorecard.com/company/leadership/",
+        "https://securityscorecard.com/company/press/",
+        "https://securityscorecard.com/company/events/",
+        "https://securityscorecard.com/company/careers/",
+        "https://securityscorecard.com/company/alumni/",
+        "https://securityscorecard.com/company/contact-us/",
+        "https://securityscorecard.com/company/leadership",
+        "https://securityscorecard.com/company/careers",
+        "https://securityscorecard.com/solutions/industry/public-sector",
+        "https://securityscorecard.com/company",
+        "https://securityscorecard.com/company/why-securityscorecard"
+      ]
+    },
+    {
+      "url": "https://securityscorecard.com/company/why-securityscorecard/",
+      "finalUrl": "https://securityscorecard.com/company/why-securityscorecard/",
+      "status": "success",
+      "sha256": "fbf7e6945a1ba482d8349b0e3e2cc21705b1c2060390eed63d7fa9aa2dfa7b43",
+      "title": "Why SecurityScorecard | Data, Experts, and Proven Results",
+      "signals": [],
+      "discoveredLinks": [
+        "https://securityscorecard.com/company/leadership/",
+        "https://securityscorecard.com/company/press/",
+        "https://securityscorecard.com/company/events/",
+        "https://securityscorecard.com/company/careers/",
+        "https://securityscorecard.com/company/alumni/",
+        "https://securityscorecard.com/company/contact-us/",
+        "https://securityscorecard.com/platform",
+        "https://securityscorecard.com/strike",
+        "https://securityscorecard.com/pricing",
+        "https://securityscorecard.com/solutions/industry/public-sector",
+        "https://securityscorecard.com/company",
+        "https://securityscorecard.com/company/why-securityscorecard"
+      ]
+    }
+  ]
+}

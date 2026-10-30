@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-a670a048eff6",
+  "retrievedAt": "2026-10-30T11:00:53.246Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://codesignal.com/",
+      "finalUrl": "https://codesignal.com/",
+      "status": "success",
+      "sha256": "32bc664af083c38d63a3aeeeaf5b05f413022249cf92f16b5d18296656d6e045",
+      "title": "CodeSignal | Agentic Skills Intelligence & Validation Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://codesignal.com/government/",
+        "https://codesignal.com/about/",
+        "https://codesignal.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://codesignal.com/government/",
+      "finalUrl": "https://codesignal.com/government/",
+      "status": "success",
+      "sha256": "34fc1dec06b0111f148387b97698556f291ed5305988f0107c46b9dd54d53fee",
+      "title": "Government | Merit-Based Hiring & Skills Intelligence | CodeSignal",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ntract No. 47QRAA26D0008), and we&#8217;re listed in the GSA eLibrary as a Small Business, giving government buyers a streamlined procurement path. Is CodeSignal compliant with EEOC and OFCCP guidelines? Yes. Our Certified Assessments are validated by I-O psychologists for fairness"
+        }
+      ],
+      "discoveredLinks": [
+        "https://codesignal.com/about/",
+        "https://codesignal.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://codesignal.com/about/",
+      "finalUrl": "https://codesignal.com/about/",
+      "status": "success",
+      "sha256": "568fa9598073a5ee3a96068f0510c2840e9e58d50fc0c94e03561261ef68e3bc",
+      "title": "About | CodeSignal",
+      "signals": [],
+      "discoveredLinks": [
+        "https://codesignal.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://codesignal.com/leadership/",
+      "finalUrl": "https://codesignal.com/leadership/",
+      "status": "success",
+      "sha256": "fbf9add9eaa33203e04909225f90ababea1fb0733189994afce1f714561d33b5",
+      "title": "Leadership | CodeSignal",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

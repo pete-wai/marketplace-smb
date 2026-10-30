@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-e9bcdbe1d8e7",
+  "retrievedAt": "2026-10-30T11:01:05.759Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://commence.ai/our-technology/",
+      "finalUrl": "https://commence.ai/our-technology/",
+      "status": "success",
+      "sha256": "5c2f73cf57e2380fb91d9d507dd0a8e7387c9ec7400d81fa04435a576f63a61c",
+      "title": "Healthcare AI Technology & Data Science | Commence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://commence.ai/who-we-serve/federal-health/",
+        "https://commence.ai/who-we-serve/state-local-government/",
+        "https://commence.ai/who-we-are/leadership/"
+      ]
+    },
+    {
+      "url": "https://commence.ai/who-we-serve/federal-health/",
+      "finalUrl": "https://commence.ai/who-we-serve/federal-health/",
+      "status": "success",
+      "sha256": "7a4bf8624db5e42f307bc2df028ac1aaed5de5db534c1daf5286f5c6ddc09b63",
+      "title": "Federal Healthcare Solutions | Commence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://commence.ai/who-we-serve/state-local-government/",
+        "https://commence.ai/who-we-are/leadership/",
+        "https://commence.ai/what-we-do/fraud-waste-abuse/",
+        "https://commence.ai/what-we-do/"
+      ]
+    },
+    {
+      "url": "https://commence.ai/who-we-serve/state-local-government/",
+      "finalUrl": "https://commence.ai/who-we-serve/state-local-government/",
+      "status": "success",
+      "sha256": "e0b135298164da28bfbb3f2cc9cf9cc9369ec6b04779702a69229db4c7ed1e01",
+      "title": "Solutions for State & Local Government | Commence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://commence.ai/who-we-are/leadership/"
+      ]
+    },
+    {
+      "url": "https://commence.ai/who-we-are/leadership/",
+      "finalUrl": "https://commence.ai/who-we-are/leadership/",
+      "status": "success",
+      "sha256": "57d0f4d97584163dc2524a9793c30c8e4ba3a19b6cf72008832194faf9cf9fac",
+      "title": "Meet the Leadership Team | Commence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://commence.ai/who-we-are/"
+      ]
+    }
+  ]
+}

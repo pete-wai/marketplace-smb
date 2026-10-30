@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-c187a7c7377b",
+  "retrievedAt": "2026-10-30T11:00:38.460Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.agilefleet.com/",
+      "finalUrl": "https://www.agilefleet.com/",
+      "status": "success",
+      "sha256": "6d1106ab4eb59ecdd6cbc6c5dffa44c82cdc32ec1ab27d03ab634aeae64a0066",
+      "title": "Fleet Management Software & Maintenance System | Agile Fleet Management Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.agilefleet.com/industries/government",
+        "https://www.agilefleet.com/about/testimonials",
+        "https://www.agilefleet.com/about-agile-fleet",
+        "https://www.agilefleet.com/about",
+        "https://www.agilefleet.com/solutions/motor-pool-management",
+        "https://www.agilefleet.com/downloads/county-government-fleet-resources-county-and-local-fleet-success-stories",
+        "https://www.agilefleet.com/blog/getting-to-start-how-to-assess-your-fleet-utilization-when-you-dont-have-fleet-technology"
+      ]
+    },
+    {
+      "url": "https://www.agilefleet.com/industries/government",
+      "finalUrl": "https://www.agilefleet.com/industries/government",
+      "status": "success",
+      "sha256": "3ecb9a6048d9edce81392f75cc86d249c78f4fede29ed92ffa33ac56be881951",
+      "title": "Government Motor Pool & Fleet Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.agilefleet.com/about/testimonials",
+        "https://www.agilefleet.com/about-agile-fleet",
+        "https://www.agilefleet.com/about",
+        "https://www.agilefleet.com/request-a-demo",
+        "https://www.agilefleet.com/downloads/fleet-savings-calculator-landing-page"
+      ]
+    },
+    {
+      "url": "https://www.agilefleet.com/about/testimonials",
+      "finalUrl": "https://www.agilefleet.com/about/testimonials",
+      "status": "success",
+      "sha256": "e0f6801415e6b01f787acc40112d2af11535923d49be864e9871d06a1cbda01d",
+      "title": "Fleet Management Testimonials | Software Testimonials | Agile Fleet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.agilefleet.com/about-agile-fleet",
+        "https://www.agilefleet.com/about"
+      ]
+    },
+    {
+      "url": "https://www.agilefleet.com/about-agile-fleet",
+      "finalUrl": "https://www.agilefleet.com/about",
+      "status": "success",
+      "sha256": "1fb81d7a50c0c84f6ab7a362e80e1c187213dbe690b276fa8777d2d60faf26a5",
+      "title": "Professional Fleet Management Company | Agile Fleet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.agilefleet.com/about"
+      ]
+    }
+  ]
+}

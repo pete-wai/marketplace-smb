@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-30c73757d835",
+  "retrievedAt": "2026-10-30T11:01:48.230Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://finvi.com/",
+      "finalUrl": "https://finvi.com/",
+      "status": "success",
+      "sha256": "bc79dc6776cc7f845fe4bf3f45b5a8b3a6219c04c6166d9b66ed3b96b537c228",
+      "title": "Homepage - Finvi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://finvi.com/about-us/leadership/",
+        "https://finvi.com/blog/human-test-for-ai-in-collections-5-questions-to-ask-before-you-automate-a-consumer-interaction/",
+        "https://finvi.com/brainstorm-2026-conference-takeaways-three-compliance-lessons-for-the-debt-collection-industry/",
+        "https://finvi.com/blog/aca-2026-what-compliance-leaders-should-take-away-from-this-years-conference/",
+        "https://finvi.com/about-us/partners/",
+        "https://finvi.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://finvi.com/about-us/leadership/",
+      "finalUrl": "https://finvi.com/about-us/leadership/",
+      "status": "success",
+      "sha256": "f3ffcb9a8fac4058d52e505e094abea8743b3fe5a17da03a34d6f1a8a8673f47",
+      "title": "Leadership - Finvi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://finvi.com/about-us/partners/",
+        "https://finvi.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://finvi.com/blog/human-test-for-ai-in-collections-5-questions-to-ask-before-you-automate-a-consumer-interaction/",
+      "finalUrl": "https://finvi.com/blog/human-test-for-ai-in-collections-5-questions-to-ask-before-you-automate-a-consumer-interaction/",
+      "status": "success",
+      "sha256": "2bcf3d9c85956786229e10b94a8ef2b65d1dd1df0e254b11da00f4ac39ea062e",
+      "title": "Human Test for AI in Collections: 5 Questions to Ask Before You Automate a Consumer Interaction - Finvi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://finvi.com/blog/category/legal-capabilities/",
+        "https://finvi.com/about-us/partners/",
+        "https://finvi.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://finvi.com/brainstorm-2026-conference-takeaways-three-compliance-lessons-for-the-debt-collection-industry/",
+      "finalUrl": "https://finvi.com/brainstorm-2026-conference-takeaways-three-compliance-lessons-for-the-debt-collection-industry/",
+      "status": "success",
+      "sha256": "0c1e383f7ef2c4821d26b6f485e31aeb4ea40b84b314ff7253431bac8f40a88e",
+      "title": "Brainstorm 2026 Conference Takeaways: Three Compliance Lessons for the Debt Collection Industry - Finvi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://finvi.com/blog/category/legal-capabilities/",
+        "https://finvi.com/about-us/partners/",
+        "https://finvi.com/about-us/"
+      ]
+    }
+  ]
+}

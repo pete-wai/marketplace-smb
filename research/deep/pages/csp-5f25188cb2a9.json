@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-5f25188cb2a9",
+  "retrievedAt": "2026-10-30T11:02:26.592Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://valleyit.com/",
+      "finalUrl": "https://valleyit.com/",
+      "status": "success",
+      "sha256": "27327db18458d64da98a4065914ad60ac1138d2b3db00789a9596548d8ba91e6",
+      "title": "Valley IT — C6ISR Software & Government IT Consulting",
+      "signals": [],
+      "discoveredLinks": [
+        "https://valleyit.com/about",
+        "https://valleyit.com/services"
+      ]
+    },
+    {
+      "url": "https://valleyit.com/about",
+      "finalUrl": "https://valleyit.com/about",
+      "status": "success",
+      "sha256": "48922533f7e4a2d8cab0f6f89999075dd361b60c3457ffff087344837c4d66dc",
+      "title": "About Valley IT — Cleared. Trusted. Deployed.",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://valleyit.com/services",
+      "finalUrl": "https://valleyit.com/services",
+      "status": "success",
+      "sha256": "346667ca8952bb519cb35320016e6e970b224346fe3e5efac0ed5ff5f6818181",
+      "title": "Services — Valley IT Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

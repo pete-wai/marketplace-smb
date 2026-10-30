@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-ac66435b4ce2",
+  "retrievedAt": "2026-10-30T11:02:10.953Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.signatureperformance.com/",
+      "finalUrl": "https://www.signatureperformance.com/",
+      "status": "success",
+      "sha256": "dd8121509589298b8dbbb83ebb06e746f9709a0a7b296ea551bb0443546c74a0",
+      "title": "Signature Performance | Healthcare administrative services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signatureperformance.com/federal",
+        "https://www.signatureperformance.com/about",
+        "https://www.signatureperformance.com/the-link"
+      ]
+    },
+    {
+      "url": "https://www.signatureperformance.com/federal",
+      "finalUrl": "https://www.signatureperformance.com/federal",
+      "status": "success",
+      "sha256": "5cbab9493233c450302771262eab0c340d64b1d1dddb47f4450397e645b8a25f",
+      "title": "Federal and Public Health Solutions | Signature Performance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signatureperformance.com/about",
+        "https://www.signatureperformance.com/the-link",
+        "https://www.signatureperformance.com/federal-contracting-vehicles"
+      ]
+    },
+    {
+      "url": "https://www.signatureperformance.com/about",
+      "finalUrl": "https://www.signatureperformance.com/about",
+      "status": "success",
+      "sha256": "f9ea2141182fc188c9007e23ff926bf7db89ea4f452fa04b73059517364470fe",
+      "title": "About | Signature Performance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signatureperformance.com/the-link",
+        "https://www.signatureperformance.com/post/shasta-johnson-receives-2026-leading-for-impact-women-in-leadership-award"
+      ]
+    },
+    {
+      "url": "https://www.signatureperformance.com/the-link",
+      "finalUrl": "https://www.signatureperformance.com/the-link",
+      "status": "success",
+      "sha256": "e38e6dab0da6ae0064b5250326bd8b0097e33e921deda2b43b48bf258405a067",
+      "title": "The Link | Signature Performance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.signatureperformance.com/the-link/categories/federal",
+        "https://www.signatureperformance.com/post/shasta-johnson-receives-2026-leading-for-impact-women-in-leadership-award"
+      ]
+    }
+  ]
+}

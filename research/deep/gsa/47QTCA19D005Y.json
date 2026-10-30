@@ -1,0 +1,18 @@
+{
+  "name": "PROGRESSIVE TECHNOLOGY FEDERAL SYSTEMS INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA19D005Y&contractorName=PROGRESSIVE+TECHNOLOGY+FEDERAL+SYSTEMS+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-210285902b7d"
+  ],
+  "contractNumber": "47QTCA19D005Y",
+  "retrievedAt": "2026-10-30T11:08:23.239Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:16.233Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

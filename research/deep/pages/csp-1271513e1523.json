@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-1271513e1523",
+  "retrievedAt": "2026-10-30T11:02:17.700Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://technomile.com/",
+      "finalUrl": "https://technomile.com/",
+      "status": "success",
+      "sha256": "9822edd9930dd1e20dd9d37f99c865bf74b6de29f90b56a2efbaf6b07236a1bd",
+      "title": "AI-Native GovCon CRM, CLM, Opportunity Intelligence, and SIMS | TechnoMile",
+      "signals": [],
+      "discoveredLinks": [
+        "https://technomile.com/resources/technomile-and-sims-software-combine-to-accelerate-innovation-across-govcon-defense-and-public-sector-organizations-backed-by-capitol-meridian-partners",
+        "https://technomile.com/products/growth-suite",
+        "https://technomile.com/products/contracts-suite",
+        "https://technomile.com/solutions/solutions-for-government-agencies",
+        "https://technomile.com/about-us",
+        "https://technomile.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://technomile.com/resources/technomile-and-sims-software-combine-to-accelerate-innovation-across-govcon-defense-and-public-sector-organizations-backed-by-capitol-meridian-partners",
+      "finalUrl": "https://technomile.com/resources/technomile-and-sims-software-combine-to-accelerate-innovation-across-govcon-defense-and-public-sector-organizations-backed-by-capitol-meridian-partners",
+      "status": "success",
+      "sha256": "4197d4e3460c62b08991a9681ba2f711821cdaedd8c49ea0c03a038a217d40e4",
+      "title": "TechnoMile and SIMS Software Combine to Accelerate Innovation across GovCon, Defense, and Public Sector Organizations, Backed by Capitol Meridian Partners | TechnoMile",
+      "signals": [],
+      "discoveredLinks": [
+        "https://technomile.com/solutions/solutions-for-government-agencies",
+        "https://technomile.com/about-us",
+        "https://technomile.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://technomile.com/products/growth-suite",
+      "finalUrl": "https://technomile.com/products/growth-suite",
+      "status": "success",
+      "sha256": "4ed7a69559fcd6c2498ea69d4cc8205b1a07375e9986e2949ead7ed885c5db78",
+      "title": "Growth Suite | TechnoMile",
+      "signals": [],
+      "discoveredLinks": [
+        "https://technomile.com/resources/federal-contracting-competitive-intelligence",
+        "https://technomile.com/resources/federal-procurement-forecasts",
+        "https://technomile.com/solutions/solutions-for-government-agencies",
+        "https://technomile.com/about-us",
+        "https://technomile.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://technomile.com/products/contracts-suite",
+      "finalUrl": "https://technomile.com/products/contracts-suite",
+      "status": "success",
+      "sha256": "b9c42381ab04c00fb415fc98feeb535a16d463ccd7a75cde40e2ecd289a4a2fd",
+      "title": "Government Contracting Contract Management Software | TechnoMile",
+      "signals": [],
+      "discoveredLinks": [
+        "https://technomile.com/resources/what-executives-should-expect-from-ai-in-government-contracting",
+        "https://technomile.com/solutions/solutions-for-government-agencies",
+        "https://technomile.com/about-us",
+        "https://technomile.com/leadership-team"
+      ]
+    }
+  ]
+}

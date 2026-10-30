@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-b9a87d9826ce",
+  "retrievedAt": "2026-10-30T11:02:10.891Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.sevenbridges.com/",
+      "finalUrl": "https://www.sevenbridges.com/",
+      "status": "success",
+      "sha256": "396675644a2e4def0ad3ba4ffa2849ce6d22dd0ae250af07ebbd57a3d9ba2863",
+      "title": "Seven Bridges Genomics - The biomedical data analysis company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sevenbridges.com/government/"
+      ]
+    },
+    {
+      "url": "https://www.sevenbridges.com/government/",
+      "finalUrl": "https://www.sevenbridges.com/government/",
+      "status": "success",
+      "sha256": "b0d0efcb4ad86269200525a5876b83e6634bce83c39f090bd0f0cd71dab4b468",
+      "title": "Governments and academia - Seven Bridges",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

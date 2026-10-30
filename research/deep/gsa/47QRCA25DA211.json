@@ -1,0 +1,18 @@
+{
+  "name": "SKYWARD IT SOLUTIONS, LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QRCA25DA211&contractorName=SKYWARD+IT+SOLUTIONS%2C+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-31dbe0b42e18"
+  ],
+  "contractNumber": "47QRCA25DA211",
+  "retrievedAt": "2026-10-30T11:08:44.922Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:19.020Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

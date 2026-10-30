@@ -1,0 +1,30 @@
+import fs from 'node:fs/promises';
+const read=async(path,fallback)=>{try{return JSON.parse(await fs.readFile(path,'utf8'));}catch(e){if(e.code==='ENOENT')return fallback;throw e;}};
+const current=await read('data/analysis.json',null),baseline=await read('research/deep/baseline.json',null);
+if(!baseline)throw Error('Deep-research baseline is required');
+const decisions=await read('research/deep/decisions.json',[]),decisionById=new Map(decisions.map(r=>[r.providerId,r]));
+const originals=new Map(baseline.providers.map(p=>[p.id,p]));
+const sample=await read('research/deep/sample-review.json',{});
+const sampleById=new Map((sample.reviews??[]).map(r=>[r.providerId,r]));
+const gsa=await read('research/deep/gsa-matches.json',[]);
+const gsaById=new Map(gsa.map(r=>[r.providerId,r]));
+const rows=[];
+for(const p of current.providers){
+ const decision=decisionById.get(p.id),pages=await read(`research/deep/pages/${p.id}.json`,null),old=originals.get(p.id);
+ const changed=old.assessment.classification!==p.assessment.classification||old.assessment.confidence!==p.assessment.confidence;
+ if(changed&&!decision)throw Error(`Unreviewed change: ${p.id}`);
+ rows.push({providerId:p.id,providerName:p.name,assessmentDate:current.asOf,excluded:p.excluded,reviewStage:p.excluded?'excluded-government':decision?'individual-review':pages?'bounded-site-and-registry-screen':'existing-financial-screen',reviewDisposition:decision?.disposition??'screened-no-new-accepted-evidence',identityConfidence:decision?.identityConfidence??null,priorClassification:old.assessment.classification,priorConfidence:old.assessment.confidence,classification:p.assessment.classification,confidence:p.assessment.confidence,changed,reason:p.assessment.reason,relevantNaics:decision?.relevantNaics??[],reviewedBy:decision?'main-agent':null,reviewNote:decision?.reviewNote??'Existing evidence retained; automated discovery is not exhaustive individual research.',sources:decision?.sources??p.assessment.evidence,searches:decision?.searches??[],websiteAttempts:pages?.attempts??[],sampleAudit:sampleById.get(p.id)??null,gsaDiscovery:gsaById.get(p.id)??null,remainingQuestions:decision?.unresolvedQuestions??(p.assessment.classification==='unknown'?['Resolve applicable entity/NAICS, affiliate-adjusted size, or a dated relevant representation.']:['Affiliation and procurement-specific eligibility are not independently adjudicated.'])});
+}
+const changed=rows.filter(r=>r.changed),unknown=rows.filter(r=>!r.excluded&&r.classification==='unknown');
+const coverage={providers:rows.length,individuallyReviewed:rows.filter(r=>r.reviewStage==='individual-review').length,boundedSiteScreens:rows.filter(r=>r.websiteAttempts.length).length,existingFinancialScreens:rows.filter(r=>r.reviewStage==='existing-financial-screen').length,changed:changed.length,unknown:unknown.length,currentBefore:baseline.coverage.current,currentAfter:current.coverage.current};
+await fs.writeFile('src/lib/research-summary.json',JSON.stringify(coverage,null,2)+'\n');
+const ledger={schemaVersion:1,assessmentDate:current.asOf,sourceCommit:current.source.commit,methodology:'Current size evidence; two reporting groups; research inferences are not official legal determinations.',coverage,records:rows};
+const cell=v=>{let text=String(typeof v==='object'?JSON.stringify(v):v??'');if(/^[=+@-]/.test(text))text="'"+text;return '"'+text.replaceAll('"','""')+'"';};
+const columns=['providerId','providerName','reviewStage','priorClassification','classification','confidence','identityConfidence','changed','reason','remainingQuestions','sources'];
+await fs.writeFile('research/deep/ledger.json',JSON.stringify(ledger,null,2)+'\n');
+await fs.writeFile('static/downloads/research-ledger.json',JSON.stringify(ledger,null,2)+'\n');
+await fs.writeFile('static/downloads/research-ledger.csv',[columns.map(cell).join(','),...rows.map(r=>columns.map(k=>cell(r[k])).join(','))].join('\r\n')+'\r\n');
+await fs.writeFile('static/downloads/research-changes.json',JSON.stringify(changed,null,2)+'\n');
+const table='| Provider | Before | After | Confidence |\n| --- | --- | --- | --- |\n'+changed.map(r=>`| ${r.providerName.replaceAll('|','/')} | ${r.priorClassification} | ${r.classification} | ${r.priorConfidence} → ${r.confidence} |`).join('\n');
+await fs.writeFile('docs/reports/deep-research.md',`# Deeper current-size research\n\nAssessment date: ${current.asOf}. Marketplace commit remains ${current.source.commit}. Annual cohorts still use the most recent assessment, not historical size.\n\n${coverage.individuallyReviewed} individual evidence reviews; ${coverage.boundedSiteScreens} bounded official-site discovery attempts; ${coverage.existingFinancialScreens} other existing financial screens. All ${coverage.providers} provider records have an explicit research disposition. Screening is not equivalent to exhaustive investigation. ${coverage.changed} classification/confidence changes; ${coverage.unknown} non-government providers remain unknown across the full historical/current provider inventory.\n\nCurrent listed providers: small group ${baseline.coverage.current.smallGroup}/${baseline.coverage.current.total} before → ${current.coverage.current.smallGroup}/${current.coverage.current.total} after. Unknowns ${baseline.coverage.current.counts.unknown} → ${current.coverage.current.counts.unknown}. Denominators are unchanged. Unknowns remain in the second group, never treated as proven large businesses.\n\n${table}\n\n## Audit and remaining work\n\nDownload research-ledger.json/CSV for every provider’s evidence, research stage, and remaining questions; research-changes.json contains every changed conclusion. The ledger distinguishes individual review from bounded website discovery and existing financial screening. Unavailable pages, ambiguous matches, and insufficient evidence remain visible. Prior classifications are preserved in research/deep/baseline.json. Researcher proposals are separate from main-agent-reviewed decisions.\n`);
+console.log(JSON.stringify(coverage,null,2));

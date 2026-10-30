@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c0b0109d9439",
+  "retrievedAt": "2026-10-30T11:01:18.578Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://government.github.com/",
+      "finalUrl": "https://government.github.com/",
+      "status": "success",
+      "sha256": "14c3bd708de0cf0de1aa7ac84b5ea5b8fc5075135fcabb832b501c7fd12c9b85",
+      "title": "Redirecting&hellip;",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

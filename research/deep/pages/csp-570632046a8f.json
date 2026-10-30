@@ -1,0 +1,72 @@
+{
+  "providerId": "csp-570632046a8f",
+  "retrievedAt": "2026-10-30T11:00:41.847Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://artera.io/",
+      "finalUrl": "https://artera.io/",
+      "status": "success",
+      "sha256": "9d8280414bb815479397d5bc7c9ea902ff4098d2ec5335afc858dd2aed9ca3d7",
+      "title": "AI Agents for Healthcare | Patient Communication Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://artera.io/federal-healthcare-communication/",
+        "https://artera.io/federal-healthcare-communication-platform/",
+        "https://artera.io/company/"
+      ]
+    },
+    {
+      "url": "https://artera.io/federal-healthcare-communication/",
+      "finalUrl": "https://artera.io/federal-healthcare-communication/",
+      "status": "success",
+      "sha256": "b96bd6d1409a080df9838de7d8eb609e5e80ad431b35d2fa2f741e90a7acaed0",
+      "title": "Federal Healthcare Communication Platform - Artera",
+      "signals": [],
+      "discoveredLinks": [
+        "https://artera.io/federal-healthcare-communication-platform/",
+        "https://artera.io/company/",
+        "https://artera.io/federal-healthcare-communication-gsa-contract/",
+        "https://artera.io/leadership/kari-baldonado/",
+        "https://artera.io/leadership/marsha-laird-maddox/",
+        "https://artera.io/leadership/matt-beirne/",
+        "https://artera.io/leadership/guillaume-de-zwirek/",
+        "https://artera.io/federal-healthcare-communication/itemDataObject.url"
+      ]
+    },
+    {
+      "url": "https://artera.io/federal-healthcare-communication-platform/",
+      "finalUrl": "https://artera.io/federal-healthcare-communication-platform/",
+      "status": "success",
+      "sha256": "566c698b028591008fd51c38a5c1c337ca61172b174126f1ba7bcbd58cd6e71f",
+      "title": "Patient Communication Technology for Federal Agencies - Artera",
+      "signals": [],
+      "discoveredLinks": [
+        "https://artera.io/company/",
+        "https://artera.io/federal-healthcare-communication-platform/itemDataObject.url"
+      ]
+    },
+    {
+      "url": "https://artera.io/company/",
+      "finalUrl": "https://artera.io/company/",
+      "status": "success",
+      "sha256": "e53ea632986446448bdc5972bc93bfad567d64b88a47ac36fd89a3ec47e70d60",
+      "title": "Company - Artera",
+      "signals": [],
+      "discoveredLinks": [
+        "https://artera.io/leadership/guillaume-de-zwirek/",
+        "https://artera.io/leadership/tom-mcintyre/",
+        "https://artera.io/leadership/zach-wood/",
+        "https://artera.io/leadership/michael-jensen/",
+        "https://artera.io/leadership/damon-lanphear/",
+        "https://artera.io/leadership/nicole-ossey/",
+        "https://artera.io/leadership/annie-pearl/",
+        "https://artera.io/leadership/michael-b-kaufman/",
+        "https://artera.io/leadership/kari-baldonado/",
+        "https://artera.io/leadership/victor-echevarria/",
+        "https://artera.io/leadership/marty-felsenthal/",
+        "https://artera.io/leadership/dan-goldsmith/"
+      ]
+    }
+  ]
+}

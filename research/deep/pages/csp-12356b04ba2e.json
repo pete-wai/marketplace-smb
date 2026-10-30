@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-12356b04ba2e",
+  "retrievedAt": "2026-10-30T11:01:29.953Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.keyfactor.com/resources/content/keyfactor-for-federal-government",
+      "finalUrl": "https://www.keyfactor.com/resources/keyfactor-for-federal-government/",
+      "status": "success",
+      "sha256": "8d2770a01ab45363eb6025cc7046628d383ad86ed689cc3708c5b1acb6235d45",
+      "title": "Keyfactor for Federal Government | Keyfactor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.keyfactor.com/resources/pki-for-central-government-organisations-in-the-uk/",
+        "https://www.keyfactor.com/resources/keyfactor-for-federal-government/"
+      ]
+    },
+    {
+      "url": "https://www.keyfactor.com/resources/pki-for-central-government-organisations-in-the-uk/",
+      "finalUrl": "https://www.keyfactor.com/resources/pki-for-central-government-organisations-in-the-uk/",
+      "status": "success",
+      "sha256": "6e89ed80ec32aa5ee22ebb75fc3de8ef686177e4e62bb829989ae96707a8c44c",
+      "title": "PKI for Central Government Organisations in the UK | Keyfactor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.keyfactor.com/resources/keyfactor-for-federal-government/"
+      ]
+    },
+    {
+      "url": "https://www.keyfactor.com/resources/keyfactor-for-federal-government/",
+      "finalUrl": "https://www.keyfactor.com/resources/keyfactor-for-federal-government/",
+      "status": "success",
+      "sha256": "8d2770a01ab45363eb6025cc7046628d383ad86ed689cc3708c5b1acb6235d45",
+      "title": "Keyfactor for Federal Government | Keyfactor",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-936e913a6b4f",
+  "retrievedAt": "2026-10-30T11:01:07.907Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://e-builder.net/",
+      "finalUrl": "https://www.trimble.com/en/products/trimble-unity-construct",
+      "status": "success",
+      "sha256": "ee22fe11554ae7c172caf56ea483093e2047dcc1287c3b810dec8a9e80de68eb",
+      "title": "Trimble Unity Construct: The Next Evolution of e-Builder",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trimble.com/en/products/trimble-unity-construct",
+        "https://www.trimble.com/en/products/trimble-unity/capabilities-showcase"
+      ]
+    },
+    {
+      "url": "https://www.trimble.com/en/products/trimble-unity-construct",
+      "finalUrl": "https://www.trimble.com/en/products/trimble-unity-construct",
+      "status": "success",
+      "sha256": "ee22fe11554ae7c172caf56ea483093e2047dcc1287c3b810dec8a9e80de68eb",
+      "title": "Trimble Unity Construct: The Next Evolution of e-Builder",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.trimble.com/en/products/trimble-unity/capabilities-showcase"
+      ]
+    },
+    {
+      "url": "https://www.trimble.com/en/products/trimble-unity/capabilities-showcase",
+      "finalUrl": "https://www.trimble.com/en/products/trimble-unity/capabilities-showcase",
+      "status": "success",
+      "sha256": "a26f6a80f52a48ef9260074968332f5b21e2260f9bd7929961c327c6396800e4",
+      "title": "ALM Capabilities Showcase | Trimble Unity Suite",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

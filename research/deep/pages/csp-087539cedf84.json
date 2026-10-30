@@ -1,0 +1,63 @@
+{
+  "providerId": "csp-087539cedf84",
+  "retrievedAt": "2026-10-30T11:00:58.503Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cority.com/",
+      "finalUrl": "https://www.cority.com/",
+      "status": "success",
+      "sha256": "8fa26fb1b3c70c39084e8ac0db8ef1acbeb35b312f14db9e90b243bdb1e383db",
+      "title": "EHS Software Solutions | Applied AI for EHS Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cority.com/news-media/cority-launches-advanced-motion-capture-solution-to-strengthen-industrial-ergonomics-programs/",
+        "https://www.cority.com/corityone/",
+        "https://www.cority.com/public-sector-government/",
+        "https://www.cority.com/our-people/"
+      ]
+    },
+    {
+      "url": "https://www.cority.com/news-media/cority-launches-advanced-motion-capture-solution-to-strengthen-industrial-ergonomics-programs/",
+      "finalUrl": "https://www.cority.com/news-media/cority-launches-advanced-motion-capture-solution-to-strengthen-industrial-ergonomics-programs/",
+      "status": "success",
+      "sha256": "29b984ea9ccf7bcca2b52f87a53fb54636e575a0bdd19741234a8c26f3f6b01b",
+      "title": "Cority Launches Advanced Motion Capture Solution",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cority.com/corityone/",
+        "https://www.cority.com/public-sector-government/",
+        "https://www.cority.com/our-people/"
+      ]
+    },
+    {
+      "url": "https://www.cority.com/corityone/",
+      "finalUrl": "https://www.cority.com/corityone/",
+      "status": "success",
+      "sha256": "f253e839df044b9e3f6cb06710f31eb744242f4dc22a41caddfd0032be562689",
+      "title": "Trusted EHS Platform for Enterprise Operations | Cority",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cority.com/public-sector-government/",
+        "https://www.cority.com/our-people/"
+      ]
+    },
+    {
+      "url": "https://www.cority.com/public-sector-government/",
+      "finalUrl": "https://www.cority.com/public-sector-government/",
+      "status": "success",
+      "sha256": "28b7c3075f3fc774035922e365587c50582cae36b8c104b6df67d8acda4046a5",
+      "title": "SaaS Government Software to Modernize Public Sector EHS | Cority",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Resource News Cority Propels Market Expansion Into ESG Software With Acquisition Of WeSustain Go to Resource News Cority Achieves FedRAMP Authorized Designation Go to Resource News Five key strategies for oil and gas firms Go to Resource News Cority"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.cority.com/our-people/",
+        "https://www.cority.com/news-media/cority-partners-with-carahsoft-to-bring-its-fedramp-authorized-ehs-platform-to-government-agencies-nationwide/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "providerId": "csp-f8db95dc1a1b",
+  "retrievedAt": "2026-10-30T11:01:06.763Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.druva.com/brand",
+      "finalUrl": "https://www.druva.com/why-druva/about/brand",
+      "status": "success",
+      "sha256": "886cd417360626347e457c37b71bcd0dfd32e88445e0d7df73c082d4aa501706",
+      "title": "Brand Usage Guides and Assets | Druva",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.druva.com/why-druva/about",
+        "https://www.druva.com/why-druva/about/company",
+        "https://www.druva.com/why-druva/about/awards-and-accolades",
+        "https://www.druva.com/why-druva/about/support",
+        "https://www.druva.com/why-druva/about/brand",
+        "https://www.druva.com/use-cases/industries/public-sector",
+        "https://www.druva.com/why-druva/about/press-releases",
+        "https://www.druva.com/why-druva/about/corporate-responsibility",
+        "https://www.druva.com/why-druva/about/inclusion"
+      ]
+    },
+    {
+      "url": "https://www.druva.com/why-druva/about",
+      "finalUrl": "https://www.druva.com/why-druva/about/company",
+      "status": "success",
+      "sha256": "3fce88b78bedc09aa15c60c0d2912795ad478bad515c90311c6f79197af79fa6",
+      "title": "About Druva | Trusted Leader in Data Security Solutions | Druva",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": ". Mike was previously CEO and Chairman of Virident Systems, which was acquired by Western Digital Corporation, and where he became SVP and GM of the Flash Systems Business Unit. He also served as CEO and Board Member of BlueArc"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.druva.com/why-druva/about/company",
+        "https://www.druva.com/why-druva/about/awards-and-accolades",
+        "https://www.druva.com/why-druva/about/support",
+        "https://www.druva.com/blog/introducing-druva-azure-gov",
+        "https://www.druva.com/why-druva/about/press-releases/druai-processes-days-of-forensic-reporting-in-minutes",
+        "https://www.druva.com/why-druva/about/press-releases/threat-detection-through-druva-threat-watch",
+        "https://www.druva.com/why-druva/about/press-releases/druva-expands-cyber-resilience-for-microsoft-and-azure",
+        "https://www.druva.com/use-cases/industries/public-sector",
+        "https://www.druva.com/why-druva/about/press-releases",
+        "https://www.druva.com/why-druva/about/corporate-responsibility",
+        "https://www.druva.com/why-druva/about/inclusion"
+      ]
+    },
+    {
+      "url": "https://www.druva.com/why-druva/about/company",
+      "finalUrl": "https://www.druva.com/why-druva/about/company",
+      "status": "success",
+      "sha256": "3fce88b78bedc09aa15c60c0d2912795ad478bad515c90311c6f79197af79fa6",
+      "title": "About Druva | Trusted Leader in Data Security Solutions | Druva",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": ". Mike was previously CEO and Chairman of Virident Systems, which was acquired by Western Digital Corporation, and where he became SVP and GM of the Flash Systems Business Unit. He also served as CEO and Board Member of BlueArc"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.druva.com/why-druva/about/awards-and-accolades",
+        "https://www.druva.com/why-druva/about/support",
+        "https://www.druva.com/blog/introducing-druva-azure-gov",
+        "https://www.druva.com/why-druva/about/press-releases/druai-processes-days-of-forensic-reporting-in-minutes",
+        "https://www.druva.com/why-druva/about/press-releases/threat-detection-through-druva-threat-watch",
+        "https://www.druva.com/why-druva/about/press-releases/druva-expands-cyber-resilience-for-microsoft-and-azure",
+        "https://www.druva.com/use-cases/industries/public-sector",
+        "https://www.druva.com/why-druva/about/press-releases",
+        "https://www.druva.com/why-druva/about/corporate-responsibility",
+        "https://www.druva.com/why-druva/about/inclusion"
+      ]
+    },
+    {
+      "url": "https://www.druva.com/why-druva/about/awards-and-accolades",
+      "finalUrl": "https://www.druva.com/why-druva/about/awards-and-accolades",
+      "status": "success",
+      "sha256": "ef7755e9a20108b7d91917980e70f8477f6222d80628fe8f1228cfad46a287a6",
+      "title": "Awards and Accolades | Druva",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.druva.com/why-druva/about/support",
+        "https://www.druva.com/why-druva/about/%7B%7Bthis.url%7D%7D",
+        "https://www.druva.com/use-cases/industries/public-sector",
+        "https://www.druva.com/why-druva/about/press-releases",
+        "https://www.druva.com/why-druva/about/corporate-responsibility",
+        "https://www.druva.com/why-druva/about/inclusion"
+      ]
+    }
+  ]
+}

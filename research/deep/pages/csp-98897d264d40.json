@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-98897d264d40",
+  "retrievedAt": "2026-10-30T11:00:46.922Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://beam.org/en-us",
+      "finalUrl": "https://beam.org/en-us",
+      "status": "success",
+      "sha256": "3f1a5cce994730d034aeb370bc698546b3f8eb65e6b3a72d20b204ac665d4a1c",
+      "title": "Beam",
+      "signals": [],
+      "discoveredLinks": [
+        "https://beam.org/en-us/blog/beaming-in-the-ai-era-the-next-chapter",
+        "https://beam.org/en-us/about"
+      ]
+    },
+    {
+      "url": "https://beam.org/en-us/blog/beaming-in-the-ai-era-the-next-chapter",
+      "finalUrl": "https://beam.org/en-us/blog/beaming-in-the-ai-era-the-next-chapter",
+      "status": "success",
+      "sha256": "85d19108e584d4e68cfb73274cb9c2e00fa46bddb32756d314f20c2e49218176",
+      "title": "Beam",
+      "signals": [],
+      "discoveredLinks": [
+        "https://beam.org/en-us/about",
+        "https://beam.org/en-us/blog/what-councils-have-learned-about-using-ai-in-local-government",
+        "https://beam.org/en-us/blog/being-blind-building-more-accessible-software",
+        "https://beam.org/en-us/blog/notes-public-trust-in-ai"
+      ]
+    },
+    {
+      "url": "https://beam.org/en-us/about",
+      "finalUrl": "https://beam.org/en-us/about",
+      "status": "success",
+      "sha256": "0d9305c68ecf79668732a68881e3499bcf8ea323d6c2deac1b6cf2ceb18e95ef",
+      "title": "About",
+      "signals": [],
+      "discoveredLinks": [
+        "https://beam.org/about",
+        "https://beam.org/en-au/about"
+      ]
+    },
+    {
+      "url": "https://beam.org/en-us/blog/what-councils-have-learned-about-using-ai-in-local-government",
+      "finalUrl": "https://beam.org/en-us/blog/what-councils-have-learned-about-using-ai-in-local-government",
+      "status": "success",
+      "sha256": "650798fbd61e26dd5232a7e874183fe956f860dfd1a322cf07232f034c5e6d45",
+      "title": "Beam",
+      "signals": [],
+      "discoveredLinks": [
+        "https://beam.org/blog/what-councils-have-learned-about-using-ai-in-local-government",
+        "https://beam.org/en-au/blog/what-councils-have-learned-about-using-ai-in-local-government",
+        "https://beam.org/en-us/blog/being-blind-building-more-accessible-software",
+        "https://beam.org/en-us/blog/notes-public-trust-in-ai"
+      ]
+    }
+  ]
+}

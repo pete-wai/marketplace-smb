@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-3afbd5577a87",
+  "retrievedAt": "2026-10-30T11:01:51.556Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pdq.com/",
+      "finalUrl": "https://www.pdq.com/",
+      "status": "success",
+      "sha256": "1c77ae5bc438760bb06c944b96afdd99f065618caccaf6a09fc531d167b7a909",
+      "title": "PDQ: Software Deployment & Inventory Management done right",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pdq.com/use-case/government/",
+        "https://www.pdq.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.pdq.com/use-case/government/",
+      "finalUrl": "https://www.pdq.com/use-case/government/",
+      "status": "success",
+      "sha256": "ef98443ca7fe0bc873c0bd88d00ba102214f6b7980995c4d79749702e133ae2e",
+      "title": "IT management for government agencies | PDQ",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pdq.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.pdq.com/about/",
+      "finalUrl": "https://www.pdq.com/about/",
+      "status": "success",
+      "sha256": "e09f7b89260beb847372a2c2f21eb7beeef5babeab58b399b801a4e78722c40b",
+      "title": "About us: IT tools built for sysadmins | PDQ",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

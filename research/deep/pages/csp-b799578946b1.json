@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-b799578946b1",
+  "retrievedAt": "2026-10-30T11:02:17.125Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tanium.com/",
+      "finalUrl": "https://www.tanium.com/",
+      "status": "success",
+      "sha256": "e15f27eade69cf9e52741aba6a2da0be9700bb57b8843a70a61e17bbff898af2",
+      "title": "Autonomous IT, endpoint intelligence and control | Tanium",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tanium.com/about",
+        "https://www.tanium.com/leadership",
+        "https://www.tanium.com/about/security",
+        "https://www.tanium.com/about/sustainability"
+      ]
+    },
+    {
+      "url": "https://www.tanium.com/about",
+      "finalUrl": "https://www.tanium.com/about",
+      "status": "success",
+      "sha256": "0eb10b44cbcf1f4eb1b853104a05b2b32bd1921db71d7046c039f5d85c598e9a",
+      "title": "About | Tanium",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tanium.com/about/security",
+        "https://www.tanium.com/about/sustainability",
+        "https://www.tanium.com/leadership"
+      ]
+    },
+    {
+      "url": "https://www.tanium.com/leadership",
+      "finalUrl": "https://www.tanium.com/leadership",
+      "status": "success",
+      "sha256": "beb1360d09e1343a7d4de559837fea1d55ec9b70709800c71f1a745ebcfa01f3",
+      "title": "Leadership team | Tanium",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tanium.com/leadership/orion-hindawi",
+        "https://www.tanium.com/leadership/david-hindawi",
+        "https://www.tanium.com/leadership/matt-quinn",
+        "https://www.tanium.com/leadership/marc-levine",
+        "https://www.tanium.com/leadership/harman-kaur",
+        "https://www.tanium.com/leadership/christian-hunt",
+        "https://www.tanium.com/leadership/russ-evans",
+        "https://www.tanium.com/leadership/russ-slaten",
+        "https://www.tanium.com/leadership/jake-mcclean",
+        "https://www.tanium.com/leadership/rich-baich",
+        "https://www.tanium.com/leadership/bina-chaurasia",
+        "https://www.tanium.com/leadership/mark-fields"
+      ]
+    },
+    {
+      "url": "https://www.tanium.com/about/security",
+      "finalUrl": "https://www.tanium.com/about/security",
+      "status": "success",
+      "sha256": "1446fd5506edf8c946c7660626cd8015a686bfcb8782579aa00fc6974e684d29",
+      "title": "Security | Tanium",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tanium.com/about/sustainability"
+      ]
+    }
+  ]
+}

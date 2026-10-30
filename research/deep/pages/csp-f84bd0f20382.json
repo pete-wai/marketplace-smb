@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-f84bd0f20382",
+  "retrievedAt": "2026-10-30T11:00:40.847Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.archive360.com/",
+      "finalUrl": "https://www.archive360.com/",
+      "status": "success",
+      "sha256": "3b6a12476e8d233103d65635bc634b2e61fde0dec9cf495fa50a80259bf41298",
+      "title": "Archive360.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.archive360.com/federal-government",
+        "https://www.archive360.com/about-archive360/",
+        "https://www.archive360.com/about-archive360/leadership",
+        "https://www.archive360.com/data-archiving-platform"
+      ]
+    },
+    {
+      "url": "https://www.archive360.com/federal-government",
+      "finalUrl": "https://www.archive360.com/federal-government",
+      "status": "success",
+      "sha256": "352a1c5351d12e47c6e87e1a9271143039d257a18a083634dd95217d9399f1b5",
+      "title": "Federal Government Compliant Archiving and Data Governance.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.archive360.com/about-archive360/",
+        "https://www.archive360.com/about-archive360/leadership",
+        "https://www.archive360.com/talk-to-expert",
+        "https://www.archive360.com/webinar-lp-unified-approach-to-foia-data-governance"
+      ]
+    },
+    {
+      "url": "https://www.archive360.com/about-archive360/",
+      "finalUrl": "https://www.archive360.com/about-archive360/",
+      "status": "success",
+      "sha256": "ef1b1982bb92da57c5272808e79590635b0abf55ebc3b5bb5307463e40a08440",
+      "title": "About Us | Archive360 | Modern Data Archiving.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.archive360.com/about-archive360/leadership",
+        "https://www.archive360.com/a-successful-partner-focused-business/"
+      ]
+    },
+    {
+      "url": "https://www.archive360.com/about-archive360/leadership",
+      "finalUrl": "https://www.archive360.com/about-archive360/leadership",
+      "status": "success",
+      "sha256": "4f88cf70e1bd38662e1fea214459335e4a9913f85df7930339025d537d056b26",
+      "title": "Archive360 Leadership | Unified Data Governance Experts.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.archive360.com/robert-desteno",
+        "https://www.archive360.com/tiberiu-popp",
+        "https://www.archive360.com/jerry-caviston",
+        "https://www.archive360.com/james-mccarthy",
+        "https://www.archive360.com/joe-dwyer",
+        "https://www.archive360.com/marie-charlotte-patterson",
+        "https://www.archive360.com/john-swanteck",
+        "https://www.archive360.com/adrian-rotaru"
+      ]
+    }
+  ]
+}

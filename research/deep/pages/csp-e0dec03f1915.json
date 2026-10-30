@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-e0dec03f1915",
+  "retrievedAt": "2026-10-30T11:01:45.262Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.nice.com/",
+      "finalUrl": "https://www.nice.com/",
+      "status": "success",
+      "sha256": "38ff2e45cd63e3b9fca2a01a02702609dfe5dcdf7f11d00d108ed811ac16d8c0",
+      "title": "NiCE: Customer Experience (CX) AI Platform for Transformation at Scale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nice.com/company/trust-center/availability-uptime",
+        "https://www.nice.com/company/trust-center",
+        "https://www.nice.com/industries/government",
+        "https://www.nice.com/customer-stories",
+        "https://www.nice.com/company/about-us",
+        "https://www.nice.com/company/investors",
+        "https://www.nice.com/company/global-locations",
+        "https://www.nice.com/careers",
+        "https://www.nice.com/company/market-leadership",
+        "https://www.nice.com/company/media-center",
+        "https://www.nice.com/company/global-leadership",
+        "https://www.nice.com/company/corporate-responsibility"
+      ]
+    },
+    {
+      "url": "https://www.nice.com/company/trust-center/availability-uptime",
+      "finalUrl": "https://www.nice.com/company/trust-center/availability-uptime",
+      "status": "success",
+      "sha256": "2ff8e6c0b99b2844c5ac2e839dd7024cc8d5fb5338b4748b8a788a605e848ab9",
+      "title": "NiCE Trust Center | NiCE",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nice.com/company/trust-center",
+        "https://www.nice.com/industries/government",
+        "https://www.nice.com/customer-stories",
+        "https://www.nice.com/company/about-us",
+        "https://www.nice.com/company/investors",
+        "https://www.nice.com/company/global-locations",
+        "https://www.nice.com/careers",
+        "https://www.nice.com/company/market-leadership",
+        "https://www.nice.com/company/media-center",
+        "https://www.nice.com/company/global-leadership",
+        "https://www.nice.com/company/corporate-responsibility",
+        "https://www.nice.com/company/trust-center/compliance-certifications"
+      ]
+    },
+    {
+      "url": "https://www.nice.com/company/trust-center",
+      "finalUrl": "https://www.nice.com/company/trust-center",
+      "status": "success",
+      "sha256": "cfc6f16fb7e772f482949824ec6bdd33b5bdb159a63bf96bbb281b8479156b28",
+      "title": "NiCE Trust Center | NiCE",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nice.com/industries/government",
+        "https://www.nice.com/customer-stories",
+        "https://www.nice.com/company/about-us",
+        "https://www.nice.com/company/investors",
+        "https://www.nice.com/company/global-locations",
+        "https://www.nice.com/careers",
+        "https://www.nice.com/company/market-leadership",
+        "https://www.nice.com/company/media-center",
+        "https://www.nice.com/company/global-leadership",
+        "https://www.nice.com/company/corporate-responsibility",
+        "https://www.nice.com/company/trust-center/compliance-certifications",
+        "https://www.nice.com/company/trust-center/security-privacy"
+      ]
+    },
+    {
+      "url": "https://www.nice.com/industries/government",
+      "finalUrl": "https://www.nice.com/industries/government",
+      "status": "success",
+      "sha256": "ef914de7485b7ada26bbb3c48cb766822960b4ba45481af25590ba005030795f",
+      "title": "Constituent CX Software for Governments | NiCE CXone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.nice.com/customer-stories",
+        "https://www.nice.com/company/about-us",
+        "https://www.nice.com/company/investors",
+        "https://www.nice.com/company/global-locations",
+        "https://www.nice.com/careers",
+        "https://www.nice.com/company/market-leadership",
+        "https://www.nice.com/company/media-center",
+        "https://www.nice.com/company/global-leadership",
+        "https://www.nice.com/company/corporate-responsibility",
+        "https://www.nice.com/company/awards",
+        "https://www.nice.com/company/legal/terms-of-use",
+        "https://www.nice.com/company/legal/privacy-policy"
+      ]
+    }
+  ]
+}

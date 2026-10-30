@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-01dd098812ac",
+  "retrievedAt": "2026-10-30T11:00:41.329Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.aframesolutions.com/",
+      "finalUrl": "https://www.aframesolutions.com/",
+      "status": "success",
+      "sha256": "27d275c187d77cb89ff19351357fe5256719851d1ae4d614420e9eaf886d95e3",
+      "title": "ArcSuite AI | AI-Powered, No-Code Government Operations Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aframesolutions.com/about"
+      ]
+    },
+    {
+      "url": "https://www.aframesolutions.com/about",
+      "finalUrl": "https://www.aframesolutions.com/about",
+      "status": "success",
+      "sha256": "eff035144055b5dd6c696021d1a01ea97155e253bc309ef2b11617f2e0290476",
+      "title": "About | A-Frame Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

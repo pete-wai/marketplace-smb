@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-266cfc407ad7",
+  "retrievedAt": "2026-10-30T11:00:45.599Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.avature.net/",
+      "finalUrl": "https://www.avature.net/",
+      "status": "success",
+      "sha256": "d20f935022f0e9bfb914ba326d58d6b648772bf19e023e5ceece07f0b5d0d938",
+      "title": "AI-Powered Recruitment and Talent Management Platform | Avature",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.avature.net/industries/government-contracting/",
+        "https://www.avature.net/industries/public-sector-solutions/"
+      ]
+    },
+    {
+      "url": "https://www.avature.net/industries/government-contracting/",
+      "finalUrl": "https://www.avature.net/industries/government-contracting/",
+      "status": "success",
+      "sha256": "1098597a4a64e791f4877d67b9d806cdc839d3ac8280aaf8211a95a2c8bf0c35",
+      "title": "Smart Recruiting Solutions for Government Contracting | Avature",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.avature.net/industries/public-sector-solutions/",
+        "https://www.avature.net/fr/industries/recrutement-gouvernement-federal/",
+        "https://www.avature.net/ebook/enhancing-skills-based-hiring-in-state-governments-to-open-career-pathways/",
+        "https://www.avature.net/blogs/federal-contracting-the-power-of-working-smarter-not-harder/"
+      ]
+    },
+    {
+      "url": "https://www.avature.net/industries/public-sector-solutions/",
+      "finalUrl": "https://www.avature.net/industries/public-sector-solutions/",
+      "status": "success",
+      "sha256": "f9dd642d0ec2a5cf84ffe510163c53a8d4f48ff8683c5ee5e8b95f0d68b23d01",
+      "title": "AI-Enabled Public Sector HR Software | Avature",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.avature.net/fr/industries/recrutement-gouvernement-federal/",
+      "finalUrl": "https://www.avature.net/fr/industries/recrutement-gouvernement-federal/",
+      "status": "success",
+      "sha256": "8e325ce30abc81a64b8b9d3f55123ea49c31c6cea9f53ae3be0635467053ef42",
+      "title": "Solutions de passation de contrats publics | Avature",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

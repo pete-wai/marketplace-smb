@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-bf929003cf73",
+  "retrievedAt": "2026-10-30T11:01:29.274Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.kahua.com/",
+      "finalUrl": "https://kahua.com/",
+      "status": "success",
+      "sha256": "eaef78e3719f13a1e639fb0d0fa7261cf1e1bd660c1647fd153f9a2540c0689b",
+      "title": "Kahua | Construction Project Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://kahua.com/company/partners/",
+        "https://kahua.com/industries/federal/",
+        "https://kahua.com/industries/state-local/",
+        "https://kahua.com/company/events/",
+        "https://kahua.com/company/about/",
+        "https://kahua.com/company/leadership/",
+        "https://kahua.com/company/careers/",
+        "https://kahua.com/solutions/ai/"
+      ]
+    },
+    {
+      "url": "https://kahua.com/company/partners/",
+      "finalUrl": "https://kahua.com/company/partners/",
+      "status": "success",
+      "sha256": "12b01ad43501089f364f2eb4fd17b3b8c58e8ee5711a23942e1141055a7b3492",
+      "title": "Partners | Kahua",
+      "signals": [],
+      "discoveredLinks": [
+        "https://kahua.com/industries/federal/",
+        "https://kahua.com/industries/state-local/",
+        "https://kahua.com/company/events/",
+        "https://kahua.com/company/about/",
+        "https://kahua.com/company/leadership/",
+        "https://kahua.com/company/careers/"
+      ]
+    },
+    {
+      "url": "https://kahua.com/industries/federal/",
+      "finalUrl": "https://kahua.com/industries/federal/",
+      "status": "success",
+      "sha256": "1c187dec101b64081669807c06da8d86e7f60b483341af6b62b3eade053e9cfc",
+      "title": "Construction Management Software for Federal Government | Kahua",
+      "signals": [],
+      "discoveredLinks": [
+        "https://kahua.com/industries/state-local/",
+        "https://kahua.com/company/events/",
+        "https://kahua.com/company/about/",
+        "https://kahua.com/company/leadership/",
+        "https://kahua.com/company/careers/",
+        "https://kahua.com/solutions/document-management/",
+        "https://kahua.com/solutions/cost-management/",
+        "https://kahua.com/solutions/capital-planning/?"
+      ]
+    },
+    {
+      "url": "https://kahua.com/industries/state-local/",
+      "finalUrl": "https://kahua.com/industries/state-local/",
+      "status": "success",
+      "sha256": "f91cf1c062ce855607681cbf4cc78a40e73009cb79af9034ccfb72908928b6ce",
+      "title": "Construction Management Software for Government | Kahua",
+      "signals": [],
+      "discoveredLinks": [
+        "https://kahua.com/company/events/",
+        "https://kahua.com/company/about/",
+        "https://kahua.com/company/leadership/",
+        "https://kahua.com/company/careers/"
+      ]
+    }
+  ]
+}

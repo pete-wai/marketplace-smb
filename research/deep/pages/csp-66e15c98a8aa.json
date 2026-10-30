@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-66e15c98a8aa",
+  "retrievedAt": "2026-10-30T11:02:09.698Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.secunetics.com/gobo",
+      "finalUrl": "https://www.secunetics.com/gobo",
+      "status": "success",
+      "sha256": "b16246199ad81041dbbf1fb115220c270bf998b35c9e67f09788a6fc5cdfe4ac",
+      "title": "Gobo &mdash; Secunetics",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.secunetics.com/about"
+      ]
+    },
+    {
+      "url": "https://www.secunetics.com/about",
+      "finalUrl": "https://www.secunetics.com/about",
+      "status": "success",
+      "sha256": "bf6c46cd30c84bd4351a2184c74a07a52e77ca0b58997f451cdebdbc5cbe352e",
+      "title": "About &mdash; Secunetics",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

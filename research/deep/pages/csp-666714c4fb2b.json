@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-666714c4fb2b",
+  "retrievedAt": "2026-10-30T11:01:47.864Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.onsolve.com/",
+      "finalUrl": "https://www.crisis24.com/lp/onsolve",
+      "status": "success",
+      "sha256": "98a02c642db3fa7898124040808fb2a470c8bc9f133fb875316fea77dedcf9fa",
+      "title": "OnSolve | Crisis24",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crisis24.com/capabilities/medical/duty-of-care",
+        "https://www.crisis24.com/capabilities/medical/business-continuity-planning",
+        "https://www.crisis24.com/capabilities/insider-threat-risk-management",
+        "https://www.crisis24.com/capabilities/security-consulting/cyber-security-risk-management",
+        "https://www.crisis24.com/capabilities/medical/consulting-planning-compliance",
+        "https://www.crisis24.com/capabilities/security-consulting/teams-training-incident-crisis-response",
+        "https://www.crisis24.com/capabilities/intelligence/crisis-proactive-monitoring",
+        "https://www.crisis24.com/capabilities/intelligence/embedded-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/global-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/maritime-crisis-tracking-analysis-response",
+        "https://www.crisis24.com/capabilities/response/global-security-and-medical-assistance",
+        "https://www.crisis24.com/capabilities/response/global-crisis-assistance"
+      ]
+    },
+    {
+      "url": "https://www.crisis24.com/capabilities/medical/duty-of-care",
+      "finalUrl": "https://www.crisis24.com/capabilities/medical/duty-of-care",
+      "status": "success",
+      "sha256": "4c09b881a1a89f8f68376c735c88519183f9660970c4ca51f35b9d02062bfc9c",
+      "title": "Duty of Care | Crisis24",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crisis24.com/capabilities/medical/business-continuity-planning",
+        "https://www.crisis24.com/capabilities/insider-threat-risk-management",
+        "https://www.crisis24.com/capabilities/security-consulting/cyber-security-risk-management",
+        "https://www.crisis24.com/capabilities/medical/consulting-planning-compliance",
+        "https://www.crisis24.com/capabilities/security-consulting/teams-training-incident-crisis-response",
+        "https://www.crisis24.com/capabilities/intelligence/crisis-proactive-monitoring",
+        "https://www.crisis24.com/capabilities/intelligence/embedded-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/global-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/maritime-crisis-tracking-analysis-response",
+        "https://www.crisis24.com/capabilities/response/global-security-and-medical-assistance",
+        "https://www.crisis24.com/capabilities/response/global-crisis-assistance",
+        "https://www.crisis24.com/capabilities/assistance/events-medical-support-planning"
+      ]
+    },
+    {
+      "url": "https://www.crisis24.com/capabilities/medical/business-continuity-planning",
+      "finalUrl": "https://www.crisis24.com/capabilities/medical/business-continuity-planning",
+      "status": "success",
+      "sha256": "772ed7c27f64d51e4d0f0bb9d1317570085ff32a2fc52e4b2018a198319acc3b",
+      "title": "Business Continuity Planning | Crisis24",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crisis24.com/capabilities/insider-threat-risk-management",
+        "https://www.crisis24.com/capabilities/security-consulting/cyber-security-risk-management",
+        "https://www.crisis24.com/capabilities/medical/consulting-planning-compliance",
+        "https://www.crisis24.com/capabilities/security-consulting/teams-training-incident-crisis-response",
+        "https://www.crisis24.com/capabilities/intelligence/crisis-proactive-monitoring",
+        "https://www.crisis24.com/capabilities/intelligence/embedded-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/global-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/maritime-crisis-tracking-analysis-response",
+        "https://www.crisis24.com/capabilities/response/global-security-and-medical-assistance",
+        "https://www.crisis24.com/capabilities/response/global-crisis-assistance",
+        "https://www.crisis24.com/capabilities/assistance/events-medical-support-planning",
+        "https://www.crisis24.com/capabilities/assistance/medical-paramedical-staffing-training"
+      ]
+    },
+    {
+      "url": "https://www.crisis24.com/capabilities/insider-threat-risk-management",
+      "finalUrl": "https://www.crisis24.com/capabilities/insider-threat-risk-management",
+      "status": "success",
+      "sha256": "a24b5908d8f87c50cb5d13fb34c89b58a5442ba9f310bfed33b5fa6f0962ab06",
+      "title": "Insider Threat Risk Management | Crisis24",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crisis24.com/capabilities/security-consulting/cyber-security-risk-management",
+        "https://www.crisis24.com/capabilities/medical/consulting-planning-compliance",
+        "https://www.crisis24.com/capabilities/security-consulting/teams-training-incident-crisis-response",
+        "https://www.crisis24.com/capabilities/intelligence/crisis-proactive-monitoring",
+        "https://www.crisis24.com/capabilities/intelligence/embedded-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/global-intelligence",
+        "https://www.crisis24.com/capabilities/intelligence/maritime-crisis-tracking-analysis-response",
+        "https://www.crisis24.com/capabilities/response/global-security-and-medical-assistance",
+        "https://www.crisis24.com/capabilities/response/global-crisis-assistance",
+        "https://www.crisis24.com/capabilities/assistance/events-medical-support-planning",
+        "https://www.crisis24.com/capabilities/assistance/medical-paramedical-staffing-training",
+        "https://www.crisis24.com/capabilities/operations/security-center-services"
+      ]
+    }
+  ]
+}

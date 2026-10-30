@@ -1,0 +1,70 @@
+{
+  "providerId": "csp-1ea7c27a1e3f",
+  "retrievedAt": "2026-10-30T11:02:30.145Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://vulcan.ai/FedRAMP",
+      "finalUrl": "https://vulcan.ai/fedramp",
+      "status": "success",
+      "sha256": "a0eb4d5520dd1e6e818b55594a55470d2c54427e2f6bc537edd2900d5952160d",
+      "title": "FedRAMP Ready Government AI: Justinian for Federal and State Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://vulcan.ai/government",
+        "https://vulcan.ai/security",
+        "https://vulcan.ai/justinian/corpus",
+        "https://vulcan.ai/fedramp",
+        "https://vulcan.ai/government/briefing/fedramp",
+        "https://vulcan.ai/government/briefing/federal-agencies",
+        "https://vulcan.ai/government/briefing/state-agencies",
+        "https://vulcan.ai/government/briefing/general-counsel",
+        "https://vulcan.ai/government/briefing/legislatures"
+      ]
+    },
+    {
+      "url": "https://vulcan.ai/fedramp",
+      "finalUrl": "https://vulcan.ai/fedramp",
+      "status": "success",
+      "sha256": "a0eb4d5520dd1e6e818b55594a55470d2c54427e2f6bc537edd2900d5952160d",
+      "title": "FedRAMP Ready Government AI: Justinian for Federal and State Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://vulcan.ai/government",
+        "https://vulcan.ai/security",
+        "https://vulcan.ai/justinian/corpus",
+        "https://vulcan.ai/government/briefing/fedramp",
+        "https://vulcan.ai/government/briefing/federal-agencies",
+        "https://vulcan.ai/government/briefing/state-agencies",
+        "https://vulcan.ai/government/briefing/general-counsel",
+        "https://vulcan.ai/government/briefing/legislatures"
+      ]
+    },
+    {
+      "url": "https://vulcan.ai/government",
+      "finalUrl": "https://vulcan.ai/government",
+      "status": "success",
+      "sha256": "c831937e1d67ca80eb169ccb5afcec46c0ee3cabf73230fe2535402a556f25a9",
+      "title": "AI for Government: AI Agents Purpose Built for Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://vulcan.ai/gov/gis-mapping",
+        "https://vulcan.ai/gov/grants",
+        "https://vulcan.ai/gov/intergovernmental",
+        "https://vulcan.ai/gov/for/labor",
+        "https://vulcan.ai/gov/for/transportation",
+        "https://vulcan.ai/gov/for/community-development",
+        "https://vulcan.ai/gov/for/federal"
+      ]
+    },
+    {
+      "url": "https://vulcan.ai/security",
+      "finalUrl": "https://vulcan.ai/security",
+      "status": "success",
+      "sha256": "5fa1744447408f6e8d0f77ba0c7f528b7f48a860f86e42123da142f02021d838",
+      "title": "Security for Agents That Can Act: SOC 2, ISO 27001, FedRAMP Ready",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

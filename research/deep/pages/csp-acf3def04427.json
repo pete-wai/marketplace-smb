@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-acf3def04427",
+  "retrievedAt": "2026-10-30T11:01:36.376Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://lifebit.ai/",
+      "finalUrl": "https://lifebit.ai/",
+      "status": "success",
+      "sha256": "b0131551b12d1aeb98fdd49810b04952fe76b9a67aae103a23405691503ce0ca",
+      "title": "Lifebit — Federated Trusted Research Environment & Sovereign AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lifebit.ai/solutions-for-government/",
+        "https://lifebit.ai/about-us/",
+        "https://lifebit.ai/federal-health/",
+        "https://lifebit.ai/public-sector-initiatives/",
+        "https://lifebit.ai/about-us-lifebit-carbon-reduction-plan/"
+      ]
+    },
+    {
+      "url": "https://lifebit.ai/solutions-for-government/",
+      "finalUrl": "https://lifebit.ai/solutions-for-government/",
+      "status": "success",
+      "sha256": "f914a12c6a6cb36a0d27afff48cac040a8e7b794665039f36727aca8c0b88118",
+      "title": "Solutions for Government: Federated Public Health Data",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lifebit.ai/about-us/",
+        "https://lifebit.ai/federal-health/",
+        "https://lifebit.ai/public-sector-initiatives/",
+        "https://lifebit.ai/about-us-lifebit-carbon-reduction-plan/"
+      ]
+    },
+    {
+      "url": "https://lifebit.ai/about-us/",
+      "finalUrl": "https://lifebit.ai/about-us/",
+      "status": "success",
+      "sha256": "bb3503e6e42c6b315816d8e26de55bd6584da75fe0b2959999ba49146d9c190d",
+      "title": "Lifebit: Innovating a federated biomedical data platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lifebit.ai/federal-health/",
+        "https://lifebit.ai/public-sector-initiatives/",
+        "https://lifebit.ai/about-us-lifebit-carbon-reduction-plan/"
+      ]
+    },
+    {
+      "url": "https://lifebit.ai/federal-health/",
+      "finalUrl": "https://lifebit.ai/federal-health/",
+      "status": "success",
+      "sha256": "690ff2af9be049b52a1bbe1236c81edb1bb2ebe9a936a3ac53dbc52634e3d6f9",
+      "title": "Federal Health: Secure, Compliant Research Data Sharing",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lifebit.ai/public-sector-initiatives/",
+        "https://lifebit.ai/about-us-lifebit-carbon-reduction-plan/"
+      ]
+    }
+  ]
+}

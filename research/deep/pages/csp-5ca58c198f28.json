@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-5ca58c198f28",
+  "retrievedAt": "2026-10-30T11:00:49.614Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.assetintel.co/",
+      "finalUrl": "https://www.assetintel.co/",
+      "status": "success",
+      "sha256": "2996e4a32064553b2624c3a5db84b633aa4ed27a0ae8a0cf9f3a8016a65254a2",
+      "title": "AssetIntel™ - Modernize Asset Infrastructure Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.assetintel.co/assetintel-riverside",
+        "https://www.assetintel.co/about"
+      ]
+    },
+    {
+      "url": "https://www.assetintel.co/assetintel-riverside",
+      "finalUrl": "https://www.assetintel.co/assetintel-riverside",
+      "status": "success",
+      "sha256": "91a722dce6d7072d31c6a919c807e6f0d8ff6df4387fd62df849e40f27bd7b66",
+      "title": "New Partnership | AssetIntel™ & The Riverside Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.assetintel.co/about"
+      ]
+    },
+    {
+      "url": "https://www.assetintel.co/about",
+      "finalUrl": "https://www.assetintel.co/about",
+      "status": "success",
+      "sha256": "8d6c958cff50eb975f9cb968153284acff457b815035eb143c47f865d45d0405",
+      "title": "About AssetIntel™",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

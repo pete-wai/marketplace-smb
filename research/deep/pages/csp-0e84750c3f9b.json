@@ -1,0 +1,21 @@
+{
+  "providerId": "csp-0e84750c3f9b",
+  "retrievedAt": "2026-10-30T11:00:38.523Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.agilerank.com/",
+      "finalUrl": "https://www.agilerank.com/",
+      "status": "success",
+      "sha256": "09e8fca2d4bd6fa8926f63badcf7f8d257d92d73a7ac4cd1a6345e1d46db50c6",
+      "title": "Home | Agilerank",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "rograms. Let AgileRank Take Your Business to Higher Ground ​AgileRank is a Service-Disabled Veteran-Owned Small Business (SDVOSB) information technology firm based out of the Washington DC metropolitan area. Additionally, AgileRank is 8(a) certified by the SBA. We have extensive experience"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

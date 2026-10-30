@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-4f6334ce9d4a",
+  "retrievedAt": "2026-10-30T11:02:31.454Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cyberstar.com/",
+      "finalUrl": "https://cyberstar.com/",
+      "status": "success",
+      "sha256": "4d4b906380eeafa455e42ad47df3f68e6087998065ddee68eb049ac1643684cd",
+      "title": "DoD 8140 & DCWF Cyber Workforce Compliance Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cyberstar.com/about/",
+        "https://cyberstar.com/about/careers/",
+        "https://cyberstar.com/features/",
+        "https://cyberstar.com/rebrand-announcement-willco-tech-is-now-cyberstar/"
+      ]
+    },
+    {
+      "url": "https://cyberstar.com/about/",
+      "finalUrl": "https://cyberstar.com/about/",
+      "status": "success",
+      "sha256": "c024041ceb77ebe566f826dc37bcafcdded7957959a2c4efaccb7265fd674ce0",
+      "title": "About | DoD Cyber Workforce Compliance and Readiness Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cyberstar.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://cyberstar.com/about/careers/",
+      "finalUrl": "https://cyberstar.com/about/careers/",
+      "status": "success",
+      "sha256": "346f3718d37afb364671e5966b5b4255cd9af82cad89ca15389986b840034fdb",
+      "title": "Careers at Cyberstar | Join Our Cyber Workforce Team",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://cyberstar.com/features/",
+      "finalUrl": "https://cyberstar.com/features/",
+      "status": "success",
+      "sha256": "c75759079f8dbf7a3bdc438c7b60d475534adc1f5c2ddd64d645082092e1661b",
+      "title": "Cyber Workforce Management Platform for DoD 8140 & DCWF",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

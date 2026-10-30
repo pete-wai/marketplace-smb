@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-f85266e98d4b",
+  "retrievedAt": "2026-10-30T11:02:14.665Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.stackarmor.com/solutions/clarity",
+      "finalUrl": "https://stackarmor.com/solutions/clarity/",
+      "status": "success",
+      "sha256": "9f3d59eddd5bd49f0a31dafa44cc4571c99a1db71239d4972f6354869823d8f4",
+      "title": "Clarity host by stackArmor &#8211; FedRAMP Moderate | Strategic Portfolio Management by Stack Armor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://stackarmor.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.stackarmor.com/solutions/rally",
+      "finalUrl": "https://stackarmor.com/solutions/rally/",
+      "status": "success",
+      "sha256": "d011fb6450eda94ec1aaea90204c14b7a012f72cd57a94a759ac6cc646c07808",
+      "title": "FedRAMP Rally by stackArmor | FedRAMP Accredited SaaS by Stack Armor",
+      "signals": [],
+      "discoveredLinks": [
+        "https://stackarmor.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://stackarmor.com/about-us/",
+      "finalUrl": "https://stackarmor.com/about-us/",
+      "status": "success",
+      "sha256": "39f61f806fe9b7e32ec1c46a05f75df31a8568aa95742a464e58f83ceb8d21f8",
+      "title": "About Us | FedRAMP Compliance by Stack Armor",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " experience. PV is currently on the Boards of Appfluent Technologies (acquired by Attunity (NASDAQ: ATTU), Appian Corporation, Centrifuge Systems, and Copiun (acquired by Good Technology). He was also an investor and co-founder of ClearStandards (acquired by SAP). Our Partners"
+        }
+      ],
+      "discoveredLinks": [
+        "https://stackarmor.com/careers/"
+      ]
+    },
+    {
+      "url": "https://stackarmor.com/careers/",
+      "finalUrl": "https://stackarmor.com/careers/",
+      "status": "success",
+      "sha256": "84a114e848019c5cca85529adb5c40f2efc27a2dbe908e1f91da19a437b2665f",
+      "title": "Careers | Cloud Migration Jobs by Stack Armor",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

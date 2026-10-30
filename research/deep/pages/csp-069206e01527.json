@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-069206e01527",
+  "retrievedAt": "2026-10-30T11:02:27.329Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://vbrick.com/",
+      "finalUrl": "https://vbrick.com/",
+      "status": "success",
+      "sha256": "bf2ad4bd7dde8a63d01ddf45aacb82eedbadee15eff7179a650f04d59a9f72e9",
+      "title": "Vbrick | Enterprise Video Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

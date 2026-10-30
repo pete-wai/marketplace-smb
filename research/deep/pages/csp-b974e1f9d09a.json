@@ -1,0 +1,83 @@
+{
+  "providerId": "csp-b974e1f9d09a",
+  "retrievedAt": "2026-10-30T11:00:52.894Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cloudera.com/",
+      "finalUrl": "https://www.cloudera.com/",
+      "status": "success",
+      "sha256": "f1e885360c35d85bc61cb5d0ed382c7e64fe99ab0798e8fe085a334e4b2ab06c",
+      "title": "Cloudera | The hybrid platform for data & AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cloudera.com/about/our-culture.html",
+        "https://www.cloudera.com/about/philanthropy.html",
+        "https://www.cloudera.com/about/women-leaders-in-technology.html",
+        "https://www.cloudera.com/solutions/public-sector/education.html",
+        "https://www.cloudera.com/solutions/public-sector.html",
+        "https://www.cloudera.com/about/news-and-blogs.html",
+        "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-09-17-energy-and-utilities-leaders-look-beyond-ai-adoption-to-build-trusted-data-foundations.html",
+        "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-08-20-cloudera-teams-with-nvidia-to-lower-cloud-compute-spend-and-accelerate-apache-spark-pipelines.html",
+        "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-09-10-cloudera-and-mistral-partner-to-bring-specialized-sovereign-intelligence-to-enterprise-data.html",
+        "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-09-08-manufacturing-ai-initiatives-face-governance-and-workflow-integration-challenges.html",
+        "https://www.cloudera.com/about.html",
+        "https://www.cloudera.com/about/leadership.html"
+      ]
+    },
+    {
+      "url": "https://www.cloudera.com/about/our-culture.html",
+      "finalUrl": "https://www.cloudera.com/about/our-culture.html",
+      "status": "success",
+      "sha256": "62dac85e144af1d9fe62f1b97509265739246095fa2e2f99808f9e9f44db2ae0",
+      "title": "Our Culture | Cloudera",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cloudera.com/about/philanthropy.html",
+        "https://www.cloudera.com/about/women-leaders-in-technology.html",
+        "https://www.cloudera.com/solutions/public-sector/education.html",
+        "https://www.cloudera.com/solutions/public-sector.html",
+        "https://www.cloudera.com/about/news-and-blogs.html",
+        "https://www.cloudera.com/about/news-and-blogs/press-releases/2025-01-06-cloudera-is-certified-as-a-fair-pay-workplace.html",
+        "https://www.cloudera.com/about/news-and-blogs/press-releases/2023-09-20-cloudera-is-certified-as-a-fair-pay-workplace.html",
+        "https://www.cloudera.com/about.html",
+        "https://www.cloudera.com/about/leadership.html",
+        "https://www.cloudera.com/about/locations.html"
+      ]
+    },
+    {
+      "url": "https://www.cloudera.com/about/philanthropy.html",
+      "finalUrl": "https://www.cloudera.com/about/philanthropy.html",
+      "status": "success",
+      "sha256": "7a604e1807a828bebff94ccabb2b7e8b15d7b1f8f4c3e71211dbd21aa47d195b",
+      "title": "Corporate Social Responsibility | Cloudera",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cloudera.com/about/women-leaders-in-technology.html",
+        "https://www.cloudera.com/solutions/public-sector/education.html",
+        "https://www.cloudera.com/solutions/public-sector.html",
+        "https://www.cloudera.com/about/news-and-blogs.html",
+        "https://www.cloudera.com/about.html",
+        "https://www.cloudera.com/about/leadership.html",
+        "https://www.cloudera.com/about/locations.html"
+      ]
+    },
+    {
+      "url": "https://www.cloudera.com/about/women-leaders-in-technology.html",
+      "finalUrl": "https://www.cloudera.com/about/women-leaders-in-technology.html",
+      "status": "success",
+      "sha256": "095a9000f20221971b6a62abb431151c40b6dc98c1837d0d65158492514829a1",
+      "title": "Women Leaders in Technology",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cloudera.com/solutions/public-sector/education.html",
+        "https://www.cloudera.com/solutions/public-sector.html",
+        "https://www.cloudera.com/about/news-and-blogs.html",
+        "https://www.cloudera.com/about/women-leaders-in-technology/profiles/zhenni-wu.html",
+        "https://www.cloudera.com/about.html",
+        "https://www.cloudera.com/about/leadership.html",
+        "https://www.cloudera.com/about/locations.html"
+      ]
+    }
+  ]
+}

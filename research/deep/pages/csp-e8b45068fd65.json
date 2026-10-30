@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-e8b45068fd65",
+  "retrievedAt": "2026-10-30T11:00:40.331Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://appomni.com/industry-solutions/public-sector/",
+      "finalUrl": "https://appomni.com/industry-solutions/public-sector/",
+      "status": "success",
+      "sha256": "09345c29ee1172b15560f90077b1fa56557c8229afd07bf737a2061c5c3ead57",
+      "title": "SaaS Security for the Public Sector - AppOmni",
+      "signals": [],
+      "discoveredLinks": [
+        "https://appomni.com/about-us/",
+        "https://appomni.com/ebooks/ebook-saas-security-zero-trust-public-sector/"
+      ]
+    },
+    {
+      "url": "https://appomni.com/about-us/",
+      "finalUrl": "https://appomni.com/about-us/",
+      "status": "success",
+      "sha256": "0d8a9c504263cff11e76db96787a821ae30762f8c4692a2a41447521e808bf87",
+      "title": "About AppOmni - SaaS Security Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://appomni.com/official-appomni-company-information-for-ai/"
+      ]
+    },
+    {
+      "url": "https://appomni.com/ebooks/ebook-saas-security-zero-trust-public-sector/",
+      "finalUrl": "https://appomni.com/ebooks/ebook-saas-security-zero-trust-public-sector/",
+      "status": "success",
+      "sha256": "b668e967e4a97120785412c65deaf885d583fd1d36bf06d427c8cb243a33eb21",
+      "title": "Operationalize Zero Trust in Public Sector SaaS | eBook",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://appomni.com/official-appomni-company-information-for-ai/",
+      "finalUrl": "https://appomni.com/official-appomni-company-information-for-ai/",
+      "status": "success",
+      "sha256": "d8bbd05052ca1d6179a49ca4aea1a5df42f36fd47ed373640888bd316da78ad8",
+      "title": "AppOmni Company Overview",
+      "signals": [],
+      "discoveredLinks": [
+        "https://appomni.com/blog/appomni-frost-sullivan-technology-innovation-leadership-award-2025/"
+      ]
+    }
+  ]
+}

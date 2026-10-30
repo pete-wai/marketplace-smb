@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-194dbd4fb732",
+  "retrievedAt": "2026-10-30T11:02:34.289Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.zoomgov.com/",
+      "finalUrl": "https://www.zoomgov.com/",
+      "status": "success",
+      "sha256": "d17872bf27340f2d735e658db622f88c3fb3e9884314860f3abff1d1658a4519",
+      "title": "Zoom for Government",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

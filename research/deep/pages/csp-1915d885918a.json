@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-1915d885918a",
+  "retrievedAt": "2026-10-30T11:00:59.171Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.coupa.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-1ba15fe36b7f",
+  "retrievedAt": "2026-10-30T11:02:11.925Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://simu.health/",
+      "finalUrl": "https://www.simu.health/",
+      "status": "success",
+      "sha256": "c34a84e94c422e9d92b7b2ace0b0766298563fbfdb4f6911aa9c949de306c758",
+      "title": "Simuhealth | Healthcare simulation, training and compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.simu.health/"
+      ]
+    },
+    {
+      "url": "https://www.simu.health/",
+      "finalUrl": "https://www.simu.health/",
+      "status": "success",
+      "sha256": "c34a84e94c422e9d92b7b2ace0b0766298563fbfdb4f6911aa9c949de306c758",
+      "title": "Simuhealth | Healthcare simulation, training and compliance",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

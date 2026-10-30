@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-5e815286bca5",
+  "retrievedAt": "2026-10-30T11:01:53.680Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://withpersona.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

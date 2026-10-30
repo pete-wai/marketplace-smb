@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-1e181a2f4941",
+  "retrievedAt": "2026-10-30T11:01:19.297Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.govdash.com/",
+      "finalUrl": "https://www.govdash.com/",
+      "status": "success",
+      "sha256": "3e18e67480b6dd520fb04fa81ea597b0269e74f463f94cac8832f803a9f94724",
+      "title": "GovDash | Dash, the AI for Government Contractors",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.govdash.com/blog/ai-in-govcon-where-federal-adoption-stands-in-fy27",
+        "https://www.govdash.com/teams/executives",
+        "https://www.govdash.com/federal"
+      ]
+    },
+    {
+      "url": "https://www.govdash.com/blog/ai-in-govcon-where-federal-adoption-stands-in-fy27",
+      "finalUrl": "https://www.govdash.com/blog/ai-in-govcon-where-federal-adoption-stands-in-fy27",
+      "status": "success",
+      "sha256": "c9ed4a54ef6ade60cd0bdea654d3624d19f6cc0a1e4d20039cdf236be9b8df74",
+      "title": "AI in Government Contracting: Where Federal Adoption Stands in FY27",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.govdash.com/blog/brittany-winkler-recognized-as-orangeslices-2027-federal-citizen-services-150-honoree",
+        "https://www.govdash.com/teams/executives",
+        "https://www.govdash.com/federal"
+      ]
+    },
+    {
+      "url": "https://www.govdash.com/teams/executives",
+      "finalUrl": "https://www.govdash.com/teams/executives",
+      "status": "success",
+      "sha256": "fc700e24416a7139c74c6f9890fb7b327888c035aeb7700bc042ddc0dac2ad10",
+      "title": "Leadership | GovDash",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.govdash.com/federal"
+      ]
+    },
+    {
+      "url": "https://www.govdash.com/federal",
+      "finalUrl": "https://www.govdash.com/federal",
+      "status": "success",
+      "sha256": "806e3a6f5b399b30b093f489d680d33f848926ba0d322c29803b57f21d6bc372",
+      "title": "Federal Civilian | GovDash",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.govdash.com/security"
+      ]
+    }
+  ]
+}

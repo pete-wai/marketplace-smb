@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-1539f5a62a13",
+  "retrievedAt": "2026-10-30T11:00:36.063Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://abnormal.ai/",
+      "finalUrl": "https://abnormal.ai/",
+      "status": "success",
+      "sha256": "530b0911c0ec4b00f58adee958d3a75ad10a28ead58fdb528ae009c5db16d3d4",
+      "title": "Behavioral AI for Email, Identity, and AI Security | Abnormal AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://abnormal.ai/solutions/industry/public-sector",
+        "https://abnormal.ai/customers/love",
+        "https://abnormal.ai/about",
+        "https://abnormal.ai/about/team"
+      ]
+    },
+    {
+      "url": "https://abnormal.ai/solutions/industry/public-sector",
+      "finalUrl": "https://abnormal.ai/solutions/industry/public-sector",
+      "status": "success",
+      "sha256": "a3cb84fd38d23df579d5428c5f720f75ed777ba084fc0e6f89a15fd95aacd9c2",
+      "title": "Public Sector Email Security | Abnormal AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://abnormal.ai/customers/love",
+        "https://abnormal.ai/about",
+        "https://abnormal.ai/about/team",
+        "https://abnormal.ai/solutions/industry/public-sector/federal-government",
+        "https://abnormal.ai/solutions/industry/public-sector/state-local-government",
+        "https://abnormal.ai/resources/white-papers/ai-modernization-security-state-local-government",
+        "https://abnormal.ai/resources/industry-briefs/abnormal-for-federal-government",
+        "https://abnormal.ai/resources/webinars/ai-hackers-outpace-government-defenses"
+      ]
+    },
+    {
+      "url": "https://abnormal.ai/customers/love",
+      "finalUrl": "https://abnormal.ai/customers/love",
+      "status": "success",
+      "sha256": "5df2a315cdce0009523cb1d1a03bd711b7a8058d6007fc59332dc3ac77b5dbe0",
+      "title": "Customer Love | What Security Teams Say About Abnormal AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://abnormal.ai/about",
+        "https://abnormal.ai/about/team",
+        "https://abnormal.ai/awards",
+        "https://abnormal.ai/customers/stories/vituity",
+        "https://abnormal.ai/customers/stories/choice-hotels"
+      ]
+    },
+    {
+      "url": "https://abnormal.ai/about",
+      "finalUrl": "https://abnormal.ai/about",
+      "status": "success",
+      "sha256": "abfa7ee2a4e2c703289b315c22fab447637cdf2f5370de0ccd5d3be122e9cfc4",
+      "title": "About Abnormal AI | The Behavioral Security Platform Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://abnormal.ai/about/team",
+        "https://abnormal.ai/about/our-mission",
+        "https://abnormal.ai/about/how-we-got-here",
+        "https://abnormal.ai/about/what-customers-believe",
+        "https://abnormal.ai/about/where-we-are-going"
+      ]
+    }
+  ]
+}

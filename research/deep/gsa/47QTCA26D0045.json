@@ -1,0 +1,18 @@
+{
+  "name": "SECUNETICS INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA26D0045&contractorName=SECUNETICS+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-66e15c98a8aa"
+  ],
+  "contractNumber": "47QTCA26D0045",
+  "retrievedAt": "2026-10-30T11:08:47.650Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:19.382Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

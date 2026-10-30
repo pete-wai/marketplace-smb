@@ -1,0 +1,18 @@
+{
+  "name": "TRIMBLE INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-0001V&contractorName=TRIMBLE+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-9044b6bac0e6"
+  ],
+  "contractNumber": "GS-35F-0001V",
+  "retrievedAt": "2026-10-30T11:09:02.496Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:21.492Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

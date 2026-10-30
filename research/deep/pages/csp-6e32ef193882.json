@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-6e32ef193882",
+  "retrievedAt": "2026-10-30T11:01:23.379Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.info-first.com/content-manager-msaas.html",
+      "status": "unavailable",
+      "reason": "HTTP 400"
+    }
+  ]
+}

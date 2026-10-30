@@ -1,0 +1,2849 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-30",
+  "reviewScope": "Self-review of an explicitly stratified 50-provider sample from unchanged analysis.json providers, excluding existing large.json proposal IDs. No canonical records were modified.",
+  "selection": {
+    "seed": "sample-2026-10-30-v1",
+    "deterministicRule": "Within each classification stratum, sort provider IDs by SHA-256(seed + \"|\" + providerId) and take the allocated count. The 24 earlier deep proposals were excluded. To cover source-verified parent changes requested during the review, Optum Serve, Verily Health, Leidos Digital Solutions, LexisNexis Legal and Professional, and OwnBackup were forced into the unknown stratum; remaining unknown slots follow hash order.",
+    "strata": {
+      "likely-not-small": 6,
+      "documented-small": 13,
+      "unknown": 31
+    },
+    "excludedProposalCount": 24
+  },
+  "limitations": [
+    "This is a cached-evidence self-review sample, not a fresh web review of all 50 providers or a complete financial re-screen.",
+    "The sample checked each selected record’s cached identity evidence, SBA match/active status/NAICS intersection where present, current financial screening evidence where applicable, and cached website ownership/size signals.",
+    "Matched active SBA-small representations document a current public representation only; they do not independently verify affiliate aggregation, five-year receipts, or 24-month employee averages.",
+    "Unknown remains unknown when a profile is missing, inactive, mismatched, or lacks a scoped small code.",
+    "The sample is not a statistically powered prevalence estimate."
+  ],
+  "summary": {
+    "recordsReviewed": 50,
+    "byExistingClassification": {
+      "likely-not-small": 6,
+      "documented-small": 13,
+      "unknown": 31
+    },
+    "flagged": 13,
+    "retained": 37,
+    "flaggedProviderIds": [
+      "csp-35c5a07f9ba7",
+      "csp-fb41be4dda7b",
+      "csp-ab41829bc1d9",
+      "csp-078927b6adaf",
+      "csp-3b57886c008d",
+      "csp-8d919dfae0cf",
+      "csp-ebc48871a1f2",
+      "csp-5ef359c6ea22",
+      "csp-d96c2e35373f",
+      "csp-b974e1f9d09a",
+      "csp-23d59a8662d6",
+      "csp-a79f352c4b77",
+      "csp-23225c36adc2"
+    ],
+    "classificationChangesMade": 0
+  },
+  "reviews": [
+    {
+      "providerId": "csp-8f912ddc2b21",
+      "name": "Pegasystems",
+      "existingClassification": "likely-not-small",
+      "checks": {
+        "identityMatch": {
+          "result": "SEC mapping reviewed in curated record",
+          "mapping": {
+            "providerId": "csp-8f912ddc2b21",
+            "providerName": "Pegasystems",
+            "cik": 1013857,
+            "ticker": "PEGA",
+            "secName": "PEGASYSTEMS INC",
+            "matchBasis": "exact normalized legal name"
+          }
+        },
+        "sbaActiveAndScope": {
+          "result": "no SBA status used for this financial screen",
+          "note": "The classification is based on SEC affiliate/company financial facts rather than an SBA small representation."
+        },
+        "financialBounds": {
+          "result": "cached SEC revenue lower bound checked",
+          "benchmark": 47000000,
+          "lowerBoundAnnualRevenue": 1441021200,
+          "periods": [
+            {
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "value": 1745812000,
+              "filed": "2026-02-10",
+              "form": "10-K",
+              "accession": "0001013857-26-000017",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000017/"
+            },
+            {
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "value": 1497180000,
+              "filed": "2026-02-10",
+              "form": "10-K",
+              "accession": "0001013857-26-000017",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000017/"
+            },
+            {
+              "start": "2023-01-01",
+              "end": "2023-12-31",
+              "value": 1432616000,
+              "filed": "2026-02-10",
+              "form": "10-K",
+              "accession": "0001013857-26-000017",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385726000017/"
+            },
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "value": 1317845000,
+              "filed": "2025-02-12",
+              "form": "10-K",
+              "accession": "0001013857-25-000024",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385725000024/"
+            },
+            {
+              "start": "2021-01-01",
+              "end": "2021-12-31",
+              "value": 1211653000,
+              "filed": "2024-02-14",
+              "form": "10-K",
+              "accession": "0001013857-24-000012",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1013857/000101385724000012/"
+            }
+          ],
+          "note": "SEC reported annual revenue in the preceding five-year window, divided by five even when years are missing, is at least $1441.0m. This exceeds the conservative $47m cloud/software receipts benchmark. GAAP revenue is a proxy for SBA receipts; this is an inference, not a formal size determination."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SEC annual financial facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013857.json",
+          "title": "PEGASYSTEMS INC."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.pega.com/industries/government",
+          "title": "Government software to engage citizens &amp; modernize processes | Pega"
+        },
+        {
+          "kind": "cached SEC company-facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013857.json",
+          "title": "PEGASYSTEMS INC SEC XBRL facts"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-5e14b2116169",
+      "name": "ChargePoint, Inc.",
+      "existingClassification": "likely-not-small",
+      "checks": {
+        "identityMatch": {
+          "result": "SEC mapping reviewed in curated record",
+          "mapping": {
+            "providerId": "csp-5e14b2116169",
+            "providerName": "ChargePoint, Inc.",
+            "cik": 1777393,
+            "ticker": "CHPT",
+            "secName": "ChargePoint Holdings, Inc.",
+            "matchBasis": "reviewed corporate name alias"
+          }
+        },
+        "sbaActiveAndScope": {
+          "result": "no SBA status used for this financial screen",
+          "note": "The classification is based on SEC affiliate/company financial facts rather than an SBA small representation."
+        },
+        "financialBounds": {
+          "result": "cached SEC revenue lower bound checked",
+          "benchmark": 47000000,
+          "lowerBoundAnnualRevenue": 408809200,
+          "periods": [
+            {
+              "start": "2025-02-01",
+              "end": "2026-01-31",
+              "value": 411224000,
+              "filed": "2026-04-02",
+              "form": "10-K",
+              "accession": "0001777393-26-000013",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739326000013/"
+            },
+            {
+              "start": "2024-02-01",
+              "end": "2025-01-31",
+              "value": 417083000,
+              "filed": "2026-04-02",
+              "form": "10-K",
+              "accession": "0001777393-26-000013",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739326000013/"
+            },
+            {
+              "start": "2023-02-01",
+              "end": "2024-01-31",
+              "value": 506639000,
+              "filed": "2026-04-02",
+              "form": "10-K",
+              "accession": "0001777393-26-000013",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739326000013/"
+            },
+            {
+              "start": "2022-02-01",
+              "end": "2023-01-31",
+              "value": 468094000,
+              "filed": "2025-03-28",
+              "form": "10-K",
+              "accession": "0001777393-25-000030",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739325000030/"
+            },
+            {
+              "start": "2021-02-01",
+              "end": "2022-01-31",
+              "value": 241006000,
+              "filed": "2024-04-01",
+              "form": "10-K",
+              "accession": "0001777393-24-000052",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739324000052/"
+            }
+          ],
+          "note": "SEC reported annual revenue in the preceding five-year window, divided by five even when years are missing, is at least $408.8m. This exceeds the conservative $47m cloud/software receipts benchmark. GAAP revenue is a proxy for SBA receipts; this is an inference, not a formal size determination."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "size",
+            "excerpt": "hen they want to charge. Reach our 4 million+ EV drivers and draw them to your stations via our mobile app and in-d"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SEC annual financial facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001777393.json",
+          "title": "ChargePoint Holdings, Inc."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.chargepoint.com",
+          "title": "EVSE | Electric Vehicle (EV) Charging Stations | ChargePoint"
+        },
+        {
+          "kind": "cached SEC company-facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001777393.json",
+          "title": "ChargePoint Holdings, Inc. SEC XBRL facts"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-26f8567f2569",
+      "name": "Box Inc.",
+      "existingClassification": "likely-not-small",
+      "checks": {
+        "identityMatch": {
+          "result": "SEC mapping reviewed in curated record",
+          "mapping": {
+            "providerId": "csp-26f8567f2569",
+            "providerName": "Box Inc.",
+            "cik": 1372612,
+            "ticker": "BOX",
+            "secName": "BOX INC",
+            "matchBasis": "exact normalized legal name"
+          }
+        },
+        "sbaActiveAndScope": {
+          "result": "no SBA status used for this financial screen",
+          "note": "The classification is based on SEC affiliate/company financial facts rather than an SBA small representation."
+        },
+        "financialBounds": {
+          "result": "cached SEC revenue lower bound checked",
+          "benchmark": 47000000,
+          "lowerBoundAnnualRevenue": 1034066000,
+          "periods": [
+            {
+              "start": "2025-02-01",
+              "end": "2026-01-31",
+              "value": 1177253000,
+              "filed": "2026-03-09",
+              "form": "10-K",
+              "accession": "0001193125-26-098466",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526098466/"
+            },
+            {
+              "start": "2024-02-01",
+              "end": "2025-01-31",
+              "value": 1090130000,
+              "filed": "2026-03-09",
+              "form": "10-K",
+              "accession": "0001193125-26-098466",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526098466/"
+            },
+            {
+              "start": "2023-02-01",
+              "end": "2024-01-31",
+              "value": 1037741000,
+              "filed": "2026-03-09",
+              "form": "10-K",
+              "accession": "0001193125-26-098466",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526098466/"
+            },
+            {
+              "start": "2022-02-01",
+              "end": "2023-01-31",
+              "value": 990874000,
+              "filed": "2025-03-10",
+              "form": "10-K",
+              "accession": "0000950170-25-036261",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1372612/000095017025036261/"
+            },
+            {
+              "start": "2021-02-01",
+              "end": "2022-01-31",
+              "value": 874332000,
+              "filed": "2024-03-11",
+              "form": "10-K",
+              "accession": "0000950170-24-029241",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1372612/000095017024029241/"
+            }
+          ],
+          "note": "SEC reported annual revenue in the preceding five-year window, divided by five even when years are missing, is at least $1034.1m. This exceeds the conservative $47m cloud/software receipts benchmark. GAAP revenue is a proxy for SBA receipts; this is an inference, not a formal size determination."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "small-business",
+            "excerpt": "nking State &amp; Local Government Small Business Education Professional Services Law Firms Insurance Manufacturing"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SEC annual financial facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001372612.json",
+          "title": "BOX INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.box.com/",
+          "title": "Box | AI-Powered Content Management, Workflow &amp; Collaboration"
+        },
+        {
+          "kind": "cached SEC company-facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001372612.json",
+          "title": "BOX INC SEC XBRL facts"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-6efd03c45b42",
+      "name": "Sprinklr, Inc.",
+      "existingClassification": "likely-not-small",
+      "checks": {
+        "identityMatch": {
+          "result": "SEC mapping reviewed in curated record",
+          "mapping": {
+            "providerId": "csp-6efd03c45b42",
+            "providerName": "Sprinklr, Inc.",
+            "cik": 1569345,
+            "ticker": "CXM",
+            "secName": "Sprinklr, Inc.",
+            "matchBasis": "exact normalized legal name"
+          }
+        },
+        "sbaActiveAndScope": {
+          "result": "no SBA status used for this financial screen",
+          "note": "The classification is based on SEC affiliate/company financial facts rather than an SBA small representation."
+        },
+        "financialBounds": {
+          "result": "cached SEC revenue lower bound checked",
+          "benchmark": 47000000,
+          "lowerBoundAnnualRevenue": 699307600,
+          "periods": [
+            {
+              "start": "2025-02-01",
+              "end": "2026-01-31",
+              "value": 857200000,
+              "filed": "2026-03-19",
+              "form": "10-K",
+              "accession": "0001569345-26-000015",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1569345/000156934526000015/"
+            },
+            {
+              "start": "2024-02-01",
+              "end": "2025-01-31",
+              "value": 796394000,
+              "filed": "2026-03-19",
+              "form": "10-K",
+              "accession": "0001569345-26-000015",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1569345/000156934526000015/"
+            },
+            {
+              "start": "2023-02-01",
+              "end": "2024-01-31",
+              "value": 732360000,
+              "filed": "2026-03-19",
+              "form": "10-K",
+              "accession": "0001569345-26-000015",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1569345/000156934526000015/"
+            },
+            {
+              "start": "2022-02-01",
+              "end": "2023-01-31",
+              "value": 618190000,
+              "filed": "2025-03-21",
+              "form": "10-K",
+              "accession": "0001569345-25-000019",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1569345/000156934525000019/"
+            },
+            {
+              "start": "2021-02-01",
+              "end": "2022-01-31",
+              "value": 492394000,
+              "filed": "2024-03-29",
+              "form": "10-K",
+              "accession": "0001569345-24-000019",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1569345/000156934524000019/"
+            }
+          ],
+          "note": "SEC reported annual revenue in the preceding five-year window, divided by five even when years are missing, is at least $699.3m. This exceeds the conservative $47m cloud/software receipts benchmark. GAAP revenue is a proxy for SBA receipts; this is an inference, not a formal size determination."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "ownership",
+            "excerpt": "from them daily, and that makes 3M a better company.&quot; Kirsten Salmanowicz Sr. Manager, Global Media Tech &amp;"
+          },
+          {
+            "kind": "size",
+            "excerpt": "r real results. Microsoft analyzed 8.6 billion mentions and turned them into actionable VoC insights &quot;We can s"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SEC annual financial facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001569345.json",
+          "title": "Sprinklr, Inc."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.sprinklr.com/",
+          "title": "Sprinklr: The Definitive AI-Native Customer Experience Platform"
+        },
+        {
+          "kind": "cached SEC company-facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001569345.json",
+          "title": "Sprinklr, Inc. SEC XBRL facts"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-35c5a07f9ba7",
+      "name": "Butterfly Network Inc.",
+      "existingClassification": "likely-not-small",
+      "checks": {
+        "identityMatch": {
+          "result": "SEC mapping reviewed in curated record",
+          "mapping": {
+            "providerId": "csp-35c5a07f9ba7",
+            "providerName": "Butterfly Network Inc.",
+            "cik": 1804176,
+            "ticker": "BFLY",
+            "secName": "Butterfly Network, Inc.",
+            "matchBasis": "exact normalized legal name"
+          }
+        },
+        "sbaActiveAndScope": {
+          "result": "no SBA status used for this financial screen",
+          "note": "The classification is based on SEC affiliate/company financial facts rather than an SBA small representation."
+        },
+        "financialBounds": {
+          "result": "cached SEC revenue lower bound checked",
+          "benchmark": 47000000,
+          "lowerBoundAnnualRevenue": 76304200,
+          "periods": [
+            {
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "value": 97610000,
+              "filed": "2026-02-27",
+              "form": "10-K",
+              "accession": "0001804176-26-000009",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1804176/000180417626000009/"
+            },
+            {
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "value": 82056000,
+              "filed": "2026-02-27",
+              "form": "10-K",
+              "accession": "0001804176-26-000009",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1804176/000180417626000009/"
+            },
+            {
+              "start": "2023-01-01",
+              "end": "2023-12-31",
+              "value": 65900000,
+              "filed": "2026-02-27",
+              "form": "10-K",
+              "accession": "0001804176-26-000009",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1804176/000180417626000009/"
+            },
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "value": 73390000,
+              "filed": "2025-02-28",
+              "form": "10-K",
+              "accession": "0001628280-25-009036",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1804176/000162828025009036/"
+            },
+            {
+              "start": "2021-01-01",
+              "end": "2021-12-31",
+              "value": 62565000,
+              "filed": "2024-03-04",
+              "form": "10-K",
+              "accession": "0001558370-24-002308",
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "url": "https://www.sec.gov/Archives/edgar/data/1804176/000155837024002308/"
+            }
+          ],
+          "note": "SEC reported annual revenue in the preceding five-year window, divided by five even when years are missing, is at least $76.3m. This exceeds the conservative $47m cloud/software receipts benchmark. GAAP revenue is a proxy for SBA receipts; this is an inference, not a formal size determination."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "The current financial screen applies a $47M software/hosting receipt benchmark, but Butterfly Network sells ultrasound devices as well as cloud software; its procurement NAICS may instead be a medical-device manufacturing code with an employee standard. Reconfirm NAICS before treating the receipt comparison as decisive; leave existing likely-not-small unchanged pending that review.",
+      "sourcesReviewed": [
+        {
+          "kind": "SEC annual financial facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001804176.json",
+          "title": "Butterfly Network, Inc."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.butterflynetwork.com/",
+          "title": "The clear answer in point-of-care ultrasound | Butterfly iQ3"
+        },
+        {
+          "kind": "cached SEC company-facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001804176.json",
+          "title": "Butterfly Network, Inc. SEC XBRL facts"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-0a22765acf2b",
+      "name": "Solventum",
+      "existingClassification": "likely-not-small",
+      "checks": {
+        "identityMatch": {
+          "result": "SEC mapping reviewed in curated record",
+          "mapping": {
+            "providerId": "csp-0a22765acf2b",
+            "providerName": "Solventum",
+            "cik": 1964738,
+            "ticker": "SOLV",
+            "secName": "Solventum Corp",
+            "matchBasis": "exact normalized legal name"
+          }
+        },
+        "sbaActiveAndScope": {
+          "result": "no SBA status used for this financial screen",
+          "note": "The classification is based on SEC affiliate/company financial facts rather than an SBA small representation."
+        },
+        "financialBounds": {
+          "result": "cached SEC revenue lower bound checked",
+          "benchmark": 47000000,
+          "lowerBoundAnnualRevenue": 6581200000,
+          "periods": [
+            {
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "value": 8325000000,
+              "filed": "2026-02-27",
+              "form": "10-K",
+              "accession": "0001964738-26-000007",
+              "tag": "Revenues",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001964738/000196473826000007/"
+            },
+            {
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "value": 8254000000,
+              "filed": "2026-02-27",
+              "form": "10-K",
+              "accession": "0001964738-26-000007",
+              "tag": "Revenues",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001964738/000196473826000007/"
+            },
+            {
+              "start": "2023-01-01",
+              "end": "2023-12-31",
+              "value": 8197000000,
+              "filed": "2026-02-27",
+              "form": "10-K",
+              "accession": "0001964738-26-000007",
+              "tag": "Revenues",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001964738/000196473826000007/"
+            },
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "value": 8130000000,
+              "filed": "2025-02-28",
+              "form": "10-K",
+              "accession": "0001964738-25-000019",
+              "tag": "Revenues",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001964738/000196473825000019/"
+            }
+          ],
+          "note": "SEC reported annual revenue in the preceding five-year window, divided by five even when years are missing, is at least $6581.2m. This exceeds the conservative $47m cloud/software receipts benchmark. GAAP revenue is a proxy for SBA receipts; this is an inference, not a formal size determination."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "ownership",
+            "excerpt": "nswers and links on our history as a healthcare company, current leadership, purpose, values, impact, our global fo"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SEC annual financial facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001964738.json",
+          "title": "SOLVENTUM CORPORATION"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.solventum.com/",
+          "title": "Enabling better, smarter, safer healthcare | Solventum"
+        },
+        {
+          "kind": "cached SEC company-facts",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001964738.json",
+          "title": "Solventum Corp SEC XBRL facts"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-53ef61b2ac21",
+      "name": "Peniel Solutions, LLC",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "PENIEL SOLUTIONS, LLC",
+          "matchedUEI": "RL1GEPFF8NW5"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "493110",
+            "513210",
+            "518210",
+            "519290",
+            "541511",
+            "541512",
+            "541513",
+            "541519",
+            "541611",
+            "541618",
+            "541690",
+            "541860",
+            "541910",
+            "541990",
+            "561110",
+            "561210",
+            "561499",
+            "561920",
+            "561990"
+          ],
+          "primaryNaics": "541511"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "small-business",
+            "excerpt": ", a service-disabled veteran-owned small business (SDVOSB), is proud to announce that its flagship records manageme"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/RL1GEPFF8NW5/1RYE3",
+          "title": "PENIEL SOLUTIONS, LLC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.tagovcloud.com/",
+          "title": "Content &amp; Document Management Solution - TransAccess"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-90ef4aa71696",
+      "name": "CuraPatient",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "CURAPATIENT INC",
+          "matchedUEI": "CB6BNZA248C3"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "541511",
+            "541519"
+          ],
+          "primaryNaics": "541511"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "size",
+            "excerpt": " week. Not a sample every few years. Employees' wrong bills and denials, fixed too. No carrier change. A free scree"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/CB6BNZA248C3/8HMG9",
+          "title": "CURAPATIENT INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://curapatient.com/",
+          "title": "CuraPatient · CuraClaims — Every claim has DNA. We read it."
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-c9a8dee159d7",
+      "name": "CobbleStone Software",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "COBBLESTONE SYSTEMS CORP",
+          "matchedUEI": "VAL8HSETZFG7"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "423430",
+            "513210",
+            "518210",
+            "541511",
+            "541512",
+            "541513",
+            "541519",
+            "541611"
+          ],
+          "primaryNaics": "513210"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "size",
+            "excerpt": "s Records Managed in CobbleStone ® 24 Million + Contract management tailored for you. Enterprise Intelligence scala"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/VAL8HSETZFG7/57HR0",
+          "title": "COBBLESTONE SYSTEMS CORP"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.cobblestonesoftware.com/",
+          "title": "Contract Management &amp; Procurement Software | CobbleStone Software"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-ca5c22b740e5",
+      "name": "OpenClinica LLC",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "OPENCLINICA LLC",
+          "matchedUEI": "VJWGYQDM2X28"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "518210",
+            "541511",
+            "541512",
+            "541519",
+            "541611",
+            "541690",
+            "541990"
+          ],
+          "primaryNaics": "518210"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/VJWGYQDM2X28/9AU39",
+          "title": "OPENCLINICA LLC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.openclinica.com/fedramp",
+          "title": "FedRAMP for Clinical Research | OpenClinica"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-fb41be4dda7b",
+      "name": "CoSo Cloud, LLC.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "KNOX SYSTEMS, INC",
+          "matchedUEI": "NMSFSAMF88Z3"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "513210",
+            "541512"
+          ],
+          "primaryNaics": "513210"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "size",
+            "excerpt": " Vulnerabilities patched each week 16 Million Determinate Nix installs &gt;1.5 Billion Monthly FlakeHub Cache reque"
+          }
+        ]
+      },
+      "disposition": "flag",
+      "rationale": "The SBA response is an exact-UEI match but the legal name is KNOX SYSTEMS, INC., not the Marketplace CoSo Cloud label. The current SBA status cannot be attributed to CoSo without a documented legal/DBA link. CoSo’s official 2023 release says Class acquired CoSo as a wholly owned subsidiary; parent/identity review is ongoing in a separate proposal. Preserve small representation as unresolved pending entity linkage.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/NMSFSAMF88Z3/11RH2",
+          "title": "KNOX SYSTEMS, INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "http://www.knoxsystems.com/",
+          "title": "Knox Systems | FedRAMP in 90 Days for 90% Less"
+        },
+        {
+          "kind": "official acquisition announcement",
+          "url": "https://www.cosocloud.com/press-releases/class-technologies-acquires-coso-cloud",
+          "title": "Class Technologies acquisition of CoSo Cloud"
+        },
+        {
+          "kind": "SBA exact-UEI response",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA query for CoSo provider UEI NMSFSAMF88Z3"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-1988c3cb4278",
+      "name": "International Vending Management, Inc.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "INTERNATIONAL VENDING MANAGEMENT INC",
+          "matchedUEI": "X7PFXJTGKKC4"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "332439",
+            "332999",
+            "334111",
+            "337215",
+            "445132",
+            "518210",
+            "532490",
+            "541519"
+          ],
+          "primaryNaics": "332999"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "ownership",
+            "excerpt": "udy Intel Anyone who has worked in a large company knows what it is like to wait a half-day for a new computer whil"
+          },
+          {
+            "kind": "size",
+            "excerpt": "ductivity and employee satisfaction. Employees need easy access to critical PPE (Personal Protective Equipment) and"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/X7PFXJTGKKC4/3VPS7",
+          "title": "INTERNATIONAL VENDING MANAGEMENT INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.ivminc.com",
+          "title": "Smart Vending Solutions | Technology That Works Harder, So Your Team Can Work Smarter"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-98254e37c1d6",
+      "name": "NEXGEN Asset Management",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact name and website domain",
+          "matchedLegalName": "NEXGEN ASSET MANAGEMENT",
+          "matchedUEI": "CQT2KHF7JSE9"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "541511",
+            "541512",
+            "541513",
+            "541519"
+          ],
+          "primaryNaics": "541511"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/CQT2KHF7JSE9/9AMP4",
+          "title": "NEXGEN ASSET MANAGEMENT"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.nexgenam.com",
+          "title": "NEXGEN | A Future-First Asset Management &amp; CMMS Software Solution"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-ee0467041651",
+      "name": "Rectitude 369",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact name and website domain",
+          "matchedLegalName": "RECTITUDE 369 LLC",
+          "matchedUEI": "Z8AFGU1Z3UF1"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "541512"
+          ],
+          "primaryNaics": "541512"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/Z8AFGU1Z3UF1/9B7Y5",
+          "title": "RECTITUDE 369 LLC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://rectitude369.com/",
+          "title": "Rectitude, LLC - Critical Networks. Reliably Engineered."
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-740aa1f07271",
+      "name": "AutoRABIT Holding, Inc.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "AUTORABIT HOLDING, INC.",
+          "matchedUEI": "WGNBES7Y1ZT8"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "513210"
+          ],
+          "primaryNaics": "513210"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/WGNBES7Y1ZT8/9RB64",
+          "title": "AUTORABIT HOLDING, INC."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.autorabit.com/solutions/public-sector/",
+          "title": "Salesforce security tools for the public sector | AutoRABIT"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-effb48d86ebb",
+      "name": "Sustainment Technologies Inc.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "SUSTAINMENT TECHNOLOGIES INC",
+          "matchedUEI": "FYX9J759QPE4"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "513210",
+            "541420",
+            "541490",
+            "541511",
+            "541512",
+            "541519",
+            "541618",
+            "541690",
+            "541715",
+            "541990"
+          ],
+          "primaryNaics": "541511"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/FYX9J759QPE4/8JF03",
+          "title": "SUSTAINMENT TECHNOLOGIES INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://sustainment.com",
+          "title": "Sustainment | The System of Action for Modern Supply Chains"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-f220cd041b5f",
+      "name": "DocketScope, Inc.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "DOCKETSCOPE, INC",
+          "matchedUEI": "RU58TJ58LXF7"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "513210",
+            "541511",
+            "541512",
+            "541519"
+          ],
+          "primaryNaics": "513210"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/RU58TJ58LXF7/9ETR4",
+          "title": "DOCKETSCOPE, INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.docketscope.com",
+          "title": "Public Comments - DocketScope"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-26d07cf9973b",
+      "name": "VirtualDojo, Inc.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "VIRTUALDOJO LLC",
+          "matchedUEI": "JZCAH18DEDC8"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "541512"
+          ],
+          "primaryNaics": "541512"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "small-business",
+            "excerpt": "t; Jonathan Humberg CEO &quot;As a small business, VirtualDojo provided exactly the system and rigor I needed to he"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/JZCAH18DEDC8/142E1",
+          "title": "VIRTUALDOJO LLC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://virtualdojo.com",
+          "title": "Virtual Dojo | AI Workspace for Government Contractors"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-62ab55bbea01",
+      "name": "SRR International,Inc.",
+      "existingClassification": "documented-small",
+      "checks": {
+        "identityMatch": {
+          "result": "match",
+          "matchBasis": "exact UEI",
+          "matchedLegalName": "SRR INTERNATIONAL, INC",
+          "matchedUEI": "VNSNDLBVLK35"
+        },
+        "sbaActiveAndScope": {
+          "result": "active-small-code-match",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "334290",
+            "334519",
+            "335921",
+            "488119",
+            "491110",
+            "518210",
+            "541330",
+            "541511",
+            "541512",
+            "541513",
+            "541519",
+            "541611",
+            "541612",
+            "541614",
+            "541618",
+            "541620",
+            "541690",
+            "541715",
+            "541930",
+            "541990",
+            "561110",
+            "561210",
+            "561320",
+            "561330",
+            "562119",
+            "611430",
+            "611699",
+            "611710",
+            "621610",
+            "623210",
+            "623990"
+          ],
+          "primaryNaics": "541511"
+        },
+        "financialBounds": {
+          "result": "not independently verified",
+          "note": "This sample validates the current public SBA representation and selected code intersection; it does not recalculate 5-year receipts or 24-month employee averages."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/VNSNDLBVLK35/6CNX5",
+          "title": "SRR INTERNATIONAL, INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://cloudlcms.com/",
+          "title": "CloudLCMS - Empower Your Learning"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-ab41829bc1d9",
+      "name": "Optum Serve",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "small-business",
+            "excerpt": "munities impact health. Learn more Small Business Partners Small Business Partners We&#39;re committed to developin"
+          },
+          {
+            "kind": "size",
+            "excerpt": "xt On Screen – We’ve impacted over 25 million lives, *All metrics based on data as of August 30, 2023] We&#39;ve im"
+          }
+        ]
+      },
+      "disposition": "flag",
+      "rationale": "The Marketplace record has no SBA UEI, but the official current Optum Serve page identifies a federal health-services business with health technology/consulting. SEC Exhibit 21 includes Optum Serve, LLC as a UHG subsidiary in 2024; 2025 SEC report shows UHG $447.567B revenue and 390,000+ employees. Separate pending parent proposal is recorded in large.json; confirm exact contracting entity and NAICS.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://business.optum.com/en/federal-government.html",
+          "title": "Devoted to Improving Lives Across the Nation | Optum Business"
+        },
+        {
+          "kind": "official affiliation/business scope",
+          "url": "https://business.optum.com/en/federal-government/about-optum-serve.html",
+          "title": "Optum Serve federal health services page"
+        },
+        {
+          "kind": "SEC subsidiary Exhibit 21",
+          "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unhex21112312024.htm",
+          "title": "UnitedHealth Group 2024 Form 10-K Exhibit 21"
+        },
+        {
+          "kind": "SEC 2025 revenue/headcount",
+          "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+          "title": "UnitedHealth Group 2025 Form 10-K"
+        },
+        {
+          "kind": "SEC 2024 subsidiary exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unhex21112312024.htm",
+          "title": "UnitedHealth Group 2024 Form 10-K Exhibit 21.1"
+        },
+        {
+          "kind": "SEC 2025 limited significant-subsidiary exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unhex21112312025.htm",
+          "title": "UnitedHealth Group 2025 Form 10-K Exhibit 21.1"
+        },
+        {
+          "kind": "SEC five-year financials",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json",
+          "title": "UnitedHealth Group SEC XBRL companyfacts"
+        }
+      ],
+      "depth": "targeted-source-review"
+    },
+    {
+      "providerId": "csp-078927b6adaf",
+      "name": "Verily Health",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "matched",
+          "providerUEIs": [],
+          "matchedLegalName": "VERILY HEALTH INC.",
+          "matchBasis": "exact name and website domain",
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "334118",
+            "541715"
+          ]
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "SBA exact name/domain registration is active, but its current listed small codes are 334118 and 541715, not cloud/software codes in this review scope. Verily’s official March 2026 announcement says Alphabet became a significant minority investor and no longer has a controlling stake. This changes the prior corporate-control assumption; retain unknown until current owner/size evidence is reviewed.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/U92RDNGXL1E5/7NTV3",
+          "title": "VERILY HEALTH INC."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.verily.com/",
+          "title": "Verily Health | AI-native precision health"
+        },
+        {
+          "kind": "official current control announcement",
+          "url": "https://www.verily.com/newsroom/verily-secures-300-million-investment-to-advance-its-precision-health-ai-strategy",
+          "title": "Verily March 2026 control/financing announcement"
+        },
+        {
+          "kind": "current SBA representation",
+          "url": "https://search.certifications.sba.gov/profile/U92RDNGXL1E5/7NTV3",
+          "title": "SBA profile for Verily Health Inc."
+        }
+      ],
+      "depth": "targeted-source-review"
+    },
+    {
+      "providerId": "csp-3b57886c008d",
+      "name": "Leidos Digital Solutions, Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "R8DWHMDFAFF1"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "Exact Marketplace name appears in Leidos’ SEC-filed significant-subsidiary exhibit; current 2025 Form 10-K reports $17.107B revenue and 47,000 employees. Separate likely-not-small proposal added to large.json, but confirm exact procurement NAICS and business-entity mapping.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://leidosiq.com/federal-government/",
+          "title": "Federal Government | Leidos IQ"
+        },
+        {
+          "kind": "SEC subsidiary exhibit",
+          "url": "https://investors.leidos.com/static-files/116710bb-189f-444f-8069-cd28831bd6f7",
+          "title": "Leidos 2026 Form 8-K Annex A"
+        },
+        {
+          "kind": "SEC financial report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos-20260102.htm",
+          "title": "Leidos 2025 Form 10-K"
+        },
+        {
+          "kind": "SEC five-year consolidated financials",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001336920.json",
+          "title": "Leidos SEC XBRL companyfacts"
+        }
+      ],
+      "depth": "targeted-source-review"
+    },
+    {
+      "providerId": "csp-8d919dfae0cf",
+      "name": "LexisNexis Legal and Professional",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "LKAAJG8KK4U1"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "The official LexisNexis site describes the brand as a RELX division; RELX’s 2025 segment report gives Legal/LexisNexis Legal & Professional £1.806B revenue and 11,900 employees. Separate likely-not-small proposal added to large.json with medium identity confidence because the Marketplace label is a segment/business unit, not a confirmed contracting legal entity.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.lexisnexis.com/lexisplusgov",
+          "title": ""
+        },
+        {
+          "kind": "official division identity",
+          "url": "https://www.lexisnexis.com/en-us/about-us/about-us.page",
+          "title": "LexisNexis corporate profile"
+        },
+        {
+          "kind": "RELX segment financials",
+          "url": "https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/2025-ar-sections/relx-2025-market-segments.pdf",
+          "title": "RELX 2025 market segment report"
+        }
+      ],
+      "depth": "targeted-source-review"
+    },
+    {
+      "providerId": "csp-ebc48871a1f2",
+      "name": "OwnBackup",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "Salesforce announced completion of the Own Company acquisition on 2024-11-18; its current official product page says Own products are now part of the Salesforce Platform. The Marketplace “OwnBackup” label may refer to an integrated product/brand rather than a current contracting entity. Retain unknown pending exact provider contracting identity and applicable current size data.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "http://www.owndata.com/",
+          "title": "Own from Salesforce | Protect &amp; Manage Your SaaS Data"
+        },
+        {
+          "kind": "official acquisition completion",
+          "url": "https://www.salesforce.com/news/press-releases/2024/09/05/salesforce-signs-definitive-agreement-to-acquire-own-company/",
+          "title": "Salesforce acquisition announcement with completion editor’s note"
+        },
+        {
+          "kind": "current product integration",
+          "url": "https://www.salesforce.com/platform/own-integration/",
+          "title": "Salesforce Own products integration page"
+        }
+      ],
+      "depth": "targeted-source-review"
+    },
+    {
+      "providerId": "csp-5ef359c6ea22",
+      "name": "22nd Century Technologies Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "candidate-only",
+          "providerUEIs": [
+            "QT2VZ9L1VPQ1"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": [
+            {
+              "legalName": "22ND CENTURY TECHNOLOGIES INC.",
+              "uei": "G7X7JBRL7N17",
+              "status": "E",
+              "basis": "exact normalized name; identity review needed"
+            }
+          ]
+        },
+        "sbaActiveAndScope": {
+          "result": "candidate inactive",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "The SBA cache returned a candidate 22ND CENTURY TECHNOLOGIES INC. with status E (expired/inactive), not a matched active representation. Existing unknown classification is appropriate; do not import the candidate’s old status.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/G7X7JBRL7N17/7F6E8",
+          "title": "22ND CENTURY TECHNOLOGIES INC."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://xtractiq.tscti.com",
+          "title": ""
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-aa07cbffef18",
+      "name": "LogicMonitor",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "V1B7DNM1DUB5"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.logicmonitor.com",
+          "title": "LogicMonitor | Autonomous IT for Modern Enterprises"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-d96c2e35373f",
+      "name": "PSI Services LLC",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "candidate-only",
+          "providerUEIs": [
+            "NDWDJKDL8RA4"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": [
+            {
+              "legalName": "Paradigm Services Inc",
+              "uei": "LKM2HMH85SS5",
+              "status": "E",
+              "basis": "exact normalized name; identity review needed"
+            }
+          ]
+        },
+        "sbaActiveAndScope": {
+          "result": "candidate inactive",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "The only cached SBA candidate is PARADIGM SERVICES INC., DBA PSI-Services, with inactive status E. The Marketplace name is PSI Services LLC; identity and currency are unresolved. Preserve unknown.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.psiexams.com/certification/government/",
+          "title": "Government testing programs – PSI Exams"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-85401a05834a",
+      "name": "ReliaQuest",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "KGF7KBFCL6E7"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://reliaquest.com",
+          "title": "Home | ReliaQuest GreyMatter: The Agentic AI Security Operations Platform for Agentic Defense"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-b974e1f9d09a",
+      "name": "Cloudera Government Solutions, Inc",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "matched",
+          "providerUEIs": [
+            "LL1ACECJ2YZ3"
+          ],
+          "matchedLegalName": "CLOUDERA GOVERNMENT SOLUTIONS, INC",
+          "matchBasis": "exact UEI",
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "541519"
+          ]
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "Matched active SBA profile is exact UEI and lists small only under 541519, while the primary code is 541511 and the provider’s cloud-related code coverage is not demonstrated. Existing unknown classification is consistent with scoped evidence; do not call the active entry a broad small-business result.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/LL1ACECJ2YZ3/6ZF63",
+          "title": "CLOUDERA GOVERNMENT SOLUTIONS, INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.cloudera.com",
+          "title": "Cloudera | The hybrid platform for data &amp; AI"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-46f48e7103ca",
+      "name": "OCLC Incorporated",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.oclc.org/",
+          "title": null
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-5feeabbf59b2",
+      "name": "Infoblox",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "UMGCATUGKJ79"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.infoblox.com/products/universal-ddi-management/",
+          "title": "Universal DDI Management | DNS, DHCP &amp; IPAM for Hybrid Cloud"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-c7941b6920e2",
+      "name": "Magenta",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "ownership",
+            "excerpt": "Instructions FMEA Documentation CAPA Documentation Company About Careers © 2026 Magenta AI. All rights reserved. Pr"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.withmagenta.com/",
+          "title": "Magenta AI - AI for Manufacturing Workflows"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-aa705ca3c030",
+      "name": "Meterbox Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://meterbox.ai/",
+          "title": "Meterbox | The operating system for software monetization"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-23d59a8662d6",
+      "name": "Mimic Networks, Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "matched",
+          "providerUEIs": [
+            "JCF4W6MB34P7"
+          ],
+          "matchedLegalName": "MIMIC NETWORKS, INC.",
+          "matchBasis": "exact UEI",
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": "E",
+          "smallNaics": [
+            "541512",
+            "541519"
+          ]
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "size",
+            "excerpt": "Closes the Supply Chain Gap Blog ↗ 275 Million Records, 90 Seconds to Exploit: The Case for Machine-Speed Defense B"
+          }
+        ]
+      },
+      "disposition": "flag",
+      "rationale": "Exact UEI matches MIMIC NETWORKS, INC., but SBA status is E, not active. Website size signal is not evidence of SBA small status. Unknown is supported.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/JCF4W6MB34P7/12QC7",
+          "title": "MIMIC NETWORKS, INC."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://mimic.com",
+          "title": "Mimic Networks: Known-Good Enforcement for the Enterprise"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-1ce86bd34924",
+      "name": "Clarivate Analytics US LLC",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "KCEFDML72122"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://clarivate.com/",
+          "title": "\n            Clarivate - Leading Global Transformative Intelligence        "
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-51e53f45f169",
+      "name": "PowerTrain Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "matched",
+          "providerUEIs": [
+            "FFFBN9JMAKK3"
+          ],
+          "matchedLegalName": "POWERTRAIN, INC.",
+          "matchBasis": "exact UEI",
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "423430",
+            "541714",
+            "541715"
+          ]
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/FFFBN9JMAKK3/1ZLY7",
+          "title": "POWERTRAIN, INC."
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://powertrain.com/",
+          "title": "PowerTrain | Custom Training, Secure Learning Platforms, &amp; Workforce Solutions | PowerTrain, Inc."
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-1cb67bba1016",
+      "name": "Adaptive Protocols, Inc. (Adaptiva)",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://adaptiva.com",
+          "title": "Adaptiva | The fastest way to patch and manage endpoints at scale"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-0cf75ee56272",
+      "name": "EnergyCAP LLC.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.energycap.com/",
+          "title": ""
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-a79f352c4b77",
+      "name": "NetComm",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "small-business",
+            "excerpt": "tComm became the first Women-Owned Small Business (WOSB) to achieve FedRAMP Compliant certification with a HHS/ NIH"
+          }
+        ]
+      },
+      "disposition": "flag",
+      "rationale": "Website cache contains an older small-business/WOSB signal (“first WOSB to achieve FedRAMP Compliant certification”), but there is no matched active SBA representation in the cached exact-provider search. The self-description is not current-size proof; unknown remains appropriate.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.netcomm.net/",
+          "title": "Welcome to NetComm, Inc. | Beacon Application Platform"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-23225c36adc2",
+      "name": "Transform9",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "candidate-only",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": [
+            {
+              "legalName": "TRANSFORMATION9 LLC",
+              "uei": "FDV8KR852MY4",
+              "status": "E",
+              "basis": "website domain; identity review needed"
+            }
+          ]
+        },
+        "sbaActiveAndScope": {
+          "result": "candidate inactive",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "flag",
+      "rationale": "SBA candidate TRANSFORMATION9 LLC has status E (expired/inactive); current provider identity/currency not established. Preserve unknown.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.transform9.com/",
+          "title": "Transform9 — Maximize Every Call with a Custom AI Agent"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-5b92e3c73ed3",
+      "name": "Wiz, Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.wiz.io/",
+          "title": "Wiz: AI Cybersecurity for All Your Cloud and AI Applications"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-5529594bb5d3",
+      "name": "Talkdesk",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "R8T5GQYJV2F8"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.talkdesk.com/call-center-solutions/government-education/government/",
+          "title": "Government Contact Center Solutions | Talkdesk CX Cloud Government Edition"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-df38c38deeaf",
+      "name": "Red Rock Group Holdings",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "candidate-only",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": [
+            {
+              "legalName": "RED ROCK GROUP HOLDINGS LLC",
+              "uei": "ESXDFLZ41DN8",
+              "status": "A",
+              "basis": "exact normalized name; identity review needed"
+            }
+          ]
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://getekko.io/",
+          "title": ""
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-014b361fe5f1",
+      "name": "Siteimprove Inc",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.siteimprove.com",
+          "title": ""
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-e21d81dda81a",
+      "name": "TRM Labs, Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "EW97MHKPD1P8"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "ownership",
+            "excerpt": "n analyst asks whether any of a data center company’s critical vendors appeared on ransomware leak sites without di"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.trmlabs.com",
+          "title": "TRM Labs | AI Investigations and Blockchain Intelligence"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-c705181c8d50",
+      "name": "Aprimo US, LLC",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.aprimo.com",
+          "title": "Aprimo: Digital Asset Management."
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-60a539de7bb0",
+      "name": "Ivanti",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.ivanti.com/",
+          "title": "Ivanti | Data Authority. Governed Autonomy. Proactive IT."
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-ac222d9ab9f3",
+      "name": "Thread AI, Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "matched",
+          "providerUEIs": [
+            "WYQBSZKWUMM5"
+          ],
+          "matchedLegalName": "THREAD AI, INC",
+          "matchBasis": "exact UEI",
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": "A",
+          "smallNaics": [
+            "541715"
+          ]
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/WYQBSZKWUMM5/9SCQ9",
+          "title": "THREAD AI, INC"
+        },
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.threadai.com",
+          "title": "Enterprise AI Workflow Orchestration | Thread AI"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-82b5282989fa",
+      "name": "Rave Mobile Safety",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "DPLBA7E1GJQ4"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": []
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://www.ravemobilesafety.com/",
+          "title": "Rave Mobile Safety Suite  - Motorola Solutions"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    },
+    {
+      "providerId": "csp-86ba12711a9e",
+      "name": "HealthEdge Software, Inc.",
+      "existingClassification": "unknown",
+      "checks": {
+        "identityMatch": {
+          "result": "unresolved/no match",
+          "providerUEIs": [
+            "X8D9AX45NVG6"
+          ],
+          "matchedLegalName": null,
+          "matchBasis": null,
+          "candidates": []
+        },
+        "sbaActiveAndScope": {
+          "result": "not established",
+          "registrationStatus": null,
+          "smallNaics": null
+        },
+        "financialBounds": {
+          "result": "not established by cached research",
+          "note": "Unknown classification remains in the denominator; this sample does not infer other-than-small status from absence of a matched small profile."
+        },
+        "cachedOwnershipLeads": [
+          {
+            "kind": "size",
+            "excerpt": "althEdge Impacts Payer Operations $1.6 million in savings by automating processes 99% accuracy in claims payment 95"
+          }
+        ]
+      },
+      "disposition": "retain",
+      "rationale": "No material identity, active-SBA, NAICS-scope or cached ownership contradiction emerged in this sample check. Retain the existing analysis classification; this is not an independent size determination.",
+      "sourcesReviewed": [
+        {
+          "kind": "cached SBA query",
+          "url": "https://search.certifications.sba.gov/_api/v2/search",
+          "title": "SBA Small Business Search cached exact provider query"
+        },
+        {
+          "kind": "cached website screen",
+          "url": "https://healthedge.com/",
+          "title": "HealthEdge"
+        }
+      ],
+      "depth": "cached-evidence-review"
+    }
+  ]
+}

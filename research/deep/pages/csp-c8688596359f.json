@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-c8688596359f",
+  "retrievedAt": "2026-10-30T11:01:23.896Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://intelligrc.com/",
+      "finalUrl": "https://intelligrc.com/",
+      "status": "success",
+      "sha256": "d43fd31a5dbda57c4a4b6061c56cfb3cdbdd2e20a0c2d177c446536e0cdf0625",
+      "title": "GRC Software for CMMC & Compliance Automation | IntelliGRC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://intelligrc.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://intelligrc.com/about-us/",
+      "finalUrl": "https://intelligrc.com/about-us/",
+      "status": "success",
+      "sha256": "756049893f6e7b4086d4dac1ebcbb1139b6510e80d9d3d225e0b57ad5b17b799",
+      "title": "About IntelliGRC | Cybersecurity Compliance Platform",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

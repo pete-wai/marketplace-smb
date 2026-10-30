@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-71c70c1d57b1",
+  "retrievedAt": "2026-10-30T11:01:04.760Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://dmetrics.com/",
+      "finalUrl": "https://dmetrics.com/",
+      "status": "success",
+      "sha256": "317e7ba99bfd8d39f615bf7c5ec35dc2276bc5e0ae9e87fe0a793a376c0c65a4",
+      "title": "dMetrics — Intelligence is a team sport.",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

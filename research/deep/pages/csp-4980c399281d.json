@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-4980c399281d",
+  "retrievedAt": "2026-10-30T11:00:56.512Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://consus.io/",
+      "finalUrl": "https://consus.io/",
+      "status": "success",
+      "sha256": "93c2ca286f6f5910cb60b361e3b5e63c76e0ac6711af839f0c6a44c11ba15298",
+      "title": "Consus — Compliant AI gateway for US defense contractors",
+      "signals": [],
+      "discoveredLinks": [
+        "https://consus.io/company"
+      ]
+    },
+    {
+      "url": "https://consus.io/company",
+      "finalUrl": "https://consus.io/company",
+      "status": "success",
+      "sha256": "d5c1bec4d5efdcbe87bb1b6c37ce9df6e5951bebb34563e30cfecf3de94fb148",
+      "title": "Company · Consus",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

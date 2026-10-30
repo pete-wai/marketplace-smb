@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-a0952472b4de",
+  "retrievedAt": "2026-10-30T11:01:02.157Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.dayforce.com/who-we-serve/US-Federal-Government-Payroll-Workforce-Management-Software",
+      "finalUrl": "https://www.dayforce.com/who-we-serve/us-federal-government-payroll-workforce-management-software",
+      "status": "success",
+      "sha256": "bf4efa9eebaf342a78bb3f7135ad529e69c4375bc0ed97437592155b791e71b9",
+      "title": "U.S. Federal Government Workforce Operations | Software | Dayforce",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dayforce.com/who-we-are/newsroom/dayforce-advances-fedramp-authorization-to-deepen-commitment-to-u-s-federal-agencies",
+        "https://www.dayforce.com/who-we-serve/public-sector",
+        "https://www.dayforce.com/who-we-serve/us-federal-government-payroll-workforce-management-software"
+      ]
+    },
+    {
+      "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-advances-fedramp-authorization-to-deepen-commitment-to-u-s-federal-agencies",
+      "finalUrl": "https://www.dayforce.com/who-we-are/newsroom/dayforce-advances-fedramp-authorization-to-deepen-commitment-to-u-s-federal-agencies",
+      "status": "success",
+      "sha256": "2a348636ff5aad39a0d5657e173cb17362f637a894755af3ae727d703d160d09",
+      "title": "Newsroom | Dayforce",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dayforce.com/who-we-serve/public-sector"
+      ]
+    },
+    {
+      "url": "https://www.dayforce.com/who-we-serve/public-sector",
+      "finalUrl": "https://www.dayforce.com/who-we-serve/public-sector",
+      "status": "success",
+      "sha256": "f9637f9353ba3c946caea4b1c20ab933d6bfbcabfe2403d115429a407e9716a9",
+      "title": "HR and Payroll Services for Government Industries | Dayforce",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.dayforce.com/who-we-serve/us-federal-government-payroll-workforce-management-software",
+      "finalUrl": "https://www.dayforce.com/who-we-serve/us-federal-government-payroll-workforce-management-software",
+      "status": "success",
+      "sha256": "20c86ea8bd7c62465e7d6adacfc79a809234dfb38e32383d83b472dd962bbaa5",
+      "title": "U.S. Federal Government Workforce Operations | Software | Dayforce",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

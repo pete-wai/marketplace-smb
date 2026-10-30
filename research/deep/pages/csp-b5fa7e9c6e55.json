@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-b5fa7e9c6e55",
+  "retrievedAt": "2026-10-30T11:02:01.615Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.recaccess.com/",
+      "finalUrl": "https://www.recaccess.com/",
+      "status": "success",
+      "sha256": "abb59e4277e1a967674e4e171fdc624772f8341fdeb912f51c3aae0ac2895ad1",
+      "title": "RecAccess | Outdoor Recreation Program Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.recaccess.com/about"
+      ]
+    },
+    {
+      "url": "https://www.recaccess.com/about",
+      "finalUrl": "https://www.recaccess.com/about",
+      "status": "success",
+      "sha256": "ab442deb6909554eff93637c2b8385e2aa8b12b5c2c342064a9babde3fa3809d",
+      "title": "About Us | RecAccess &#x2014; FedRAMP Authorized",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

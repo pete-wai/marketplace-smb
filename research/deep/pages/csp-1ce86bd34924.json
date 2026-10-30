@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-1ce86bd34924",
+  "retrievedAt": "2026-10-30T11:00:51.959Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://clarivate.com/",
+      "finalUrl": "https://clarivate.com/",
+      "status": "success",
+      "sha256": "1716eacfa5c071af9070debd861fbdcc54d8f36fad64ae626eb8140986e55b62",
+      "title": "Clarivate - Leading Global Transformative Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://clarivate.com/academia-government/",
+        "https://clarivate.com/life-sciences-healthcare/",
+        "https://clarivate.com/academia-government/the-institute-for-scientific-information/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-research-assistant/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-apis-and-xml-data/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/incites-benchmarking-analytics/",
+        "https://clarivate.com/academia-government/scientific-and-academic-research/research-funding-analytics/web-of-science-research-intelligence/"
+      ]
+    },
+    {
+      "url": "https://clarivate.com/academia-government/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://clarivate.com/life-sciences-healthcare/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://clarivate.com/academia-government/the-institute-for-scientific-information/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

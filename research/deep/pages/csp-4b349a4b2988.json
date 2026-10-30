@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-4b349a4b2988",
+  "retrievedAt": "2026-10-30T11:01:44.334Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ncrvoyix.com/company/public-sector",
+      "finalUrl": "https://www.ncrvoyix.com/industry/retail",
+      "status": "success",
+      "sha256": "f85db32fb8db7db28aef916e8b9d47330fd19294877a3d8e8a421a2283d6a911",
+      "title": "Voyix POS Retail Technology Platform & Solutions | NCR Voyix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ncrvoyix.com/about",
+        "https://www.ncrvoyix.com/about/careers",
+        "https://www.ncrvoyix.com/about/suppliers",
+        "https://www.ncrvoyix.com/about/aloha-referral-program",
+        "https://www.ncrvoyix.com/about/locations",
+        "https://www.ncrvoyix.com/about/become-a-partner"
+      ]
+    },
+    {
+      "url": "https://www.ncrvoyix.com/about",
+      "finalUrl": "https://www.ncrvoyix.com/about",
+      "status": "success",
+      "sha256": "e21360f8209b430025369ff11b64d4fcc4bf8ac76a6a455cf16f0cb0d1d19d19",
+      "title": "About Our Unified Commerce Company | NCR Voyix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ncrvoyix.com/ja/about",
+        "https://www.ncrvoyix.com/about/careers",
+        "https://www.ncrvoyix.com/about/suppliers",
+        "https://www.ncrvoyix.com/about/aloha-referral-program",
+        "https://www.ncrvoyix.com/about/cec",
+        "https://www.ncrvoyix.com/about/locations",
+        "https://www.ncrvoyix.com/about/become-a-partner"
+      ]
+    },
+    {
+      "url": "https://www.ncrvoyix.com/about/careers",
+      "finalUrl": "https://www.ncrvoyix.com/about/careers",
+      "status": "success",
+      "sha256": "9302b44b6d212bcc2560684094e047bef553dae39215f1db96a7f89860809d21",
+      "title": "Careers & Jobs in Retail & Restaurant Tech | NCR Voyix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ncrvoyix.com/ja/about/careers",
+        "https://www.ncrvoyix.com/about/suppliers",
+        "https://www.ncrvoyix.com/about/aloha-referral-program",
+        "https://www.ncrvoyix.com/about/locations",
+        "https://www.ncrvoyix.com/about/become-a-partner"
+      ]
+    },
+    {
+      "url": "https://www.ncrvoyix.com/about/suppliers",
+      "finalUrl": "https://www.ncrvoyix.com/about/suppliers",
+      "status": "success",
+      "sha256": "ca607a0c6d37ae2f08f760e1b3a4e77c6a38a8e3560d39152f1b6b0410fc512e",
+      "title": "Supplier & Vendor Portal | NCR Voyix",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ncrvoyix.com/ja/about/suppliers",
+        "https://www.ncrvoyix.com/about/aloha-referral-program",
+        "https://www.ncrvoyix.com/about/locations",
+        "https://www.ncrvoyix.com/about/become-a-partner"
+      ]
+    }
+  ]
+}

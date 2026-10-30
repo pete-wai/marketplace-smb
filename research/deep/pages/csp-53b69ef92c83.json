@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-53b69ef92c83",
+  "retrievedAt": "2026-10-30T11:02:04.296Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://replit.com/",
+      "finalUrl": "https://replit.com/",
+      "status": "success",
+      "sha256": "bd2027ab8bd949a8b3a725c3678bec80b7da50d49ff7bda41af733d50a26fcfb",
+      "title": "AI App and Website Builder | Replit",
+      "signals": [],
+      "discoveredLinks": [
+        "https://replit.com/about"
+      ]
+    },
+    {
+      "url": "https://replit.com/about",
+      "finalUrl": "https://replit.com/about",
+      "status": "success",
+      "sha256": "4193ff1dda5f9e34040e400c294f7e5ccb68cbbc1ce7123b84575916af2e8683",
+      "title": "About Us | Replit",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

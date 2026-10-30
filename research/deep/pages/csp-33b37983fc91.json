@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-33b37983fc91",
+  "retrievedAt": "2026-10-30T11:00:41.379Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ardoq.com/",
+      "finalUrl": "https://www.ardoq.com/",
+      "status": "success",
+      "sha256": "6453dbc83015aee98bd755c33ff39f49c17f14c5baa7995517e01832764e5b05",
+      "title": "Enterprise Architecture Software | Ardoq",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ardoq.com/about-ardoq",
+        "https://www.ardoq.com/solutions/business-capability-modeling",
+        "https://www.ardoq.com/ai-and-innovation",
+        "https://www.ardoq.com/solutions/business-capability-realization"
+      ]
+    },
+    {
+      "url": "https://www.ardoq.com/about-ardoq",
+      "finalUrl": "https://www.ardoq.com/about-ardoq",
+      "status": "success",
+      "sha256": "f29e18eeb8116b34513753185f3ff5bebbcbeb081dbffef7a230f13e0b5f85c9",
+      "title": "About Us | Ardoq",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ardoq.com/solutions/business-capability-modeling",
+        "https://www.ardoq.com/ai-and-innovation",
+        "https://www.ardoq.com/solutions/business-capability-realization"
+      ]
+    },
+    {
+      "url": "https://www.ardoq.com/solutions/business-capability-modeling",
+      "finalUrl": "https://www.ardoq.com/solutions/business-capability-modeling",
+      "status": "success",
+      "sha256": "c375de689fe71d298f3fe18d5f86b0afe63a1c47db1577dd2e124acaf4fee72b",
+      "title": "Business Capability Modeling | Ardoq",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ardoq.com/ai-and-innovation",
+        "https://www.ardoq.com/solutions/business-capability-realization",
+        "https://www.ardoq.com/knowledge-hub/business-capabilities-examples"
+      ]
+    },
+    {
+      "url": "https://www.ardoq.com/ai-and-innovation",
+      "finalUrl": "https://www.ardoq.com/ai-and-innovation",
+      "status": "success",
+      "sha256": "d6a5be63c11a226c8702831ea256bfad0faad495e72e2b1111d7292b885ad106",
+      "title": "AI and Innovation at Ardoq | Faster. Smarter. Better.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ardoq.com/blog/new-ardoq-ai-features-to-automate-value-streams-and-capability-modelling?utm_source=chatgpt.com",
+        "https://www.ardoq.com/solutions/business-capability-realization"
+      ]
+    }
+  ]
+}

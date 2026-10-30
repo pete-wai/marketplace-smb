@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-ab41829bc1d9",
+  "retrievedAt": "2026-10-30T11:01:50.169Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://business.optum.com/en/federal-government.html",
+      "finalUrl": "https://business.optum.com/en/federal-government.html",
+      "status": "success",
+      "sha256": "a2a8f0f183df2ae4e16f9dc2b0874fb5003c30b968f5dc1a71cad8388663c114",
+      "title": "Devoted to Improving Lives Across the Nation | Optum Business",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "tical research study Discover how connections within the military and Veteran communities impact health. Learn more Small Business Partners Small Business Partners We&#39;re committed to developing long-term relationships with small businesses to help them succeed in the federal market. Learn"
+        }
+      ],
+      "discoveredLinks": [
+        "https://business.optum.com/en/access/federal-health-services.html",
+        "https://business.optum.com/en/access/federal-health-services/community-care-services.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/certifications-partnerships.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/news-events.html",
+        "https://business.optum.com/en/access/federal-health-services/public-health-preparedness-response.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/research-study.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/small-business-partners.html"
+      ]
+    },
+    {
+      "url": "https://business.optum.com/en/access/federal-health-services.html",
+      "finalUrl": "https://business.optum.com/en/access/federal-health-services.html",
+      "status": "success",
+      "sha256": "45ae9584be26e9d236c0f2835daf967981eb886bb7a09b244f80d854ca61bc98",
+      "title": "Health Services for Military and Veterans | Optum Business",
+      "signals": [],
+      "discoveredLinks": [
+        "https://business.optum.com/en/federal-government/about-optum-serve/research-study.html",
+        "https://business.optum.com/en/access/federal-health-services/public-health-preparedness-response/mobile-medical-units.html",
+        "https://business.optum.com/en/access/federal-health-services/public-health-preparedness-response.html",
+        "https://business.optum.com/en/access/federal-health-services/federal-health-programs.html",
+        "https://business.optum.com/en/access/federal-health-services/medical-disability-examinations.html",
+        "https://business.optum.com/en/access/federal-health-services/community-care-services.html",
+        "https://business.optum.com/en/access/federal-health-services/global-medical.html"
+      ]
+    },
+    {
+      "url": "https://business.optum.com/en/access/federal-health-services/community-care-services.html",
+      "finalUrl": "https://business.optum.com/en/access/federal-health-services/community-care-services.html",
+      "status": "success",
+      "sha256": "a8192a7d2144894686b4860af017517b0ba0f7a1fadf8fe13762bda603dc40ae",
+      "title": "Community Care Services for Veterans | Optum Business",
+      "signals": [],
+      "discoveredLinks": [
+        "https://business.optum.com/en/access/federal-health-services/federal-health-programs.html",
+        "https://business.optum.com/en/access/federal-health-services/medical-disability-examinations.html"
+      ]
+    },
+    {
+      "url": "https://business.optum.com/en/federal-government/about-optum-serve.html",
+      "finalUrl": "https://business.optum.com/en/federal-government/about-optum-serve.html",
+      "status": "success",
+      "sha256": "b810f73a9a5d3566bed3c15b709eefba6425cfa7eeaddd5d528d8a1bf5fa4cd0",
+      "title": "About Optum Serve - A Federal Health Services Business​",
+      "signals": [],
+      "discoveredLinks": [
+        "https://business.optum.com/en/federal-government/about-optum-serve/certifications-partnerships.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/contract-vehicles.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/contract-vehicles/cio-sp3.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/news-events.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/research-study.html",
+        "https://business.optum.com/en/federal-government/about-optum-serve/small-business-partners.html"
+      ]
+    }
+  ]
+}

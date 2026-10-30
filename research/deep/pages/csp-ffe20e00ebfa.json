@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-ffe20e00ebfa",
+  "retrievedAt": "2026-10-30T11:01:40.797Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://federal.medialab.com/",
+      "finalUrl": "https://federal.medialab.com/",
+      "status": "success",
+      "sha256": "b75a966c6c51413cd81ffb100680a8d3bb1fdabe8468afb1d6532a21bb6c71e1",
+      "title": "MediaLab, Inc. - Quality Management Solutions Designed for Healthcare",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

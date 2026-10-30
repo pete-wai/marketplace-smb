@@ -1,0 +1,91 @@
+{
+  "providerId": "csp-15c0edb69e72",
+  "retrievedAt": "2026-10-30T11:01:11.739Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ey.com/en_us/alliances/ey-grants-accelerator",
+      "finalUrl": "https://www.ey.com/en_us/alliances/ey-grants-accelerator",
+      "status": "success",
+      "sha256": "32394106c49652fa7102c03bea942e2760778def23d92ba73e5f0f1b954b336a",
+      "title": "EY Grants Accelerator grants management solution | EY - US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ey.com/en_us/services/strategy/parthenon",
+        "https://www.ey.com/en_us/industries/government-infrastructure",
+        "https://www.ey.com/en_us/industries/government-public-sector",
+        "https://www.ey.com/en_us/industries/government-public-sector/education-services",
+        "https://www.ey.com/en_us/industries/government-public-sector/federal-government-consulting",
+        "https://www.ey.com/en_us/industries/government-public-sector/state-and-local-government-consulting",
+        "https://www.ey.com/en_us/about-us",
+        "https://www.ey.com/en_us/about-us/connect-with-us",
+        "https://www.ey.com/en_us/functional/forms/form-snippets/government-public-sector/ey-grants-accelerator-demo",
+        "https://www.ey.com/en_us/insights/government-public-sector/case-study-aid-distributed-to-early-learning-workers",
+        "https://www.ey.com/en_us/insights/government-public-sector/ey-grants-accelerator-cross-discipline-team-building-fast-tracked-the-infrastructure-to-accelerate-covid-19-relief-funding",
+        "https://www.ey.com/en_us/people/aaron-robinson"
+      ]
+    },
+    {
+      "url": "https://www.ey.com/en_us/services/strategy/parthenon",
+      "finalUrl": "https://www.ey.com/en_us/services/strategy/parthenon",
+      "status": "success",
+      "sha256": "89f2097581b588876a28f6a4f73f09ed1579f75eacb25326d16dc0b543369c50",
+      "title": "EY-Parthenon: Transformative Strategy and Transactions | EY - US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ey.com/en_us/industries/government-infrastructure",
+        "https://www.ey.com/en_us/industries/government-public-sector",
+        "https://www.ey.com/en_us/industries/government-public-sector/education-services",
+        "https://www.ey.com/en_us/industries/government-public-sector/federal-government-consulting",
+        "https://www.ey.com/en_us/industries/government-public-sector/state-and-local-government-consulting",
+        "https://www.ey.com/en_us/about-us",
+        "https://www.ey.com/en_us/about-us/connect-with-us",
+        "https://www.ey.com/en_us/industries/government-public-sector/government-public-sector-strategy-consulting",
+        "https://www.ey.com/en_us/people/ryan-butman",
+        "https://www.ey.com/en_us/people/amar-mehta"
+      ]
+    },
+    {
+      "url": "https://www.ey.com/en_us/industries/government-infrastructure",
+      "finalUrl": "https://www.ey.com/en_us/industries/government-infrastructure",
+      "status": "success",
+      "sha256": "0b57fe9ae978d968d9457a318dcd82067784d6069d54c0423b42cd5d998f2628",
+      "title": "Government & Infrastructure | EY - US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ey.com/en_us/industries/government-public-sector",
+        "https://www.ey.com/en_us/industries/government-public-sector/education-services",
+        "https://www.ey.com/en_us/industries/government-public-sector/federal-government-consulting",
+        "https://www.ey.com/en_us/industries/government-public-sector/state-and-local-government-consulting",
+        "https://www.ey.com/en_us/about-us",
+        "https://www.ey.com/en_us/about-us/connect-with-us",
+        "https://www.ey.com/en_us/insights/government-public-sector/how-a-five-step-roadmap-helps-governments-succeed-with-ai",
+        "https://www.ey.com/en_us/insights/government-public-sector/how-data-analytics-and-ai-in-government-can-drive-greater-public-value",
+        "https://www.ey.com/en_us/alliances",
+        "https://www.ey.com/en_us/people/catherine-friday"
+      ]
+    },
+    {
+      "url": "https://www.ey.com/en_us/industries/government-public-sector",
+      "finalUrl": "https://www.ey.com/en_us/industries/government-public-sector",
+      "status": "success",
+      "sha256": "6046231f9e6edff9d19137dd5841318469e32fb8d692c79afc27df6d4e0b83d6",
+      "title": "Government & Public Sector Services | EY - US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ey.com/en_us/industries/government-public-sector/education-services",
+        "https://www.ey.com/en_us/industries/government-public-sector/federal-government-consulting",
+        "https://www.ey.com/en_us/industries/government-public-sector/state-and-local-government-consulting",
+        "https://www.ey.com/en_us/about-us",
+        "https://www.ey.com/en_us/about-us/connect-with-us",
+        "https://www.ey.com/en_us/industries/government-public-sector/technology-consulting",
+        "https://www.ey.com/en_us/industries/government-public-sector/government-and-public-sector-financial-management-services",
+        "https://www.ey.com/en_us/industries/government-public-sector/government-and-public-sector-cybersecurity",
+        "https://www.ey.com/en_us/industries/government-public-sector/government-supply-chain-and-operations",
+        "https://www.ey.com/en_us/industries/government-public-sector/government-public-sector-strategy-consulting",
+        "https://www.ey.com/en_us/industries/government-public-sector/government-workforce",
+        "https://www.ey.com/en_us/industries/government-public-sector/infrastructure-and-transportation"
+      ]
+    }
+  ]
+}

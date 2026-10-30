@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-8370802aa06b",
+  "retrievedAt": "2026-10-30T11:01:59.576Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://mail.quadient.com/",
+      "finalUrl": "https://www.quadient.com/en-us",
+      "status": "success",
+      "sha256": "58fdbf299f130e10765f6d625ac1ef5bcb9a7161fe76e6400e6eed2dfc5b71c2",
+      "title": "Make every connection count | Quadient",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.quadient.com/en-us/public-sector",
+        "https://www.quadient.com/en-us/about",
+        "https://www.quadient.com/en-us/our-story",
+        "https://www.quadient.com/en-us/government-accounts"
+      ]
+    },
+    {
+      "url": "https://www.quadient.com/en-us/public-sector",
+      "finalUrl": "https://www.quadient.com/en-us/public-sector",
+      "status": "success",
+      "sha256": "80262f1c8fc04defed79f64d6a86605675036f2e649acdd4f3956161eb496e82",
+      "title": "Public Sector Automation Solutions | Quadient | Quadient",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.quadient.com/en-ca/public-sector",
+        "https://www.quadient.com/en-us/about",
+        "https://www.quadient.com/en-us/our-story",
+        "https://www.quadient.com/en-us/solutions",
+        "https://www.quadient.com/en-us/government-accounts",
+        "https://www.quadient.com/en-us/news/quadient-secures-new-1.6-million-dollar-contract-to-enhance-us-government-agency-mail-automation-capacity",
+        "https://www.quadient.com/en-us/resources"
+      ]
+    },
+    {
+      "url": "https://www.quadient.com/en-us/about",
+      "finalUrl": "https://www.quadient.com/en-us/about",
+      "status": "success",
+      "sha256": "c89e23d97c24811d452fa241808d8744bc8a1ff149876d64f968d01cd2696549",
+      "title": "About us | Quadient",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.quadient.com/en-ca/about",
+        "https://www.quadient.com/en-us/our-story",
+        "https://www.quadient.com/en-us/government-accounts"
+      ]
+    },
+    {
+      "url": "https://www.quadient.com/en-us/our-story",
+      "finalUrl": "https://www.quadient.com/en-us/our-story",
+      "status": "success",
+      "sha256": "499513a5db191587cc0c731e44f8c1aa2843d7707d95f4e704969ffdcc01afc3",
+      "title": "Our mission | Quadient",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.quadient.com/en-us/government-accounts"
+      ]
+    }
+  ]
+}

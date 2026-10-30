@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-ae443dd591bd",
+  "retrievedAt": "2026-10-30T11:02:25.869Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.usu.com/en/it-asset-management/itam-for-government",
+      "finalUrl": "https://www.usu.com/en/it-asset-management/itam-for-government",
+      "status": "success",
+      "sha256": "551e7a0627def23273a32d4f4496e5cc33c12d1f0fb937d41903c85a1143863f",
+      "title": "IT Asset Management for Government | Optimize Costs & Compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usu.com/en/company",
+        "https://www.usu.com/en/company/mission-statement",
+        "https://www.usu.com/en/company/management",
+        "https://www.usu.com/en/company/locations"
+      ]
+    },
+    {
+      "url": "https://www.usu.com/en/company",
+      "finalUrl": "https://www.usu.com/en/company",
+      "status": "success",
+      "sha256": "01a16d0544998f667af94ac14bdbb96d7866b83ca858067e7b90dc4951e81f96",
+      "title": "Who is USU?",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usu.com/en/company/mission-statement",
+        "https://www.usu.com/en/company/management",
+        "https://www.usu.com/en/company/locations"
+      ]
+    },
+    {
+      "url": "https://www.usu.com/en/company/mission-statement",
+      "finalUrl": "https://www.usu.com/en/company/mission-statement",
+      "status": "success",
+      "sha256": "667a529c45ca3a299df9132254891092baa46c0756d3fb24ba35a9505668468b",
+      "title": "Common Goals and Clear Values | USU Mission Statement",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usu.com/en/company/management",
+        "https://www.usu.com/en/company/locations"
+      ]
+    },
+    {
+      "url": "https://www.usu.com/en/company/management",
+      "finalUrl": "https://www.usu.com/en/company/management",
+      "status": "success",
+      "sha256": "62ad5b4fde7deaba4cb9bf3ae6ee057e2fffe3f1b57d6f46c636f549225953c6",
+      "title": "USU GmbH - Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.usu.com/en/company/locations"
+      ]
+    }
+  ]
+}

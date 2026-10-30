@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-4872513d4059",
+  "retrievedAt": "2026-10-30T11:00:54.946Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.publicsector.com/",
+      "finalUrl": "https://www.publicsector.com/",
+      "status": "success",
+      "sha256": "209cf3b4b8ba048f46b6390e5bbcc6e0ec065b044c0adbbd87292c3f8838c535",
+      "title": "Secure and trusted data and AI governance for US Federal agencies | Collibra Public Sector",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ecific solutions Collibra Public Sector, an independently operated US subsidiary of Collibra Inc, works with agencies across the US federal government to deliver trusted and secure data and AI. Security and compliance Collibra Public Sector software is built with a"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.publicsector.com/company/trust-center",
+        "https://www.publicsector.com/products/collibra-platform-for-government",
+        "https://www.publicsector.com/products/collibra-platform-self-hosted",
+        "https://www.publicsector.com/tour",
+        "https://www.publicsector.com/demo"
+      ]
+    },
+    {
+      "url": "https://www.publicsector.com/",
+      "finalUrl": "https://www.publicsector.com/",
+      "status": "success",
+      "sha256": "209cf3b4b8ba048f46b6390e5bbcc6e0ec065b044c0adbbd87292c3f8838c535",
+      "title": "Secure and trusted data and AI governance for US Federal agencies | Collibra Public Sector",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ecific solutions Collibra Public Sector, an independently operated US subsidiary of Collibra Inc, works with agencies across the US federal government to deliver trusted and secure data and AI. Security and compliance Collibra Public Sector software is built with a"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.publicsector.com/company/trust-center",
+        "https://www.publicsector.com/products/collibra-platform-for-government",
+        "https://www.publicsector.com/products/collibra-platform-self-hosted",
+        "https://www.publicsector.com/tour",
+        "https://www.publicsector.com/demo"
+      ]
+    },
+    {
+      "url": "https://www.publicsector.com/company/trust-center",
+      "finalUrl": "https://www.publicsector.com/company/trust-center",
+      "status": "success",
+      "sha256": "1d7fbd71a6616a87ca7f2edb89e135e968cd5c45d73d53fb418080ee346fb75d",
+      "title": "Trust Center | Collibra Public Sector: Compliance, Security & Responsible AI | Collibra Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.publicsector.com/tour",
+        "https://www.publicsector.com/demo"
+      ]
+    },
+    {
+      "url": "https://www.publicsector.com/products/collibra-platform-for-government",
+      "finalUrl": "https://www.publicsector.com/products/collibra-platform-for-government",
+      "status": "success",
+      "sha256": "39397f8d4f44a7e49828c84de641dc9aa6038567009ec7e053ba4d9c043c70ef",
+      "title": "Collibra Platform for Government: Secure Data & AI Governance for Agencies | Collibra Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.publicsector.com/tour",
+        "https://www.publicsector.com/demo"
+      ]
+    }
+  ]
+}

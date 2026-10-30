@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-740aa1f07271",
+  "retrievedAt": "2026-10-30T11:00:45.217Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.autorabit.com/solutions/public-sector/",
+      "finalUrl": "https://www.autorabit.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "1abc0ef942b78bda008d901f2de8025fb0db2a9e0fd159aa0228b9ebb0522cd7",
+      "title": "Salesforce security tools for the public sector | AutoRABIT",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.autorabit.com/solutions/fedramp/",
+        "https://www.autorabit.com/about-us/",
+        "https://www.autorabit.com/solutions/public-sector/itemDataObject.url"
+      ]
+    },
+    {
+      "url": "https://www.autorabit.com/solutions/fedramp/",
+      "finalUrl": "https://www.autorabit.com/solutions/fedramp/",
+      "status": "success",
+      "sha256": "e7e83535893b511ebf4a6e94fdd089096a9f8595d47cecf0f224418f138081e0",
+      "title": "FedRAMP Moderate-approved Security Solutions for Regulated Industries | AutoRABIT",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.autorabit.com/about-us/",
+        "https://www.autorabit.com/blog/securing-salesforce-for-the-public-sector/",
+        "https://www.autorabit.com/datasheets/autorabit-for-the-public-sector/",
+        "https://www.autorabit.com/datasheets/codescan-for-the-public-sector/"
+      ]
+    },
+    {
+      "url": "https://www.autorabit.com/about-us/",
+      "finalUrl": "https://www.autorabit.com/about-us/",
+      "status": "success",
+      "sha256": "322b1360bf0a8f503a7dd2a0a0a059ca79bb20484bec27ce0485cc43b3ced5c9",
+      "title": "About AutoRABIT",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "eld key roles at HashiCorp, Proofpoint, Symantec, and Ionic Security (acquired by Twilio), earning top honors like Global Account Manager of the Year and President’s Club. Phillip brings a consultative, technically grounded approach to helping global enterprises modernize security, compliance,"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.autorabit.com/about-us/itemDataObject.url"
+      ]
+    },
+    {
+      "url": "https://www.autorabit.com/solutions/public-sector/itemDataObject.url",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

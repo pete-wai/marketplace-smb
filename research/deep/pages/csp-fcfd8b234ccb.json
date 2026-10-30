@@ -1,0 +1,72 @@
+{
+  "providerId": "csp-fcfd8b234ccb",
+  "retrievedAt": "2026-10-30T11:01:19.025Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.gordian.com/solutions/industry/federal/fedramp/",
+      "finalUrl": "https://www.gordian.com/solutions/industry/federal/fedramp/",
+      "status": "success",
+      "sha256": "219aa26affcae042a24944ce26d42977f5a3b88a90c376a77390a21fcff7063a",
+      "title": "FedRAMP | Gordian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.gordian.com/solutions/industry/federal/",
+        "https://www.gordian.com/solutions/industry/canada-public-sector/",
+        "https://www.gordian.com/solutions/industry/uk-public-sector/",
+        "https://www.gordian.com/platform/",
+        "https://www.gordian.com/company/",
+        "https://www.gordian.com/company/leadership/",
+        "https://www.gordian.com/solutions/industry/federal/fedramp/nohref",
+        "https://www.gordian.com/resources/3-reasons-move-to-the-cloud-federal/"
+      ]
+    },
+    {
+      "url": "https://www.gordian.com/solutions/industry/federal/",
+      "finalUrl": "https://www.gordian.com/solutions/industry/federal/",
+      "status": "success",
+      "sha256": "756aca3918be4b0aec994898dd606be59c8fdfabbfc130d24a73a2c0eef42292",
+      "title": "Federal Solutions for the Construction Lifecycle | Gordian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.gordian.com/solutions/industry/canada-public-sector/",
+        "https://www.gordian.com/solutions/industry/uk-public-sector/",
+        "https://www.gordian.com/platform/",
+        "https://www.gordian.com/company/",
+        "https://www.gordian.com/company/leadership/",
+        "https://www.gordian.com/resources/federal-small-business-enablement-through-innovative-procurement-methods/",
+        "https://www.gordian.com/resources/millitary-base-success-idiq-contract/",
+        "https://www.gordian.com/resources/designing-for-the-future-federal-construction-life-cycles/"
+      ]
+    },
+    {
+      "url": "https://www.gordian.com/solutions/industry/canada-public-sector/",
+      "finalUrl": "https://www.gordian.com/solutions/industry/canada-public-sector/",
+      "status": "success",
+      "sha256": "631027de0d3343cb3d848330a7e6b398b48744627470cbe91ae72caf9e23712e",
+      "title": "Canada Public Sector | Gordian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.gordian.com/solutions/industry/uk-public-sector/",
+        "https://www.gordian.com/platform/",
+        "https://www.gordian.com/company/",
+        "https://www.gordian.com/company/leadership/",
+        "https://www.gordian.com/solutions/industry/canada-public-sector/kinetic-gpo/",
+        "https://www.gordian.com/resources/how-to-develop-facilities-assessment-strategy/"
+      ]
+    },
+    {
+      "url": "https://www.gordian.com/solutions/industry/uk-public-sector/",
+      "finalUrl": "https://www.gordian.com/solutions/industry/uk-public-sector/",
+      "status": "success",
+      "sha256": "7aca40ef5648b85bdf66ba6681e8586dc5ac11f223d6ecf6764ce6ba827db874",
+      "title": "UK Public Sector | Gordian",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.gordian.com/platform/",
+        "https://www.gordian.com/company/",
+        "https://www.gordian.com/company/leadership/"
+      ]
+    }
+  ]
+}

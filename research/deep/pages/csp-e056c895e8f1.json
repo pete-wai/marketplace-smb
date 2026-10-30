@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-e056c895e8f1",
+  "retrievedAt": "2026-10-30T11:00:48.822Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://boomi.com/",
+      "finalUrl": "https://boomi.com/",
+      "status": "success",
+      "sha256": "6b5a76e18c8717f13dd50e9262a79b2d2566d2d0ec887e3a2c0b8205b93469a5",
+      "title": "Boomi | The Data Activation Company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://boomi.com/company/contact-sales/",
+        "https://boomi.com/platform/embedded/",
+        "https://boomi.com/solutions/industries/public-sector/",
+        "https://boomi.com/blog/",
+        "https://boomi.com/company/events/",
+        "https://boomi.com/boomi-podcast/",
+        "https://boomi.com/partners/",
+        "https://boomi.com/partners/embedded-software-providers/",
+        "https://boomi.com/company/",
+        "https://boomi.com/company/careers/",
+        "https://boomi.com/company/leadership-team/",
+        "https://boomi.com/company/contact/"
+      ]
+    },
+    {
+      "url": "https://boomi.com/company/contact-sales/",
+      "finalUrl": "https://boomi.com/company/contact-sales/",
+      "status": "success",
+      "sha256": "14e749ba6bb69621ec2ba1365d50341708a0a0aad65cfa2fa95996947486912f",
+      "title": "Contact Boomi | The Data Activation company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://boomi.com/platform/embedded/",
+        "https://boomi.com/solutions/industries/public-sector/",
+        "https://boomi.com/blog/",
+        "https://boomi.com/company/events/",
+        "https://boomi.com/boomi-podcast/",
+        "https://boomi.com/partners/",
+        "https://boomi.com/partners/embedded-software-providers/",
+        "https://boomi.com/content/report/isg-buyers-guides-data-integration-mdm/",
+        "https://boomi.com/de/company/contact-sales/",
+        "https://boomi.com/fr/company/contact-sales/",
+        "https://boomi.com/it/company/contact-sales/",
+        "https://boomi.com/ja/company/contact-sales/"
+      ]
+    },
+    {
+      "url": "https://boomi.com/platform/embedded/",
+      "finalUrl": "https://boomi.com/platform/embedded/",
+      "status": "success",
+      "sha256": "e7b67800726952344b7e947eefc6d695b46f69cb8d5052a43bbd7edea9fec483",
+      "title": "Enterprise Embedded Platform | Boomi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://boomi.com/solutions/industries/public-sector/",
+        "https://boomi.com/blog/",
+        "https://boomi.com/company/events/",
+        "https://boomi.com/boomi-podcast/",
+        "https://boomi.com/partners/",
+        "https://boomi.com/partners/embedded-software-providers/",
+        "https://boomi.com/content/report/isg-buyers-guides-data-integration-mdm/",
+        "https://boomi.com/platform/",
+        "https://boomi.com/company/",
+        "https://boomi.com/company/careers/",
+        "https://boomi.com/company/leadership-team/",
+        "https://boomi.com/company/contact/"
+      ]
+    },
+    {
+      "url": "https://boomi.com/solutions/industries/public-sector/",
+      "finalUrl": "https://boomi.com/solutions/industries/public-sector/",
+      "status": "success",
+      "sha256": "117ee13af25d837e0ba9a77e8ac40aee96306d8fbdf83a102906790195e9e907",
+      "title": "Boomi for Government Services | Put Data in Motion",
+      "signals": [],
+      "discoveredLinks": [
+        "https://boomi.com/blog/",
+        "https://boomi.com/company/events/",
+        "https://boomi.com/boomi-podcast/",
+        "https://boomi.com/partners/",
+        "https://boomi.com/partners/embedded-software-providers/",
+        "https://boomi.com/content/report/isg-buyers-guides-data-integration-mdm/",
+        "https://boomi.com/de/solutions/industries/public-sector/",
+        "https://boomi.com/fr/solutions/industries/public-sector/",
+        "https://boomi.com/it/solutions/industries/public-sector/",
+        "https://boomi.com/ja/solutions/industries/public-sector/",
+        "https://boomi.com/platform/",
+        "https://boomi.com/company/awards/"
+      ]
+    }
+  ]
+}

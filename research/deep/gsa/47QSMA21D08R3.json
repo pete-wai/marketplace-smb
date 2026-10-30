@@ -1,0 +1,18 @@
+{
+  "name": "PITNEY BOWES INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QSMA21D08R3&contractorName=PITNEY+BOWES+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-f5d0c7bc8a3c"
+  ],
+  "contractNumber": "47QSMA21D08R3",
+  "retrievedAt": "2026-10-30T11:08:20.526Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:15.706Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

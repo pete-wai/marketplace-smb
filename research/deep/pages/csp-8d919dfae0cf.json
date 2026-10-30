@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-8d919dfae0cf",
+  "retrievedAt": "2026-10-30T11:01:36.164Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.lexisnexis.com/lexisplusgov",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

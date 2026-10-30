@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-dbc36f06cf0a",
+  "retrievedAt": "2026-10-30T11:00:49.570Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://bppulsefleet.com/fleet/products/charge-management-software/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

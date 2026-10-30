@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-1b182199e823",
+  "retrievedAt": "2026-10-30T11:01:40.412Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.mdrc.org/",
+      "finalUrl": "https://www.mdrc.org/",
+      "status": "success",
+      "sha256": "81b931b562a3a8fb7c344894fd871e600c35ac4cf79be31b3b5ccbbf72747a3f",
+      "title": "MDRC | Building knowledge to improve social policy",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mdrc.org/about/careers",
+        "https://www.mdrc.org/about",
+        "https://www.mdrc.org/about/supporters",
+        "https://www.mdrc.org/about/people",
+        "https://www.mdrc.org/about/financial-profile",
+        "https://www.mdrc.org/about/careers/gueron-scholars-program",
+        "https://www.mdrc.org/about/careers/hiring-process",
+        "https://www.mdrc.org/about/50-years-mdrc"
+      ]
+    },
+    {
+      "url": "https://www.mdrc.org/about/careers",
+      "finalUrl": "https://www.mdrc.org/about/careers",
+      "status": "success",
+      "sha256": "6a97dde3a2f94771947e9a7649284ecd676535db759141bb93cb092b14683ced",
+      "title": "Careers | MDRC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mdrc.org/about",
+        "https://www.mdrc.org/about/supporters",
+        "https://www.mdrc.org/about/people",
+        "https://www.mdrc.org/about/financial-profile",
+        "https://www.mdrc.org/about/careers/gueron-scholars-program",
+        "https://www.mdrc.org/about/careers/hiring-process",
+        "https://www.mdrc.org/about/50-years-mdrc"
+      ]
+    },
+    {
+      "url": "https://www.mdrc.org/about",
+      "finalUrl": "https://www.mdrc.org/about",
+      "status": "success",
+      "sha256": "eb7121ca519ff41d72867283892afdb899c4079d69a633320f759162c71a8d9f",
+      "title": "About MDRC | MDRC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mdrc.org/about/supporters",
+        "https://www.mdrc.org/about/people",
+        "https://www.mdrc.org/about/financial-profile",
+        "https://www.mdrc.org/about/careers/gueron-scholars-program",
+        "https://www.mdrc.org/about/careers/hiring-process",
+        "https://www.mdrc.org/about/statement-of-principles",
+        "https://www.mdrc.org/about/50-years-mdrc",
+        "https://www.mdrc.org/about/history"
+      ]
+    },
+    {
+      "url": "https://www.mdrc.org/about/supporters",
+      "finalUrl": "https://www.mdrc.org/about/supporters",
+      "status": "success",
+      "sha256": "57dd7b1b058eaec7ab3c52b7e10efdc7755aa616d6a66317428b57accf8f95c7",
+      "title": "Our Supporters | MDRC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.mdrc.org/about/people",
+        "https://www.mdrc.org/about/financial-profile",
+        "https://www.mdrc.org/about/careers/gueron-scholars-program",
+        "https://www.mdrc.org/about/careers/hiring-process",
+        "https://www.mdrc.org/about/50-years-mdrc"
+      ]
+    }
+  ]
+}

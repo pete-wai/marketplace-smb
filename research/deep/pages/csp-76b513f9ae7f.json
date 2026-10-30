@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-76b513f9ae7f",
+  "retrievedAt": "2026-10-30T11:01:51.178Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pagefreezer.com/",
+      "finalUrl": "https://www.pagefreezer.com/",
+      "status": "success",
+      "sha256": "c2261980305ebf60e71f7877409c1f0652b5e0bb1ad5200eb3d244d96ac5e3b9",
+      "title": "Pagefreezer Digital Archiving Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pagefreezer.com/government/",
+        "https://www.pagefreezer.com/the-government-guide-to-digital-open-records-compliance",
+        "https://www.pagefreezer.com/company-team/",
+        "https://www.pagefreezer.com/company-team"
+      ]
+    },
+    {
+      "url": "https://www.pagefreezer.com/government/",
+      "finalUrl": "https://www.pagefreezer.com/government/",
+      "status": "success",
+      "sha256": "ec0ae05b4d31387e40f7f84953fe4ba3dc4d9220084c15fd62fc87cd7783d25c",
+      "title": "Government Social Media & FOIA Archiving Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pagefreezer.com/the-government-guide-to-digital-open-records-compliance",
+        "https://www.pagefreezer.com/company-team/",
+        "https://www.pagefreezer.com/project-items/case-study-federal-government-website-archiving/",
+        "https://www.pagefreezer.com/company-team"
+      ]
+    },
+    {
+      "url": "https://www.pagefreezer.com/the-government-guide-to-digital-open-records-compliance",
+      "finalUrl": "https://www.pagefreezer.com/the-government-guide-to-digital-open-records-compliance/",
+      "status": "success",
+      "sha256": "efc2c9b2c910bfb839a2907787e6af63f9d4335f2ae7b9fb3888a3761663b29a",
+      "title": "The Government Guide to Digital Open Records Compliance - Pagefreezer Digital Archiving Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pagefreezer.com/company-team/",
+        "https://www.pagefreezer.com/the-government-guide-to-digital-open-records-compliance/",
+        "https://www.pagefreezer.com/company-team"
+      ]
+    },
+    {
+      "url": "https://www.pagefreezer.com/company-team/",
+      "finalUrl": "https://www.pagefreezer.com/company-team/",
+      "status": "success",
+      "sha256": "d493c8186b8a1f1c5f9fe0d53996de0c6f4f6c111157b83da8f03fa1747818ef",
+      "title": "Meet the Team | Pagefreezer",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pagefreezer.com/company-team"
+      ]
+    }
+  ]
+}

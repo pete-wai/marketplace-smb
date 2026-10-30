@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-074f8921fb26",
+  "retrievedAt": "2026-10-30T11:01:21.122Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.hirevue.com/",
+      "finalUrl": "https://www.hirevue.com/",
+      "status": "success",
+      "sha256": "cfc04561d4dd9312b34f6581a72beaddd2532c13f672cf368ac647046b32df9c",
+      "title": "Home | Hirevue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hirevue.com/solutions/government-recruiting-software",
+        "https://www.hirevue.com/about"
+      ]
+    },
+    {
+      "url": "https://www.hirevue.com/solutions/government-recruiting-software",
+      "finalUrl": "https://www.hirevue.com/solutions/government-recruiting-software",
+      "status": "success",
+      "sha256": "7c076e73063594505c319f2ecc23f8faf555026bf90f146a46a8fba9ceb43f5e",
+      "title": "Government & Public Sector Recruitment Software | Hirevue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hirevue.com/about",
+        "https://www.hirevue.com/blog/hiring/how-to-ensure-your-hr-tech-vendor-is-keeping-candidate-data-safe"
+      ]
+    },
+    {
+      "url": "https://www.hirevue.com/about",
+      "finalUrl": "https://www.hirevue.com/about",
+      "status": "success",
+      "sha256": "c048fcf932bf7fd68e46b22c3b234c5f945c19d54962ae4f8bb5353044900cdf",
+      "title": "About the Company Hirevue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hirevue.com/our-science"
+      ]
+    },
+    {
+      "url": "https://www.hirevue.com/blog/hiring/how-to-ensure-your-hr-tech-vendor-is-keeping-candidate-data-safe",
+      "finalUrl": "https://www.hirevue.com/blog/hiring/how-to-ensure-your-hr-tech-vendor-is-keeping-candidate-data-safe",
+      "status": "success",
+      "sha256": "abc95c6ae149d486d31b637c639182625610ad3e9c55aa11387808aebe627c9f",
+      "title": "Blog How to ensure your HR tech vendor is keeping candidate data safe | Hirevue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hirevue.com/blog/hiring/how-hirevue-assessments-can-help-fill-cybersecurity-roles-for-the-federal-government",
+        "https://www.hirevue.com/blog/hiring/recruiting-strategies-for-the-public-sector"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "providerId": "csp-06bb736f062f",
+  "retrievedAt": "2026-10-30T11:00:39.740Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://anomali.com/",
+      "finalUrl": "https://www.anomali.com/",
+      "status": "success",
+      "sha256": "0369264a7e2ed46a7daae8140d6ee3918d546d6cae01fa9be746cff3b35ef7f2",
+      "title": "Anomali | Agentic SOC Platform for Governed Security Action",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.anomali.com/capabilities/threat-intelligence",
+        "https://www.anomali.com/capabilities/siem",
+        "https://www.anomali.com/capabilities/xdr",
+        "https://www.anomali.com/company/events",
+        "https://www.anomali.com/company",
+        "https://www.anomali.com/company/reviews",
+        "https://www.anomali.com/company/awards",
+        "https://www.anomali.com/company/leadership",
+        "https://www.anomali.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.anomali.com/",
+      "finalUrl": "https://www.anomali.com/",
+      "status": "success",
+      "sha256": "0369264a7e2ed46a7daae8140d6ee3918d546d6cae01fa9be746cff3b35ef7f2",
+      "title": "Anomali | Agentic SOC Platform for Governed Security Action",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.anomali.com/capabilities/threat-intelligence",
+        "https://www.anomali.com/capabilities/siem",
+        "https://www.anomali.com/capabilities/xdr",
+        "https://www.anomali.com/company/events",
+        "https://www.anomali.com/company",
+        "https://www.anomali.com/company/reviews",
+        "https://www.anomali.com/company/awards",
+        "https://www.anomali.com/company/leadership",
+        "https://www.anomali.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.anomali.com/capabilities/threat-intelligence",
+      "finalUrl": "https://www.anomali.com/capabilities/threat-intelligence",
+      "status": "success",
+      "sha256": "51a678271bf2f1d5df159cc11835f4752f69291fe39519d5173398147047aa0b",
+      "title": "Threat Intelligence Platform (TIP) - Managed Intelligence as a Service | Anomali",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.anomali.com/capabilities/siem",
+        "https://www.anomali.com/capabilities/xdr",
+        "https://www.anomali.com/company/events",
+        "https://www.anomali.com/company",
+        "https://www.anomali.com/company/reviews",
+        "https://www.anomali.com/company/awards",
+        "https://www.anomali.com/company/leadership",
+        "https://www.anomali.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.anomali.com/capabilities/siem",
+      "finalUrl": "https://www.anomali.com/capabilities/siem",
+      "status": "success",
+      "sha256": "adf8f4175d928307b91af5a5abdbb1d85a7d68411a209434eea84fa4745ee9e3",
+      "title": "AI-Powered SIEM Solution - Modern SIEM Platform | Anomali",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.anomali.com/capabilities/xdr",
+        "https://www.anomali.com/company/events",
+        "https://www.anomali.com/company",
+        "https://www.anomali.com/company/reviews",
+        "https://www.anomali.com/company/awards",
+        "https://www.anomali.com/company/leadership",
+        "https://www.anomali.com/company/careers"
+      ]
+    }
+  ]
+}

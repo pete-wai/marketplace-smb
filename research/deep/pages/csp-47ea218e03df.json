@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-47ea218e03df",
+  "retrievedAt": "2026-10-30T11:02:04.218Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://repariodata.com/",
+      "finalUrl": "https://repariodata.com/",
+      "status": "success",
+      "sha256": "780b7ff5a49373dc7659f47d1536502db912338f1f86bf6dd373e7c995f1ba9d",
+      "title": "Repario Data | Collaboration with Human Intelligence & Technology",
+      "signals": [],
+      "discoveredLinks": [
+        "https://repariodata.com/about/",
+        "https://repariodata.com/press-releases/repario-acquires-unitedlex/"
+      ]
+    },
+    {
+      "url": "https://repariodata.com/about/",
+      "finalUrl": "https://repariodata.com/about/",
+      "status": "success",
+      "sha256": "e342bc03def1bb08126c8eb6c0b2c96e5563641cecd2c50a28ee2cecd804543c",
+      "title": "Our Legal Services Company | Repario Data",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://repariodata.com/press-releases/repario-acquires-unitedlex/",
+      "finalUrl": "https://repariodata.com/press-releases/repario-acquires-unitedlex/",
+      "status": "success",
+      "sha256": "ceb2f805fd50b479aeaed39a958b590b8f204621dc29001deacaa35055c0e22a",
+      "title": "Repario Acquires UnitedLex | Repario Data",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

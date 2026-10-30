@@ -1,0 +1,99 @@
+{
+  "providerId": "csp-42e4bcc761f9",
+  "retrievedAt": "2026-10-30T11:00:56.229Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.concur.com/",
+      "finalUrl": "https://www.concur.com/",
+      "status": "success",
+      "sha256": "8b5a5348db1d8f32a711c1fc0626d7ab06f842968e9ec7afb22bc60bc4150949",
+      "title": "Spend Management Software for Travel, Expense, Invoice | SAP Concur",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ndustry leaders in AI-powered T&E tools Not only are we #1 on G2, but we are also the only T&E company to be named an AI leader across enterprise, midmarket, small business, and travel-booking applications. IDC MarketScape T&E Software 2025"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.concur.com/products/company-bill-statements",
+        "https://www.concur.com/integrations",
+        "https://www.concur.com/about/demo",
+        "https://www.concur.com/campaigns/control-company-costs",
+        "https://www.concur.com/industries/government-solutions",
+        "https://www.concur.com/industries/government-contractor-solutions",
+        "https://www.concur.com/industries/state-local-government-solution",
+        "https://www.concur.com/about",
+        "https://www.concur.com/about/reviews",
+        "https://www.concur.com/about/pricing",
+        "https://www.concur.com/about/customer-experience",
+        "https://www.concur.com/products/concur-expense"
+      ]
+    },
+    {
+      "url": "https://www.concur.com/products/company-bill-statements",
+      "finalUrl": "https://www.concur.com/products/company-bill-statements",
+      "status": "success",
+      "sha256": "0df98b78cd5f28b48ed3c08086172344c33d24312373e3aa2961869fd1872da1",
+      "title": "Company Bill Statements: Business P-Card Reconciliation | SAP Concur US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.concur.com/integrations",
+        "https://www.concur.com/about/demo",
+        "https://www.concur.com/campaigns/control-company-costs",
+        "https://www.concur.com/industries/government-solutions",
+        "https://www.concur.com/industries/government-contractor-solutions",
+        "https://www.concur.com/industries/state-local-government-solution",
+        "https://www.concur.com/about",
+        "https://www.concur.com/about/reviews",
+        "https://www.concur.com/about/pricing",
+        "https://www.concur.com/about/customer-experience",
+        "https://www.concur.com/resource-center/brochures/company-bill-statements-brochure",
+        "https://www.concur.com/about/faq"
+      ]
+    },
+    {
+      "url": "https://www.concur.com/integrations",
+      "finalUrl": "https://www.concur.com/integrations",
+      "status": "success",
+      "sha256": "391ca890498e3c493d4eb41b05ed1ed1d7e23197e57ea3afcfbc8e69b108d4de",
+      "title": "Concur Integrations: Create a Connected Spending Solution | SAP Concur US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.concur.com/about/demo",
+        "https://www.concur.com/campaigns/control-company-costs",
+        "https://www.concur.com/industries/government-solutions",
+        "https://www.concur.com/industries/government-contractor-solutions",
+        "https://www.concur.com/industries/state-local-government-solution",
+        "https://www.concur.com/about",
+        "https://www.concur.com/about/reviews",
+        "https://www.concur.com/about/pricing",
+        "https://www.concur.com/about/customer-experience",
+        "https://www.concur.com/integrations/sap",
+        "https://www.concur.com/about/faq",
+        "https://www.concur.com/about/privacy-policy"
+      ]
+    },
+    {
+      "url": "https://www.concur.com/about/demo",
+      "finalUrl": "https://www.concur.com/about/demo",
+      "status": "success",
+      "sha256": "37b07788481343933bb2d99d34a91f94e4e72e9cc0818e1f9cf405998ced9d2b",
+      "title": "Demo SAP Concur Travel, Expense, and Invoice Software | SAP Concur US",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.concur.com/campaigns/control-company-costs",
+        "https://www.concur.com/industries/government-solutions",
+        "https://www.concur.com/industries/government-contractor-solutions",
+        "https://www.concur.com/industries/state-local-government-solution",
+        "https://www.concur.com/about",
+        "https://www.concur.com/about/reviews",
+        "https://www.concur.com/about/pricing",
+        "https://www.concur.com/about/customer-experience",
+        "https://www.concur.com/about/faq",
+        "https://www.concur.com/about/privacy-policy",
+        "https://www.concur.com/about/termsofuse"
+      ]
+    }
+  ]
+}

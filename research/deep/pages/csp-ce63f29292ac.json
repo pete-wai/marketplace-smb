@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-ce63f29292ac",
+  "retrievedAt": "2026-10-30T11:01:10.145Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://elevenlabs.io/",
+      "finalUrl": "https://elevenlabs.io/",
+      "status": "success",
+      "sha256": "4a9297e7bdc344c5b967c0b54b3d210e32529e4f6eef0d61510458b0a69881fc",
+      "title": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+      "signals": [],
+      "discoveredLinks": [
+        "https://elevenlabs.io/about",
+        "https://elevenlabs.io/blog/introducing-elevenlabs-for-government",
+        "https://elevenlabs.io/government",
+        "https://elevenlabs.io/docs/overview/capabilities/speech-engine"
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/about",
+      "finalUrl": "https://elevenlabs.io/about",
+      "status": "success",
+      "sha256": "24e5acb435041892570be51bd7e0aee3e82f374b9bb39dd7f5177e42608a5e60",
+      "title": "AI research and products that reimagine human-technology",
+      "signals": [],
+      "discoveredLinks": [
+        "https://elevenlabs.io/government",
+        "https://elevenlabs.io/docs/overview/capabilities/speech-engine"
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/blog/introducing-elevenlabs-for-government",
+      "finalUrl": "https://elevenlabs.io/blog/introducing-elevenlabs-for-government",
+      "status": "success",
+      "sha256": "e685fcda9661e2dd6381790cd5e2393f7e952fd7f21d07fad9a78fdb5d0a5277",
+      "title": "AI agents for government: ElevenLabs for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://elevenlabs.io/blog/building-the-first-agentic-government-with-ukraine",
+        "https://elevenlabs.io/government",
+        "https://elevenlabs.io/docs/overview/capabilities/speech-engine"
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/government",
+      "finalUrl": "https://elevenlabs.io/government",
+      "status": "success",
+      "sha256": "cf01e870f48500e9906c818f988d9695ba71c7ffe561e2ac137c0fed37422306",
+      "title": "ElevenLabs for Government | AI Voice for Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://elevenlabs.io/customer-stories",
+        "https://elevenlabs.io/blog/building-the-first-agentic-government-with-ukraine",
+        "https://elevenlabs.io/agents/government",
+        "https://elevenlabs.io/docs/overview/capabilities/speech-engine"
+      ]
+    }
+  ]
+}

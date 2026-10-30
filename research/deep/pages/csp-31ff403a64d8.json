@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-31ff403a64d8",
+  "retrievedAt": "2026-10-30T11:01:23.210Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.informatica.com/solutions/industry-solutions/public-sector.html",
+      "finalUrl": "https://www.informatica.com/solutions/industry-solutions/public-sector.html",
+      "status": "success",
+      "sha256": "e5bd8193e7bbc41bd2589e90d0dea9019e7ca23ddf011cee8943f291792e22d4",
+      "title": "Federal Government Data Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.informatica.com/about-us/customers/customer-success-stories.html",
+        "https://www.informatica.com/about-us/company-information/awards-and-recognition.html",
+        "https://www.informatica.com/about-us/events.html",
+        "https://www.informatica.com/about-us.html",
+        "https://www.informatica.com/about-us/company-information/contact-locations.html",
+        "https://www.informatica.com/about-us/news.html",
+        "https://www.informatica.com/solutions/industry-solutions/public-sector/state-and-local-government.html",
+        "https://www.informatica.com/about-us/customers/customer-success-stories/us-food-and-drug-administration-center-for-drug-evaluation-and-research.html",
+        "https://www.informatica.com/about-us/customers/customer-success-stories/the-netherlands-ministry-of-defense.html",
+        "https://www.informatica.com/about-us/partners.html",
+        "https://www.informatica.com/about-us/partners/system-integrators.html",
+        "https://www.informatica.com/about-us/partners/channel-partners.html"
+      ]
+    },
+    {
+      "url": "https://www.informatica.com/about-us/customers/customer-success-stories.html",
+      "finalUrl": "https://www.informatica.com/customer-success-stories.html",
+      "status": "success",
+      "sha256": "5a71601914950e0dbef1828e31019027023602e74225f784bca5db7e8d6c9ad5",
+      "title": "Data & AI Customer Success Stories",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.informatica.com/about-us/company-information/awards-and-recognition.html",
+        "https://www.informatica.com/about-us/events.html",
+        "https://www.informatica.com/about-us.html",
+        "https://www.informatica.com/about-us/company-information/contact-locations.html",
+        "https://www.informatica.com/about-us/news.html",
+        "https://www.informatica.com/about-us/customers/customer-success-stories/rsgroup.html",
+        "https://www.informatica.com/about-us/careers.html"
+      ]
+    },
+    {
+      "url": "https://www.informatica.com/about-us/company-information/awards-and-recognition.html",
+      "finalUrl": "https://www.informatica.com/about-us/company-information/awards-and-recognition.html",
+      "status": "success",
+      "sha256": "a5fc30d0069c824ddf9da1425ba705e362eec8309948fe0efd30d19c617b1731",
+      "title": "Informatica Awards & Recognition",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.informatica.com/about-us/events.html",
+        "https://www.informatica.com/about-us.html",
+        "https://www.informatica.com/about-us/company-information/contact-locations.html",
+        "https://www.informatica.com/about-us/news.html",
+        "https://www.informatica.com/lp/gartner-leadership.html",
+        "https://www.informatica.com/about-us/news/news-releases/2024/09/20240919-informatica-wins-the-2024-oracle-partner-awards-global-business-impact-category.html",
+        "https://www.informatica.com/about-us/news/news-releases/2024/08/20240815-informatica-earns-jd-power-certification-for-outstanding-customer-experience-for-the-fourth-consecutive-year.html",
+        "https://www.informatica.com/about-us/news/news-releases/2024/06/20240611-informatica-awarded-2024-databricks-data-integration-partner-of-the-year-at-data-ai-summit.html",
+        "https://www.informatica.com/about-us/careers.html"
+      ]
+    },
+    {
+      "url": "https://www.informatica.com/about-us/events.html",
+      "finalUrl": "https://www.informatica.com/about-us/events.html",
+      "status": "success",
+      "sha256": "39a21ae8a1b35dad2f47811737cb1315a59e7579f5e1ee74a555c9178dfd5e00",
+      "title": "Events – Conferences | Informatica Events",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.informatica.com/about-us.html",
+        "https://www.informatica.com/about-us/company-information/contact-locations.html",
+        "https://www.informatica.com/about-us/news.html",
+        "https://www.informatica.com/about-us/events.html/",
+        "https://www.informatica.com/about-us/%7B%7B=raw.wwwlink%7D%7D",
+        "https://www.informatica.com/about-us/careers.html"
+      ]
+    }
+  ]
+}

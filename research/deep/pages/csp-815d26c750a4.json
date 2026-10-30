@@ -1,0 +1,90 @@
+{
+  "providerId": "csp-815d26c750a4",
+  "retrievedAt": "2026-10-30T11:02:09.036Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://sciencelogic.com/",
+      "finalUrl": "https://sciencelogic.com/",
+      "status": "success",
+      "sha256": "5ceb47befc5d19ee4db5699503ba245840402423291b9eca20ef34746699a0d5",
+      "title": "ScienceLogic - AI-Driven Observability and ITOps Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://sciencelogic.com/solutions/government-public-sector",
+        "https://sciencelogic.com/about/company",
+        "https://sciencelogic.com/about/careers",
+        "https://sciencelogic.com/about/news",
+        "https://sciencelogic.com/about/leadership",
+        "https://sciencelogic.com/company/legal",
+        "https://sciencelogic.com/about/solarwinds-vs-sciencelogic",
+        "https://sciencelogic.com/about/sciencelogic-vs-logicmonitor",
+        "https://sciencelogic.com/about/sciencelogic-vs-zabbix",
+        "https://sciencelogic.com/about/sciencelogic-vs-bmchelix",
+        "https://sciencelogic.com/about/sciencelogic-vs-opsramp",
+        "https://sciencelogic.com/company/vulnerability-reporting"
+      ]
+    },
+    {
+      "url": "https://sciencelogic.com/solutions/government-public-sector",
+      "finalUrl": "https://sciencelogic.com/solutions/government-public-sector",
+      "status": "success",
+      "sha256": "adaf2b8e1fe5b8e4b141ddcb6d764ce3dbcdb535b242a752883ffa535fd89418",
+      "title": "Public Sector and Government IT Solutions | ScienceLogic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://sciencelogic.com/about/company",
+        "https://sciencelogic.com/about/careers",
+        "https://sciencelogic.com/about/news",
+        "https://sciencelogic.com/about/leadership",
+        "https://sciencelogic.com/company/legal",
+        "https://sciencelogic.com/about/solarwinds-vs-sciencelogic",
+        "https://sciencelogic.com/about/sciencelogic-vs-logicmonitor",
+        "https://sciencelogic.com/about/sciencelogic-vs-zabbix",
+        "https://sciencelogic.com/about/sciencelogic-vs-bmchelix",
+        "https://sciencelogic.com/about/sciencelogic-vs-opsramp",
+        "https://sciencelogic.com/company/vulnerability-reporting"
+      ]
+    },
+    {
+      "url": "https://sciencelogic.com/about/company",
+      "finalUrl": "https://sciencelogic.com/about/company",
+      "status": "success",
+      "sha256": "25c0e05d75e3d3c47aa862a47451ee92fb9036c8698fc843912d275c6d01c89d",
+      "title": "About ScienceLogic - The Leader in ITOM & AIOps | ScienceLogic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://sciencelogic.com/about/careers",
+        "https://sciencelogic.com/about/news",
+        "https://sciencelogic.com/about/leadership",
+        "https://sciencelogic.com/company/legal",
+        "https://sciencelogic.com/about/solarwinds-vs-sciencelogic",
+        "https://sciencelogic.com/about/sciencelogic-vs-logicmonitor",
+        "https://sciencelogic.com/about/sciencelogic-vs-zabbix",
+        "https://sciencelogic.com/about/sciencelogic-vs-bmchelix",
+        "https://sciencelogic.com/about/sciencelogic-vs-opsramp",
+        "https://sciencelogic.com/company/vulnerability-reporting"
+      ]
+    },
+    {
+      "url": "https://sciencelogic.com/about/careers",
+      "finalUrl": "https://sciencelogic.com/about/careers",
+      "status": "success",
+      "sha256": "57b8e389c64b50a3fc4407781fd4c3f303f860767c3b63357334923595a326a2",
+      "title": "Career Opportunities and Open Jobs at ScienceLogic",
+      "signals": [],
+      "discoveredLinks": [
+        "https://sciencelogic.com/about/news",
+        "https://sciencelogic.com/about/leadership",
+        "https://sciencelogic.com/about/career-opportunities",
+        "https://sciencelogic.com/company/legal",
+        "https://sciencelogic.com/about/solarwinds-vs-sciencelogic",
+        "https://sciencelogic.com/about/sciencelogic-vs-logicmonitor",
+        "https://sciencelogic.com/about/sciencelogic-vs-zabbix",
+        "https://sciencelogic.com/about/sciencelogic-vs-bmchelix",
+        "https://sciencelogic.com/about/sciencelogic-vs-opsramp",
+        "https://sciencelogic.com/company/vulnerability-reporting"
+      ]
+    }
+  ]
+}

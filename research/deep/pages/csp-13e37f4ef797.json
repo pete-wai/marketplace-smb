@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-13e37f4ef797",
+  "retrievedAt": "2026-10-30T11:01:46.424Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://gov.blackkitetech.com/",
+      "finalUrl": "https://gov.blackkitetech.com/User/Login/welcome?ReturnUrl=%2fDashboard",
+      "status": "success",
+      "sha256": "24c522a753beb541c67c118156fd94c1da4d5a45cb434ed4f49fa9f18eeea840",
+      "title": "Black Kite | Login",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

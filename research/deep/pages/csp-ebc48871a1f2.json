@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-ebc48871a1f2",
+  "retrievedAt": "2026-10-30T11:01:50.880Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.owndata.com/",
+      "finalUrl": "https://www.owndata.com/",
+      "status": "success",
+      "sha256": "c27dd5344cc96dc76bb27ba3f6554d0702243d60842ba5989f61b50491fb6243",
+      "title": "Own from Salesforce | Protect & Manage Your SaaS Data",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.owndata.com/company"
+      ]
+    },
+    {
+      "url": "https://www.owndata.com/company",
+      "finalUrl": "https://www.owndata.com/company",
+      "status": "success",
+      "sha256": "eec8d205e33704c9a40a82e633bebab487f81e90bf3c2226170ac44b81e4a0fe",
+      "title": "About Own From Salesforce",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

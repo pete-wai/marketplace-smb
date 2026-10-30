@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-9c1baea0bbc0",
+  "retrievedAt": "2026-10-30T11:01:40.777Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://vastian.com/",
+      "finalUrl": "https://www.vastian.com/",
+      "status": "success",
+      "sha256": "fb8f8d8b9e6f3048fcce3a3092b1d64aedfd6910f82a2509756d808f36dfe26f",
+      "title": "Vastian (formerly MediaLab) | Quality Management for Hospitals, Health Systems & Labs",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.vastian.com/about",
+        "https://www.vastian.com/events/building-competency-for-quality-developing-leaders-who-drive-continuous-improvement"
+      ]
+    },
+    {
+      "url": "https://www.vastian.com/about",
+      "finalUrl": "https://www.vastian.com/about",
+      "status": "success",
+      "sha256": "1ea2391c292a483b73c3c6745d4082da0407f8b88898ca726a930c9f2e7c50fa",
+      "title": "About MediaLab by Vastian | Hospital & Lab Quality Software",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.vastian.com/events/building-competency-for-quality-developing-leaders-who-drive-continuous-improvement",
+      "finalUrl": "https://www.vastian.com/events/building-competency-for-quality-developing-leaders-who-drive-continuous-improvement",
+      "status": "success",
+      "sha256": "866920454aaaa052b74f9627cd584cf1ef6b5dcf8716f915ff61410efe1789c4",
+      "title": "Building Competency for Quality: Developing Leaders Who Drive Continuous Improvement",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

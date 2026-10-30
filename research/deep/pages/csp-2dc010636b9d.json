@@ -1,0 +1,84 @@
+{
+  "providerId": "csp-2dc010636b9d",
+  "retrievedAt": "2026-10-30T11:01:01.562Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.databricks.com/solutions/industries/federal-government",
+      "finalUrl": "https://www.databricks.com/solutions/industries/federal-government",
+      "status": "success",
+      "sha256": "cca0cdbf1c8a7e2f46f8721a86e2e6208455928f06f67b2fc31878bdde0736e1",
+      "title": "Data and AI Driven solutions for Federal Government | Databricks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.databricks.com/product/open-source",
+        "https://www.databricks.com/solutions/industries/public-sector",
+        "https://www.databricks.com/company/about-us",
+        "https://www.databricks.com/company/leadership-team",
+        "https://www.databricks.com/company/contact",
+        "https://www.databricks.com/company/careers",
+        "https://www.databricks.com/company/careers/open-positions",
+        "https://www.databricks.com/company/awards-and-recognition",
+        "https://www.databricks.com/company/newsroom",
+        "https://www.databricks.com/company/contact?itm_source=www&amp;itm_category=home&amp;itm_page=home&amp;itm_offer=contact",
+        "https://www.databricks.com/solutions/industries/state-local-government",
+        "https://www.databricks.com/company/newsroom/press-releases/databricks-achieves-fedramp-high-authorization-aws-govcloud?itm_source=www&amp;itm_category=home&amp;itm_page=home&amp;itm_offer=databricks-achieves-fedramp-high-authorization-aws-govcloud"
+      ]
+    },
+    {
+      "url": "https://azure.microsoft.com/en-us/products/databricks",
+      "finalUrl": "https://azure.microsoft.com/en-us/products/databricks",
+      "status": "success",
+      "sha256": "3d06ebb189db0e05a0b5b35619cf6e4c398ef027d2df5060d801f25fd46a4b0e",
+      "title": "Azure Databricks | Microsoft Azure",
+      "signals": [],
+      "discoveredLinks": [
+        "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/",
+        "https://azure.microsoft.com/en-us/explore/security/"
+      ]
+    },
+    {
+      "url": "https://www.databricks.com/product/open-source",
+      "finalUrl": "https://www.databricks.com/product/open-source",
+      "status": "success",
+      "sha256": "9f3d10b9c7578abf15e91ee756a08b7e75677292e961b6a440e1690953aebff7",
+      "title": "Databricks Open Source: Apache Spark™, Delta Lake and MLflow",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.databricks.com/solutions/industries/public-sector",
+        "https://www.databricks.com/company/about-us",
+        "https://www.databricks.com/company/leadership-team",
+        "https://www.databricks.com/company/contact",
+        "https://www.databricks.com/company/careers",
+        "https://www.databricks.com/company/careers/open-positions",
+        "https://www.databricks.com/company/awards-and-recognition",
+        "https://www.databricks.com/company/newsroom",
+        "https://www.databricks.com/spark/about",
+        "https://www.databricks.com/product/delta-lake-on-databricks",
+        "https://www.databricks.com/product/unity-catalog"
+      ]
+    },
+    {
+      "url": "https://www.databricks.com/solutions/industries/public-sector",
+      "finalUrl": "https://www.databricks.com/solutions/industries/public-sector",
+      "status": "success",
+      "sha256": "bd04d5cc9aa13778bbea1a384c6c0db73ff55722328e2ae72bb410a7a6b3c8ce",
+      "title": "Public Sector Solutions | Databricks",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.databricks.com/company/about-us",
+        "https://www.databricks.com/company/leadership-team",
+        "https://www.databricks.com/company/contact",
+        "https://www.databricks.com/company/careers",
+        "https://www.databricks.com/company/careers/open-positions",
+        "https://www.databricks.com/company/awards-and-recognition",
+        "https://www.databricks.com/company/newsroom",
+        "https://www.databricks.com/company/contact?itm_source=www&amp;itm_category=home&amp;itm_page=home&amp;itm_offer=contact",
+        "https://www.databricks.com/blog/federal-data-paradox-rich-data-poor-access?itm_source=www&amp;itm_category=home&amp;itm_page=home&amp;itm_offer=federal-data-paradox-rich-data-poor-access",
+        "https://www.databricks.com/blog/reinventing-government-databricks-data-intelligence-platform",
+        "https://www.databricks.com/blog/operationalizing-ai-public-sector-fraud-prevention",
+        "https://www.databricks.com/blog/federal-data-paradox-rich-data-poor-access"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-1153b46a665b",
+  "retrievedAt": "2026-10-30T11:00:49.932Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.bugcrowd.com/solutions/government/",
+      "finalUrl": "https://www.bugcrowd.com/solutions/government/",
+      "status": "success",
+      "sha256": "b3b8a9b54e4dc379a99ae791a3ae14ae11e63cbd3dec798d98efab8c95ec6abe",
+      "title": "Government Cybersecurity Solutions | Bugcrowd",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bugcrowd.com/about/contact/",
+        "https://www.bugcrowd.com/solutions/government",
+        "https://www.bugcrowd.com/about/",
+        "https://www.bugcrowd.com/about/leadership/",
+        "https://www.bugcrowd.com/about/careers",
+        "https://www.bugcrowd.com/about/press-releases/",
+        "https://www.bugcrowd.com/about/news/",
+        "https://www.bugcrowd.com/about/careers/diversity-inclusion/",
+        "https://www.bugcrowd.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://www.bugcrowd.com/about/contact/",
+      "finalUrl": "https://www.bugcrowd.com/about/contact/",
+      "status": "success",
+      "sha256": "1b87ac1e862178e6ce763e9ee9ec2b5d821d0add22687569e6af442d6c4be89d",
+      "title": "Contact Us | Bugcrowd",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bugcrowd.com/solutions/government",
+        "https://www.bugcrowd.com/about/",
+        "https://www.bugcrowd.com/about/leadership/",
+        "https://www.bugcrowd.com/about/careers",
+        "https://www.bugcrowd.com/about/press-releases/",
+        "https://www.bugcrowd.com/about/news/",
+        "https://www.bugcrowd.com/about/careers/diversity-inclusion/",
+        "https://www.bugcrowd.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://www.bugcrowd.com/solutions/government",
+      "finalUrl": "https://www.bugcrowd.com/solutions/government/",
+      "status": "success",
+      "sha256": "b3b8a9b54e4dc379a99ae791a3ae14ae11e63cbd3dec798d98efab8c95ec6abe",
+      "title": "Government Cybersecurity Solutions | Bugcrowd",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bugcrowd.com/about/",
+        "https://www.bugcrowd.com/about/leadership/",
+        "https://www.bugcrowd.com/about/careers",
+        "https://www.bugcrowd.com/about/press-releases/",
+        "https://www.bugcrowd.com/about/news/",
+        "https://www.bugcrowd.com/about/careers/diversity-inclusion/",
+        "https://www.bugcrowd.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://www.bugcrowd.com/about/",
+      "finalUrl": "https://www.bugcrowd.com/about/",
+      "status": "success",
+      "sha256": "5917ac9a459a33bceb94b51f9d58c4bbb9427c22626bb6cc518c7b873eb2cefc",
+      "title": "About | Bugcrowd",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.bugcrowd.com/about/leadership/",
+        "https://www.bugcrowd.com/about/careers",
+        "https://www.bugcrowd.com/about/press-releases/",
+        "https://www.bugcrowd.com/about/news/",
+        "https://www.bugcrowd.com/about/careers/diversity-inclusion/",
+        "https://www.bugcrowd.com/about/careers/"
+      ]
+    }
+  ]
+}

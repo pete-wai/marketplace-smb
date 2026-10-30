@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-1d76dfe9876d",
+  "retrievedAt": "2026-10-30T11:01:37.267Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://litmas.ai/",
+      "finalUrl": "https://litmas.ai/",
+      "status": "success",
+      "sha256": "023b38dc59679555eee4f22d41d2d813382bc91ec045a57db7bcfa8e7fb14e89",
+      "title": "Litmas AI | Legal AI Software for Litigation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://litmas.ai/about"
+      ]
+    },
+    {
+      "url": "https://litmas.ai/about",
+      "finalUrl": "https://litmas.ai/about/",
+      "status": "success",
+      "sha256": "ffe6c4a8646460157d69673165d2e4db08ae7c7e74632f3007a71d211421a215",
+      "title": "Litigation AI for lawyers, Built by Litigators | About Litmas AI - Litmas AI",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-caf4d9ec81b1",
+  "retrievedAt": "2026-10-30T11:02:31.493Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://securecasemanagement.com/",
+      "finalUrl": "https://securecasemanagement.com/",
+      "status": "success",
+      "sha256": "740106a83ff1db3961395cec1ff4b1228ba6dc1c950bf7980d26436c904cd32d",
+      "title": "CMTS | Investigative Case Management & Tracking System",
+      "signals": [],
+      "discoveredLinks": [
+        "https://securecasemanagement.com/about/",
+        "https://securecasemanagement.com/about/testimonials/",
+        "https://securecasemanagement.com/who-we-serve/inspector-general-oig/"
+      ]
+    },
+    {
+      "url": "https://securecasemanagement.com/about/",
+      "finalUrl": "https://securecasemanagement.com/about/",
+      "status": "success",
+      "sha256": "a2a7a8ba9c757faee2503ad4e4fbdd7e1d404caaa7902872d1f316c597f00667",
+      "title": "About CMTS | Software for Case Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://securecasemanagement.com/about/testimonials/"
+      ]
+    },
+    {
+      "url": "https://securecasemanagement.com/about/testimonials/",
+      "finalUrl": "https://securecasemanagement.com/about/testimonials/",
+      "status": "success",
+      "sha256": "6150b1eaa9479380f0a139efc8f442604ecb4974e3e119c6294c0a6eba0abd55",
+      "title": "CMTS Client Testimonials | Secure Case Management System",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://securecasemanagement.com/who-we-serve/inspector-general-oig/",
+      "finalUrl": "https://securecasemanagement.com/inspectors-general/",
+      "status": "success",
+      "sha256": "165f51312466edd934e96b84664e1fac9ad278d982d8b33b4910cf9b8c383ca3",
+      "title": "CMTS | Secure Inspector General Case Management Software",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

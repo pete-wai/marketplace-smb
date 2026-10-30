@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-febc7b0a7fac",
+  "retrievedAt": "2026-10-30T11:01:38.015Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://lucid.co/solutions/government",
+      "finalUrl": "https://lucid.co/solutions/government",
+      "status": "success",
+      "sha256": "bf379c293c40dabb263a0b1fc3c5f31520d96f0dd5577afeb8854864a0fe3b17",
+      "title": "Lucid for Public Sector Teams | Lucid",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lucid.co/about",
+        "https://lucid.co/contact/contact-government-sales",
+        "https://lucid.co/solutions/fedramp",
+        "https://lucid.co/blog/public-sector-documentation-toolkit",
+        "https://lucid.co/blog/public-sector-digital-transformation-guide",
+        "https://lucid.co/blog/public-sector-compliance-readiness",
+        "https://lucid.co/ja/solutions/government",
+        "https://lucid.co/ko/solutions/government",
+        "https://lucid.co/ru/solutions/government"
+      ]
+    },
+    {
+      "url": "https://lucid.co/about",
+      "finalUrl": "https://lucid.co/about",
+      "status": "success",
+      "sha256": "14f33da01aa4fa6b2b65e6fe318b4465cb367554456199433d4138cd344f4ee1",
+      "title": "About | Lucid",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lucid.co/it/about",
+        "https://lucid.co/ja/about",
+        "https://lucid.co/ko/about",
+        "https://lucid.co/ru/about"
+      ]
+    },
+    {
+      "url": "https://lucid.co/contact/contact-government-sales",
+      "finalUrl": "https://lucid.co/contact/contact-government-sales",
+      "status": "success",
+      "sha256": "b2636f1ec2f07e6e2b1829f0a8c1ba4a7623d416b22a2c1be55aac2d6e24feaf",
+      "title": "Contact Government Sales | Lucid Software",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://lucid.co/solutions/fedramp",
+      "finalUrl": "https://lucid.co/solutions/fedramp",
+      "status": "success",
+      "sha256": "a155fe056b392b9fae4f05910170dee43eac39fecd5dba3da5f534a7cf5c26eb",
+      "title": "FedRAMP Certified Visual Collaboration | Lucid",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lucid.co/blog/public-sector-documentation-toolkit",
+        "https://lucid.co/blog/improve-efficiency-in-public-sector",
+        "https://lucid.co/blog/public-sector-compliance-readiness"
+      ]
+    }
+  ]
+}

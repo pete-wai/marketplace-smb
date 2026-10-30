@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-d0936b21e8db",
+  "retrievedAt": "2026-10-30T11:01:49.829Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://gooptimal.io/nineline",
+      "finalUrl": "https://gooptimal.io/nineline/",
+      "status": "success",
+      "sha256": "07b3a339b1cbfd05f790d7b52d60c0d5f208a97305ef2b1f253594c6256ff573",
+      "title": "9line — AI-native software & supply-chain security from Optimal",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ndustrial base — and the governed AI that runs safely inside them. An SBA-certified Service-Disabled Veteran-Owned Small Business. Sovereign by default. Services Managed GCC High Do I need GCC High? AI Security Assessment Adversarial AI Testing Governed AI Engineering Secure"
+        }
+      ],
+      "discoveredLinks": [
+        "https://gooptimal.io/capability-statement"
+      ]
+    },
+    {
+      "url": "https://gooptimal.io/capability-statement",
+      "finalUrl": "https://gooptimal.io/capability-statement/",
+      "status": "success",
+      "sha256": "9ea0774947516cb1c29cafe7604abda46bd22a6e4d82202096f2d7a1d7a4fc32",
+      "title": "Capability statement — Optimal, LLC (SDVOSB)",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "Capability statement — Optimal, LLC (SDVOSB) OPTIMAL Solutions Managed GCC High CMMC-ready Microsoft 365 enclaves for the defense industrial base AI security services Assess, red-team, engineer, and advise State, local & education Governed AI and cloud security in the cloud"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

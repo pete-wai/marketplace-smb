@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-a4456bd8c3cc",
+  "retrievedAt": "2026-10-30T11:01:20.372Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://halcyon.ai/",
+      "finalUrl": "https://www.halcyon.ai/",
+      "status": "success",
+      "sha256": "bd5f193e121bca196a152b6bd6ab0e8959ec88ebcf6aba0dfd74e56a0fdc712a",
+      "title": "Halcyon Anti Ransomware and Cyber Resilience Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.halcyon.ai/platform/file-resilience-fire-key-capabilities",
+        "https://www.halcyon.ai/federal",
+        "https://www.halcyon.ai/government",
+        "https://www.halcyon.ai/company"
+      ]
+    },
+    {
+      "url": "https://www.halcyon.ai/platform/file-resilience-fire-key-capabilities",
+      "finalUrl": "https://www.halcyon.ai/platform/file-resilience-fire-key-capabilities",
+      "status": "success",
+      "sha256": "48e35861f6244e9dac8a0b6210f0df17f9de0520e6db03daf395b5d1e3c34fbc",
+      "title": "File Resilience (FiRe) Key Capabilities",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.halcyon.ai/federal",
+        "https://www.halcyon.ai/government",
+        "https://www.halcyon.ai/jp/platform/file-resilience-fire-key-capabilities",
+        "https://www.halcyon.ai/company"
+      ]
+    },
+    {
+      "url": "https://www.halcyon.ai/federal",
+      "finalUrl": "https://www.halcyon.ai/federal",
+      "status": "success",
+      "sha256": "265f88cd3fe3ae8f8f611ef9d5ebde0dc85a13cb7b0ec280721120bd444663a8",
+      "title": "Federal",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.halcyon.ai/government",
+        "https://www.halcyon.ai/jp/federal",
+        "https://www.halcyon.ai/resources/infographics/how-ransomware-targets-government-agencies-infographic",
+        "https://www.halcyon.ai/company"
+      ]
+    },
+    {
+      "url": "https://www.halcyon.ai/government",
+      "finalUrl": "https://www.halcyon.ai/government",
+      "status": "success",
+      "sha256": "884de875a17e8515b8dcc3c16e567f81daade1fa9eeb66554629e36d17506ba5",
+      "title": "Government | The State of Ransomware in Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.halcyon.ai/jp/government",
+        "https://www.halcyon.ai/blog/former-fbi-deputy-assistant-director-cynthia-kaiser-to-lead-halcyon-ransomware-research-center",
+        "https://www.halcyon.ai/resources/whitepapers/what-execs-should-know-about-ransomware",
+        "https://www.halcyon.ai/resources/case-studies/halcyon-delivers-comprehensive-ransomware-protection-for-city-government",
+        "https://www.halcyon.ai/company"
+      ]
+    }
+  ]
+}

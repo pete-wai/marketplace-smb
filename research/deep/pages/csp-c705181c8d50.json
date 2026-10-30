@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-c705181c8d50",
+  "retrievedAt": "2026-10-30T11:00:40.582Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.aprimo.com/",
+      "finalUrl": "https://www.aprimo.com/",
+      "status": "success",
+      "sha256": "5a9a57eeae2c76857c31a66c608bbd9463aef93ad3279d0bfa9406025a6f9e7d",
+      "title": "Aprimo: Digital Asset Management.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aprimo.com/solutions/industries/government",
+        "https://www.aprimo.com/about"
+      ]
+    },
+    {
+      "url": "https://www.aprimo.com/solutions/industries/government",
+      "finalUrl": "https://www.aprimo.com/solutions/industries/government",
+      "status": "success",
+      "sha256": "29951c1132d239c49f5bf59550985b16726d62d7bed778eb76181c61afb1a59b",
+      "title": "Aprimo: Government Asset Management Solutions for 2025",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aprimo.com/about"
+      ]
+    },
+    {
+      "url": "https://www.aprimo.com/about",
+      "finalUrl": "https://www.aprimo.com/about",
+      "status": "success",
+      "sha256": "b8b1720ee06c062bc3cf8815393bd93537a163ef37fddb3567941f6e71a64e37",
+      "title": "Aprimo: Digital Asset Management Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aprimo.com/about-us/leadership-team"
+      ]
+    },
+    {
+      "url": "https://www.aprimo.com/about-us/leadership-team",
+      "finalUrl": "https://www.aprimo.com/about-us/leadership-team",
+      "status": "success",
+      "sha256": "8f79a6ce33486ac060cde46edf3b8dde3f7f219614b2dd6aacbb9f6a3f8dea14",
+      "title": "Aprimo Leadership Team: Digital Asset Management Experts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.aprimo.com/about-us/%7B%7B%7Bdata.link%7D%7D%7D"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-eb8c0ab84091",
+  "retrievedAt": "2026-10-30T11:02:15.081Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://stell-engineering.com/",
+      "finalUrl": "https://stell-engineering.com/",
+      "status": "success",
+      "sha256": "4b59df0db69c525eb8d15ddc85383c45cf3e4e6d3fcbc37a8b7c17c44afb6ba7",
+      "title": "Stell — Secure, AI-Native, Requirements Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://stell-engineering.com/security",
+        "https://stell-engineering.com/about"
+      ]
+    },
+    {
+      "url": "https://stell-engineering.com/security",
+      "finalUrl": "https://stell-engineering.com/security",
+      "status": "success",
+      "sha256": "a57dced620e5c36e3779711907c0aba9a4fab463868b4d456a62719de3a2c415",
+      "title": "Security — Stell",
+      "signals": [],
+      "discoveredLinks": [
+        "https://stell-engineering.com/blog/cmmc-level-2-certification",
+        "https://stell-engineering.com/blog/stell-achieves-soc-2-certification",
+        "https://stell-engineering.com/about"
+      ]
+    },
+    {
+      "url": "https://stell-engineering.com/about",
+      "finalUrl": "https://stell-engineering.com/about",
+      "status": "success",
+      "sha256": "d609ec7b345eee907f042c7eace2891927b484f669f6d33cf9c83c930f4849a0",
+      "title": "About — Stell",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://stell-engineering.com/blog/cmmc-level-2-certification",
+      "finalUrl": "https://stell-engineering.com/blog/cmmc-level-2-certification",
+      "status": "success",
+      "sha256": "610ce70e76375f2ff20345fb626679b589a75849c5fabc7acf87dd0302a90841",
+      "title": "Stell Engineering Achieves CMMC Level 2 Certification - Stell Blog",
+      "signals": [],
+      "discoveredLinks": [
+        "https://stell-engineering.com/blog/stell-achieves-fedramp-moderate-equivalency"
+      ]
+    }
+  ]
+}

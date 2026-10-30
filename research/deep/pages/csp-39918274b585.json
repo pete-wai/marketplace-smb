@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-39918274b585",
+  "retrievedAt": "2026-10-30T11:02:13.841Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://aris.com/",
+      "finalUrl": "https://aris.com/",
+      "status": "success",
+      "sha256": "e55a0c4661fd90129e91e941df870061889865cb1119bfc636d7db90f4e7ba40",
+      "title": "Unlock the Value Potential Trapped within AI - ARIS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://aris.com/resources/gartner-critical-capabilities-digital-twin-organization/",
+        "https://aris.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://aris.com/resources/gartner-critical-capabilities-digital-twin-organization/",
+      "finalUrl": "https://aris.com/resources/gartner-critical-capabilities-digital-twin-organization/",
+      "status": "success",
+      "sha256": "1be10539eda12c262bdc0000f6db248e7c8ce4ca8d40e8dd129178ab3d374cd6",
+      "title": "Gartner® Critical Capabilities for Digital Twin of an Organization Platforms",
+      "signals": [],
+      "discoveredLinks": [
+        "https://aris.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://aris.com/about-us/",
+      "finalUrl": "https://aris.com/about-us/",
+      "status": "success",
+      "sha256": "173aa257a31c13eb734a03444a963041bccd9303097086f5716d5c0da0551780",
+      "title": "About ARIS | The Process Experts Behind Process Intelligence",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

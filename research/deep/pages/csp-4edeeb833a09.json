@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-4edeeb833a09",
+  "retrievedAt": "2026-10-30T11:01:02.624Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.dejero.com/",
+      "finalUrl": "https://www.dejero.com/",
+      "status": "success",
+      "sha256": "0eba4b97444b4a624c6ba8ca2cac06eb0d79bfc44c5251069637072d62360160",
+      "title": "Home - Dejero",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dejero.com/gov-defense/",
+        "https://www.dejero.com/fedramp/",
+        "https://www.dejero.com/leadership/",
+        "https://www.dejero.com/blog/dejero-control-achieves-fedramp-moderate-authorization-enabling-secure-connectivity-management-for-federal-agencies/"
+      ]
+    },
+    {
+      "url": "https://www.dejero.com/gov-defense/",
+      "finalUrl": "https://www.dejero.com/gov-defense/",
+      "status": "success",
+      "sha256": "cf3030b18fbe4c607f99b3f7d1a7801d30a9e405019f1714c78faac0eb67f75d",
+      "title": "Government & Defense - Dejero",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dejero.com/fedramp/",
+        "https://www.dejero.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://www.dejero.com/fedramp/",
+      "finalUrl": "https://www.dejero.com/fedramp/",
+      "status": "success",
+      "sha256": "e16c759dac4535feb2f3f3719abc2c223974b3b013ff2a1f8e431d87ebf3235a",
+      "title": "FedRAMP® - Dejero",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dejero.com/leadership/",
+        "https://www.dejero.com/blog/dejero-control-achieves-fedramp-moderate-authorization-enabling-secure-connectivity-management-for-federal-agencies/",
+        "https://www.dejero.com/products/control/"
+      ]
+    },
+    {
+      "url": "https://www.dejero.com/leadership/",
+      "finalUrl": "https://www.dejero.com/leadership/",
+      "status": "success",
+      "sha256": "455e1f39f6ca139183f10406d5bcbafdf9f7be4c8c5e9755db2725b639b7725e",
+      "title": "Our leadership - Dejero",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dejero.com/leadership/bruce-anderson/",
+        "https://www.dejero.com/leadership/bogdan-frusina/",
+        "https://www.dejero.com/leadership/kevin-fernandes/",
+        "https://www.dejero.com/leadership/christine-vigna/",
+        "https://www.dejero.com/leadership/nic-yungblut/"
+      ]
+    }
+  ]
+}

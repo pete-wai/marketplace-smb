@@ -1,0 +1,21 @@
+{
+  "providerId": "csp-7d82b1bc77c5",
+  "retrievedAt": "2026-10-30T11:02:16.275Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://syneren.com/",
+      "finalUrl": "https://syneren.com/",
+      "status": "success",
+      "sha256": "2d7ce4736dcc14cf5e6d47d99b7d009e70772fc50a0bd642f8001fc8b6ecec9e",
+      "title": "Syneren - Homepage",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "v and Services and ISO 9001:2015, ISO 20000-1:2018 and ISO 27001:2022 certified, woman owned small business provider of high-quality technology solutions for the Federal Civilian and DOD Government agencies as a prime contractor. Founded in 2003, we have been providing"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

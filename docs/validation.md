@@ -56,3 +56,13 @@ At the user's request, the annual cohort chart, all-years summary, and accompany
 Added a line chart of the documented-or-likely-small percentage by first certification year, using current assessment data and the existing unit/population controls. Vertical scale is fixed at 0–100%; percentages and partial-year markers are visible; SVG titles include counts, and the existing annual table supplies the accessible numeric alternative. Narrow screens can scroll the graph within its container. No classification or source changes.
 
 Svelte check and autofixer pass without warnings. Fifteen data tests and production build pass. Static verification checks every prerendered trend point against the annual report. Browser visual testing remains unavailable as previously documented.
+
+## Deeper current-size evidence review — October 30, 2026
+
+Supersedes the earlier four-of-eight non-pilot result and prior current-size counts. Accepted 131 provider-level decisions after reviewing the research proposals; 68 classifications/confidence levels changed. The ledger has 707 dispositions, with screening distinguished from individual review. Current listed small share is 179/662; current unknowns 352. The certified non-pilot 20x small group is 3/8. Snapshot, IDs, denominators and historical evidence remain unchanged.
+
+Self-review corrected provider-ID typos, five-year denominator mistakes, GBP/USD threshold comparisons, ARR/revenue confusion, a medical-device NAICS assumption, and the legacy CoSo/current Knox identity. A 50-record stratified cached-evidence audit is retained separately; its preliminary flags are not automatically canonical decisions. Current reviewed decisions take precedence over those flags. Research proposals from the earlier parallel pass are retained as proposals, not authoritative source records.
+
+18 tests passed, including independent cohort recounts, partition/percentage reconciliation, immutable-source hashes, exact historical-report preservation, and source/review coverage for every changed decision. Svelte checking has zero errors/warnings; the main component's pinned Svelte autofixer reports no issues. Browser visual/interactive checks remain unavailable and are not claimed.
+
+Production static generation and `scripts/check-site.mjs` passed: both pages, 54 local asset/download links, complete dataset equality, chart labels/complements, current-assessment cohort basis, and every default percentage trend point. The existing large client dataset chunk warning remains. The full research ledger is download-only; only a small coverage summary is imported by the page.

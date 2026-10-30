@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-1446fb6558d1",
+  "retrievedAt": "2026-10-30T11:02:21.111Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.threatlocker.com/",
+      "finalUrl": "https://www.threatlocker.com/",
+      "status": "success",
+      "sha256": "608c4dda62f12e62f86cb44fc0ffb1636f698275cd03b2dc061b938573b203e3",
+      "title": "Enterprise Cybersecurity Solutions | ThreatLocker",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.threatlocker.com/company/contact-us",
+        "https://www.threatlocker.com/capabilities",
+        "https://www.threatlocker.com/capabilities/zero-trust-ai-control",
+        "https://www.threatlocker.com/capabilities/zero-trust-network-access",
+        "https://www.threatlocker.com/capabilities/zero-trust-cloud-access",
+        "https://www.threatlocker.com/capabilities/allowlisting",
+        "https://www.threatlocker.com/capabilities/privileged-access-management",
+        "https://www.threatlocker.com/capabilities/patch-management",
+        "https://www.threatlocker.com/capabilities/ringfencing",
+        "https://www.threatlocker.com/capabilities/real-time-threat-detection",
+        "https://www.threatlocker.com/capabilities/web-content-control",
+        "https://www.threatlocker.com/capabilities/external-storage-device-control"
+      ]
+    },
+    {
+      "url": "https://www.threatlocker.com/company/contact-us",
+      "finalUrl": "https://www.threatlocker.com/company/contact-us",
+      "status": "success",
+      "sha256": "17cf2474ed76b67d986f5e72381d60ef30725630cb306e86a3b92e7e80d7562c",
+      "title": "Contact Us | ThreatLocker, Inc.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.threatlocker.com/capabilities",
+        "https://www.threatlocker.com/capabilities/zero-trust-ai-control",
+        "https://www.threatlocker.com/capabilities/zero-trust-network-access",
+        "https://www.threatlocker.com/capabilities/zero-trust-cloud-access",
+        "https://www.threatlocker.com/capabilities/allowlisting",
+        "https://www.threatlocker.com/capabilities/privileged-access-management",
+        "https://www.threatlocker.com/capabilities/patch-management",
+        "https://www.threatlocker.com/capabilities/ringfencing",
+        "https://www.threatlocker.com/capabilities/real-time-threat-detection",
+        "https://www.threatlocker.com/capabilities/web-content-control",
+        "https://www.threatlocker.com/capabilities/external-storage-device-control",
+        "https://www.threatlocker.com/capabilities/managed-detection-and-response"
+      ]
+    },
+    {
+      "url": "https://www.threatlocker.com/capabilities",
+      "finalUrl": "https://www.threatlocker.com/capabilities",
+      "status": "success",
+      "sha256": "ed41bc75d874d6c6e7826d73af09877615fc117a2ba0c8dfad41cb3c3d8089ee",
+      "title": "Capabilities",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.threatlocker.com/capabilities/zero-trust-ai-control",
+        "https://www.threatlocker.com/capabilities/zero-trust-network-access",
+        "https://www.threatlocker.com/capabilities/zero-trust-cloud-access",
+        "https://www.threatlocker.com/capabilities/allowlisting",
+        "https://www.threatlocker.com/capabilities/privileged-access-management",
+        "https://www.threatlocker.com/capabilities/patch-management",
+        "https://www.threatlocker.com/capabilities/ringfencing",
+        "https://www.threatlocker.com/capabilities/real-time-threat-detection",
+        "https://www.threatlocker.com/capabilities/web-content-control",
+        "https://www.threatlocker.com/capabilities/external-storage-device-control",
+        "https://www.threatlocker.com/capabilities/managed-detection-and-response",
+        "https://www.threatlocker.com/capabilities/defense-against-configurations"
+      ]
+    },
+    {
+      "url": "https://www.threatlocker.com/capabilities/zero-trust-ai-control",
+      "finalUrl": "https://www.threatlocker.com/capabilities/zero-trust-ai-control",
+      "status": "success",
+      "sha256": "dddc1d8c96115c21901141c27765a6aeab7276124371bc6f49b2ef65e1f3c6ae",
+      "title": "AI Control | ThreatLocker Capabilities",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.threatlocker.com/capabilities/zero-trust-network-access",
+        "https://www.threatlocker.com/capabilities/zero-trust-cloud-access",
+        "https://www.threatlocker.com/capabilities/allowlisting",
+        "https://www.threatlocker.com/capabilities/privileged-access-management",
+        "https://www.threatlocker.com/capabilities/patch-management",
+        "https://www.threatlocker.com/capabilities/ringfencing",
+        "https://www.threatlocker.com/capabilities/real-time-threat-detection",
+        "https://www.threatlocker.com/capabilities/web-content-control",
+        "https://www.threatlocker.com/capabilities/external-storage-device-control",
+        "https://www.threatlocker.com/capabilities/managed-detection-and-response",
+        "https://www.threatlocker.com/capabilities/defense-against-configurations",
+        "https://www.threatlocker.com/capabilities/data-storage-access-control"
+      ]
+    }
+  ]
+}

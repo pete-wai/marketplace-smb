@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-68651c6711e4",
+  "retrievedAt": "2026-10-30T11:01:36.269Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://risk.lexisnexis.com/government",
+      "finalUrl": "https://risk.lexisnexis.com/government",
+      "status": "success",
+      "sha256": "2ba8cf1e3cb2247ea7802d17b58c3fe8d8a108de895ac8bf0f754d2ada194a79",
+      "title": "Government Data, Analytics & Linking Technology|LexisNexis Risk Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://risk.lexisnexis.com/government/business-risk-assessment",
+        "https://risk.lexisnexis.com/government/government-data-quality-management",
+        "https://risk.lexisnexis.com/government/government-fraud-detection-and-prevention",
+        "https://risk.lexisnexis.com/government/government-identity-assessment-and-assurance",
+        "https://risk.lexisnexis.com/government/payment-processing-solutions",
+        "https://risk.lexisnexis.com/government/departments-of-motor-vehicles-dmvs",
+        "https://risk.lexisnexis.com/government/medicaid-program-management",
+        "https://risk.lexisnexis.com/government/public-cio-and-it-programs",
+        "https://risk.lexisnexis.com/government/public-health-agencies",
+        "https://risk.lexisnexis.com/government/retirement-systems",
+        "https://risk.lexisnexis.com/government/social-services-programs",
+        "https://risk.lexisnexis.com/government/unemployment-insurance-programs"
+      ]
+    },
+    {
+      "url": "https://risk.lexisnexis.com/government/business-risk-assessment",
+      "finalUrl": "https://risk.lexisnexis.com/government/business-risk-assessment",
+      "status": "success",
+      "sha256": "e6ac967c3623f9ad2ad4c843be5c2dd35b859a37f6ef46a5ce6346b7aa248c7a",
+      "title": "Business Risk Assessment for Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://risk.lexisnexis.com/government/government-data-quality-management",
+        "https://risk.lexisnexis.com/government/government-fraud-detection-and-prevention",
+        "https://risk.lexisnexis.com/government/government-identity-assessment-and-assurance",
+        "https://risk.lexisnexis.com/government/payment-processing-solutions",
+        "https://risk.lexisnexis.com/government/departments-of-motor-vehicles-dmvs",
+        "https://risk.lexisnexis.com/government/medicaid-program-management",
+        "https://risk.lexisnexis.com/government/public-cio-and-it-programs",
+        "https://risk.lexisnexis.com/government/public-health-agencies",
+        "https://risk.lexisnexis.com/government/retirement-systems",
+        "https://risk.lexisnexis.com/government/social-services-programs",
+        "https://risk.lexisnexis.com/government/unemployment-insurance-programs",
+        "https://risk.lexisnexis.com/government/vital-records-offices"
+      ]
+    },
+    {
+      "url": "https://risk.lexisnexis.com/government/government-data-quality-management",
+      "finalUrl": "https://risk.lexisnexis.com/government/government-data-quality-management",
+      "status": "success",
+      "sha256": "3e97ac66220a0fb4bbc12d41a6465758b527dd5135ef4f1b5319b167cee05f27",
+      "title": "Government Data Quality Management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://risk.lexisnexis.com/government/government-fraud-detection-and-prevention",
+        "https://risk.lexisnexis.com/government/government-identity-assessment-and-assurance",
+        "https://risk.lexisnexis.com/government/payment-processing-solutions",
+        "https://risk.lexisnexis.com/government/departments-of-motor-vehicles-dmvs",
+        "https://risk.lexisnexis.com/government/medicaid-program-management",
+        "https://risk.lexisnexis.com/government/public-cio-and-it-programs",
+        "https://risk.lexisnexis.com/government/public-health-agencies",
+        "https://risk.lexisnexis.com/government/retirement-systems",
+        "https://risk.lexisnexis.com/government/social-services-programs",
+        "https://risk.lexisnexis.com/government/unemployment-insurance-programs",
+        "https://risk.lexisnexis.com/government/vital-records-offices",
+        "https://risk.lexisnexis.com/about-us"
+      ]
+    },
+    {
+      "url": "https://risk.lexisnexis.com/government/government-fraud-detection-and-prevention",
+      "finalUrl": "https://risk.lexisnexis.com/government/government-fraud-detection-and-prevention",
+      "status": "success",
+      "sha256": "61f32b2b7418906d20bbeb5dd5cfdd5a4e3f791618737b12aa607e44a46fba1e",
+      "title": "Government Fraud Detection & Prevention",
+      "signals": [],
+      "discoveredLinks": [
+        "https://risk.lexisnexis.com/government/government-identity-assessment-and-assurance",
+        "https://risk.lexisnexis.com/government/payment-processing-solutions",
+        "https://risk.lexisnexis.com/government/departments-of-motor-vehicles-dmvs",
+        "https://risk.lexisnexis.com/government/medicaid-program-management",
+        "https://risk.lexisnexis.com/government/public-cio-and-it-programs",
+        "https://risk.lexisnexis.com/government/public-health-agencies",
+        "https://risk.lexisnexis.com/government/retirement-systems",
+        "https://risk.lexisnexis.com/government/social-services-programs",
+        "https://risk.lexisnexis.com/government/unemployment-insurance-programs",
+        "https://risk.lexisnexis.com/government/vital-records-offices",
+        "https://risk.lexisnexis.com/about-us",
+        "https://risk.lexisnexis.com/about-us/leadership"
+      ]
+    }
+  ]
+}

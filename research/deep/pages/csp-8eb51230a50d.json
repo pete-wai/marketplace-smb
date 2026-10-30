@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-8eb51230a50d",
+  "retrievedAt": "2026-10-30T11:01:31.073Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.koniag-gs.com/health/",
+      "finalUrl": "https://www.koniag-gs.com/health/",
+      "status": "success",
+      "sha256": "6c16eca7bf59dc642c7e2f003f9b5eaaed6b8f7d280f7129898e7a163c54769e",
+      "title": "Health - Koniag Government Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.koniag-gs.com/about/",
+        "https://www.koniag-gs.com/our-leadership/",
+        "https://www.koniag-gs.com/federal-civilian/"
+      ]
+    },
+    {
+      "url": "https://www.koniag-gs.com/about/",
+      "finalUrl": "https://www.koniag-gs.com/about/",
+      "status": "success",
+      "sha256": "64af102bc702e261d4ede4a9be38433a3b05ea85add2015004ed018ac3c7338f",
+      "title": "About - Koniag Government Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.koniag-gs.com/our-leadership/",
+        "https://www.koniag-gs.com/federal-civilian/"
+      ]
+    },
+    {
+      "url": "https://www.koniag-gs.com/our-leadership/",
+      "finalUrl": "https://www.koniag-gs.com/our-leadership/",
+      "status": "success",
+      "sha256": "47cd9c7d927cb17c74f63ab3d062ae13769324ae5f233c5e263fd6b0891a707c",
+      "title": "Our Leadership - Koniag Government Services",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.koniag-gs.com/federal-civilian/"
+      ]
+    },
+    {
+      "url": "https://www.koniag-gs.com/federal-civilian/",
+      "finalUrl": "https://www.koniag-gs.com/federal-civilian/",
+      "status": "success",
+      "sha256": "64b2e9854f2bddf77216dc6495a8bb63fb32dfa841d8b2db3ae5886246ff783d",
+      "title": "Federal Civilian - Koniag Government Services",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-e6c62e9a605a",
+  "retrievedAt": "2026-10-30T11:01:10.255Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.elvohealth.com/",
+      "finalUrl": "https://www.elvohealth.com/",
+      "status": "success",
+      "sha256": "b03b343c1220c6c628f1ae43dfe4cb755d11099a11181b52e8c5f1b5fc4f3ed4",
+      "title": "ElvoAI | Home",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-96c523772cf2",
+  "retrievedAt": "2026-10-30T11:00:46.918Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.baseten.co/",
+      "finalUrl": "https://www.baseten.co/",
+      "status": "success",
+      "sha256": "1b987c4f15233190ec5782ed0f77f60dae12f189b9ab17c1880e3e1fde6b9b11",
+      "title": "Inference Platform: Deploy AI models in production | Baseten",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.baseten.co/resources/customers/zed-industries-serves-2x-faster-code-completions-with-baseten/",
+        "https://www.baseten.co/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.baseten.co/resources/customers/zed-industries-serves-2x-faster-code-completions-with-baseten/",
+      "finalUrl": "https://www.baseten.co/resources/customers/zed-industries-serves-2x-faster-code-completions-with-baseten/",
+      "status": "success",
+      "sha256": "6d775d34215bb9ac6e8578a4dfdce129915e925dd74fd8a7ed5ff924d28812d0",
+      "title": "How Zed is reimagining the code editor from the ground up",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.baseten.co/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.baseten.co/about-us/",
+      "finalUrl": "https://www.baseten.co/about-us/",
+      "status": "success",
+      "sha256": "fe503322246e791c9166b446798a921aed1555ea5085a8d8d22753423cf8eb1e",
+      "title": "Meet the engineers behind Baseten",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-8c8bda0414c1",
+  "retrievedAt": "2026-10-30T11:02:10.631Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.sentilink.com/",
+      "finalUrl": "https://www.sentilink.com/",
+      "status": "success",
+      "sha256": "9eac4899d560dfca1dc68df83b6cf230aabc58ab176d27387c0c3c7f9e046cce",
+      "title": "SentiLink: The fraud experts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sentilink.com/about"
+      ]
+    },
+    {
+      "url": "https://www.sentilink.com/about",
+      "finalUrl": "https://www.sentilink.com/about",
+      "status": "success",
+      "sha256": "79c3481ea9ab5bfb7a4df48bfc8842b4d490ec7b1f760ddf74af754ee847ad6c",
+      "title": "About our company - SentiLink",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

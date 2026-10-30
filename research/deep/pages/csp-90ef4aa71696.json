@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-90ef4aa71696",
+  "retrievedAt": "2026-10-30T11:00:59.825Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://curapatient.com/",
+      "finalUrl": "https://curapatient.com/",
+      "status": "success",
+      "sha256": "a1749b1312e541bd2fd5e18310313b23a9a9e38c5e76b7038e001a144afe8c1d",
+      "title": "CuraPatient · CuraClaims — Every claim has DNA. We read it.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://curapatient.com/company.html",
+        "https://curapatient.com/solutions/employers.html"
+      ]
+    },
+    {
+      "url": "https://curapatient.com/company.html",
+      "finalUrl": "https://curapatient.com/company.html",
+      "status": "success",
+      "sha256": "6814a84d8dc54beae011ccb3364610c918e46a9879dd0a3bf30b57aa9e684455",
+      "title": "Company — Hello, we're CuraPatient",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://curapatient.com/solutions/employers.html",
+      "finalUrl": "https://curapatient.com/solutions/employers.html",
+      "status": "success",
+      "sha256": "14b09513de79ed806a40fa737d38c1530f94fd32ad935a2fcf1833b52c0aae1a",
+      "title": "For Employers — Your health plan, independently checked · CuraPatient · CuraClaims",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-ae57c57b0c2e",
+  "retrievedAt": "2026-10-30T11:01:56.739Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.privoro.com/",
+      "finalUrl": "https://privoro.com/",
+      "status": "success",
+      "sha256": "9b5b1c3685482443180502b112e465796d594cc6acf98f9a84cecb069610d68b",
+      "title": "Mobile Security Solutions | Privoro",
+      "signals": [],
+      "discoveredLinks": [
+        "https://privoro.com/government-solutions",
+        "https://privoro.com/company",
+        "https://privoro.com/government"
+      ]
+    },
+    {
+      "url": "https://privoro.com/government-solutions",
+      "finalUrl": "https://privoro.com/government-solutions",
+      "status": "success",
+      "sha256": "863063dc72bd01b162252a1db4557df3965de21f5901716b297891b2bc15b4cd",
+      "title": "Government Mobile Security | Privoro",
+      "signals": [],
+      "discoveredLinks": [
+        "https://privoro.com/company",
+        "https://privoro.com/government"
+      ]
+    },
+    {
+      "url": "https://privoro.com/company",
+      "finalUrl": "https://privoro.com/company",
+      "status": "success",
+      "sha256": "67665565ff9f9e97d7d51cc45d38004e11b665944ad43e55241865405f9d7fea",
+      "title": "Company | Privoro",
+      "signals": [
+        {
+          "kind": "financial",
+          "excerpt": "echnology, a global technology solutions provider with $20 billion in annual revenue and over 9,000 employees. He currently focuses his time in the areas of technology innovation, long-term planning and strategic acquisitions and he passionately oversees WWT’s unique corporate culture."
+        }
+      ],
+      "discoveredLinks": [
+        "https://privoro.com/government"
+      ]
+    },
+    {
+      "url": "https://privoro.com/government",
+      "finalUrl": "https://privoro.com/government-solutions",
+      "status": "success",
+      "sha256": "863063dc72bd01b162252a1db4557df3965de21f5901716b297891b2bc15b4cd",
+      "title": "Government Mobile Security | Privoro",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

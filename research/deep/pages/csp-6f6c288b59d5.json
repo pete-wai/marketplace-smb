@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-6f6c288b59d5",
+  "retrievedAt": "2026-10-30T11:02:28.545Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://researchcloud.vibrenthealth.com/",
+      "finalUrl": "https://researchcloud.vibrenthealth.com/",
+      "status": "success",
+      "sha256": "55c339b75effacbab84da60e0a4203ebcf222c874f39180b9df76d102e380cb6",
+      "title": "",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

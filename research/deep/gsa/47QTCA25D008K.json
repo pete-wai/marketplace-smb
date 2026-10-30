@@ -1,0 +1,18 @@
+{
+  "name": "NEXTGENID INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA25D008K&contractorName=NEXTGENID+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-0b7504771bb1"
+  ],
+  "contractNumber": "47QTCA25D008K",
+  "retrievedAt": "2026-10-30T11:08:12.400Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:14.641Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "TECHTREND, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-0525W&contractorName=TECHTREND%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-8450088bdccc"
+  ],
+  "contractNumber": "GS-35F-0525W",
+  "retrievedAt": "2026-10-30T11:09:03.831Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:21.502Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

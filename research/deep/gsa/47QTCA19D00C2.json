@@ -1,0 +1,18 @@
+{
+  "name": "MODUS EDISCOVERY, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA19D00C2&contractorName=MODUS+EDISCOVERY%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-47ea218e03df"
+  ],
+  "contractNumber": "47QTCA19D00C2",
+  "retrievedAt": "2026-10-30T11:08:05.638Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:13.823Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

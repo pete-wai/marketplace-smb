@@ -1,0 +1,18 @@
+{
+  "name": "PERPLEXITY AI, INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA26D000N&contractorName=PERPLEXITY+AI%2C+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-ce94b59d958e"
+  ],
+  "contractNumber": "47QTCA26D000N",
+  "retrievedAt": "2026-10-30T11:08:30.020Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:17.242Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

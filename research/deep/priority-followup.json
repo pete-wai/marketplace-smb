@@ -1,0 +1,329 @@
+{
+  "asOf": "2026-10-30",
+  "retrievedAt": "2026-10-30",
+  "purpose": "Higher-depth follow-up evidence on five priority size/identity questions; proposals only, no canonical changes or adjudications.",
+  "proposals": [
+    {
+      "providerId": "csp-a7c4c5ead54c",
+      "provider": "Files.com",
+      "classification": "unknown",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "Official Files.com materials confirm Action Verb LLC d/b/a Files.com, privately held and majority owned by Riverwood Capital affiliates, and report acquisitions of ExaVault, SmartFile, and ExpanDrive. This search found no credible actual revenue or company headcount. Public procurement sources show only individual low-value software renewals, which cannot establish annual company receipts. No public SBA profile was located for the exact legal name/UEI; the earlier SBA request timed out. Identity is confirmed, but applicable NAICS, exact SAM identity/status, five-year receipts, and control/affiliate scope remain unresolved.",
+      "relevantNaics": [
+        "518210",
+        "541519",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Exact UEI and active SAM/SBA profile for Action Verb LLC.",
+        "Applicable NAICS and 5-year receipts/affiliate aggregation; Riverwood control rights and current acquired-entity affiliations."
+      ],
+      "sources": [
+        {
+          "url": "https://www.files.com/compliance/overview-and-responsibilities/company-overview-and-business-information",
+          "title": "Company Overview & Business Information — Files.com",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "The operating and contracting entity is Action Verb LLC, doing business as Files.com.",
+          "supports": "Identity of the service operating entity; official disclosure says privately held and majority owned by affiliates of Riverwood Capital, while expressly not publicly disclosing headcount."
+        },
+        {
+          "url": "https://www.files.com/about",
+          "title": "About Files.com — One Company, Four Products",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "In January 2021, we closed a $46.5 million investment from Riverwood Capital.",
+          "supports": "Company-reported investment and acquisitions of ExaVault, SmartFile, and ExpanDrive; not proof of Riverwood portfolio affiliation or consolidated SBA size."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8XCfY-lRNtY&t=195s",
+          "title": "FedRAMP community session, September 15, 2026",
+          "publishedAt": "2026-09-15",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Files.com described itself as a small organization with about 60–70 employees.",
+          "supports": "Provider testimony only; not evidence of receipts or affiliate-adjusted SBA status."
+        },
+        {
+          "url": "https://www.files.com/legal/terms",
+          "title": "Terms of Service — Files.com",
+          "publishedAt": "2026-08-18",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "The Service is provided by Action Verb LLC d/b/a Files.com.",
+          "supports": "Current first-party identity corroboration."
+        },
+        {
+          "url": "https://www.abo.ny.gov/annualreports/PARISProcurement%20Reports/FYE2024/State/PRNewYorkConventionCenter2024.pdf",
+          "title": "NY Convention Center Procurement Report FY2024",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Annual renewal Files.com SFTP ... $9,000 expended for fiscal year.",
+          "supports": "Public individual transaction only; no inference about company-wide receipts."
+        },
+        {
+          "url": "https://www.privacyshield.gov/ps/participant?id=a2zt0000000GnNYAA0",
+          "title": "Privacy Shield participant — Action Verb LLC",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Other covered entity: ExaVault, LLC.",
+          "supports": "Official entity record links ExaVault as covered entity; no current affiliate-size calculation."
+        }
+      ],
+      "searches": [
+        "Searches of primary corporate disclosures, SEC/Companies House records, company press/blog pages, and credible financial/news sources for actual annual revenues, legal entity relationships and ownership.",
+        "Follow-up targeted searches for exact financial statements, annual company revenue and controlling parent/affiliate links."
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-74f3bba0747b",
+      "provider": "Anysphere, Inc. / Cursor",
+      "classification": "likely-not-small",
+      "confidence": "high",
+      "identityConfidence": "high",
+      "reason": "Cursor’s first-party August 14, 2026 notice says it has officially been acquired by SpaceX. SpaceX’s June 2026 prospectus identifies Anysphere, Inc. as the Cursor operating company and reports audited consolidated 2025 revenue of $18.674 billion. Given the completed acquisition and parent scale, Anysphere is likely not small under any plausible software-services receipts standard at this snapshot. This is a parent-control inference, not Anysphere ARR. Do not aggregate unrelated SpaceX stakeholders’ other portfolio firms absent control.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Confirm selected certified product NAICS and whether marketplace provider ID is Anysphere itself or a post-acquisition subsidiary.",
+        "Exact affiliate size computation remains adjudicative; public evidence strongly supports likely-not-small."
+      ],
+      "sources": [
+        {
+          "url": "https://prod.cursor.com/blog/joining-spacex",
+          "title": "Cursor is now a part of SpaceX",
+          "publishedAt": "2026-08-14",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Cursor has officially been acquired by SpaceX.",
+          "supports": "First-party confirmation acquisition closed."
+        },
+        {
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "title": "SpaceX EU Prospectus",
+          "publishedAt": "2026-06-05",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Anysphere, Inc., doing business as Cursor, a San Francisco-based private software company.",
+          "supports": "Identifies the operating legal entity."
+        },
+        {
+          "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+          "title": "SpaceX EU Prospectus — audited consolidated results",
+          "publishedAt": "2026-06-05",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "2025 revenue: $18,674 million.",
+          "supports": "Controlling parent consolidated actual-year revenue, audited."
+        }
+      ],
+      "searches": [
+        "Searches of primary corporate disclosures, SEC/Companies House records, company press/blog pages, and credible financial/news sources for actual annual revenues, legal entity relationships and ownership.",
+        "Follow-up targeted searches for exact financial statements, annual company revenue and controlling parent/affiliate links."
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-ce63f29292ac",
+      "provider": "Eleven Labs Inc.",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "medium",
+      "reason": "The first-party UK Companies House filing history confirms ELEVEN LABS LTD filed accounts to December 31, 2025. I retrieved its filed iXBRL accounts: they report average employees of 53 for the UK company (22 in 2024) and profit of £904,321, but do not disclose turnover/revenue. That UK entity is not proven equivalent to the U.S. Marketplace entity Eleven Labs Inc. Company disclosures report ARR, not recognized annual receipts: $350M at 2025 year-end and over $500M ARR in the first four months of 2026; these are strong scale indicators but do not establish five-year SBA receipts. No public consolidated actual-revenue filing sufficient to bridge entity and receipts was found. Unknown remains appropriate.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Verify relationship between ELEVEN LABS LTD and Marketplace provider entity Eleven Labs Inc, including any group consolidation.",
+        "Find 2021–25 recognized receipts for the Marketplace entity and relevant affiliates.",
+        "Confirm service NAICS and affiliate-adjusted employees/receipts."
+      ],
+      "sources": [
+        {
+          "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors",
+          "title": "ElevenLabs crosses $500M ARR and welcomes new investors",
+          "publishedAt": "2026-05-19",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "We ended 2025 with $350 million in ARR ... surpassed $500 million ARR.",
+          "supports": "Official ARR disclosures; run rate, not completed-year receipts."
+        },
+        {
+          "url": "https://elevenlabs.io/blog/tender-22bn",
+          "title": "ElevenLabs valuation increases to $22 billion",
+          "publishedAt": "2026-09-30",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "We now have 530 exceptional teammates across over 50 countries.",
+          "supports": "Official current headcount; does not exceed 1,000 alone, affiliates not established."
+        },
+        {
+          "url": "https://www.ecfr.gov/current/title-13/section-121.201",
+          "title": "13 CFR § 121.201 — Size standards",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "518210 Data Processing, Hosting, and Related Services — $40 million. 519290 Web Search Portals — 1,000 employees.",
+          "supports": "Primary regulation confirms the different receipts and employee standards for the two NAICS codes."
+        },
+        {
+          "url": "https://find-and-update.company-information.service.gov.uk/company/13826669/filing-history",
+          "title": "ELEVEN LABS LTD — filing history",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Accounts for a small company made up to 31 December 2025.",
+          "supports": "Confirms filed year and company identity; filed iXBRL has no turnover line."
+        },
+        {
+          "url": "https://find-and-update.company-information.service.gov.uk/company/13826669/filing-history/MzUzMDAyMzAzNWFkaXF6a2N4/document?download=1&format=xhtml",
+          "title": "ELEVEN LABS LTD 2025 accounts (iXBRL)",
+          "publishedAt": "2026-07-02",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "AverageNumberEmployeesDuringPeriod: 53; prior period 22.",
+          "supports": "Primary filing; UK company only, with no disclosed turnover."
+        }
+      ],
+      "searches": [
+        "Searches of primary corporate disclosures, SEC/Companies House records, company press/blog pages, and credible financial/news sources for actual annual revenues, legal entity relationships and ownership.",
+        "Follow-up targeted searches for exact financial statements, annual company revenue and controlling parent/affiliate links."
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-49f756463ad9",
+      "provider": "Harness, Inc.",
+      "classification": "unknown",
+      "confidence": "low",
+      "identityConfidence": "high",
+      "reason": "Harness CEO’s official 2024 post says the company grew from $1M to $100M “in just five years,” but does not state whether that is recognized revenue or ARR; its 2024 financing and 2025 merger announcements describe ARR. The combined Harness/Traceable business was expected to exceed $250M ARR in 2025, a forecasted ARR figure, not actual receipts. Searches found third-party private-company revenue estimates, but no audited/primary completed-year sales or consolidated filings. Without actual receipts, selected NAICS, and affiliate calculations (including Traceable acquisition), unknown is warranted.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "unresolvedQuestions": [
+        "Find primary completed-year recognized revenues for Marketplace entity and Traceable after acquisition.",
+        "Confirm service NAICS, five-year receipts and affiliate treatment; do not substitute ARR for receipts."
+      ],
+      "sources": [
+        {
+          "url": "https://www.harness.io/blog/harness-traceable",
+          "title": "Harness and Traceable Merge to Boost Secure Delivery",
+          "publishedAt": "2025-02-10",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "ARR north of $250 million projected this year.",
+          "supports": "Official CEO disclosure of projected merged-company ARR and merger; ARR is not receipts."
+        },
+        {
+          "url": "https://www.harness.io/company/about-us",
+          "title": "About Harness",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Harness — The Autonomous SDLC Platform.",
+          "supports": "Confirms software delivery platform service context; no decisive size evidence."
+        },
+        {
+          "url": "https://www.harness.io/blog/celebrating-150m-in-new-financing-to-accelerate-innovation",
+          "title": "Harness secures $150M financing",
+          "publishedAt": "2024-05-14",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "We’ve grown rapidly – one of very few companies to have grown from $1M to $100M in just five years.",
+          "supports": "Official CEO statement; ambiguous between recognized revenue and ARR."
+        },
+        {
+          "url": "https://www.harness.io/blog/harness-traceable",
+          "title": "Harness + Traceable",
+          "publishedAt": "2025-02-10",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Combined company expected to generate more than $250 million in ARR this year.",
+          "supports": "Official forecasted ARR, not annual receipts."
+        },
+        {
+          "url": "https://www.cbinsights.com/company/harness/financials",
+          "title": "Harness financial profile — CB Insights",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "2024 revenue was $100M.",
+          "supports": "Third-party estimate; no primary financial statement or transparent derivation."
+        }
+      ],
+      "searches": [
+        "Searches of primary corporate disclosures, SEC/Companies House records, company press/blog pages, and credible financial/news sources for actual annual revenues, legal entity relationships and ownership.",
+        "Follow-up targeted searches for exact financial statements, annual company revenue and controlling parent/affiliate links."
+      ],
+      "reviewerStatus": "pending"
+    },
+    {
+      "providerId": "csp-7c2dddc2c258",
+      "provider": "BeyondTrust",
+      "classification": "likely-not-small",
+      "confidence": "medium",
+      "identityConfidence": "high",
+      "reason": "A Citizens/JMP cybersecurity-company report attributes 2023 revenue above $300M to BeyondTrust and labels its figures “Source: Company website, all revenues are CY-23.” This is a secondary summary of company-reported actual revenue, not a primary financial statement; it is a strong completed-year scale signal versus likely applicable software-services receipt standards (for example, 541512 uses $34M). BeyondTrust itself reported over $400M ARR in 2024, corroborating scale but not receipts. Official ownership disclosure says Francisco Partners acquired BeyondTrust in 2018 and Clearlake joined as an institutional shareholder in 2021; review control at the company level without automatically including every sponsor portfolio company. Likely not small, medium confidence because the CY23 actual-revenue figure is secondary and exact NAICS/five-year receipts remain unresolved.",
+      "relevantNaics": [
+        "518210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "unresolvedQuestions": [
+        "Confirm selected product NAICS and public exact CY2023 revenue source underlying the company-website summary.",
+        "Confirm five-year receipts and 24-month affiliate-adjusted employee average; determine corporate parent/subsidiary boundary."
+      ],
+      "sources": [
+        {
+          "url": "https://www.beyondtrust.com/press/h1-2024-momentum",
+          "title": "BeyondTrust first-half 2024 momentum",
+          "publishedAt": "2024-07-16",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "In surpassing $400M in Annual Recurring Revenue (ARR).",
+          "supports": "Direct official ARR scale disclosure; ARR is not receipts."
+        },
+        {
+          "url": "https://www.beyondtrust.com/press/beyondtrust-announces-strategic-investment-from-clearlake-capital",
+          "title": "BeyondTrust Announces Strategic Investment from Clearlake Capital",
+          "publishedAt": "2021-06-01",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Clearlake will join existing investor Francisco Partners as an institutional shareholder.",
+          "supports": "Ownership context and need for control/affiliate analysis; does not prove sponsor portfolio-wide affiliation."
+        },
+        {
+          "url": "https://search.certifications.sba.gov/profile/M7U8NDFYRPJ9/4B5K1",
+          "title": "SBA Small Business Search — BEYONDTRUST CORPORATION",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Active SBA representation for UEI M7U8NDFYRPJ9.",
+          "supports": "Exact-entity record; conflicting size representation should be scoped by NAICS and date."
+        },
+        {
+          "url": "https://7938840.fs1.hubspotusercontent-na1.net/hubfs/7938840/2024_CJMP_Cyber_66.pdf",
+          "title": "Citizens | JMP Cybersecurity report 2024 — BeyondTrust",
+          "publishedAt": "2024",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Revenue: >$300M; source: Company website, all revenues are CY-23.",
+          "supports": "Secondary analyst report attributes actual CY2023 revenue to company website; it lists 1,550 headcount separately and does not reproduce the underlying source page."
+        },
+        {
+          "url": "https://www.beyondtrust.com/press/beyondtrust-completes-transaction-with-clearlake-capital-and-francisco-partners",
+          "title": "BeyondTrust completes transaction with Clearlake and Francisco Partners",
+          "publishedAt": "2021-08-17",
+          "retrievedAt": "2026-10-30",
+          "excerpt": "Clearlake joins existing investor Francisco Partners.",
+          "supports": "Company ownership disclosure; no portfolio-wide aggregation presumed."
+        },
+        {
+          "url": "https://www.ecfr.gov/current/title-13/section-121.201",
+          "title": "13 CFR § 121.201 — Size standards",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-30",
+          "excerpt": "541512 Computer Systems Design Services — $34 million.",
+          "supports": "Primary SBA size-standard regulation; the reported CY2023 revenue exceeds this likely service-code threshold by over 8×."
+        }
+      ],
+      "searches": [
+        "Searches of primary corporate disclosures, SEC/Companies House records, company press/blog pages, and credible financial/news sources for actual annual revenues, legal entity relationships and ownership.",
+        "Follow-up targeted searches for exact financial statements, annual company revenue and controlling parent/affiliate links."
+      ],
+      "reviewerStatus": "pending"
+    }
+  ]
+}

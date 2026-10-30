@@ -1,0 +1,94 @@
+{
+  "providerId": "csp-c9a8dee159d7",
+  "retrievedAt": "2026-10-30T11:00:53.146Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cobblestonesoftware.com/",
+      "finalUrl": "https://www.cobblestonesoftware.com/",
+      "status": "success",
+      "sha256": "526744fd4c3326e3c8cb946d1c415f94dcf4f0ad27ab87eb27f1c5f4f535648e",
+      "title": "Contract Management & Procurement Software | CobbleStone Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cobblestonesoftware.com/company/request-pricing",
+        "https://www.cobblestonesoftware.com/industries/government-contract-management-software",
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-partner-certification",
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-certification-program-for-clients",
+        "https://www.cobblestonesoftware.com/company/about-cobblestone-software",
+        "https://www.cobblestonesoftware.com/company/contact-us",
+        "https://www.cobblestonesoftware.com/company/partners-accreditations",
+        "https://www.cobblestonesoftware.com/company/partner-program",
+        "https://www.cobblestonesoftware.com/company/attestations",
+        "https://www.cobblestonesoftware.com/company/careers",
+        "https://www.cobblestonesoftware.com/company/investor-relations",
+        "https://www.cobblestonesoftware.com/company/free-trial"
+      ]
+    },
+    {
+      "url": "https://www.cobblestonesoftware.com/company/request-pricing",
+      "finalUrl": "https://www.cobblestonesoftware.com/company/request-pricing",
+      "status": "success",
+      "sha256": "706210449cad0d1e40971d30cbd210d104f3dcb81c5896f0639f3ae119ca493d",
+      "title": "Request CobbleStone Software Pricing",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cobblestonesoftware.com/industries/government-contract-management-software",
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-partner-certification",
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-certification-program-for-clients",
+        "https://www.cobblestonesoftware.com/company/about-cobblestone-software",
+        "https://www.cobblestonesoftware.com/company/contact-us",
+        "https://www.cobblestonesoftware.com/company/partners-accreditations",
+        "https://www.cobblestonesoftware.com/company/partner-program",
+        "https://www.cobblestonesoftware.com/company/attestations",
+        "https://www.cobblestonesoftware.com/company/careers",
+        "https://www.cobblestonesoftware.com/company/investor-relations",
+        "https://www.cobblestonesoftware.com/company/privacy-policy",
+        "https://www.cobblestonesoftware.com/company/free-trial"
+      ]
+    },
+    {
+      "url": "https://www.cobblestonesoftware.com/industries/government-contract-management-software",
+      "finalUrl": "https://www.cobblestonesoftware.com/industries/government-contract-management-software",
+      "status": "success",
+      "sha256": "c718048c0f38ae8aadba156072182be946129e712ed286a7b8edd1f6b7cc8fee",
+      "title": "Government Contract Management Software | CobbleStone Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-partner-certification",
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-certification-program-for-clients",
+        "https://www.cobblestonesoftware.com/company/about-cobblestone-software",
+        "https://www.cobblestonesoftware.com/company/contact-us",
+        "https://www.cobblestonesoftware.com/company/partners-accreditations",
+        "https://www.cobblestonesoftware.com/company/partner-program",
+        "https://www.cobblestonesoftware.com/company/attestations",
+        "https://www.cobblestonesoftware.com/company/careers",
+        "https://www.cobblestonesoftware.com/company/investor-relations",
+        "https://www.cobblestonesoftware.com/company/free-trial",
+        "https://www.cobblestonesoftware.com/products/enterprise-contract-management-software",
+        "https://www.cobblestonesoftware.com/contract-management-software/contract-workflows"
+      ]
+    },
+    {
+      "url": "https://www.cobblestonesoftware.com/company/cobblestone-university-partner-certification",
+      "finalUrl": "https://www.cobblestonesoftware.com/company/cobblestone-university-partner-certification",
+      "status": "success",
+      "sha256": "f2a0f41e55c4c4f893154dd32e27140432d6cc9f791ad73f9c6031da5d6669bd",
+      "title": "CobbleStone Software | Partner Certification Program",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cobblestonesoftware.com/company/cobblestone-university-certification-program-for-clients",
+        "https://www.cobblestonesoftware.com/company/about-cobblestone-software",
+        "https://www.cobblestonesoftware.com/company/contact-us",
+        "https://www.cobblestonesoftware.com/company/partners-accreditations",
+        "https://www.cobblestonesoftware.com/company/partner-program",
+        "https://www.cobblestonesoftware.com/company/attestations",
+        "https://www.cobblestonesoftware.com/company/careers",
+        "https://www.cobblestonesoftware.com/company/investor-relations",
+        "https://www.cobblestonesoftware.com/company/free-trial",
+        "https://www.cobblestonesoftware.com/company/privacy-policy",
+        "https://www.cobblestonesoftware.com/company/accessibility-statement"
+      ]
+    }
+  ]
+}

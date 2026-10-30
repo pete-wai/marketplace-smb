@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-0c6dfb0bf1b2",
+  "retrievedAt": "2026-10-30T11:00:50.553Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ceribell.com/",
+      "finalUrl": "https://ceribell.com/",
+      "status": "success",
+      "sha256": "b4da2aa75f0c80c2ba34751772083d82a483681e34ca8b3ba0f8a75db509a84a",
+      "title": "Ceribell | Home",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ceribell.com/about-us/company/",
+        "https://ceribell.com/about-us/leadership-team/",
+        "https://ceribell.com/about-us/culture-careers/",
+        "https://ceribell.com/about-us/newsroom/",
+        "https://ceribell.com/about-us/industry-perspectives/",
+        "https://ceribell.com/about-us/faqs/",
+        "https://ceribell.com/about-us/litigation-information-page/"
+      ]
+    },
+    {
+      "url": "https://ceribell.com/about-us/company/",
+      "finalUrl": "https://ceribell.com/about-us/company/",
+      "status": "success",
+      "sha256": "3eb658715546cbcab94363aea25c351b3ea59aa390a99bb116a1ae3eff8063e0",
+      "title": "Company | Ceribell",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ceribell.com/about-us/leadership-team/",
+        "https://ceribell.com/about-us/culture-careers/",
+        "https://ceribell.com/about-us/newsroom/",
+        "https://ceribell.com/about-us/industry-perspectives/",
+        "https://ceribell.com/about-us/faqs/"
+      ]
+    },
+    {
+      "url": "https://ceribell.com/about-us/leadership-team/",
+      "finalUrl": "https://ceribell.com/about-us/leadership-team/",
+      "status": "success",
+      "sha256": "8cb6763cf41acfc119d006d733f4e524c20d707da28ea0a9f96d5a1181f807ce",
+      "title": "Leadership | Ceribell",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "al vascular devices company, from November 2009 until the company was acquired by Abbott Laboratories in August 2013. From August 2004 to December 2007, he served as Executive Vice President & Chief Financial Officer of ReAble Therapeutics, Inc., a diversified"
+        },
+        {
+          "kind": "financial",
+          "excerpt": "h-impact go-to-market strategies helped Omnicell achieve 4x growth in annual revenue during his tenure there. While at Omnicell , Mr. Manni oversaw the growth of a large sales organization and transitioned the business to a SaaS-oriented model, fueling company expansion"
+        }
+      ],
+      "discoveredLinks": [
+        "https://ceribell.com/about-us/culture-careers/",
+        "https://ceribell.com/about-us/newsroom/",
+        "https://ceribell.com/about-us/industry-perspectives/",
+        "https://ceribell.com/about-us/faqs/"
+      ]
+    },
+    {
+      "url": "https://ceribell.com/about-us/culture-careers/",
+      "finalUrl": "https://ceribell.com/about-us/culture-careers/",
+      "status": "success",
+      "sha256": "68e5754576b7c2b16362c7253b1e1f2fb2ec458921ee5796c0e6d0a396d40137",
+      "title": "Culture & Careers | Ceribell",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ceribell.com/about-us/newsroom/",
+        "https://ceribell.com/about-us/industry-perspectives/",
+        "https://ceribell.com/about-us/faqs/"
+      ]
+    }
+  ]
+}

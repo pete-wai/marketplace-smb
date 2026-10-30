@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-6a1ffd5d9580",
+  "retrievedAt": "2026-10-30T11:02:31.566Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://wisedocs.ai/",
+      "finalUrl": "https://www.wisedocs.ai/",
+      "status": "success",
+      "sha256": "37b93f73b4e6bb8f2b70c60d198fdd155c65f94ee7169454793ca9175953258c",
+      "title": "Wisedocs | Medical Record Reviews, Summaries, Insights for Claims",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wisedocs.ai/business-models/government-public-sector",
+        "https://www.wisedocs.ai/company/about-us",
+        "https://www.wisedocs.ai/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.wisedocs.ai/business-models/government-public-sector",
+      "finalUrl": "https://www.wisedocs.ai/business-models/government-public-sector",
+      "status": "success",
+      "sha256": "d78aa34a3fda2a40a520db5f7050319254fae677aa23b1c4ee420b6742d2be62",
+      "title": "Wisedocs for Public Sector & Government Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wisedocs.ai/company/about-us",
+        "https://www.wisedocs.ai/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.wisedocs.ai/company/about-us",
+      "finalUrl": "https://www.wisedocs.ai/company/about-us",
+      "status": "success",
+      "sha256": "de23a2b2638be0a3caa61597bc78628c834118026bb934b8aefcd3e197617bb2",
+      "title": "Wisedocs | About our insurtech company",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wisedocs.ai/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.wisedocs.ai/company/careers",
+      "finalUrl": "https://www.wisedocs.ai/company/careers",
+      "status": "success",
+      "sha256": "c2ea35b751787dc0c83dd0378d5b873bd1c6886819669d773693d9cf97ae541c",
+      "title": "Wisedocs | Join our insurtech team",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

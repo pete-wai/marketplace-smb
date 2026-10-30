@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-635325dd3df2",
+  "retrievedAt": "2026-10-30T11:00:50.875Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.certivo.com/",
+      "finalUrl": "https://www.certivo.com/",
+      "status": "success",
+      "sha256": "f8ecca21d60d5c079df133fd5797039a9dd5c88fdf17dbfc26a886ab04f689c9",
+      "title": "Certivo",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

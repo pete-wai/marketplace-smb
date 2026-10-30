@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-5ed78700497c",
+  "retrievedAt": "2026-10-30T11:02:26.313Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.valimail.com/",
+      "finalUrl": "https://www.valimail.com/",
+      "status": "success",
+      "sha256": "a12a8afce4e3422550a7be939ce05e29c1d28fb4e09bdcf107c0ddbc099725fe",
+      "title": "Leading Email Authentication Solution | Valimail",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valimail.com/industry-government/",
+        "https://www.valimail.com/resources/success-stories/aviation-company-case-study/",
+        "https://www.valimail.com/partners/",
+        "https://www.valimail.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.valimail.com/industry-government/",
+      "finalUrl": "https://www.valimail.com/industry-government/",
+      "status": "success",
+      "sha256": "c8100eedb640ce272606557290e6a58c04208e6007d9a10b0825240e5d3308b3",
+      "title": "Email authentication for government agencies - Valimail",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valimail.com/resources/success-stories/aviation-company-case-study/",
+        "https://www.valimail.com/partners/",
+        "https://www.valimail.com/blog/dmarc-in-government/?_gl=1*hqifrl*_up*MQ..*_ga*MjA4NDY1NzQwNi4xNzczMzQzODM2*_ga_DB1MF3T65T*czE3NzMzNDM4MzUkbzEkZzAkdDE3NzMzNDM4MzUkajYwJGwwJGgw",
+        "https://www.valimail.com/blog/federal-compliance-with-email-authentication-directive-continues-to-grow/",
+        "https://www.valimail.com/blog/new-zealand-goverenment-email-security-requirements/",
+        "https://www.valimail.com/blog/dmarc-in-government/",
+        "https://www.valimail.com/newsroom/valimail-announces-valigov-the-first-and-only-automated-email-authentication-product-for-u-s-government/",
+        "https://www.valimail.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.valimail.com/resources/success-stories/aviation-company-case-study/",
+      "finalUrl": "https://www.valimail.com/resources/success-stories/aviation-company-case-study/",
+      "status": "success",
+      "sha256": "f5fa214486001c37ff00b3b8dd52c74da28978d3ce81006dd2a6ca5e3efa9f89",
+      "title": "Clear Skies Ahead - Valimail",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valimail.com/partners/",
+        "https://www.valimail.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.valimail.com/partners/",
+      "finalUrl": "https://www.valimail.com/partners/",
+      "status": "success",
+      "sha256": "6f692436ecc9d529529de4404f60b6a6c52b9b30e95004fd9d37d0a9e95a52aa",
+      "title": "Partners | Valimail",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valimail.com/about/"
+      ]
+    }
+  ]
+}

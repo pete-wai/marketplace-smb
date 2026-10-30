@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-83b2341c4e3b",
+  "retrievedAt": "2026-10-30T11:02:29.738Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.visionlink.org/",
+      "finalUrl": "https://www.visionlink.org/",
+      "status": "success",
+      "sha256": "e19932516889f99ebf94a2c1232e5466d6274d7a02157f783dce0faac5563235",
+      "title": "Visionlink",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visionlink.org/about"
+      ]
+    },
+    {
+      "url": "https://www.visionlink.org/about",
+      "finalUrl": "https://www.visionlink.org/about/",
+      "status": "success",
+      "sha256": "ef986c5985247600bc62abf95b8717db602739e5cb59864601fe86ba12358c44",
+      "title": "Visionlink",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

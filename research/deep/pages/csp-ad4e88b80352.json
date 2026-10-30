@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-ad4e88b80352",
+  "retrievedAt": "2026-10-30T11:01:35.769Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://levelblue.com/xdr/tdr-for-government",
+      "finalUrl": "https://www.levelblue.com/xdr-for-government",
+      "status": "success",
+      "sha256": "d02eb654107b9562b2e80eb02aecaa4436410a709e6b4332cd914790cb1ece25",
+      "title": "Extended Detection and Response Solution for Government | LevelBlue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelblue.com/solutions/government",
+        "https://www.levelblue.com/company/contact",
+        "https://www.levelblue.com/company/security-breach",
+        "https://www.levelblue.com/company/support",
+        "https://www.levelblue.com/xdr-for-government",
+        "https://www.levelblue.com/blogs/levelblue-blog/how-levelblues-fedramp-authorization-removes-the-burden-of-cmmc-federal-compliance-from-clients",
+        "https://www.levelblue.com/company/our-history",
+        "https://www.levelblue.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.levelblue.com/solutions/government",
+      "finalUrl": "https://www.levelblue.com/solutions/government",
+      "status": "success",
+      "sha256": "a914b147cfbe265288dc7028cd66e0ecddb44133e26505853f0fb6b5cc463caf",
+      "title": "Cybersecurity Solutions for Government | LevelBlue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelblue.com/company/contact",
+        "https://www.levelblue.com/company/security-breach",
+        "https://www.levelblue.com/company/support",
+        "https://www.levelblue.com/resources/research-reports/cyber-resilience-and-business-impact-in-us-state-and-local-government-and-higher-education",
+        "https://www.levelblue.com/blogs/levelblue-blog/how-levelblues-fedramp-authorization-removes-the-burden-of-cmmc-federal-compliance-from-clients",
+        "https://www.levelblue.com/company/our-history",
+        "https://www.levelblue.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.levelblue.com/company/contact",
+      "finalUrl": "https://www.levelblue.com/company/contact",
+      "status": "success",
+      "sha256": "3b2c23716d321f5cbd4dac616cd7c4fa669a033fac39cbd5dceff67d271115f5",
+      "title": "Contact Us | LevelBlue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelblue.com/company/security-breach",
+        "https://www.levelblue.com/company/about-us",
+        "https://www.levelblue.com/company/accolades",
+        "https://www.levelblue.com/company/support",
+        "https://www.levelblue.com/company/our-history",
+        "https://www.levelblue.com/company/careers"
+      ]
+    },
+    {
+      "url": "https://www.levelblue.com/company/security-breach",
+      "finalUrl": "https://www.levelblue.com/company/security-breach",
+      "status": "success",
+      "sha256": "53292b583e29ae8a462555295de7dabbf7eaf6a32820643046211a70cfda1141",
+      "title": "Experiencing a Security Breach? | LevelBlue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.levelblue.com/company/about-us",
+        "https://www.levelblue.com/company/accolades",
+        "https://www.levelblue.com/company/support",
+        "https://www.levelblue.com/company/our-history",
+        "https://www.levelblue.com/company/careers"
+      ]
+    }
+  ]
+}

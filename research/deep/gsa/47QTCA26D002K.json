@@ -1,0 +1,16 @@
+{
+  "name": "ID.ME, LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA26D002K&contractorName=ID.ME%2C+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-27d47fd34ff9"
+  ],
+  "contractNumber": "47QTCA26D002K",
+  "retrievedAt": "2026-10-30T11:06:10.317Z",
+  "status": "success",
+  "sha256": "75d07086ab151e2bdd969ec0a5ea6d2d97bd8519fd19a6a260d8107d26619176",
+  "uei": "JYE9SCGRXRK7",
+  "naics": "541519",
+  "socioEconomic": "Other Than Small Business",
+  "optionEnd": "Dec 21, 2030",
+  "website": "https://id.me/"
+}

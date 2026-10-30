@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-19e77442fa2e",
+  "retrievedAt": "2026-10-30T11:01:17.426Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://formassembly.com/",
+      "finalUrl": "https://www.formassembly.com/",
+      "status": "success",
+      "sha256": "d2df226009857506c3e8cde16f0314d2fc945354203660a01907e7ed51ca3e02",
+      "title": "FormAssembly | Secure Web Forms & Salesforce Data Collection",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.formassembly.com/solutions/industry/government/",
+        "https://www.formassembly.com/"
+      ]
+    },
+    {
+      "url": "https://www.formassembly.com/solutions/industry/government/",
+      "finalUrl": "https://www.formassembly.com/solutions/industry/government/",
+      "status": "success",
+      "sha256": "1acad258a0e43aa8e759b929ddf09be1ab1f78263ab599a91e3770b40c247940",
+      "title": "Secure Workflow Automation for the Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.formassembly.com/blog/6-of-the-biggest-data-collection-challenges-government-organizations-face/",
+        "https://www.formassembly.com/resources/case-studies/government-scales-data-collection/",
+        "https://www.formassembly.com/"
+      ]
+    },
+    {
+      "url": "https://www.formassembly.com/",
+      "finalUrl": "https://www.formassembly.com/",
+      "status": "success",
+      "sha256": "d2df226009857506c3e8cde16f0314d2fc945354203660a01907e7ed51ca3e02",
+      "title": "FormAssembly | Secure Web Forms & Salesforce Data Collection",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.formassembly.com/blog/6-of-the-biggest-data-collection-challenges-government-organizations-face/",
+      "finalUrl": "https://www.formassembly.com/blog/6-of-the-biggest-data-collection-challenges-government-organizations-face/",
+      "status": "success",
+      "sha256": "66cd4ab545f0f3821cd0118b311c9ee3e134423ed8fc75aaf76b93324dbb1d98",
+      "title": "6 of the Biggest Data Collection Challenges Government Organizations Face",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.formassembly.com/blog/5-ways-state-and-local-governments-are-modernizing-constituent-data-collection/",
+        "https://www.formassembly.com/blog/federal-data-collection-security-requirements/",
+        "https://www.formassembly.com/blog/fisma-compliance-federal-it/",
+        "https://www.formassembly.com/blog/modern-government-data-collection-infrastructure/",
+        "https://www.formassembly.com/blog/how-agencies-can-achieve-secure-government-data-collection/"
+      ]
+    }
+  ]
+}

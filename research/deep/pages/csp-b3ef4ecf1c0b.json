@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-b3ef4ecf1c0b",
+  "retrievedAt": "2026-10-30T11:02:31.033Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.wellhive.com/",
+      "finalUrl": "https://www.wellhive.com/",
+      "status": "success",
+      "sha256": "48f077a6df2a83a6ac5ba3701ca7297767a0f3e2158ca00957bf44cd207115a6",
+      "title": "WellHive",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wellhive.com/about-us",
+        "https://www.wellhive.com/company"
+      ]
+    },
+    {
+      "url": "https://www.wellhive.com/about-us",
+      "finalUrl": "https://www.wellhive.com/about-us",
+      "status": "success",
+      "sha256": "38d9c0081f65fc5d5d7711590c9ff9fcf062d7ecce8a93aeac97f33b8d8b9bc7",
+      "title": "About Us &mdash; WellHive",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.wellhive.com/company"
+      ]
+    },
+    {
+      "url": "https://www.wellhive.com/company",
+      "finalUrl": "https://www.wellhive.com/about-us",
+      "status": "success",
+      "sha256": "38d9c0081f65fc5d5d7711590c9ff9fcf062d7ecce8a93aeac97f33b8d8b9bc7",
+      "title": "About Us &mdash; WellHive",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

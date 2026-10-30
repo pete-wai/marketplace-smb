@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-59684283f307",
+  "retrievedAt": "2026-10-30T11:01:26.131Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ironwifi.com/",
+      "finalUrl": "https://www.ironwifi.com/",
+      "status": "success",
+      "sha256": "735c546c4efbec28f00b500f9e572794192a7c925cc62497ad0717b465b9fff2",
+      "title": "IronWiFi - Replace NPS and ISE with Cloud RADIUS",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ironwifi.com/government/",
+        "https://www.ironwifi.com/wpa-enterprise",
+        "https://www.ironwifi.com/hospitality",
+        "https://www.ironwifi.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.ironwifi.com/government/",
+      "finalUrl": "https://www.ironwifi.com/government/",
+      "status": "success",
+      "sha256": "28cec70d0f1298774f4fb2447977e2ada9c97dfe28470d5e3ac985f3a7c8fdb8",
+      "title": "Government WiFi & RADIUS Authentication | IronWiFi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ironwifi.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.ironwifi.com/wpa-enterprise",
+      "finalUrl": "https://www.ironwifi.com/wpa-enterprise",
+      "status": "success",
+      "sha256": "137b91555f2675a294f0bc4978c9d944990118fc0ce79d5cbb2f5dfe7e85c7b8",
+      "title": "WPA-Enterprise Made Simple | Ditch Shared WiFi Passwords - IronWiFi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ironwifi.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.ironwifi.com/hospitality",
+      "finalUrl": "https://www.ironwifi.com/hospitality",
+      "status": "success",
+      "sha256": "14df434327b207966fcc96f6b96e701ffc5ccfec46804905b816d3b3c66c9444",
+      "title": "Hotel WiFi Solutions for Hotels & Hospitality | IronWiFi",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ironwifi.com/about-us"
+      ]
+    }
+  ]
+}

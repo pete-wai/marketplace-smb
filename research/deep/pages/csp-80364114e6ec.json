@@ -1,0 +1,82 @@
+{
+  "providerId": "csp-80364114e6ec",
+  "retrievedAt": "2026-10-30T11:01:19.500Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://govstrive.com/our-focus/workforce-solutions/",
+      "finalUrl": "https://govstrive.com/our-focus/workforce-solutions/",
+      "status": "success",
+      "sha256": "75eaed0f124f2c0ce1aef2e90472d277d92b267406b01c9783c628e557e35edf",
+      "title": "Federal Workforce Solutions | GovStrive",
+      "signals": [],
+      "discoveredLinks": [
+        "https://govstrive.com/our-focus/management-consulting/federal-recruitment-center/",
+        "https://govstrive.com/leadership/",
+        "https://govstrive.com/federal-contracting/",
+        "https://govstrive.com/leadership-member/katrina-hsen/",
+        "https://govstrive.com/leadership-member/josh-tuttle/",
+        "https://govstrive.com/our-work-environment-assessments-improving-federal-work-environments-through-data-driven-insights/"
+      ]
+    },
+    {
+      "url": "https://govstrive.com/our-focus/management-consulting/federal-recruitment-center/",
+      "finalUrl": "https://govstrive.com/our-focus/management-consulting/federal-recruitment-center/",
+      "status": "success",
+      "sha256": "16b3df3d268819a7e10b3d564d71fb6ae69bc8e5a6b8e8dd92a6410059f361a7",
+      "title": "Federal Recruitment Center | GovStrive",
+      "signals": [],
+      "discoveredLinks": [
+        "https://govstrive.com/leadership/",
+        "https://govstrive.com/federal-contracting/",
+        "https://govstrive.com/our-work-environment-assessments-improving-federal-work-environments-through-data-driven-insights/"
+      ]
+    },
+    {
+      "url": "https://govstrive.com/leadership/",
+      "finalUrl": "https://govstrive.com/leadership/",
+      "status": "success",
+      "sha256": "3b6b68b7768ff2ec7e29c6f8060a192b18aa9b8f0752516e2fdeaa127f13a935",
+      "title": "Leadership | GovStrive",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "Biloxi Industries&hellip; GovStrive Awarded OASIS+ Small Business and HUBZone Small Business Government-Wide Acquisition Vehicle Contracts GovStrive | January 24, 2025 GovStrive is proud to announce it has secured placement on two new General Services Administration (GSA) Government-Wide Acquisition Vehicle C"
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "p; Tunica-Biloxi Tribe Strengthens Economic Sovereignty with Landmark Acquisition of GovStrive, a Leader in Federal Workforce Solutions GovStrive | October 15, 2025 Today marks the beginning of an exciting next chapter for GovStrive. We are thrilled to share a transformative"
+        }
+      ],
+      "discoveredLinks": [
+        "https://govstrive.com/federal-contracting/",
+        "https://govstrive.com/leadership-member/anjuli-desai/",
+        "https://govstrive.com/leadership-member/katrina-hsen/",
+        "https://govstrive.com/leadership-member/robin-bailey/",
+        "https://govstrive.com/leadership-member/clyde-thompson/",
+        "https://govstrive.com/leadership-member/james-sasser-2/",
+        "https://govstrive.com/govstrive-appoints-robin-bailey-as-director-of-client-experience-and-managed-services/",
+        "https://govstrive.com/tbillc-acquisition-news/",
+        "https://govstrive.com/govstrive-awarded-oasis-small-business-and-hubzone-small-business-government-wide-acquisition-vehicle-contracts/",
+        "https://govstrive.com/how-to-keep-stakeholders-engaged-during-organizational-change/",
+        "https://govstrive.com/our-work-environment-assessments-improving-federal-work-environments-through-data-driven-insights/"
+      ]
+    },
+    {
+      "url": "https://govstrive.com/federal-contracting/",
+      "finalUrl": "https://govstrive.com/federal-contracting/",
+      "status": "success",
+      "sha256": "7636c1e0b3a7a3eb4dbd3d06024ba7cc9f75c9c76c1e5e95a993e4e5aacd8660",
+      "title": "Federal Contracting | GovStrive",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "JYEKUN34 CAGE Code: 6V5E1 GSA MAS Contract No. GS02F013GA GSA OASIS + HUBZone Management & Advisory Contract No. 47QRCA24DH107 GSA OASIS + Small Business Management & Advisory Contract No. 47QRCA25DSB21 U.S. Department of Transportation – Federal Aviation Administration eFAST: MOA"
+        }
+      ],
+      "discoveredLinks": [
+        "https://govstrive.com/our-work-environment-assessments-improving-federal-work-environments-through-data-driven-insights/"
+      ]
+    }
+  ]
+}

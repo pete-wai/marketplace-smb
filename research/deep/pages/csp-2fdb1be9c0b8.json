@@ -1,0 +1,58 @@
+{
+  "providerId": "csp-2fdb1be9c0b8",
+  "retrievedAt": "2026-10-30T11:01:41.301Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cgc.cloud/",
+      "finalUrl": "https://cgc.cloud/",
+      "status": "success",
+      "sha256": "4a7111a351e864cf67b7a1d2fc65d9043845e6a342421161bb3cbcb2c0248755",
+      "title": "CGC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cgc.cloud/the-pros-and-cons-every-saas-company-should-consider-when-contemplating-the-u-s-government-market/",
+        "https://cgc.cloud/unlocking-the-u-s-government-market-a-massive-growth-opportunity-for-saas-companies/",
+        "https://cgc.cloud/are-government-prospects-telling-you-that-you-need-fedramp-key-considerations-for-entering-the-u-s-government-market/",
+        "https://cgc.cloud/about/"
+      ]
+    },
+    {
+      "url": "https://cgc.cloud/the-pros-and-cons-every-saas-company-should-consider-when-contemplating-the-u-s-government-market/",
+      "finalUrl": "https://cgc.cloud/the-pros-and-cons-every-saas-company-should-consider-when-contemplating-the-u-s-government-market/",
+      "status": "success",
+      "sha256": "8bea17a1705d2e76b9360b379bbb7813d8fca402b860b02cccffc7f9bf65676d",
+      "title": "The Pros and Cons Every SaaS Company Should Consider When Contemplating the U.S. Government Market - CGC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cgc.cloud/about/",
+        "https://cgc.cloud/veeam-and-constellation-govcloud-partner-to-bring-veeams-data-resilience-products-to-public-sector-customers-in-the-united-states-with-fedramp-authorization/",
+        "https://cgc.cloud/are-government-prospects-telling-you-that-you-need-fedramp-key-considerations-for-entering-the-u-s-government-market/"
+      ]
+    },
+    {
+      "url": "https://cgc.cloud/unlocking-the-u-s-government-market-a-massive-growth-opportunity-for-saas-companies/",
+      "finalUrl": "https://cgc.cloud/unlocking-the-u-s-government-market-a-massive-growth-opportunity-for-saas-companies/",
+      "status": "success",
+      "sha256": "6ae8ee7ce14b109f8e026bad7d543f5edc53d0c68555319e7b623ec01c0285bb",
+      "title": "Unlocking the U.S. Government Market: A Massive Growth Opportunity for SaaS Companies - CGC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cgc.cloud/about/",
+        "https://cgc.cloud/the-evolution-and-future-of-fedramp-cgcs-approach-to-navigating-federal-cloud-compliance/"
+      ]
+    },
+    {
+      "url": "https://cgc.cloud/are-government-prospects-telling-you-that-you-need-fedramp-key-considerations-for-entering-the-u-s-government-market/",
+      "finalUrl": "https://cgc.cloud/are-government-prospects-telling-you-that-you-need-fedramp-key-considerations-for-entering-the-u-s-government-market/",
+      "status": "success",
+      "sha256": "e09472766427310b52503e5684bc028f54ede27504024094f15fe1d7c9063830",
+      "title": "Are Government Prospects Telling You That You Need FedRAMP? Key Considerations for Entering the U.S. Government Market - CGC",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cgc.cloud/how-to-secure-a-government-sponsor-for-fedramp-key-strategies-for-saas-companies/",
+        "https://cgc.cloud/about/"
+      ]
+    }
+  ]
+}

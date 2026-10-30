@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-fd1db23bd55a",
+  "retrievedAt": "2026-10-30T11:02:20.870Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://threatconnect.com/",
+      "finalUrl": "https://www.dataminr.com/",
+      "status": "success",
+      "sha256": "9af652f72ef9eeb990413c8723bc1c8d8afbfdd54e139325cfe2871aebd36ce1",
+      "title": "AI-Powered Real-Time Event, Threat & Risk Intelligence - Dataminr",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dataminr.com/resources/?topic=public-sector",
+        "https://www.dataminr.com/company",
+        "https://www.dataminr.com/company/dataminr-for-nonprofits",
+        "https://www.dataminr.com/company/careers/",
+        "https://www.dataminr.com/company/customers",
+        "https://www.dataminr.com/company/culture",
+        "https://www.dataminr.com/company/leadership",
+        "https://www.dataminr.com/company/press",
+        "https://www.dataminr.com/company/contact",
+        "https://www.dataminr.com/company/",
+        "https://www.dataminr.com/company/customers/",
+        "https://www.dataminr.com/company/people-culture-community/"
+      ]
+    },
+    {
+      "url": "https://www.dataminr.com/resources/?topic=public-sector",
+      "finalUrl": "https://www.dataminr.com/resources/?topic=public-sector",
+      "status": "success",
+      "sha256": "1f6f04898698d0932a75e362c6fc0bbe55aba021c3aa605da7afe098b674724c",
+      "title": "Resources - Dataminr",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dataminr.com/company",
+        "https://www.dataminr.com/company/dataminr-for-nonprofits",
+        "https://www.dataminr.com/company/careers/",
+        "https://www.dataminr.com/company/customers",
+        "https://www.dataminr.com/company/culture",
+        "https://www.dataminr.com/company/leadership",
+        "https://www.dataminr.com/company/press",
+        "https://www.dataminr.com/company/contact",
+        "https://www.dataminr.com/company/press/",
+        "https://www.dataminr.com/resources/blog/how-public-information-earned-a-seat-at-the-top-table-in-defence-and-government/",
+        "https://www.dataminr.com/company/",
+        "https://www.dataminr.com/company/customers/"
+      ]
+    },
+    {
+      "url": "https://www.dataminr.com/company",
+      "finalUrl": "https://www.dataminr.com/company/",
+      "status": "success",
+      "sha256": "5a111865302e0b9b5268518968f348e95ac5fb6305914ef09d370057ec6a49f8",
+      "title": "About Us - Dataminr",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dataminr.com/company/dataminr-for-nonprofits",
+        "https://www.dataminr.com/company/careers/",
+        "https://www.dataminr.com/company/customers",
+        "https://www.dataminr.com/company/culture",
+        "https://www.dataminr.com/company/leadership",
+        "https://www.dataminr.com/company/press",
+        "https://www.dataminr.com/company/contact",
+        "https://www.dataminr.com/company/",
+        "https://www.dataminr.com/company/customers/",
+        "https://www.dataminr.com/company/people-culture-community/",
+        "https://www.dataminr.com/company/leadership/",
+        "https://www.dataminr.com/company/press/"
+      ]
+    },
+    {
+      "url": "https://www.dataminr.com/company/dataminr-for-nonprofits",
+      "finalUrl": "https://www.dataminr.com/company/dataminr-for-nonprofits/",
+      "status": "success",
+      "sha256": "70c82fa70d15b18189e10b4914d929127d796af73614c859814802697d8f016b",
+      "title": "Dataminr for Nonprofits",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dataminr.com/company/careers/",
+        "https://www.dataminr.com/company/customers",
+        "https://www.dataminr.com/company/culture",
+        "https://www.dataminr.com/company/leadership",
+        "https://www.dataminr.com/company/press",
+        "https://www.dataminr.com/company/contact",
+        "https://www.dataminr.com/company/dataminr-for-nonprofits/interest-form/%20",
+        "https://www.dataminr.com/company/dataminr-for-nonprofits/ai-for-good/",
+        "https://www.dataminr.com/company/dataminr-for-nonprofits/",
+        "https://www.dataminr.com/company/dataminr-for-nonprofits/interest-form/",
+        "https://www.dataminr.com/company/",
+        "https://www.dataminr.com/company/customers/"
+      ]
+    }
+  ]
+}

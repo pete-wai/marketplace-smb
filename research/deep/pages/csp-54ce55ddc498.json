@@ -1,0 +1,80 @@
+{
+  "providerId": "csp-54ce55ddc498",
+  "retrievedAt": "2026-10-30T11:01:55.055Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.portal26.ai/",
+      "finalUrl": "https://portal26.ai/",
+      "status": "success",
+      "sha256": "d31d4c0810f2ce28e3f5b75e921c8e86323d5c0b04272fe71623bd1cc24fdfd1",
+      "title": "Portal26 | The AI-First Enterprise Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://portal26.ai/about-us",
+        "https://portal26.ai/about",
+        "https://portal26.ai/",
+        "https://portal26.ai/about-us/",
+        "https://portal26.ai/events/federal-zero-trust-data-security-panel/",
+        "https://portal26.ai/government-agencies-test-yet-wary-of-adopting-generative-ai-recent-webinar-participants-have-mixed-feelings-on-the-advent-of-genai/",
+        "https://portal26.ai/news/portal26-and-carahsoft-partner-to-bring-generative-ai-security-management-solutions-to-the-public-sector/",
+        "https://portal26.ai/news/portal26-unveils-new-genai-security-strategy-features/",
+        "https://portal26.ai/news/your-ai-data-is-talking-is-anyone-listening-portal26-launches-recon/",
+        "https://portal26.ai/watch-alexandre-blanc-cyber-security-and-debbie-reynolds-two-of-linkedins-top-security-and-privacy-voices-share-why-they-are-excited-about-titaniam-inc-s-upcoming-redsummit-on-9-24/"
+      ]
+    },
+    {
+      "url": "https://portal26.ai/about-us",
+      "finalUrl": "https://portal26.ai/about-us",
+      "status": "success",
+      "sha256": "819078856c63f70c6326e1bc2f2bc33feb08cdfae98b00ebb1825765c8b94a87",
+      "title": "AI TRiSM Platform for GenAI & Agentic AI Adoption Management | Portal26",
+      "signals": [],
+      "discoveredLinks": [
+        "https://portal26.ai/about",
+        "https://portal26.ai/about-us/",
+        "https://portal26.ai/events/federal-zero-trust-data-security-panel/",
+        "https://portal26.ai/government-agencies-test-yet-wary-of-adopting-generative-ai-recent-webinar-participants-have-mixed-feelings-on-the-advent-of-genai/",
+        "https://portal26.ai/news/portal26-and-carahsoft-partner-to-bring-generative-ai-security-management-solutions-to-the-public-sector/",
+        "https://portal26.ai/news/portal26-unveils-new-genai-security-strategy-features/",
+        "https://portal26.ai/news/your-ai-data-is-talking-is-anyone-listening-portal26-launches-recon/",
+        "https://portal26.ai/watch-alexandre-blanc-cyber-security-and-debbie-reynolds-two-of-linkedins-top-security-and-privacy-voices-share-why-they-are-excited-about-titaniam-inc-s-upcoming-redsummit-on-9-24/"
+      ]
+    },
+    {
+      "url": "https://portal26.ai/about",
+      "finalUrl": "https://portal26.ai/team/",
+      "status": "success",
+      "sha256": "85a0fc0b13bd470b5eabac0fd5083df0d238df70dc87ac3835ca7cb6561f17a9",
+      "title": "Portal26 Team: AI Leadership & Enterprise AI Management Experts",
+      "signals": [],
+      "discoveredLinks": [
+        "https://portal26.ai/team/",
+        "https://portal26.ai/about-us/",
+        "https://portal26.ai/events/federal-zero-trust-data-security-panel/",
+        "https://portal26.ai/government-agencies-test-yet-wary-of-adopting-generative-ai-recent-webinar-participants-have-mixed-feelings-on-the-advent-of-genai/",
+        "https://portal26.ai/news/portal26-and-carahsoft-partner-to-bring-generative-ai-security-management-solutions-to-the-public-sector/",
+        "https://portal26.ai/news/portal26-unveils-new-genai-security-strategy-features/",
+        "https://portal26.ai/news/your-ai-data-is-talking-is-anyone-listening-portal26-launches-recon/",
+        "https://portal26.ai/watch-alexandre-blanc-cyber-security-and-debbie-reynolds-two-of-linkedins-top-security-and-privacy-voices-share-why-they-are-excited-about-titaniam-inc-s-upcoming-redsummit-on-9-24/"
+      ]
+    },
+    {
+      "url": "https://portal26.ai/",
+      "finalUrl": "https://portal26.ai/",
+      "status": "success",
+      "sha256": "d31d4c0810f2ce28e3f5b75e921c8e86323d5c0b04272fe71623bd1cc24fdfd1",
+      "title": "Portal26 | The AI-First Enterprise Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://portal26.ai/about-us/",
+        "https://portal26.ai/events/federal-zero-trust-data-security-panel/",
+        "https://portal26.ai/government-agencies-test-yet-wary-of-adopting-generative-ai-recent-webinar-participants-have-mixed-feelings-on-the-advent-of-genai/",
+        "https://portal26.ai/news/portal26-and-carahsoft-partner-to-bring-generative-ai-security-management-solutions-to-the-public-sector/",
+        "https://portal26.ai/news/portal26-unveils-new-genai-security-strategy-features/",
+        "https://portal26.ai/news/your-ai-data-is-talking-is-anyone-listening-portal26-launches-recon/",
+        "https://portal26.ai/watch-alexandre-blanc-cyber-security-and-debbie-reynolds-two-of-linkedins-top-security-and-privacy-voices-share-why-they-are-excited-about-titaniam-inc-s-upcoming-redsummit-on-9-24/"
+      ]
+    }
+  ]
+}

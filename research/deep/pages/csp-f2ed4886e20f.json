@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-f2ed4886e20f",
+  "retrievedAt": "2026-10-30T11:01:11.626Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cradlepoint.com/about/trust/",
+      "finalUrl": "https://cradlepoint.ericsson.com/about/trust/",
+      "status": "success",
+      "sha256": "20d9364b195eaaa7d18f0168ee9be032d54e463e4d74280b8ab55c53a744174d",
+      "title": "Trust | Ericsson",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cradlepoint.ericsson.com/about/contact-us/",
+        "https://cradlepoint.ericsson.com/industries/municipal-government/",
+        "https://cradlepoint.ericsson.com/industries/federal-government/",
+        "https://cradlepoint.ericsson.com/products/netcloud/netcloud-federal/",
+        "https://cradlepoint.ericsson.com/about/how-to-buy/",
+        "https://cradlepoint.ericsson.com/about/careers",
+        "https://cradlepoint.ericsson.com/about/leadership/",
+        "https://cradlepoint.ericsson.com/about/press-releases/",
+        "https://cradlepoint.ericsson.com/about/events/",
+        "https://cradlepoint.ericsson.com/about-us/trust/security/",
+        "https://cradlepoint.ericsson.com/about/trust/",
+        "https://cradlepoint.ericsson.com/about/careers/"
+      ]
+    },
+    {
+      "url": "https://cradlepoint.ericsson.com/products/netcloud/",
+      "finalUrl": "https://cradlepoint.ericsson.com/products/netcloud/",
+      "status": "success",
+      "sha256": "8f73b09c83db59818d734871e2fc0a94eda93ac612f64465e1f798dda62955eb",
+      "title": "Managing your enterprise wireless solutions? Do it all through the cloud. | Ericsson",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cradlepoint.ericsson.com/about/contact-us/",
+        "https://cradlepoint.ericsson.com/industries/municipal-government/",
+        "https://cradlepoint.ericsson.com/industries/federal-government/",
+        "https://cradlepoint.ericsson.com/products/netcloud/netcloud-federal/",
+        "https://cradlepoint.ericsson.com/about/how-to-buy/",
+        "https://cradlepoint.ericsson.com/about/careers",
+        "https://cradlepoint.ericsson.com/about/leadership/",
+        "https://cradlepoint.ericsson.com/about/press-releases/",
+        "https://cradlepoint.ericsson.com/about/events/",
+        "https://cradlepoint.ericsson.com/about/trust/",
+        "https://cradlepoint.ericsson.com/about/careers/",
+        "https://cradlepoint.ericsson.com/blog/what-wwan-means-for-enterprise-networking-success-with-5g-and-lte/"
+      ]
+    },
+    {
+      "url": "https://cradlepoint.ericsson.com/about/contact-us/",
+      "finalUrl": "https://cradlepoint.ericsson.com/about/contact-us/",
+      "status": "success",
+      "sha256": "9f708b7a3c549cf9819de6e2dfde8bb7fbabe34c6029b308918b049d094a17c6",
+      "title": "Contact us | Ericsson",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cradlepoint.ericsson.com/industries/municipal-government/",
+        "https://cradlepoint.ericsson.com/industries/federal-government/",
+        "https://cradlepoint.ericsson.com/products/netcloud/netcloud-federal/",
+        "https://cradlepoint.ericsson.com/about/how-to-buy/",
+        "https://cradlepoint.ericsson.com/about/careers",
+        "https://cradlepoint.ericsson.com/about/leadership/",
+        "https://cradlepoint.ericsson.com/about/press-releases/",
+        "https://cradlepoint.ericsson.com/about/events/",
+        "https://cradlepoint.ericsson.com/about/trust/",
+        "https://cradlepoint.ericsson.com/about/careers/",
+        "https://cradlepoint.ericsson.com/blog/what-wwan-means-for-enterprise-networking-success-with-5g-and-lte/"
+      ]
+    },
+    {
+      "url": "https://cradlepoint.ericsson.com/industries/municipal-government/",
+      "finalUrl": "https://cradlepoint.ericsson.com/industries/municipal-government/",
+      "status": "success",
+      "sha256": "4e84f685c089677717222e3755777d1195f5f632b6ee534340dd30b4a2c004cc",
+      "title": "Modern connectivity for the modern city | Ericsson",
+      "signals": [],
+      "discoveredLinks": [
+        "https://cradlepoint.ericsson.com/industries/federal-government/",
+        "https://cradlepoint.ericsson.com/products/netcloud/netcloud-federal/",
+        "https://cradlepoint.ericsson.com/about/how-to-buy/",
+        "https://cradlepoint.ericsson.com/about/careers",
+        "https://cradlepoint.ericsson.com/about/leadership/",
+        "https://cradlepoint.ericsson.com/about/press-releases/",
+        "https://cradlepoint.ericsson.com/about/events/",
+        "https://cradlepoint.ericsson.com/about/trust/",
+        "https://cradlepoint.ericsson.com/about/careers/",
+        "https://cradlepoint.ericsson.com/blog/what-wwan-means-for-enterprise-networking-success-with-5g-and-lte/"
+      ]
+    }
+  ]
+}

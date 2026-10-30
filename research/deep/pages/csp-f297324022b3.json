@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-f297324022b3",
+  "retrievedAt": "2026-10-30T11:02:00.512Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://quzara.com/solutions/cybertorch/mxdr",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

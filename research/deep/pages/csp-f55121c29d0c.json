@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-f55121c29d0c",
+  "retrievedAt": "2026-10-30T11:00:41.445Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.armada.ai/",
+      "finalUrl": "https://www.armada.ai/",
+      "status": "success",
+      "sha256": "b7f4faf913497117989d602e69f88a15fee19072c1936604319c60afb72f9fd1",
+      "title": "Armada: Solving Your Hardest Problems at the Edge",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.armada.ai/industries/public-sector",
+        "https://www.armada.ai/about"
+      ]
+    },
+    {
+      "url": "https://www.armada.ai/industries/public-sector",
+      "finalUrl": "https://www.armada.ai/industries/public-sector",
+      "status": "success",
+      "sha256": "0341008c7737e815310476a9e1c85933d8d5a0ae8f4a5de2189e9467b7518449",
+      "title": "Armada for Public Sector",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.armada.ai/about"
+      ]
+    },
+    {
+      "url": "https://www.armada.ai/about",
+      "finalUrl": "https://www.armada.ai/about",
+      "status": "success",
+      "sha256": "41e22acb46cca12207497a2fc3cfe77313b917780b66b82d5388bb48891cffb7",
+      "title": "About Armada: Innovative Edge Computing Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

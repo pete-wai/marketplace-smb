@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-70f05124ec3d",
+  "retrievedAt": "2026-10-30T11:02:15.796Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://superfile.com/",
+      "finalUrl": "https://superfile.com/",
+      "status": "success",
+      "sha256": "00c2ce949483caecc244b41ac42704f1fb285c6466d0229f98a8953553a518f6",
+      "title": "Secure File Sharing and Unsharing",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

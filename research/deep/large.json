@@ -1,0 +1,1843 @@
+[
+  {
+    "providerId": "csp-cbc62794911f",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Marketplace identity includes Amazon Web Services, Inc., a wholly owned subsidiary of Amazon.com, Inc. Amazon's 2025 Form 10-K reports $716.9 billion in consolidated net sales and approximately 1,576,000 full- and part-time employees at year end. This is decisive evidence of scale relative to current SBA thresholds for the cloud infrastructure and software-publishing activities relevant to AWS. Parent-level consolidated figures are used as an affiliation-scale proxy; GAAP revenue is not a formal SBA receipts calculation and this is not a legal size determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Computing infrastructure providers, data processing, web hosting and related services; directly describes AWS cloud infrastructure services. Current SBA threshold is receipts-based, with code-specific limit rather than a universal benchmark."
+      },
+      {
+        "code": "513210",
+        "rationale": "Software publishers; relevant to cloud-hosted software products and related offerings. Current SBA threshold is receipts-based, with code-specific limit rather than a universal benchmark."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://docs.aws.amazon.com/es_es/acm/latest/userguide/acm-ug.pdf",
+        "title": "AWS Certificate Manager User Guide",
+        "publishedAt": "2022",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Amazon Web Services, Inc. is a subsidiary of Amazon.com, Inc.",
+        "supports": "AWS entity-to-parent identity relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "title": "Amazon.com, Inc. Form 10-K for year ended December 31, 2025",
+        "publishedAt": "2026-02-06",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "As of December 31, 2025, we employed approximately 1,576,000 full-time and part-time employees.",
+        "supports": "Parent consolidated employee scale; filing also reports 2025 net sales of $716.9 billion and identifies AWS as an operating segment",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry and are generally based on the number of employees or the amount of annual receipts. Affiliates' employees or receipts must be included.",
+        "supports": "Size standard is NAICS-specific; affiliation aggregation and receipts/employee methodology",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; standards map to NAICS industries and may be expressed as receipts or employees.",
+        "supports": "Code-specific current standards reference for relevant NAICS",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Exact NAICS code assigned to any particular AWS contract or Marketplace package is not established by public provider identity; parent-level scale does not by itself constitute an SBA affiliation finding."
+    ],
+    "searches": [
+      "Amazon Web Services Inc subsidiary Amazon.com Inc official",
+      "Amazon 2025 Form 10-K net sales employees",
+      "SBA current size standards 518210 513210"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Amazon"
+  },
+  {
+    "providerId": "csp-9202af6ce925",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "The provider's canonical name and SEC mapping both identify Oracle Corporation (CIK 1341439), so this is a direct issuer match rather than a name-only inference. Oracle's FY2026 Form 10-K reports $67.4 billion in revenue; its five-year revenue scale is orders of magnitude above the current SBA receipts standards for cloud infrastructure and software publishing. Revenue is a proxy rather than a formal SBA receipts calculation; classification is research, not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Cloud infrastructure and hosting services are within the provider's government cloud offerings; this NAICS uses its own SBA size standard."
+      },
+      {
+        "code": "513210",
+        "rationale": "Oracle's software publishing activity is relevant to database, enterprise and cloud software offerings; this NAICS uses its own SBA size standard."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm",
+        "title": "Oracle Corporation Form 10-K for fiscal year ended May 31, 2026",
+        "publishedAt": "2026-06-22",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Oracle Corporation ... For the fiscal year ended May 31, 2026",
+        "supports": "Direct legal issuer identity and $67.357 billion FY2026 revenue (as reported in financial statements)",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://investor.oracle.com/financial-reporting/sec-filings/default.aspx",
+        "title": "Oracle SEC filings",
+        "publishedAt": "2026",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Oracle Corporation annual report on Form 10-K",
+        "supports": "Current issuer and annual filing record",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific standards and affiliate aggregation",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; standards map to NAICS industries and may be expressed as receipts or employees.",
+        "supports": "Current code-specific standards reference",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "A specific procurement NAICS is not supplied in the Marketplace record; this proposal applies to Oracle's cloud and software activity, not every possible Oracle procurement context."
+    ],
+    "searches": [
+      "Oracle Corporation FY2026 Form 10-K revenue",
+      "Oracle current SEC issuer filing",
+      "SBA current size standards 518210 513210"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Oracle"
+  },
+  {
+    "providerId": "csp-9fbf261b62c1",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "The Marketplace provider and SEC mapping identify the same legal issuer, Microsoft Corporation (CIK 789019). Microsoft's FY2026 Form 10-K reports $331.8 billion in revenue and approximately 228,000 employees (the filing's reported workforce figure); consolidated scale is far above the current SBA receipts standards for cloud infrastructure and software publishing. Revenue is used as a scale proxy, not a formal SBA receipts calculation or legal size determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Azure cloud infrastructure and related hosting services; use this code's current specific SBA standard where applicable."
+      },
+      {
+        "code": "513210",
+        "rationale": "Microsoft publishes software and cloud software services; use this code's current specific SBA standard where applicable."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "title": "Microsoft Corporation Form 10-K for fiscal year ended June 30, 2026",
+        "publishedAt": "2026-07-29",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "MICROSOFT CORPORATION ... For the fiscal year ended June 30, 2026",
+        "supports": "Direct legal issuer identity and FY2026 consolidated revenue of $331.8 billion; filing gives employee scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "title": "Microsoft Corporation Form 10-K, Human Capital Resources",
+        "publishedAt": "2026-07-29",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "As of June 30, 2025, we employed approximately 228,000 people on a full-time basis.",
+        "supports": "Reported workforce scale (dated June 30, 2025)",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific standards and affiliate aggregation",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; standards map to NAICS industries and may be expressed as receipts or employees.",
+        "supports": "Current code-specific standards reference",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Exact NAICS depends on the contract or offering and is not in the provider record; Microsoft is an issuer identity, not necessarily the contracting entity for every service."
+    ],
+    "searches": [
+      "Microsoft Corporation FY2026 10-K revenue employees",
+      "SBA current size standards 518210 513210"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Microsoft"
+  },
+  {
+    "providerId": "csp-bbdefa2950f4",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "The Marketplace record includes Google LLC, which SEC Exhibit 21.01 to Alphabet's 2025 Form 10-K lists as a significant subsidiary; Alphabet's SEC filing separately identifies Google Cloud and Google Services as its segments. Alphabet reported $402.8 billion revenue and 190,820 employees for 2025. This consolidated parent scale is decisive against small size for Google LLC's cloud/software activity, subject to the formal SBA affiliate test and contract-specific NAICS; revenue is not an exact SBA receipts calculation or legal determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Google Cloud supplies computing infrastructure and hosting services; code-specific SBA threshold applies."
+      },
+      {
+        "code": "513210",
+        "rationale": "Google's cloud software and software publishing activity is relevant; code-specific SBA threshold applies."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/googexhibit2101q42025.htm",
+        "title": "Alphabet Inc. 2025 Form 10-K Exhibit 21.01, Subsidiaries",
+        "publishedAt": "2026-02-05",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The following is a list of subsidiaries of Alphabet Inc. ... Google LLC | Delaware",
+        "supports": "Direct Google LLC-to-Alphabet subsidiary relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "title": "Alphabet Inc. Form 10-K for year ended December 31, 2025",
+        "publishedAt": "2026-02-05",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "As of December 31, 2025, Alphabet had 190,820 employees.",
+        "supports": "Parent employee scale; filing reports 2025 total revenue of $402.836 billion and identifies Google Cloud segment",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific standards and affiliate aggregation",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; standards map to NAICS industries and may be expressed as receipts or employees.",
+        "supports": "Current code-specific standards reference",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Although Google LLC is a subsidiary of Alphabet, whether SBA affiliation applies for a specific procurement remains a legal determination; contract-specific NAICS is unknown."
+    ],
+    "searches": [
+      "Alphabet 2025 Form 10-K Google LLC subsidiary exhibit 21",
+      "Alphabet 2025 annual report revenue employees Google Cloud segment",
+      "SBA current size standards 518210 513210"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Google"
+  },
+  {
+    "providerId": "csp-6cd5124ba92d",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Accenture's FY2025 Form 10-K expressly says U.S. federal work is delivered through Accenture Federal Services, a U.S. company and wholly owned subsidiary of Accenture LLP, and reports its government work as 8% of Accenture group revenue. Accenture plc's FY2025 revenue was approximately $69.7 billion, with a workforce of roughly 779,000. Parent scale is far beyond service-sector receipts thresholds relevant to computer systems design and related IT services. These parent figures are an affiliation-scale proxy; no formal procurement size determination is made.",
+    "relevantNaics": [
+      {
+        "code": "541512",
+        "rationale": "Computer Systems Design Services is relevant to federal systems integration and IT modernization performed by AFS; this is a receipts-based code-specific standard."
+      },
+      {
+        "code": "541519",
+        "rationale": "Other Computer Related Services may fit certain technical support/security services; standard depends on the specific procurement NAICS."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-4/Accenture-2025-10-K.pdf",
+        "title": "Accenture plc Form 10-K / Annual Report FY2025",
+        "publishedAt": "2025",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Accenture Federal Services, a U.S. company and a wholly owned subsidiary of Accenture LLP ... represented ... 8% of total revenues in fiscal 2025.",
+        "supports": "Direct provider-to-parent operating relationship and federal business share",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-4/Annual-Report-2025.pdf",
+        "title": "Accenture FY2025 Annual Report",
+        "publishedAt": "2025",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Our work with clients in the U.S. federal government is delivered through Accenture Federal Services ... a wholly owned subsidiary of Accenture LLP.",
+        "supports": "Parent relationship and consolidated group context",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size and affiliate aggregation method",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Accenture's 2025 group scale is not a formal determination of the precise SBA affiliation chain for a particular contract; AFS's current legal entity and designated contract NAICS should be rechecked at award time."
+    ],
+    "searches": [
+      "Accenture Federal Services wholly owned subsidiary FY2025 Form 10-K",
+      "Accenture FY2025 annual revenue and employees"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Accenture Federal Services"
+  },
+  {
+    "providerId": "csp-cb18d06ec020",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "IBM announced it completed its acquisition of Apptio, Inc. in August 2023, and IBM's FY2025 Form 10-K continues to identify Apptio in its consolidated corporate acquisition disclosures. IBM reported $67.5 billion FY2025 revenue. That parent scale is decisive against small size for Apptio's IT management software/FinOps activity when affiliate aggregation applies; GAAP revenue is a scale proxy rather than a formal SBA receipts calculation.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Apptio publishes enterprise software/FinOps products, and this code has its own receipts standard."
+      },
+      {
+        "code": "518210",
+        "rationale": "Computing Infrastructure Providers/Data Processing/Web Hosting; relevant to Apptio cloud-hosted SaaS offerings, subject to contract NAICS."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://newsroom.ibm.com/2023-08-10-IBM-Completes-Acquisition-of-Apptio-Inc",
+        "title": "IBM Completes Acquisition of Apptio Inc.",
+        "publishedAt": "2023-08-10",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "IBM ... announced it has completed its acquisition of Apptio Inc.",
+        "supports": "Direct acquisition relationship establishing Apptio under IBM",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231_d2.htm",
+        "title": "IBM 2025 Annual Report / Form 10-K",
+        "publishedAt": "2026-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "In 2025, we ... report[ed] $67.5 billion in revenue ... Apptio, Inc. – On August 10, 2023, the company completed the acquisition of Apptio, Inc.",
+        "supports": "Current parent identity context and material annual revenue scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size and affiliate aggregation method",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "No contract-specific NAICS is present in Marketplace data; current SBA affiliation determination depends on the procurement and current ownership/control facts."
+    ],
+    "searches": [
+      "IBM completed Apptio acquisition official August 2023",
+      "IBM 2025 annual report Apptio acquisition and revenue"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Apptio an IBM company"
+  },
+  {
+    "providerId": "csp-c86258261967",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "CGI Inc.'s FY2025 audited consolidated financial statements identify CGI Federal Inc. as one of CGI's principal subsidiaries, state CGI owns 100% equity in its principal subsidiaries, and report $15.9 billion CAD in consolidated revenue. The U.S. Federal operating segment represented $2.245 billion CAD of revenue in FY2025. Even the federal segment alone demonstrates scale far beyond the receipts standards relevant to computer systems design and IT services, although segment revenue is not the subsidiary's SBA receipts and the finding is not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "541512",
+        "rationale": "Computer Systems Design Services describes much federal systems integration and consulting work; this code uses its own receipts threshold."
+      },
+      {
+        "code": "541519",
+        "rationale": "Other Computer Related Services may cover certain federal technical services; procurement code must be confirmed."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1061574/000106157425000011/cgifsq4fy2025.htm",
+        "title": "CGI Inc. FY2025 Consolidated Financial Statements",
+        "publishedAt": "2025-11",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The Company owns 100% of the equity interests of its principal subsidiaries ... CGI Federal Inc.",
+        "supports": "Explicit parent relationship; CGI Federal listed as a principal subsidiary",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1061574/000106157425000011/cgifsq4fy2025.htm",
+        "title": "CGI Inc. FY2025 Consolidated Financial Statements",
+        "publishedAt": "2025-11",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Federal operating segment ... accounted for $2,244,649,000 and 14.1% of revenues for the year ended September 30, 2025.",
+        "supports": "Relevant federal business scale (segment-level, not subsidiary receipts); consolidated services revenue is CAD $15.9 billion",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size and affiliate aggregation method",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "CGI's federal segment is not identical to CGI Federal Inc.; exact provider/contracting-entity relationship and procurement NAICS should be verified for a particular package."
+    ],
+    "searches": [
+      "CGI Federal Inc principal subsidiary 100% CGI 2025 audited financial statements",
+      "CGI Federal segment revenue 2025"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "CGI Federal"
+  },
+  {
+    "providerId": "csp-68738601a5ad",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Cisco states AppDynamics products and services are available through Cisco's global price list and Cisco announced completion of the AppDynamics acquisition. Cisco's FY2025 annual report reports $56.7 billion revenue. This consolidated parent scale is far above relevant software-publishing receipts thresholds if affiliate aggregation applies; parent revenue is a size-scale proxy, not AppDynamics receipts or a formal legal determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; AppDynamics sells application observability/performance software and cloud services."
+      },
+      {
+        "code": "518210",
+        "rationale": "Cloud hosting/data processing may apply to hosted AppDynamics services; exact offering and procurement NAICS govern."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://investor.cisco.com/files/doc_news/Cisco-Completes-Acquisition-of-AppDynamics-2017.pdf",
+        "title": "Cisco Completes Acquisition of AppDynamics",
+        "publishedAt": "2017-03-22",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Cisco ... announced that it has completed the acquisition of AppDynamics.",
+        "supports": "Direct acquisition relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.cisco.com/c/en/us/services/acquisitions/appdynamics.html",
+        "title": "AppDynamics — Cisco Services and Support for Acquisitions",
+        "publishedAt": "2023",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "AppDynamics products and services are now available to order and renew on the Cisco global price list.",
+        "supports": "Current product integration and Cisco sales relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.cisco.com/c/dam/en_us/about/annual-report/2025-cisco-full-annual-report.pdf",
+        "title": "Cisco Systems FY2025 Annual Report",
+        "publishedAt": "2025",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "We ended the year with revenue ... at $56.7 billion.",
+        "supports": "Ultimate-parent consolidated revenue scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size and affiliate aggregation method",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Current legal contracting entity and any change to Cisco AppDynamics product structure are not resolved from the Marketplace provider label; contract NAICS varies by product."
+    ],
+    "searches": [
+      "Cisco completed acquisition of AppDynamics",
+      "Cisco AppDynamics current official order/support relationship",
+      "Cisco FY2025 revenue annual report"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Cisco AppDynamics"
+  },
+  {
+    "providerId": "csp-42e4bcc761f9",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "SAP SE's 2025 SEC Form 20-F subsidiary schedule lists Concur Technologies, Inc. in Bellevue, Washington as 100% owned, with 2,538 employees and €2.32 billion total revenue reported for 2025. This is unusually direct evidence at the provider entity level: both its 24-month employee scale and annual revenue vastly exceed the applicable software publisher/cloud-software thresholds. The figures are reported subsidiary financials, but SBA-specific receipts/employee calculations still require the prescribed period and procurement NAICS; this is not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Concur publishes cloud travel and expense management software."
+      },
+      {
+        "code": "518210",
+        "rationale": "Cloud-hosted software delivery may fall under cloud infrastructure/data processing depending on the specific procurement and principal activity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926020058/R47.htm",
+        "title": "SAP SE 2025 Form 20-F, Schedule of Subsidiaries",
+        "publishedAt": "2026-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Concur Technologies, Inc., Bellevue, WA, United States | 100 | 2,319,808 [€thousand total revenue] ... | 2,538 [employees]",
+        "supports": "Direct 100% parent relationship and provider-level revenue/employees in latest annual report",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926020058/sap-20251231x20f.htm",
+        "title": "SAP SE Form 20-F for year ended December 31, 2025",
+        "publishedAt": "2026-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Total revenue rose ... to €36,800 million in 2025 ... all ... most significant subsidiaries ... wholly owned or controlled by SAP SE.",
+        "supports": "Ultimate-parent scale and current subsidiary context",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size and affiliate aggregation method",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "The 2025 subsidiary schedule provides point-in-time employees rather than the SBA average for the preceding 24 calendar months; contract-specific NAICS is unknown."
+    ],
+    "searches": [
+      "SAP Concur Technologies Inc 100% ownership 2025 Form 20-F schedule subsidiaries",
+      "Concur Technologies Inc 2025 revenue employees SAP SEC"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Concur Technologies, Inc."
+  },
+  {
+    "providerId": "csp-f8c1c49e93af",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Cisco's official 2018 release says Cisco completed its acquisition of Duo Security, and Cisco's current site defines Duo as Cisco's identity and access management product. Cisco's FY2025 annual report reports $56.7 billion revenue. Parent-scale evidence exceeds applicable software and IT service thresholds if affiliation applies; revenue is a scale proxy, not an SBA receipts determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Duo provides cloud-based identity and access management software."
+      },
+      {
+        "code": "518210",
+        "rationale": "Cloud-hosted identity services may fit data processing/hosting depending on procurement classification."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2018/m10/cisco-announces-placeholder.html",
+        "title": "Cisco Completes Acquisition of Duo Security",
+        "publishedAt": "2018-10-01",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Cisco ... announced it has completed the acquisition of Duo Security.",
+        "supports": "Direct acquisition and parent relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.cisco.com/site/us/en/learn/topics/security/what-is-duo.html",
+        "title": "Cisco Duo: security-first identity and access management",
+        "publishedAt": "2026",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Cisco Duo is Cisco's identity and access management product.",
+        "supports": "Current parent product relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.cisco.com/c/dam/en_us/about/annual-report/2025-cisco-full-annual-report.pdf",
+        "title": "Cisco Systems FY2025 Annual Report",
+        "publishedAt": "2025",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "We ended the year with revenue ... at $56.7 billion.",
+        "supports": "Ultimate-parent consolidated revenue scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size and affiliate aggregation method",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Current legal contracting entity may differ from Cisco's Duo product label; specific procurement NAICS is not established."
+    ],
+    "searches": [
+      "Cisco completes acquisition of Duo official",
+      "Cisco Duo current product official",
+      "Cisco FY2025 annual report revenue"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Duo Security (a Cisco Company)"
+  },
+  {
+    "providerId": "csp-8dfe5e6cf73b",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "IBM completed the acquisition of all issued and outstanding Red Hat common shares in July 2019, and its current annual report describes Red Hat within IBM's hybrid-cloud/software portfolio. IBM reported $67.5 billion in FY2025 revenue. This is decisive affiliated-group scale for the cloud software activity represented by this Marketplace provider, subject to contract-specific NAICS and the formal SBA affiliation test; consolidated GAAP revenue is a scale proxy, not a receipts determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Red Hat's enterprise Linux, OpenShift and software subscription products are relevant to this activity."
+      },
+      {
+        "code": "518210",
+        "rationale": "Cloud infrastructure/data processing and hosting can be relevant to Red Hat's hosted cloud services, subject to the solicitation's primary-activity designation."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat",
+        "title": "IBM Completes Acquisition of Red Hat",
+        "publishedAt": "2019-07-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "On July 9, 2019, IBM announced the completion of its acquisition of Red Hat ... IBM acquired all of the issued and outstanding common shares of Red Hat.",
+        "supports": "Direct completed acquisition and controlling parent relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231_d2.htm",
+        "title": "IBM 2025 Annual Report / Form 10-K",
+        "publishedAt": "2026-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "In 2025, we ... reported $67.5 billion in revenue.",
+        "supports": "Current ultimate-parent consolidated financial scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "Industry-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Provider label is Red Hat brand rather than a named contracting entity; confirm the legal supplier and NAICS for any individual procurement."
+    ],
+    "searches": [
+      "IBM completed Red Hat acquisition all shares official",
+      "IBM FY2025 annual report revenue Red Hat"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Red Hat"
+  },
+  {
+    "providerId": "csp-c0b0109d9439",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Microsoft completed its acquisition of GitHub in October 2018. Microsoft's FY2026 Form 10-K describes GitHub cloud services inside Microsoft Intelligent Cloud, confirming the present operating relationship. Microsoft reported $331.839 billion in FY2026 revenue and approximately 223,000 full-time employees as of June 30, 2026. That parent scale is far above relevant software/cloud standards if affiliation applies; this is a research classification, not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; GitHub's code collaboration and developer software platform is relevant."
+      },
+      {
+        "code": "518210",
+        "rationale": "GitHub cloud services are an online hosted platform; code selection depends on the procurement's primary activity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/",
+        "title": "Microsoft completes GitHub acquisition",
+        "publishedAt": "2018-10-26",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Microsoft has completed its acquisition of GitHub.",
+        "supports": "Provider-to-parent acquisition relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "title": "Microsoft Corporation Form 10-K for FY2026",
+        "publishedAt": "2026-07-29",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Server products and cloud services include ... GitHub cloud services ... Total revenue $331,839 million.",
+        "supports": "Current consolidated parent segment relationship and financial scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "title": "Microsoft Corporation Form 10-K, Human Capital Resources",
+        "publishedAt": "2026-07-29",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "As of June 30, 2026, we employed approximately 223,000 people on a full-time basis.",
+        "supports": "Current parent workforce scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "Industry-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "The precise legal provider in the Marketplace record is not specified beyond GitHub; a procurement could be placed with a named GitHub subsidiary, though the Microsoft operating and control relationship is established."
+    ],
+    "searches": [
+      "Microsoft completes GitHub acquisition official",
+      "Microsoft FY2026 10-K GitHub cloud services revenue and workforce"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "GitHub"
+  },
+  {
+    "providerId": "csp-945b269dc514",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Microsoft completed its acquisition of Nuance Communications in March 2022, included Nuance's results in consolidated financial statements and currently reports Health and Life Sciences cloud services formerly known as Nuance Healthcare cloud services within Microsoft Intelligent Cloud. Microsoft's FY2026 revenue was $331.839 billion with approximately 223,000 employees. This scale is far above relevant software/cloud thresholds if affiliation applies; research inference only, not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Nuance develops AI-enabled healthcare and enterprise software."
+      },
+      {
+        "code": "518210",
+        "rationale": "Cloud-hosted speech recognition and healthcare AI services may fit hosting/data processing, depending on the procurement's principal activity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://news.microsoft.com/source/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/",
+        "title": "Microsoft completes acquisition of Nuance",
+        "publishedAt": "2022-03-04",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Microsoft ... announced the completion of its acquisition of Nuance Communications Inc.",
+        "supports": "Direct provider-to-parent completed acquisition",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "title": "Microsoft Corporation Form 10-K for FY2026",
+        "publishedAt": "2026-07-29",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Health and Life Sciences cloud services (formerly Nuance Healthcare cloud services) ... Total revenue $331,839 million.",
+        "supports": "Current operating integration and parent financial scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "title": "Microsoft Corporation Form 10-K, Human Capital Resources",
+        "publishedAt": "2026-07-29",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "As of June 30, 2026, we employed approximately 223,000 people on a full-time basis.",
+        "supports": "Current parent workforce scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "Industry-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Nuance remains a Marketplace provider brand; the current legal supplier for each certified product and its procurement NAICS need contract-specific confirmation."
+    ],
+    "searches": [
+      "Microsoft acquisition of Nuance completed official",
+      "Microsoft FY2026 10-K Nuance cloud current integration"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Nuance"
+  },
+  {
+    "providerId": "csp-101e21bef69a",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Cisco completed its acquisition of Splunk on March 18, 2024. Cisco's FY2025 annual report says it completed successful integration of Splunk and reports $56.7 billion revenue; its FY2025 10-K includes consolidated results following acquisition. Parent scale is decisive relative to relevant software/cloud standards where affiliation applies, but does not constitute a formal SBA receipts or size determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Splunk sells observability and cybersecurity software and related subscriptions."
+      },
+      {
+        "code": "518210",
+        "rationale": "Splunk Cloud is hosted data-processing/analytics service; code depends on the solicitation's principal activity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524070175/d783088dex991.htm",
+        "title": "Cisco Completes Acquisition of Splunk",
+        "publishedAt": "2024-03-18",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Cisco ... announced it completed the acquisition of Splunk.",
+        "supports": "Direct completed acquisition and current controlling parent relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm",
+        "title": "Cisco Systems FY2025 Form 10-K",
+        "publishedAt": "2025-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Acquisition of Splunk Inc. ... On March 18, 2024, we completed the acquisition ... The consolidated financial statements include the operating results of each acquisition from the acquisition date.",
+        "supports": "Current inclusion in parent consolidated reporting",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.cisco.com/c/dam/en_us/about/annual-report/2025-cisco-full-annual-report.pdf",
+        "title": "Cisco Systems FY2025 Annual Report",
+        "publishedAt": "2025",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "We ended the year with revenue ... at $56.7 billion ... completed the successful integration of Splunk.",
+        "supports": "Current parent financial scale and integration",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "Industry-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "The Marketplace label includes Splunk LLC alias, but contracting party and NAICS can vary by product; verify for a particular procurement."
+    ],
+    "searches": [
+      "Cisco completed acquisition of Splunk SEC 8-K",
+      "Cisco FY2025 annual report revenue Splunk integration"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Splunk"
+  },
+  {
+    "providerId": "csp-88929ee7508c",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Salesforce completed its acquisition of Slack Technologies in July 2021. Salesforce's FY2026 revenue was $41.5 billion, and its current products include Slack within the Salesforce platform. That parent scale is well above software-publisher and cloud-related receipts limits if SBA affiliation applies; revenue is a consolidated scale proxy, not a formal SBA receipts calculation or legal size finding.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Slack publishes enterprise collaboration software."
+      },
+      {
+        "code": "518210",
+        "rationale": "Slack's cloud-hosted collaboration service may fit hosting/data-processing depending on contract NAICS."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.salesforce.com/news/press-releases/2021/07/21/salesforce-slack-deal-close/",
+        "title": "Salesforce Completes Acquisition of Slack",
+        "publishedAt": "2021-07-21",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Salesforce ... announced it has completed its acquisition of Slack Technologies, Inc.",
+        "supports": "Direct provider-to-parent completed acquisition",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Delivers-Record-Fourth-Quarter-Fiscal-2026-Results/default.aspx",
+        "title": "Salesforce FY2026 Results",
+        "publishedAt": "2026-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "FY26 revenue of $41.5 billion.",
+        "supports": "Current ultimate-parent annual revenue scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.salesforce.com/products/slack/overview/",
+        "title": "Slack by Salesforce",
+        "publishedAt": "2026",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Slack is the work operating system that connects people, apps, and AI agents.",
+        "supports": "Current brand/product relationship to Salesforce",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "Industry-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Salesforce revenue is close to the upper end of current receipts standards and is not SBA receipts; exact parent five-year receipts average and contract NAICS should be checked before applying a formal-size conclusion."
+    ],
+    "searches": [
+      "Salesforce completes acquisition of Slack official",
+      "Salesforce FY2026 annual revenue official",
+      "Slack current Salesforce product official"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Slack Technologies"
+  },
+  {
+    "providerId": "csp-1768c21fc468",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "medium",
+    "reason": "Atlassian announced Trello joined its product portfolio, and its current investor materials describe Trello as an Atlassian product. Atlassian's FY2026 Form 10-K reports $6.57 billion revenue and approximately 13,813 employees in FY2025. This company-scale evidence is far above the relevant software publisher/cloud standards if affiliation applies. Trello is a product/brand label, so the legal contracting entity requires confirmation; GAAP revenue is a proxy, not an SBA receipt calculation.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software Publishers; Trello is collaboration/workflow software."
+      },
+      {
+        "code": "518210",
+        "rationale": "Trello is delivered as a hosted SaaS service, but specific contract NAICS depends on principal activity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.atlassian.com/blog/company-news/atlassian-plus-trello-2",
+        "title": "Trello is being acquired by Atlassian",
+        "publishedAt": "2017-01-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Today we're excited to announce ... Trello is being acquired by Atlassian.",
+        "supports": "Brand-to-parent acquisition relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000036/team-20260630.htm",
+        "title": "Atlassian Corporation FY2026 Form 10-K",
+        "publishedAt": "2026-08-14",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Total revenues ... $6,572,308 thousand in fiscal 2026; 2025 revenue was $5,215,304 thousand.",
+        "supports": "Parent's current financial scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.atlassian.com/legal/summary-of-changes",
+        "title": "Atlassian Summary of Changes",
+        "publishedAt": "2017",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "In 2017 we announced that Trello had joined the Atlassian family!",
+        "supports": "Current parent-brand/product relationship",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "Industry-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Trello's Marketplace provider identity is a brand with no contracting entity supplied; verify the actual Trello contracting entity and designated procurement NAICS."
+    ],
+    "searches": [
+      "Trello Atlassian current product parent official",
+      "Atlassian 2026 Form 10-K revenue employees"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Trello"
+  },
+  {
+    "providerId": "csp-72da9dbf0092",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "medium",
+    "reason": "HPE's own corporate history states HP acquired Aruba Networks, and HPE's current FY2025 Form 10-K describes Aruba Central as an HPE-provided networking software product. HPE reported $34.3 billion FY2025 net revenue. This strongly supports Aruba as an HPE business/brand with parent-scale resources, but HPE's October 2025 significant-subsidiary list does not identify an Aruba legal entity. Classification therefore rests on current product/business affiliation and is a likely-not-small research inference, not a legal determination; exact provider entity requires review.",
+    "relevantNaics": [
+      {
+        "code": "517111",
+        "rationale": "Wired Telecommunications Carriers may apply to certain network service offerings; check the contract code."
+      },
+      {
+        "code": "513210",
+        "rationale": "Software Publishers applies to Aruba Central cloud-based network management software."
+      },
+      {
+        "code": "334290",
+        "rationale": "Other Communications Equipment Manufacturing may fit hardware offerings, with an employee-based size standard; this code is a relevant alternative only for a hardware procurement."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hpe.com/us/en/about/history/timeline/timeline-growth-innovations.html",
+        "title": "HPE Growth and Innovation Timeline — 2015 Aruba Networks",
+        "publishedAt": "2026",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "HP Acquires Aruba Networks, a leading provider of mobility software and WLAN hardware.",
+        "supports": "Parent's direct acquisition of Aruba brand/business",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000130/hpe-20251031.htm",
+        "title": "Hewlett Packard Enterprise FY2025 Form 10-K",
+        "publishedAt": "2025-12-18",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "HPE provides software products, such as ... Aruba Central for cloud-based and on-premise management ... Total net revenue of $34.3 billion.",
+        "supports": "Current HPE business/product affiliation and parent revenue scale",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000130/ex-21x10312025.htm",
+        "title": "HPE FY2025 Form 10-K Exhibit 21, Subsidiaries",
+        "publishedAt": "2025-12-18",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Subsidiaries of Hewlett Packard Enterprise Company as of October 31, 2025 ... (Aruba is not separately listed among significant subsidiaries).",
+        "supports": "Scope limitation: no separate Aruba legal entity appears on significant-subsidiary schedule",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Size standards vary by industry ... Affiliates' employees or receipts must be included.",
+        "supports": "NAICS-specific size tests and affiliate aggregation",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "The Marketplace name may refer to an HPE product/brand rather than a current legal supplier; exact HPE operating entity and any separate JV/divestiture should be checked against package contracts before making an entity-level mapping.",
+      "The identified activity spans software and networking hardware, so procurement-specific NAICS and employee-versus-receipts standard must be resolved."
+    ],
+    "searches": [
+      "HPE Aruba current product official Aruba Central annual report",
+      "HPE acquisition Aruba networks official timeline",
+      "HPE FY2025 annual report revenue Aruba"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Aruba Networks"
+  },
+  {
+    "providerId": "csp-e8400c7305a9",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "The Marketplace provider is Siemens Government Technologies, Inc. Siemens AG’s audited FY2025 annual report lists Siemens Government Technologies, Inc. among fully consolidated subsidiaries and states 100% ownership. Siemens Group five-year revenues for FY2021–FY2025 were €62.265B, €69.519B, €74.882B, €75.930B, and €78.914B (five-year mean €72.302B). This is decisive affiliate-scale evidence relative to the $40M receipts standard for NAICS 518210, the code relevant to the listed Mendix Cloud offering. Group revenue is an affiliation-scale indicator, not an entity-level SBA receipts calculation or legal size determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Computing infrastructure providers, data processing, web hosting and related services; relevant to the provider’s listed Mendix Cloud cloud-hosting offering. Current SBA receipts threshold is $40 million; Siemens Group scale is vastly larger."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.siemensgovt.com/solutions/mendix-cloud/",
+        "title": "Mendix Cloud for Government | Siemens Government Technologies",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Siemens Government Technologies – the wholly owned, cleared, federal arm of Siemens – is the cloud service provider supporting Mendix Cloud for Government",
+        "supports": "Marketplace provider’s branded offering and relevant cloud-hosting activity; exact legal provider identity is separately corroborated by Siemens annual report.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:428ea18a-e7ab-4f93-a160-33908f1c3540/Siemens-Annual-Report-2025.pdf",
+        "title": "Siemens Annual Report 2025",
+        "publishedAt": "2025-12-04",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Siemens Government Technologies, Inc., Wilmington, DE / United States 100",
+        "supports": "Audited subsidiary schedule establishes entity identity and full ownership; five-year summary reports revenue in € millions: FY2025 78,914; FY2024 75,930; FY2023 74,882; FY2022 69,519; FY2021 62,265.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://press.siemens.com/global/en/article/press-materials-siemens-ag",
+        "title": "Press Materials – Siemens AG",
+        "publishedAt": "2025-11-17",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "In fiscal 2025, which ended on September 30, 2025, the Siemens Group generated revenue of €78.9 billion and net income of €10.4 billion.",
+        "supports": "Corroborates current parent group identity and scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; code-specific standards map to NAICS industries and may be expressed as receipts or employees.",
+        "supports": "Current size threshold and relevant NAICS reference; 518210 threshold $40 million.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Affiliates’ employees or receipts must be included.",
+        "supports": "Affiliation aggregation scope; 5-year average receipts methodology.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.siemens.com/en-gb/ecosystem/evgateway/",
+        "title": "EvGateway | Siemens Xcelerator ecosystem",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Extends or builds on a Siemens Xcelerator product/solution by creating a new product, or creates a new customer solution via integration of a Siemens Xcelerator product and own product",
+        "supports": "Shows Siemens relationship to EVGateway as ecosystem partner/integration rather than evidence of common ownership; the exact SBA record under UEI FVMBWZHY6MD7 is EVGATEWAY, so it should not be treated as Siemens Government Technologies.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "No exact five-year standalone receipts for Siemens Government Technologies, Inc. were located; assessment uses wholly owned affiliate group’s five-year reported revenue as decisive scale evidence.",
+      "The Marketplace’s cloud package does not itself establish a contracting NAICS assignment; 518210 is relevant to the described cloud-hosting activity.",
+      "The separate documented-small Siemens-labeled provider record csp-30e363d3e8c5 carries exact UEI FVMBWZHY6MD7, which SBA identifies as EVGATEWAY; Siemens’ own ecosystem page presents EvGateway as a partner. Treat that record as identity contamination, not evidence that Siemens Government Technologies is small."
+    ],
+    "searches": [
+      "Siemens Government Technologies Inc Siemens AG annual report 2025 subsidiary",
+      "Siemens Group five-year revenue FY2021 FY2025",
+      "SBA current NAICS 518210 threshold"
+    ],
+    "reviewerStatus": "pending",
+    "providerName": "Siemens Government Technologies "
+  },
+  {
+    "providerId": "csp-33850c4c8261",
+    "providerName": "InEight, Inc.",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Kiewit’s official corporate history says it launched InEight Inc. as a wholly owned subsidiary. Kiewit-reported group revenues for 2021–2025 were approximately $10.679B, $13.7B, $17.1B, $16.8B, and $18.2B (five-year mean approximately $15.296B), vastly above the $47M receipts threshold for NAICS 513210, relevant to InEight’s software publishing activity. Affiliate group revenue is used as a scale indicator; it is not a standalone SBA receipts calculation or a legal size determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software publishers, fitting InEight’s project-control software product. Current receipts threshold is $47 million."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.kiewit.com/about-us/technology-at-kiewit/ineight/",
+        "title": "InEight | Kiewit Corporation",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Kiewit officially launches InEight Inc. as a wholly owned subsidiary.",
+        "supports": "Direct current official parent evidence of 100% subsidiary relationship.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; thresholds vary by NAICS code and may be expressed as receipts or employees. NAICS 513210 threshold is $47 million.",
+        "supports": "Current code-specific standard; 513210 is receipts-based at $47 million.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Affiliates’ employees or receipts must be included.",
+        "supports": "Affiliation aggregation and average receipts methodology.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://search.certifications.sba.gov/profile/G87MBDLTH7M1/3QGM9",
+        "title": "SBA Small Business Search profile for InEight, Inc.",
+        "publishedAt": "as stated in profile",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Exact-name profile reports active status and small for NAICS 513210; updated 2026-08-13.",
+        "supports": "Current small status representation conflict; not an independent size determination.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.russellco.com/wp-content/uploads/2022/06/ENR05302022_TOP400_combined_compressed.pdf",
+        "title": "ENR 2022 Top 400 Contractors",
+        "publishedAt": "2022-05-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Kiewit Corp. 2021 total construction revenue: $10,679.3 million.",
+        "supports": "Parent scale data.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.kiewit.com/wp-content/uploads/2025/11/Kieways-2023-Issue-3-230925-aas-1.pdf",
+        "title": "Kieways 2023, Issue 3",
+        "publishedAt": "2023-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Kiewit’s company magazine states $13.7 billion 2022 revenue and 25,700 staff and craft employees.",
+        "supports": "Parent-reported financial and workforce scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.kiewit.com/wp-content/uploads/2025/11/Kieways-2024-Issue-3-240924a-adg-LR.pdf",
+        "title": "Kieways 2024, Issue 3",
+        "publishedAt": "2024-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Kiewit had 2023 revenues of $17.1 billion and employs 31,100 staff and craft employees.",
+        "supports": "Parent-reported financial and workforce scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://join.kiewit.com/students-and-recent-graduates/",
+        "title": "Students & Recent Graduates | Kiewit Careers",
+        "publishedAt": "current page; 2024 metrics",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Kiewit’s career page reports 2024 company metrics of $16.8 billion revenue and 31,800 craft and staff employees.",
+        "supports": "Parent-reported 2024 financial scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.kiewit.com/newsroom/strategic-partnership-to-support-u-s-shipbuilding/",
+        "title": "HD Hyundai and Kiewit Offshore Services Partner on U.S. Shipbuilding",
+        "publishedAt": "2026-07-17",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Kiewit had 2025 revenues of $18.2 billion and employs 34,500 staff and craft employees.",
+        "supports": "Parent-reported financial and workforce scale.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "The five-year figures are Kiewit-reported revenues and one ENR construction-revenue figure, not an audited SBA receipts worksheet; direct provider receipts are unavailable. Since 513210 is receipt-based, 24-month headcount is not used as a threshold.",
+      "Need confirm current assignment of NAICS 513210 for the specific Marketplace contract; it fits the software product."
+    ],
+    "searches": [
+      "Kiewit InEight wholly owned subsidiary official",
+      "Kiewit 2021 2023 2025 construction revenue ENR",
+      "SBA 513210 size standard"
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-4046587ba172",
+    "providerName": "Gallery Systems",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "Volaris Group’s official acquisition notice says it acquired 100% of the shares of Digital Arts and Sciences Corp., parent of Gallery Systems, Inc.; current Volaris material calls Gallery Systems a Volaris-owned business. Volaris is a group of Constellation Software Inc. The public parent reported revenues of $5.106B, $6.622B, $8.407B, $10.066B, and $11.623B for 2021–2025 (five-year mean $8.365B), far above the $47M threshold for NAICS 513210. This uses parent scale as an affiliation proxy rather than a formal standalone SBA receipts calculation or legal determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software publishers; Gallery Systems supplies collections-management software. Current receipts threshold is $47 million."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.volarisgroup.com/press-room/volaris-group-expands-into-cultural-collections-management-vertical-market/",
+        "title": "Volaris Group Expands into Cultural Collections Management Vertical Market",
+        "publishedAt": "2012-11-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Volaris Group has acquired 100% of the shares of Digital Arts and Sciences Corporation, the parent company of Gallery Systems, Inc.",
+        "supports": "Ownership chain at acquisition; DASC identified as Gallery Systems parent.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.volarisgroup.com/acquired-knowledge/how-gallery-systems-is-reframing-their-canvas-for-business-transformation/",
+        "title": "How Gallery Systems Is Reframing Their Canvas for Business Transformation",
+        "publishedAt": "2026-06",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The Volaris-owned business creates collections management software for museums, cultural institutions, and commercial art galleries.",
+        "supports": "Current ownership/branding relationship.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.volarisgroup.com/about/",
+        "title": "About Volaris Group",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Volaris is an operating group of Constellation Software Inc. (TSX: CSU).",
+        "supports": "Volaris-to-Constellation parent chain.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend/",
+        "title": "Constellation Software FY2025 Results",
+        "publishedAt": "2026-03-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "2025 revenue was $11,623 million compared to $10,066 million in 2024.",
+        "supports": "Parent financial scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.csisoftware.com/constellation-software-inc.-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2023-and-declares-quarterly-dividend/",
+        "title": "Constellation Software FY2023 Results",
+        "publishedAt": "2024-03-06",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "2023 revenue was $8,407 million compared to $6,622 million in 2022.",
+        "supports": "Parent financial scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.csisoftware.com/constellation-software-inc.-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2021-and-declares-quarterly-dividend/",
+        "title": "Constellation Software FY2021 Results",
+        "publishedAt": "2022-03-09",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "2021 revenue was $5,106 million.",
+        "supports": "Parent financial scale.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; thresholds vary by NAICS code and may be expressed as receipts or employees. NAICS 513210 threshold is $47 million.",
+        "supports": "Current code-specific standard; 513210 is receipts-based at $47 million.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Affiliates’ employees or receipts must be included.",
+        "supports": "Affiliation aggregation and average receipts methodology.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://search.certifications.sba.gov/profile/X97KWJLKVJB9/3S2M2",
+        "title": "SBA Small Business Search profile for Gallery Systems, Inc.",
+        "publishedAt": "as stated in profile",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Exact-name/domain profile reports active status and small for NAICS 513210; updated 2026-05-07.",
+        "supports": "Current small status representation conflict; not an independent size determination.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "The five-year parent figures are consolidated GAAP revenue, not a standalone Gallery Systems receipts tally; they are used as affiliate-scale evidence.",
+      "The Marketplace did not specify a contracting NAICS; 513210 fits the software product."
+    ],
+    "searches": [
+      "Gallery Systems Volaris parent acquisition official",
+      "Volaris owned Gallery Systems current",
+      "Constellation Software annual revenue 2021 2025 official",
+      "SBA NAICS 513210 threshold"
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-56b1d6ae8c92",
+    "providerName": "SailPoint Technologies, Inc.",
+    "classification": "likely-not-small",
+    "confidence": "medium",
+    "identityConfidence": "high",
+    "reason": "SailPoint’s current Form 10-K lists SailPoint Technologies, Inc. as a wholly owned subsidiary of SailPoint, Inc. Public parent revenue for FY2022–FY2026 is about $0.553B, $0.553B, $0.700B, $0.862B, and $1.071B (approximate five-year mean $0.748B), materially above receipts standards for the provider’s listed 518210/513210 lines. The exact SBA Search record remains active and reports small under the same entity name and UEI; this proposal therefore flags a conflict rather than treating it as a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Computing infrastructure/data processing/web hosting; listed SBA activity. Current receipts standard $40 million."
+      },
+      {
+        "code": "513210",
+        "rationale": "Software publishing; listed SBA activity. Current receipts standard $47 million."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078126000003/sail-20260131.htm",
+        "title": "SailPoint, Inc. Form 10-K for FY2026",
+        "publishedAt": "2026-03-19",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The filing identifies SailPoint Technologies, Inc. as a wholly owned subsidiary and reports total revenues of $1,071.416 million for FY2026, $861.611 million for FY2025, and $699.572 million for FY2024.",
+        "supports": "Exact provider name is a subsidiary; recent three years of financial results.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://search.certifications.sba.gov/profile/K7ZRW8DEMLZ3/6EZP0",
+        "title": "SBA Small Business Search profile for SailPoint Technologies, Inc.",
+        "publishedAt": "2026-09-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Active exact-name record lists 513210 and 518210 as small NAICS codes.",
+        "supports": "Conflicting current small-business representation; record exact identity.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; thresholds vary by NAICS code and may be expressed as receipts or employees. NAICS 513210 threshold is $47 million.",
+        "supports": "Current code-specific standard; 513210 is receipts-based at $47 million.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Affiliates’ employees or receipts must be included.",
+        "supports": "Affiliation aggregation and average receipts methodology.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078126000003/sail-20260131x10kex211.htm",
+        "title": "SailPoint FY2026 Form 10-K Exhibit 21.1, subsidiaries",
+        "publishedAt": "2026-03-19",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "SUBSIDIARIES OF SAILPOINT, INC.; SailPoint Technologies, Inc. (Delaware)",
+        "supports": "Direct subsidiary schedule.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "SBA Search listing updated 2026-09-30 reports small while public parent financials exceed relevant size thresholds substantially; reviewer should resolve current representation and any applicable exception/certification context.",
+      "FY2022 5-year series includes predecessor/successor reporting transition; approximate figure and average require detailed filing review."
+    ],
+    "searches": [
+      "SailPoint Technologies wholly owned subsidiary SailPoint Inc SEC",
+      "SailPoint FY2022 FY2026 revenue annual reports",
+      "SBA SailPoint profile K7ZRW8DEMLZ3"
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-194dbd4fb732",
+    "providerName": "Zoom Video Communications, LLC",
+    "classification": "unknown",
+    "confidence": "low",
+    "identityConfidence": "medium",
+    "reason": "Current SBA Search profile matched by exact UEI N111LGYXDUM7 reports legal name ZOOM COMMUNICATIONS, INC., primary NAICS 541519 and small for 541519. Zoom Communications, Inc. is a public parent with revenues well above the $34M 541519 receipts standard. However, the Marketplace record names Zoom Video Communications, LLC and no authoritative evidence located in this pass establishes the LLC’s ownership/control relationship to the public issuer or identifies whether the SBA profile is the same entity. Preserve the conflict as unresolved; do not infer size from the similar name.",
+    "relevantNaics": [
+      {
+        "code": "541519",
+        "rationale": "Other computer-related services; exact SBA profile lists this code. Current receipts threshold $34 million."
+      },
+      {
+        "code": "517810",
+        "rationale": "All other telecommunications; listed secondary activity. Current receipts threshold $40 million."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://search.certifications.sba.gov/profile/N111LGYXDUM7/7VSA8",
+        "title": "SBA Small Business Search profile",
+        "publishedAt": "current record; last update unavailable",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "UEI N111LGYXDUM7; legal name ZOOM COMMUNICATIONS, INC.; small NAICS 541519.",
+        "supports": "Exact UEI match but contradictory entity name relative to provider.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1585521/000158552126000030/zm-20260131.htm",
+        "title": "Zoom Communications, Inc. Form 10-K FY2026",
+        "publishedAt": "2026-03",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Zoom Communications, Inc. consolidated annual revenue is above $4 billion.",
+        "supports": "Issuer financial scale; no direct LLC relationship found.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.fedramp.gov/marketplace/",
+        "title": "FedRAMP Marketplace",
+        "publishedAt": "current listing",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Provider listing identifies Zoom Video Communications, LLC and UEI N111LGYXDUM7.",
+        "supports": "Marketplace identity contradiction evidence.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; thresholds vary by NAICS code and may be expressed as receipts or employees. NAICS 513210 threshold is $47 million.",
+        "supports": "Current code-specific standard; 513210 is receipts-based at $47 million.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Affiliates’ employees or receipts must be included.",
+        "supports": "Affiliation aggregation and average receipts methodology.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "No authoritative primary source linking the exact provider entity Zoom Video Communications, LLC to the issuer Zoom Communications, Inc. was found.",
+      "The SBA exact-UEI profile identifies a different legal name, so its small status cannot safely be attributed to the Marketplace LLC."
+    ],
+    "searches": [
+      "Zoom Video Communications LLC UEI N111LGYXDUM7 ownership Zoom Communications Inc official",
+      "Zoom 2026 10-K wholly owned subsidiaries LLC",
+      "SBA Zoom N111LGYXDUM7"
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-8825c07e1e67",
+    "providerName": "RSA Security LLC",
+    "classification": "unknown",
+    "confidence": "low",
+    "identityConfidence": "medium",
+    "reason": "The provider website identifies RSA Security LLC, while its exact SBA UEI GJJ4XJXE9VX8 resolves to RSA Federal LLC, so SBA small status is not confidently attributable to the provider legal identity. RSA Security LLC was sold by Dell to an investor consortium led by STG in 2020 for about $2.075B; later ownership includes additional investors. The transaction valuation is not receipts and no authoritative five-year revenue or affiliate-group size evidence sufficient for a NAICS-specific determination was located. Keep unresolved.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Software publishers, consistent with RSA software offerings; current receipts threshold $47 million."
+      },
+      {
+        "code": "334112",
+        "rationale": "Computer storage device manufacturing; included in exact SBA profile but may not match current service offering. Employee standard is code-specific and must not be applied without verifying activity."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://search.certifications.sba.gov/profile/GJJ4XJXE9VX8/7L9J9",
+        "title": "SBA Small Business Search profile",
+        "publishedAt": "2025-12-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "UEI GJJ4XJXE9VX8 has legal name RSA FEDERAL LLC and reports small codes 334112 and 513210.",
+        "supports": "Exact UEI but legal name differs from Marketplace provider.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://stg.com/news/rsa-emerges-as-independent-company-following-completion-of-acquisition-by-symphony-technology-group/",
+        "title": "RSA Emerges as Independent Company Following Completion of Acquisition by STG",
+        "publishedAt": "2020-09-01",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Consortium led by STG acquired RSA at a stated transaction value of $2.1 billion.",
+        "supports": "Ownership history and transaction valuation, not receipts.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://investors.delltechnologies.com/static-files/fc821432-ebb3-4399-96ce-1cccec675f62",
+        "title": "Dell Technologies Form 8-K Exhibit",
+        "publishedAt": "2020-02-18",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Consortium to acquire RSA Security LLC and related assets in a transaction valued at $2.075 billion.",
+        "supports": "Exact legal-entity sale evidence.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.rsa.com/solutions/public-sector/",
+        "title": "RSA Public Sector",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "RSA public sector products and solutions.",
+        "supports": "Provider business identity; not affiliate financial evidence.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "2026-07-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Current table effective March 17, 2023; thresholds vary by NAICS code and may be expressed as receipts or employees. NAICS 513210 threshold is $47 million.",
+        "supports": "Current code-specific standard; 513210 is receipts-based at $47 million.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/federal-contracting/contracting-guide/size-standards",
+        "title": "SBA Size Standards",
+        "publishedAt": "2026-07-24",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Affiliates’ employees or receipts must be included.",
+        "supports": "Affiliation aggregation and average receipts methodology.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Exact SBA record legal name is RSA Federal LLC, not RSA Security LLC.",
+      "Private consortium ownership and transaction value do not establish five-year receipts or relevant affiliate aggregation; no classification proposal."
+    ],
+    "searches": [
+      "RSA Security LLC GJJ4XJXE9VX8 SBA exact record",
+      "RSA Security LLC STG ownership current investor",
+      "RSA Federal LLC RSA Security relation"
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-30e363d3e8c5",
+    "providerName": "Siemens",
+    "classification": "unknown",
+    "confidence": "low",
+    "identityConfidence": "low",
+    "reason": "The exact SBA profile UEI FVMBWZHY6MD7 resolves to EVGATEWAY, not Siemens AG or Siemens Government Technologies. Siemens’ official ecosystem page describes EvGateway as a partner/integration/reseller, not an acquired or controlled subsidiary. The record’s Siemens label and EVGateway UEI/domain conflict; do not count its SBA small status as evidence about Siemens.",
+    "relevantNaics": [
+      {
+        "code": "541511",
+        "rationale": "This code appears in the mismatched SBA profile but may pertain to EVGateway’s own activity; it is not validated for a Siemens provider."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://search.certifications.sba.gov/profile/FVMBWZHY6MD7/8ZPE7",
+        "title": "SBA Small Business Search profile",
+        "publishedAt": "2026-01-30",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Legal name EVGATEWAY; UEI FVMBWZHY6MD7; small for NAICS 541511 and 541519.",
+        "supports": "Exact UEI/legal name contradicts Siemens provider label.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.siemens.com/en-gb/ecosystem/evgateway/",
+        "title": "EvGateway | Siemens ecosystem",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "EvGateway extends or builds on Siemens Xcelerator products by integrating its own product or reselling/co-selling.",
+        "supports": "Siemens describes a partner relationship, not control.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://evgateway.com/",
+        "title": "EVGateway",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "EVGateway EV charging platform and services.",
+        "supports": "The SBA legal name/domain describe a separate EV charging company.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Marketplace provider label “Siemens” appears paired to EVGateway website/UEI in source data; confirm what entity/service the record actually represents."
+    ],
+    "searches": [
+      "FVMBWZHY6MD7 SBA EVGATEWAY Siemens partner",
+      "Siemens EVGateway ownership or partnership"
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-ab41829bc1d9",
+    "providerName": "Optum Serve",
+    "classification": "likely-not-small",
+    "confidence": "medium",
+    "identityConfidence": "medium",
+    "reason": "Optum Serve’s current official page identifies it as a federal health services business and separately presents technology/consulting and health services. UnitedHealth Group’s 2024 Form 10-K Exhibit 21 lists Optum Serve, LLC and OptumServe Health Services, Inc. among subsidiaries. The 2025 Form 10-K Exhibit 21 lists only significant subsidiaries and does not name Optum Serve; that is a materiality disclosure limit, not proof of no control. UHG’s five-year consolidated revenue (2021–2025) was $287.597B, $324.162B, $371.622B, $400.278B and $447.567B (average about $366.245B); it reported more than 390,000 employees at 2025 year-end. These affiliate bounds greatly exceed plausible current SBA standards for the listed federal health/cloud/software activities. The provider record has no exact SBA UEI or assigned NAICS, so this remains a screening inference, not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Plausible only if the covered Federal Platform provides computing infrastructure, data processing or hosting; the provider’s exact contract NAICS is not established. This code is receipts-based."
+      },
+      {
+        "code": "541512",
+        "rationale": "Plausible for systems design/integration or technology consulting listed by Optum Serve; the actual covered service and code require confirmation. This code is receipts-based."
+      },
+      {
+        "code": "621999",
+        "rationale": "Plausible for certain ambulatory health services, but Optum Serve’s particular cloud offering does not establish that this is the assigned code. Keep code selection unresolved."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://business.optum.com/en/federal-government/about-optum-serve.html",
+        "title": "About Optum Serve - A Federal Health Services Business",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The official page describes Optum Serve as a federal health services business and lists technology/consulting and health-services solutions for federal government.",
+        "supports": "Identity/brand context and scope of services for the Marketplace provider.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+        "title": "UnitedHealth Group 2025 Form 10-K",
+        "publishedAt": "2026-03-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Consolidated revenues for 2021–2025: $287.597B, $324.162B, $371.622B, $400.278B, $447.567B; the report states more than 390,000 employees at 2025 year end.",
+        "supports": "Affiliated group size bound; 5-year revenue mean is about $366.245B. Headcount is a point-in-time indicator, not the 24-month employee calculation.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "updated 2026-07-30; effective table 2023-03-17",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "SBA states standards vary by industry and aggregate affiliate receipts or employees; the table is the current size-standard reference as of retrieval.",
+        "supports": "NAICS-specific and affiliate aggregation context.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unhex21112312024.htm",
+        "title": "UnitedHealth Group 2024 Form 10-K, Exhibit 21.1",
+        "publishedAt": "2025-02-27",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The full subsidiary exhibit lists Optum Serve, LLC and OptumServe Health Services, Inc. as UHG subsidiaries as of 2024-12-31.",
+        "supports": "Prior-year direct subsidiary identity; current ownership is corroborated by official Optum Serve branding but the next exhibit is limited to significant subsidiaries.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unhex21112312025.htm",
+        "title": "UnitedHealth Group 2025 Form 10-K, Exhibit 21.1",
+        "publishedAt": "2026-03-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "The 2025 Exhibit 21 is expressly a list of significant subsidiaries; it lists Optum entities but not Optum Serve.",
+        "supports": "Current disclosure scope limitation; absence from a significant-subsidiary list does not establish absence of affiliation.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json",
+        "title": "UnitedHealth Group SEC XBRL companyfacts",
+        "publishedAt": "current SEC companyfacts",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Reported annual revenues for 2021–2025 were $287.597B, $324.162B, $371.622B, $400.278B, and $447.567B; simple mean approximately $366.245B.",
+        "supports": "Five-year consolidated revenue scale proxy for the parent group.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Confirm the legal contracting entity and exact NAICS assigned to the Optum Serve Federal Platform.",
+      "Confirm the applicable affiliate group and 5-year receipts/24-month employee calculation for the specific procurement representation."
+    ],
+    "searches": [
+      "Reviewed cached analysis/provider registration attempts; opened current Optum Serve page, UHG 2024 Exhibit 21, 2025 Form 10-K, and SBA size standards page."
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-3b57886c008d",
+    "providerName": "Leidos Digital Solutions, Inc.",
+    "classification": "likely-not-small",
+    "confidence": "high",
+    "identityConfidence": "high",
+    "reason": "The Marketplace provider name exactly matches the Leidos subsidiary listed in the company’s SEC-filed 2026 Form 8-K Exhibit 21. SEC XBRL reports Leidos consolidated revenues for fiscal 2021–2025 of $13.737B, $14.396B, $15.438B, $16.662B and $17.107B (mean about $15.468B); its 2025 Form 10-K also reports 47,000 global employees. IQ FedCloud is a cloud-hosted federal platform, making software publishing (513210) and/or hosting (518210) plausible, but the exact assigned contract NAICS and standalone receipts are not established. This is a high-confidence screening inference based on exact subsidiary identity and affiliate scale, not a legal determination.",
+    "relevantNaics": [
+      {
+        "code": "518210",
+        "rationale": "Plausible for cloud-hosted FedCloud platform; $40M current receipts standard, but contract code needs confirmation."
+      },
+      {
+        "code": "513210",
+        "rationale": "Plausible if Leidos Digital Solutions publishes the covered software; $47M current receipts standard, but code assignment is unknown."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://investors.leidos.com/static-files/116710bb-189f-444f-8069-cd28831bd6f7",
+        "title": "Leidos Holdings Inc. Form 8-K, Annex A Significant Subsidiaries",
+        "publishedAt": "2026-03-03",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Annex A lists Leidos Digital Solutions, Inc. among the significant subsidiaries of Leidos Holdings, Inc.",
+        "supports": "Exact parent/subsidiary identity relationship.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos-20260102.htm",
+        "title": "Leidos Holdings 2025 Form 10-K",
+        "publishedAt": "2026-03-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Leidos reports $17.107B consolidated revenue for fiscal 2025 and 47,000 global employees.",
+        "supports": "Affiliate financial and employee-scale evidence.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "updated 2026-07-30; effective table 2023-03-17",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "SBA size standards vary by NAICS; 518210 and 513210 are receipts-based codes with distinct thresholds.",
+        "supports": "Code-specific threshold framing.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001336920.json",
+        "title": "Leidos SEC XBRL companyfacts",
+        "publishedAt": "current SEC companyfacts",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "Leidos reported annual revenues for fiscal 2021–2025 of $13.737B, $14.396B, $15.438B, $16.662B and $17.107B; five-year mean about $15.468B.",
+        "supports": "Five-year consolidated parent revenue scale proxy.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Confirm the specific contracting entity/UEI and assigned NAICS for IQ FedCloud.",
+      "Obtain any applicable standalone five-year receipts; consolidated affiliate revenue is used as a scale indicator."
+    ],
+    "searches": [
+      "Opened Leidos 2026 Form 8-K subsidiary exhibit and FY2025 Form 10-K; reviewed Marketplace provider and offering record."
+    ],
+    "reviewerStatus": "pending"
+  },
+  {
+    "providerId": "csp-8d919dfae0cf",
+    "providerName": "LexisNexis Legal and Professional",
+    "classification": "likely-not-small",
+    "confidence": "medium",
+    "identityConfidence": "medium",
+    "reason": "The official RELX 2025 annual report describes its Legal segment as LexisNexis Legal & Professional, reports 11,900 employees, and £1.806B segment revenue in 2025. LexisNexis identifies itself as a division of RELX. The Marketplace label closely matches this business unit, but the separate contracting legal entity is not resolved. Software/data publishing and hosted legal information are plausible NAICS contexts; exact contract code is unknown. Segment scale is a strong screening signal, not standalone small-business receipts or legal determination.",
+    "relevantNaics": [
+      {
+        "code": "513210",
+        "rationale": "Plausible for the legal research software/platform in Lexis+ for Government; $47M current receipts standard, but exact contract NAICS is not shown."
+      },
+      {
+        "code": "518210",
+        "rationale": "Plausible if the covered offering is classed as cloud hosting/data processing; $40M receipts standard, but assignment remains unknown."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/2025-ar-sections/relx-2025-market-segments.pdf",
+        "title": "RELX Annual Report 2025, Market Segments",
+        "publishedAt": "2026-02",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "RELX reports LexisNexis Legal & Professional as the Legal segment with 2025 revenue of £1.806B and 11,900 employees worldwide.",
+        "supports": "Business-unit scale and alignment with the provider label.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://www.lexisnexis.com/en-us/about-us/about-us.page",
+        "title": "About LexisNexis",
+        "publishedAt": "current page",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "LexisNexis describes itself as a division of RELX and reports 11,900 colleagues.",
+        "supports": "Parent/division relationship.",
+        "excerptType": "summary"
+      },
+      {
+        "url": "https://legacy.sba.gov/document/support-table-size-standards",
+        "title": "SBA Table of Size Standards",
+        "publishedAt": "updated 2026-07-30; effective table 2023-03-17",
+        "retrievedAt": "2026-10-30",
+        "excerpt": "SBA size standards vary by NAICS; 513210 and 518210 are separate receipts-based codes.",
+        "supports": "Code-specific threshold framing.",
+        "excerptType": "summary"
+      }
+    ],
+    "unresolvedQuestions": [
+      "Resolve the specific legal contracting entity and UEI corresponding to LexisNexis Legal and Professional Marketplace provider.",
+      "Confirm assigned contract NAICS and affiliate aggregation methodology; the public RELX report gives segment revenue rather than a standalone contracting entity calculation."
+    ],
+    "searches": [
+      "Opened RELX official 2025 segment report, LexisNexis corporate page and SBA size standards page."
+    ],
+    "reviewerStatus": "pending"
+  }
+]

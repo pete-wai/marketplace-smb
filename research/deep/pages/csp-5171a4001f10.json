@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-5171a4001f10",
+  "retrievedAt": "2026-10-30T11:00:35.829Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.86borders.com/",
+      "finalUrl": "https://www.86borders.com/",
+      "status": "success",
+      "sha256": "eeb3df894024333aacae5a4c742001d9466f0733114119f276bb888965a4ed9b",
+      "title": "86Borders &#8211; Member focused. Performance Driven.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.86borders.com/about-us/",
+        "https://www.86borders.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.86borders.com/about-us/",
+      "finalUrl": "https://www.86borders.com/about-us/",
+      "status": "success",
+      "sha256": "cb1080d6d818acba48820c16daec651e9649ea879ff34f42d812381d74a98cde",
+      "title": "About Us &#8211; 86Borders",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.86borders.com/about/"
+      ]
+    },
+    {
+      "url": "https://www.86borders.com/about/",
+      "finalUrl": "https://www.86borders.com/",
+      "status": "success",
+      "sha256": "4eebf97b039c6e54729ef95553e265868c8172f7d03e974ac83794b826e94958",
+      "title": "86Borders &#8211; Member focused. Performance Driven.",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

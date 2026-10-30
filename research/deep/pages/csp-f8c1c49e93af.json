@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-f8c1c49e93af",
+  "retrievedAt": "2026-10-30T11:01:07.256Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://duo.com/",
+      "finalUrl": "https://duo.com/",
+      "status": "success",
+      "sha256": "783c67b40e259792762de9a193c811d5399325a2ec8eb8515b757e72756e459e",
+      "title": "IAM & MFA Identity Security for Business, Humans, AI | Cisco Duo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://duo.com/product",
+        "https://duo.com/solutions/government",
+        "https://duo.com/about",
+        "https://duo.com/about/contact",
+        "https://duo.com/solutions/phishing-prevention",
+        "https://duo.com/product/duo-directory",
+        "https://duo.com/solutions/enterprise",
+        "https://duo.com/editions-and-pricing/duo-federal-editions"
+      ]
+    },
+    {
+      "url": "https://duo.com/product",
+      "finalUrl": "https://duo.com/product",
+      "status": "success",
+      "sha256": "71f55379dfd9593de87489a32b126a9f0829b1f8b76917919b75fc6d6c667b8a",
+      "title": "Identity Security Products | Duo Security | Cisco Duo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://duo.com/solutions/government",
+        "https://duo.com/about",
+        "https://duo.com/about/contact",
+        "https://duo.com/solutions/enterprise",
+        "https://duo.com/editions-and-pricing/duo-federal-editions"
+      ]
+    },
+    {
+      "url": "https://duo.com/solutions/government",
+      "finalUrl": "https://duo.com/solutions/government",
+      "status": "success",
+      "sha256": "2331285072060348d78d780042ebad1d2a4049459f1a2f7a0792fe2fd227d764",
+      "title": "Duo for Government | Secure FedRAMP Compliant Access | Cisco Duo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://duo.com/about",
+        "https://duo.com/about/contact",
+        "https://duo.com/editions-and-pricing/duo-federal-editions",
+        "https://duo.com/blog/duo-federal-edition-fedramp-high-class-d-ga",
+        "https://duo.com/product/device-trust",
+        "https://duo.com/docs/duo-federal-guide"
+      ]
+    },
+    {
+      "url": "https://duo.com/about",
+      "finalUrl": "https://duo.com/about",
+      "status": "success",
+      "sha256": "2b26bcaed26fb7bc7fb6691c2216ae13fa6d7e81762d063c1a590d5c199bd28f",
+      "title": "About Duo Security: Explore Identity Solutions | Cisco Duo",
+      "signals": [],
+      "discoveredLinks": [
+        "https://duo.com/about/contact",
+        "https://duo.com/about/duo-security-explainer",
+        "https://duo.com/editions-and-pricing/duo-federal-editions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-26d07cf9973b",
+  "retrievedAt": "2026-10-30T11:02:29.004Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://virtualdojo.com/",
+      "finalUrl": "https://www.virtualdojo.com/",
+      "status": "success",
+      "sha256": "cad125c9d72b5456c695ab844ef1949fce0fde333e75f9070b5bd72682bc4169",
+      "title": "Virtual Dojo | AI Workspace for Government Contractors",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "ks and accomplish more in less time.&quot; Jonathan Humberg CEO &quot;As a small business, VirtualDojo provided exactly the system and rigor I needed to help me pass key elements of my audit, and the auditor was very impressed.&quot; Robert Brown"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.virtualdojo.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.virtualdojo.com/about-us",
+      "finalUrl": "https://www.virtualdojo.com/about-us",
+      "status": "success",
+      "sha256": "a0c046454117d503c3b2ba69c9ed9b0314ef7804da2596ae5da98cf46f06ed4c",
+      "title": "About Us | Virtual Dojo",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

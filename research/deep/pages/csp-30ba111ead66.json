@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-30ba111ead66",
+  "retrievedAt": "2026-10-30T11:02:25.379Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://unanet.com/",
+      "finalUrl": "https://unanet.com/",
+      "status": "success",
+      "sha256": "9d9c9d03cf85bca5d07a455f083ba2637c440ec8e5d1a48f0a7e48a2b9145708",
+      "title": "Unanet | Modern Solutions for Your Project-Driven Business",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unanet.com/crm-for-government-contracting",
+        "https://unanet.com/unanet-industry/unanet-for-govcon",
+        "https://unanet.com/about/about-us",
+        "https://unanet.com/about/careers",
+        "https://unanet.com/about/leadership",
+        "https://unanet.com/company/events",
+        "https://unanet.com/about/unanet-united/",
+        "https://unanet.com/crm-for-government-contracting/pipeline"
+      ]
+    },
+    {
+      "url": "https://unanet.com/crm-for-government-contracting",
+      "finalUrl": "https://unanet.com/crm-for-government-contracting",
+      "status": "success",
+      "sha256": "390027eb5290f27b0aee7802feb8d42327ad71f82f0ff0952d09ac5c70e6cea5",
+      "title": "Unanet CRM for GovCon | Unanet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unanet.com/unanet-industry/unanet-for-govcon",
+        "https://unanet.com/about/about-us",
+        "https://unanet.com/about/careers",
+        "https://unanet.com/about/leadership",
+        "https://unanet.com/company/events",
+        "https://unanet.com/about/unanet-united/",
+        "https://unanet.com/crm-for-government-contracting/capture-management",
+        "https://unanet.com/crm-for-government-contracting/pipeline",
+        "https://unanet.com/crm-for-government-contracting/proposals",
+        "https://unanet.com/crm-for-government-contracting/champ-agents"
+      ]
+    },
+    {
+      "url": "https://unanet.com/unanet-industry/unanet-for-govcon",
+      "finalUrl": "https://unanet.com/unanet-industry/unanet-for-govcon",
+      "status": "success",
+      "sha256": "cde0d20994742347829e9c73da4ea3637179e4b5f5381d616251df29cdca2c81",
+      "title": "Government Contracting | Unanet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unanet.com/about/about-us",
+        "https://unanet.com/about/careers",
+        "https://unanet.com/about/leadership",
+        "https://unanet.com/company/events",
+        "https://unanet.com/about/unanet-united/",
+        "https://unanet.com/blog/faster-federal-buying-govcon-capture-strategy"
+      ]
+    },
+    {
+      "url": "https://unanet.com/about/about-us",
+      "finalUrl": "https://unanet.com/about/about-us",
+      "status": "success",
+      "sha256": "24316b1a17df795863ae02197223720eef093d55c464d81fa00b73456d560b51",
+      "title": "About Us | Unanet",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unanet.com/about/careers",
+        "https://unanet.com/about/leadership",
+        "https://unanet.com/company/events",
+        "https://unanet.com/about/unanet-united/"
+      ]
+    }
+  ]
+}

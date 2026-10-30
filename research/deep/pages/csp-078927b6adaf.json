@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-078927b6adaf",
+  "retrievedAt": "2026-10-30T11:02:27.894Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.verily.com/",
+      "finalUrl": "https://www.verily.com/",
+      "status": "success",
+      "sha256": "123abb4c2f648be514216361d4c61b7b232755083ea3c9f4c2934e6edb3908c1",
+      "title": "Verily Health | AI-native precision health",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verily.com/about-us/careers",
+        "https://www.verily.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.verily.com/about-us/careers",
+      "finalUrl": "https://www.verily.com/careers",
+      "status": "success",
+      "sha256": "d81ab69cc6abd54bf42cc277e9ce0945fc0404102893b162921bf4a8e236b90d",
+      "title": "Careers",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verily.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.verily.com/about-us",
+      "finalUrl": "https://www.verily.com/about-us",
+      "status": "success",
+      "sha256": "727f7da57a117441f3583cf14f39b65e31085340662b426f25769ad5e3862642",
+      "title": "About us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verily.com/about-us/leadership/stephen-gillett",
+        "https://www.verily.com/about-us/leadership/utpal-koppikar",
+        "https://www.verily.com/about-us/leadership/scott-burke",
+        "https://www.verily.com/about-us/leadership/myoung-cha",
+        "https://www.verily.com/about-us/leadership"
+      ]
+    },
+    {
+      "url": "https://www.verily.com/about-us/leadership/stephen-gillett",
+      "finalUrl": "https://www.verily.com/about-us/leadership/stephen-gillett",
+      "status": "success",
+      "sha256": "f55dedfe5f32e85e6fbf9359c56469b2d5468d39a572805169c71238d99d4629",
+      "title": "Stephen Gillett | Verily Leadership",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.verily.com/about-us/leadership",
+        "https://www.verily.com/about-us/leadership/scott-burke"
+      ]
+    }
+  ]
+}

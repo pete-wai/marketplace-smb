@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-151c45dc58aa",
+  "retrievedAt": "2026-10-30T11:01:32.370Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.lastwall.com/",
+      "finalUrl": "https://www.lastwall.com/",
+      "status": "success",
+      "sha256": "20ee8da2a51f5165562ac1f8e20cd9a921fafb951ff489325c482e036bdf1071",
+      "title": "Home",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.lastwall.com/about"
+      ]
+    },
+    {
+      "url": "https://www.lastwall.com/about",
+      "finalUrl": "https://www.lastwall.com/about",
+      "status": "success",
+      "sha256": "7afb9ddd710acdd3dbd3c7c61a9090020b53799db4b589eb52e40a4e6fca698d",
+      "title": "About | Lastwall",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

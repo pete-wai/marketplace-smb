@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-17b11ad7d429",
+  "retrievedAt": "2026-10-30T11:01:22.126Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ideascale.com/",
+      "finalUrl": "https://ideascale.com/",
+      "status": "success",
+      "sha256": "a0eb0d6515918fa224c947e399ca161051d906a78ee686646fc407222019bbb2",
+      "title": "Employee Engagement Software for Innovation | IdeaScale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ideascale.com/gov/",
+        "https://ideascale.com/customers/",
+        "https://ideascale.com/about-ideascale/"
+      ]
+    },
+    {
+      "url": "https://ideascale.com/gov/",
+      "finalUrl": "https://ideascale.com/gov/",
+      "status": "success",
+      "sha256": "10d290ee21f51bd54b8e8646ebce60d296f52758bb7f929ca34c840588f6229c",
+      "title": "Solutions for Government - IdeaScale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ideascale.com/resource/maximizing-value/",
+        "https://ideascale.com/resource/measuring-innovation-success/",
+        "https://ideascale.com/resource/ai-for-government-innovation/",
+        "https://ideascale.com/resource/cybersecurity-innovation-in-leading-government-organizations/",
+        "https://ideascale.com/about-ideascale/"
+      ]
+    },
+    {
+      "url": "https://ideascale.com/customers/",
+      "finalUrl": "https://ideascale.com/customers/",
+      "status": "success",
+      "sha256": "ab6ee2c14c5f90b7dfb565e6b76dbc748813905004f215472c053b3b57fbf440",
+      "title": "IdeaScale Customers - IdeaScale",
+      "signals": [],
+      "discoveredLinks": [
+        "https://ideascale.com/about-ideascale/"
+      ]
+    },
+    {
+      "url": "https://ideascale.com/about-ideascale/",
+      "finalUrl": "https://ideascale.com/about-ideascale/",
+      "status": "success",
+      "sha256": "c43ed647f21ef01efdfadb33b5adad46bd14b71d001e3012354052577f7d49e8",
+      "title": "About Us - IdeaScale",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "providerId": "csp-f220cd041b5f",
+  "retrievedAt": "2026-10-30T11:01:05.464Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.docketscope.com/",
+      "finalUrl": "https://www.docketscope.com/",
+      "status": "success",
+      "sha256": "f7abd6230896e2bb11153212cfae096a8a3c75ca6a701d26b701ddc138524cd2",
+      "title": "Public Comments - DocketScope",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.docketscope.com/about/",
+        "https://www.docketscope.com/product/"
+      ]
+    },
+    {
+      "url": "https://www.docketscope.com/about/",
+      "finalUrl": "https://www.docketscope.com/about/",
+      "status": "success",
+      "sha256": "3fa32dbf514ea23f5a33dfca25188f1b64408da17c9d7043d6b01ff36917baea",
+      "title": "About - DocketScope",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "act DocketScope Schedule a Demo Log In About Us DocketScope Inc. is a subsidiary of The Regulatory Group Inc. (TRG). TRG has been the leading provider of training services to federal agencies on the regulatory process for more than thirty"
+        }
+      ],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.docketscope.com/product/",
+      "finalUrl": "https://www.docketscope.com/public-comment-software-comment-analysis-tool/",
+      "status": "success",
+      "sha256": "e69396642884d1c87523f0b9328fc98f69cb5f0f2f9ab140c3ce6ce063d35bc0",
+      "title": "Public Comment Software & Comment Analysis Tool - DocketScope",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

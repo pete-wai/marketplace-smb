@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-599ce2892cec",
+  "retrievedAt": "2026-10-30T11:00:43.849Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://atom-ai.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

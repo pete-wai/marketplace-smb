@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-ca5c22b740e5",
+  "retrievedAt": "2026-10-30T11:01:48.908Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.openclinica.com/fedramp",
+      "finalUrl": "https://www.openclinica.com/fedramp/",
+      "status": "success",
+      "sha256": "d7ca71f6f6bf8c8adf26314866bc8a645c8892d6f90c541a373f5e0c31f9e164",
+      "title": "FedRAMP for Clinical Research | OpenClinica",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.openclinica.com/fedramp/",
+        "https://www.openclinica.com/about-us/",
+        "https://www.openclinica.com/about-us/faqs/"
+      ]
+    },
+    {
+      "url": "https://www.openclinica.com/fedramp/",
+      "finalUrl": "https://www.openclinica.com/fedramp/",
+      "status": "success",
+      "sha256": "59c516a6d67904ac80c726a3bf9ad2b48028a49846739f15a0f6ef126b3e461d",
+      "title": "FedRAMP for Clinical Research | OpenClinica",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.openclinica.com/about-us/",
+        "https://www.openclinica.com/about-us/faqs/"
+      ]
+    },
+    {
+      "url": "https://www.openclinica.com/about-us/",
+      "finalUrl": "https://www.openclinica.com/about-us/",
+      "status": "success",
+      "sha256": "201f4c8e4ac398f7ff134b661aea459e7151a1d6b2f1e7454f338a97b4e062e1",
+      "title": "About Us » OpenClinica",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.openclinica.com/about-us/faqs/"
+      ]
+    },
+    {
+      "url": "https://www.openclinica.com/about-us/faqs/",
+      "finalUrl": "https://www.openclinica.com/about-us/faqs/",
+      "status": "success",
+      "sha256": "440bc280280e9ce9a39c5bda2004d2bc59fe15fd64d1fa9fa4320e04845dec77",
+      "title": "FAQs » OpenClinica",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

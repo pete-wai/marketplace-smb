@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-3b83d5c31807",
+  "retrievedAt": "2026-10-30T11:01:01.714Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://datavant.com/",
+      "finalUrl": "https://www.datavant.com/",
+      "status": "success",
+      "sha256": "0ab936a5a25cd5335276b4af5b05b4bb1ee8f266681734dc7751cdf332e2f7ee",
+      "title": "Datavant | The Data Collaboration Platform Trusted for Healthcare",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datavant.com/about",
+        "https://www.datavant.com/about/careers",
+        "https://www.datavant.com/about/newsroom",
+        "https://www.datavant.com/about/privacy-compliance",
+        "https://www.datavant.com/life-sciences/government",
+        "https://www.datavant.com/blog/from-film-sets-to-cybersecurity-finding-the-career-i-wanted",
+        "https://www.datavant.com/webinar/round-table-201-the-inpatient-audit-files"
+      ]
+    },
+    {
+      "url": "https://www.datavant.com/about",
+      "finalUrl": "https://www.datavant.com/about",
+      "status": "success",
+      "sha256": "adb249e528613ada0b9e2e97be1b1dd2204127a6fd14d9008b1bc6580b6ec756",
+      "title": "About | Datavant",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datavant.com/about/careers",
+        "https://www.datavant.com/about/newsroom",
+        "https://www.datavant.com/about/privacy-compliance",
+        "https://www.datavant.com/life-sciences/government"
+      ]
+    },
+    {
+      "url": "https://www.datavant.com/about/careers",
+      "finalUrl": "https://www.datavant.com/about/careers",
+      "status": "success",
+      "sha256": "4727ccfb4b1e9574f65448a0af192cf389e6894cefd4a3cc98e3cf7c8dab2da9",
+      "title": "Careers | Datavant",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datavant.com/about/newsroom",
+        "https://www.datavant.com/about/privacy-compliance",
+        "https://www.datavant.com/about/careers/open-roles",
+        "https://www.datavant.com/blog/from-film-sets-to-cybersecurity-finding-the-career-i-wanted",
+        "https://www.datavant.com/life-sciences/government"
+      ]
+    },
+    {
+      "url": "https://www.datavant.com/about/newsroom",
+      "finalUrl": "https://www.datavant.com/about/newsroom",
+      "status": "success",
+      "sha256": "319babab06d213ffa08bd38c98be97f371e722f0508204d959116dd408d83d28",
+      "title": "Newsroom | Datavant",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datavant.com/about/privacy-compliance",
+        "https://www.datavant.com/life-sciences/government"
+      ]
+    }
+  ]
+}

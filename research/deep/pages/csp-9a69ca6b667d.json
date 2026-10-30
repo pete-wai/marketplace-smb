@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-9a69ca6b667d",
+  "retrievedAt": "2026-10-30T11:02:24.658Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.tylertech.com/",
+      "finalUrl": "https://www.tylertech.com/",
+      "status": "success",
+      "sha256": "550ade2d634facd277d1b98b86c76201bd79ebfe463fba8bcef44bf0ee20db04",
+      "title": "Software & Services for the Public Sector | Tyler Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tylertech.com/solutions/public-administration/regulatory",
+        "https://www.tylertech.com/about-us",
+        "https://www.tylertech.com/about-us/about-tyler",
+        "https://www.tylertech.com/about-us/about-tyler/corporate-responsibility",
+        "https://www.tylertech.com/about-us/about-tyler/leadership-team",
+        "https://www.tylertech.com/about-us/about-tyler/locations",
+        "https://www.tylertech.com/about-us/about-tyler/our-mission-vision-values",
+        "https://www.tylertech.com/about-us/about-tyler/product-name-update-faq",
+        "https://www.tylertech.com/about-us/media-room",
+        "https://www.tylertech.com/about-us/media-room/fast-facts",
+        "https://www.tylertech.com/about-us/partners",
+        "https://www.tylertech.com/about-us/partners/association-partners"
+      ]
+    },
+    {
+      "url": "https://www.tylertech.com/products/application-platform",
+      "finalUrl": "https://www.tylertech.com/products/application-platform",
+      "status": "success",
+      "sha256": "904830703c0af88aa9a5f9c599dd66042753f2ea91ab63507613a2697af2bbc8",
+      "title": "Application Platform | Tyler Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tylertech.com/solutions/public-administration/regulatory",
+        "https://www.tylertech.com/about-us",
+        "https://www.tylertech.com/about-us/about-tyler",
+        "https://www.tylertech.com/about-us/about-tyler/corporate-responsibility",
+        "https://www.tylertech.com/about-us/about-tyler/leadership-team",
+        "https://www.tylertech.com/about-us/about-tyler/locations",
+        "https://www.tylertech.com/about-us/about-tyler/our-mission-vision-values",
+        "https://www.tylertech.com/about-us/about-tyler/product-name-update-faq",
+        "https://www.tylertech.com/about-us/media-room",
+        "https://www.tylertech.com/about-us/media-room/fast-facts",
+        "https://www.tylertech.com/about-us/partners",
+        "https://www.tylertech.com/about-us/partners/association-partners"
+      ]
+    },
+    {
+      "url": "https://www.tylertech.com/solutions/public-administration/regulatory",
+      "finalUrl": "https://www.tylertech.com/solutions/public-administration/regulatory",
+      "status": "success",
+      "sha256": "974b4823b72802aa9dae84c8e728273098d5d5bc5e7af7175727e0b1b291095d",
+      "title": "Regulatory | Public Administration | Tyler Tech",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tylertech.com/about-us",
+        "https://www.tylertech.com/about-us/about-tyler",
+        "https://www.tylertech.com/about-us/about-tyler/corporate-responsibility",
+        "https://www.tylertech.com/about-us/about-tyler/leadership-team",
+        "https://www.tylertech.com/about-us/about-tyler/locations",
+        "https://www.tylertech.com/about-us/about-tyler/our-mission-vision-values",
+        "https://www.tylertech.com/about-us/about-tyler/product-name-update-faq",
+        "https://www.tylertech.com/about-us/media-room",
+        "https://www.tylertech.com/about-us/media-room/fast-facts",
+        "https://www.tylertech.com/about-us/partners",
+        "https://www.tylertech.com/about-us/partners/association-partners",
+        "https://www.tylertech.com/about-us/partners/government-contract-procurement-vehicles"
+      ]
+    },
+    {
+      "url": "https://www.tylertech.com/about-us",
+      "finalUrl": "https://www.tylertech.com/about-us",
+      "status": "success",
+      "sha256": "6b046f0ebf59b33439dd5029275385a429f12b76b15fb32b657f92a650f81d85",
+      "title": "About Us | Tyler Technologies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.tylertech.com/about-us/about-tyler",
+        "https://www.tylertech.com/about-us/about-tyler/corporate-responsibility",
+        "https://www.tylertech.com/about-us/about-tyler/leadership-team",
+        "https://www.tylertech.com/about-us/about-tyler/locations",
+        "https://www.tylertech.com/about-us/about-tyler/our-mission-vision-values",
+        "https://www.tylertech.com/about-us/about-tyler/product-name-update-faq",
+        "https://www.tylertech.com/about-us/media-room",
+        "https://www.tylertech.com/about-us/media-room/fast-facts",
+        "https://www.tylertech.com/about-us/partners",
+        "https://www.tylertech.com/about-us/partners/association-partners",
+        "https://www.tylertech.com/about-us/partners/government-contract-procurement-vehicles",
+        "https://www.tylertech.com/about-us/partners/small-business-program"
+      ]
+    }
+  ]
+}

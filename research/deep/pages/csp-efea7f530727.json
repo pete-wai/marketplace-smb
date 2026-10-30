@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-efea7f530727",
+  "retrievedAt": "2026-10-30T11:00:38.115Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://kineticcode.aequitascyberlabs.com/",
+      "finalUrl": "https://kineticcode.aequitascyberlabs.com/",
+      "status": "success",
+      "sha256": "f532b2ca008520b05eec5ed5aecdb6453bdc2adad9c9d4f0b530366d42a6ea18",
+      "title": "CI/CD Governance Dashboard",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

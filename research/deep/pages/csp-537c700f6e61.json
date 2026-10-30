@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-537c700f6e61",
+  "retrievedAt": "2026-10-30T11:01:26.489Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://www.govdatahosting.com/",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    }
+  ]
+}

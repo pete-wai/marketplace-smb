@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-91c2e0669804",
+  "retrievedAt": "2026-10-30T11:02:08.193Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://saviynt.com/",
+      "finalUrl": "https://saviynt.com/",
+      "status": "success",
+      "sha256": "507e9f27627f2f41a16965ad0db234be4ec1afe164f5924dd4e1d0d13b943d08",
+      "title": "Secure Every Identity | Unified Identity Governance Solutions | Saviynt",
+      "signals": [],
+      "discoveredLinks": [
+        "https://saviynt.com/solutions/industry/federal-government/?hsLang=en",
+        "https://saviynt.com/company/about-saviynt?hsLang=en",
+        "https://saviynt.com/leadership-team?hsLang=en",
+        "https://saviynt.com/analyst-report-kuppingercole-leadership-compass-iga?hsLang=en",
+        "https://saviynt.com/solutions/industry/federal-government/",
+        "https://saviynt.com/company/about-saviynt",
+        "https://saviynt.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://saviynt.com/solutions/industry/federal-government/?hsLang=en",
+      "finalUrl": "https://saviynt.com/solutions/industry/federal-government/",
+      "status": "success",
+      "sha256": "6357e0587e4a59dae214215f9eee580faa11cf64a5b3c49e22cc200ad9a4d4b1",
+      "title": "Federal Identity, Credential, Access Management | FedRAMP-Authorized Identity Security Platform | Saviynt",
+      "signals": [],
+      "discoveredLinks": [
+        "https://saviynt.com/solutions/industry/federal-government/",
+        "https://saviynt.com/company/about-saviynt?hsLang=en",
+        "https://saviynt.com/leadership-team?hsLang=en",
+        "https://saviynt.com/solutions/industry/federal-government/fedramp?hsLang=en",
+        "https://saviynt.com/ebook-accelerating-zero-trust-capabilities?hsLang=en",
+        "https://saviynt.com/company/about-saviynt",
+        "https://saviynt.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://saviynt.com/company/about-saviynt?hsLang=en",
+      "finalUrl": "https://saviynt.com/company/about-saviynt",
+      "status": "success",
+      "sha256": "cf55e75b5514be65e20d067a218a9ecc63b943d7a061393a4d2a1317d8a7cd4d",
+      "title": "Saviynt | About Us",
+      "signals": [],
+      "discoveredLinks": [
+        "https://saviynt.com/company/about-saviynt",
+        "https://saviynt.com/leadership-team?hsLang=en",
+        "https://saviynt.com/solutions/industry/federal-government/",
+        "https://saviynt.com/leadership-team"
+      ]
+    },
+    {
+      "url": "https://saviynt.com/leadership-team?hsLang=en",
+      "finalUrl": "https://saviynt.com/leadership-team",
+      "status": "success",
+      "sha256": "0aff6ba3bb4adaf428e8e3e7c0f8c38dd0c9e7e0befdb9af412bafe056ed5189",
+      "title": "Leadership Team and Board Members | Saviynt",
+      "signals": [],
+      "discoveredLinks": [
+        "https://saviynt.com/leadership-team",
+        "https://saviynt.com/solutions/industry/federal-government/",
+        "https://saviynt.com/company/about-saviynt",
+        "https://saviynt.com/en-gb/leadership-team",
+        "https://saviynt.com/fr/leadership-team",
+        "https://saviynt.com/de/leadership-team",
+        "https://saviynt.com/ja/leadership-team",
+        "https://saviynt.com/es/leadership-team"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "TALATEK, LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-399DA&contractorName=TALATEK%2C+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-3e95027a32cd"
+  ],
+  "contractNumber": "GS-35F-399DA",
+  "retrievedAt": "2026-10-30T11:08:57.088Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:20.591Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

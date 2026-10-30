@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-98c92927b03d",
+  "retrievedAt": "2026-10-30T11:02:22.887Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://trapwire.com/",
+      "finalUrl": "https://trapwire.com/",
+      "status": "success",
+      "sha256": "d5da34fef5a7de536fbd0819b906b4dfcc8b7fbd4ceb573db9d0a37347b2a4fb",
+      "title": "TrapWire | Threat Detection and Protective Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trapwire.com/about/about-trapwire-inc/",
+        "https://trapwire.com/solutions/solutions-for-the-federal-government/",
+        "https://trapwire.com/about-trapwire-inc/",
+        "https://trapwire.com/press-release/trapwire-achieves-fedramp-high-authorization-and-migrates-to-microsoft-azure-government-cloud/"
+      ]
+    },
+    {
+      "url": "https://trapwire.com/about/about-trapwire-inc/",
+      "finalUrl": "https://trapwire.com/about-trapwire-inc/",
+      "status": "success",
+      "sha256": "1af1e66823760eba0c0bc809c48dbbe8e828ca9df3342136b8717e03e6f896a6",
+      "title": "Counterterrorism Experts | TrapWire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trapwire.com/solutions/solutions-for-the-federal-government/",
+        "https://trapwire.com/about-trapwire-inc/",
+        "https://trapwire.com/company/the-trapwire-team/"
+      ]
+    },
+    {
+      "url": "https://trapwire.com/solutions/solutions-for-the-federal-government/",
+      "finalUrl": "https://trapwire.com/solutions/solutions-for-the-federal-government/",
+      "status": "success",
+      "sha256": "6b5a2c759bad06eb3a113906ec78a6edab0fd570348440cca9bc51f38408125c",
+      "title": "Federal Network Protection Solutions | TrapWire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trapwire.com/about-trapwire-inc/"
+      ]
+    },
+    {
+      "url": "https://trapwire.com/about-trapwire-inc/",
+      "finalUrl": "https://trapwire.com/about-trapwire-inc/",
+      "status": "success",
+      "sha256": "abb08e19813dc268251392105cf32cbcc672e91a22adf39786df45c077a9a1f7",
+      "title": "Counterterrorism Experts | TrapWire",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trapwire.com/company/the-trapwire-team/"
+      ]
+    }
+  ]
+}

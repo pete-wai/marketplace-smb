@@ -1,0 +1,17 @@
+{
+  "providerId": "csp-fce309626826",
+  "retrievedAt": "2026-10-30T11:01:49.029Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.opentext.com/products/fortify-on-demand",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.opentext.com/products/content-management-for-government#services-section",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    }
+  ]
+}

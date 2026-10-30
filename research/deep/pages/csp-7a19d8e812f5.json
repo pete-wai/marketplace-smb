@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-7a19d8e812f5",
+  "retrievedAt": "2026-10-30T11:01:19.758Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://gndctl.com/",
+      "finalUrl": "https://gndctl.com/",
+      "status": "success",
+      "sha256": "37036dc27fbef49ebdd9c6896500931130a65ff1d25c15d69ff3c2fedccfe466",
+      "title": "GroundControl | AS9102 FAI & Quality Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://gndctl.com/solutions/supplier-quality-management-software",
+        "https://gndctl.com/about-us"
+      ]
+    },
+    {
+      "url": "https://gndctl.com/solutions/supplier-quality-management-software",
+      "finalUrl": "https://gndctl.com/solutions/supplier-quality-management-software/",
+      "status": "success",
+      "sha256": "e0e969af9771949484176050818e391899a30d86b8095e7a3145c12804af80ff",
+      "title": "Supplier Quality Management Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://gndctl.com/about-us"
+      ]
+    },
+    {
+      "url": "https://gndctl.com/about-us",
+      "finalUrl": "https://gndctl.com/about-us/",
+      "status": "success",
+      "sha256": "4ac14102ea0797e45051fe82886e0e4cab7516d69a1d6b3d75ca9419b5e9b772",
+      "title": "About GroundControl | AI Quality Software for Aerospace",
+      "signals": [],
+      "discoveredLinks": [
+        "https://gndctl.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://gndctl.com/about-us/",
+      "finalUrl": "https://gndctl.com/about-us/",
+      "status": "success",
+      "sha256": "4ac14102ea0797e45051fe82886e0e4cab7516d69a1d6b3d75ca9419b5e9b772",
+      "title": "About GroundControl | AI Quality Software for Aerospace",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CASEPOINT, LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA18D00BZ&contractorName=CASEPOINT%2C+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-fa5346597b66"
+  ],
+  "contractNumber": "47QTCA18D00BZ",
+  "retrievedAt": "2026-10-30T11:06:02.335Z",
+  "status": "success",
+  "sha256": "bd1fe71d05b5a9ab5afa863594a32a85959bc05990b940fad8cf0d0666db7405",
+  "uei": "NNBKLLXPY4L6",
+  "naics": "511210",
+  "socioEconomic": "Other Than Small Business",
+  "optionEnd": "May 10, 2028",
+  "website": "http://www.casepoint.com"
+}

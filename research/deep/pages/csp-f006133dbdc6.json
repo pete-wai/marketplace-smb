@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-f006133dbdc6",
+  "retrievedAt": "2026-10-30T11:01:03.838Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.dewberry.com/services/technology/dimensionalview",
+      "finalUrl": "https://www.dewberry.com/services/technology/dimensionalview",
+      "status": "success",
+      "sha256": "6653deb4c29ba4b05a43d78a9c14ffbe82c5fbe388f21be1a4b7a11a6f80656c",
+      "title": "DimensionalView",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dewberry.com/markets/federal",
+        "https://www.dewberry.com/about"
+      ]
+    },
+    {
+      "url": "https://www.dewberry.com/markets/federal",
+      "finalUrl": "https://www.dewberry.com/markets/federal",
+      "status": "success",
+      "sha256": "c83f9a9ee35c0614ac6acad1c58d8256328263daf2d9f40c9b5622aec2335e7f",
+      "title": "Federal",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.dewberry.com/about",
+        "https://www.dewberry.com/projects/federico-degetau-federal-office-building-and-clemente-ruiz-nazario-courthouse",
+        "https://www.dewberry.com/markets/federal/strategic-partnerships"
+      ]
+    },
+    {
+      "url": "https://www.dewberry.com/about",
+      "finalUrl": "https://www.dewberry.com/about",
+      "status": "success",
+      "sha256": "e4f626ebe0798780ed17bd01d9c79adc37e5125d74e32a48f9375f84434b0a05",
+      "title": "About",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.dewberry.com/projects/federico-degetau-federal-office-building-and-clemente-ruiz-nazario-courthouse",
+      "finalUrl": "https://www.dewberry.com/projects/federico-degetau-federal-office-building-and-clemente-ruiz-nazario-courthouse",
+      "status": "success",
+      "sha256": "e7d8cdbc3257e7874e8b10a752178dabc1a1e07987e9545d840c111997e67e42",
+      "title": "GSA Federico Degetau Federal Office Building and Nazario Courthouse",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

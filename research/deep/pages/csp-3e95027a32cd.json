@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-3e95027a32cd",
+  "retrievedAt": "2026-10-30T11:02:16.782Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://talatek.com/",
+      "finalUrl": "https://talatek.com/",
+      "status": "success",
+      "sha256": "924c558e4d5446beb80a7c2504db66666458bb54e20ae1ec11c8c06a95c3c58c",
+      "title": "TalaTek LLC - Compliance through Risk Management - Security as a Service",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "mpliance through Risk Management - Security as a Service TalaTek is a wholly owned member of CISO Global Advisory &#038; Risk CMMC NIST SP 800-171 Incident Response Services FedRAMP 3PAO FISMA Achieving FISMA and NIST Compliance FISMA &#038; HIPAA Compliance"
+        }
+      ],
+      "discoveredLinks": [
+        "https://talatek.com/nist-cybersecurity-framework/nist-sp-800-53-security-privacy-controls-federal-information-systems/",
+        "https://talatek.com/solutions/integrated-risk-management-services-public-sector/",
+        "https://talatek.com/about/",
+        "https://talatek.com/the-importance-of-fedramp-authorization-to-government-contractors/"
+      ]
+    },
+    {
+      "url": "https://talatek.com/nist-cybersecurity-framework/nist-sp-800-53-security-privacy-controls-federal-information-systems/",
+      "finalUrl": "https://talatek.com/nist-cybersecurity-framework/nist-sp-800-53-security-privacy-controls-federal-information-systems/",
+      "status": "success",
+      "sha256": "d610ba333110a3c2cd660264f137d6f65614e966fd0bcceb2eb8dfc9e4d2cbb2",
+      "title": "NIST SP 800-53 - Security & Privacy Controls for Federal Information Systems - TalaTek, LLC",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Controls for Federal Information Systems - TalaTek, LLC TalaTek is a wholly owned member of CISO Global Advisory &#038; Risk CMMC NIST SP 800-171 Incident Response Services FedRAMP 3PAO FISMA Achieving FISMA and NIST Compliance FISMA &#038; HIPAA Compliance"
+        }
+      ],
+      "discoveredLinks": [
+        "https://talatek.com/solutions/integrated-risk-management-services-public-sector/",
+        "https://talatek.com/about/"
+      ]
+    },
+    {
+      "url": "https://talatek.com/solutions/integrated-risk-management-services-public-sector/",
+      "finalUrl": "https://talatek.com/solutions/integrated-risk-management-services-public-sector/",
+      "status": "success",
+      "sha256": "df5e8a7af97813bae43b31efec2f61453dd596712545f3a9af57924eaf69484b",
+      "title": "Implementing the NIST Risk Management Framework - TalaTek, LLC",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "enting the NIST Risk Management Framework - TalaTek, LLC TalaTek is a wholly owned member of CISO Global Advisory &#038; Risk CMMC NIST SP 800-171 Incident Response Services FedRAMP 3PAO FISMA Achieving FISMA and NIST Compliance FISMA &#038; HIPAA Compliance"
+        }
+      ],
+      "discoveredLinks": [
+        "https://talatek.com/about/"
+      ]
+    },
+    {
+      "url": "https://talatek.com/about/",
+      "finalUrl": "https://talatek.com/about/",
+      "status": "success",
+      "sha256": "27d9c8c1d33e8047659f4f0e16c5a30bd795b6403732ead75a3a1b6043ab9d3c",
+      "title": "About TalaTek - TalaTek, LLC",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "About TalaTek - TalaTek, LLC TalaTek is now a wholly owned member of the CISO Global family of companies Advisory &#038; Risk CMMC NIST SP 800-171 Incident Response Services FedRAMP 3PAO FISMA Achieving FISMA and NIST Compliance FISMA &#038; HIPAA"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

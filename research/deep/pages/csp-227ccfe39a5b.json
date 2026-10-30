@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-227ccfe39a5b",
+  "retrievedAt": "2026-10-30T11:02:04.060Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://remedio.io/",
+      "finalUrl": "https://remedio.io/",
+      "status": "success",
+      "sha256": "733ef58fdefeff498d4f2588d826f8f8154e336327195e7ab93af616816a3beb",
+      "title": "Remedio: Autonomous Exposure Remediation Platform for Devices and AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://remedio.io/solution/public-sector-cybersecurity/",
+        "https://remedio.io/about-us/",
+        "https://remedio.io/partners/ecosystem/",
+        "https://remedio.io/company/news/"
+      ]
+    },
+    {
+      "url": "https://remedio.io/solution/public-sector-cybersecurity/",
+      "finalUrl": "https://remedio.io/solution/public-sector-cybersecurity/",
+      "status": "success",
+      "sha256": "fac86f3d1fb0eb4fd10ace672949e357d6885dc2b43345320fd84e88bde08a2f",
+      "title": "Public Sector Cybersecurity | Government Security Automation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://remedio.io/about-us/",
+        "https://remedio.io/partners/ecosystem/",
+        "https://remedio.io/company/news/"
+      ]
+    },
+    {
+      "url": "https://remedio.io/about-us/",
+      "finalUrl": "https://remedio.io/about-us/",
+      "status": "success",
+      "sha256": "fb5fa7fc7c0cce9cb72db88209cc74f34f067db621a725b0ee646bcce0dc1c23",
+      "title": "About Remedio: Pervayor of Autonomous Exposure Remediation",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " ideas into digestible pieces, Gilad help develop the BRM anti-virus (acquired by Symantec) and CheckPoint’s flagship firewall. Later Gilad co-founded Digital Fuel (acquired by VMware). Gilad Raz Co-founder & VP Technology Managing a cross-functional team, Nitsan specializes in delivering"
+        }
+      ],
+      "discoveredLinks": [
+        "https://remedio.io/partners/ecosystem/",
+        "https://remedio.io/company/news/"
+      ]
+    },
+    {
+      "url": "https://remedio.io/partners/ecosystem/",
+      "finalUrl": "https://remedio.io/partners/ecosystem/",
+      "status": "success",
+      "sha256": "f49b06e695d91f28ee41b9f6506e5d7fbc76a7e0a71eb62e33e86a420f3eaca5",
+      "title": "Technology Partners - Remedio",
+      "signals": [],
+      "discoveredLinks": [
+        "https://remedio.io/company/news/"
+      ]
+    }
+  ]
+}

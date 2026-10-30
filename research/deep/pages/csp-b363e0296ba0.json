@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-b363e0296ba0",
+  "retrievedAt": "2026-10-30T11:01:55.022Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.pointblue.org/",
+      "finalUrl": "https://www.pointblue.org/",
+      "status": "success",
+      "sha256": "8d148eb7134f700ace0175111a86d3e1ab750860975fee3d0c5be2b8bee9f093",
+      "title": "Conservation Science for a Healthy Planet - Point Blue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pointblue.org/about-us/",
+        "https://www.pointblue.org/about-us/film-library/",
+        "https://www.pointblue.org/about-us/in-the-news/",
+        "https://www.pointblue.org/about-us/our-team/",
+        "https://www.pointblue.org/about-us/our-story/",
+        "https://www.pointblue.org/about-us/diversity-equity-and-inclusion/",
+        "https://www.pointblue.org/about-us/our-accountability/",
+        "https://www.pointblue.org/about-us/careers/",
+        "https://www.pointblue.org/about-us/contact-visit-us/"
+      ]
+    },
+    {
+      "url": "https://www.pointblue.org/about-us/",
+      "finalUrl": "https://www.pointblue.org/about-us/",
+      "status": "success",
+      "sha256": "169405b4465681684a29fc204d4932356895f2482fc80484be351f4f5c0fdbad",
+      "title": "About Us - Point Blue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pointblue.org/about-us/film-library/",
+        "https://www.pointblue.org/about-us/in-the-news/",
+        "https://www.pointblue.org/about-us/our-team/",
+        "https://www.pointblue.org/about-us/our-story/",
+        "https://www.pointblue.org/about-us/diversity-equity-and-inclusion/",
+        "https://www.pointblue.org/about-us/our-accountability/",
+        "https://www.pointblue.org/about-us/careers/",
+        "https://www.pointblue.org/about-us/contact-visit-us/"
+      ]
+    },
+    {
+      "url": "https://www.pointblue.org/about-us/film-library/",
+      "finalUrl": "https://www.pointblue.org/about-us/film-library/",
+      "status": "success",
+      "sha256": "210d6f219c192265e65429d078812986413f2ce3a674e4161b6fee0365a6f8ae",
+      "title": "Film Library - Point Blue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pointblue.org/about-us/in-the-news/",
+        "https://www.pointblue.org/about-us/our-team/",
+        "https://www.pointblue.org/about-us/our-story/",
+        "https://www.pointblue.org/about-us/diversity-equity-and-inclusion/",
+        "https://www.pointblue.org/about-us/our-accountability/",
+        "https://www.pointblue.org/about-us/careers/",
+        "https://www.pointblue.org/about-us/contact-visit-us/"
+      ]
+    },
+    {
+      "url": "https://www.pointblue.org/about-us/in-the-news/",
+      "finalUrl": "https://www.pointblue.org/about-us/in-the-news/",
+      "status": "success",
+      "sha256": "7617ec35e4bbe73be5d0217130c4286470e18f7bee543fe1cbdd0ba79845f04d",
+      "title": "Conservation News - Point Blue",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.pointblue.org/about-us/our-team/",
+        "https://www.pointblue.org/about-us/our-story/",
+        "https://www.pointblue.org/about-us/diversity-equity-and-inclusion/",
+        "https://www.pointblue.org/about-us/our-accountability/",
+        "https://www.pointblue.org/about-us/careers/",
+        "https://www.pointblue.org/about-us/contact-visit-us/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-4cad2cc2778c",
+  "retrievedAt": "2026-10-30T11:02:16.582Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://tvasolution.com/",
+      "finalUrl": "https://tvasolution.com/",
+      "status": "success",
+      "sha256": "2ab0b4e7e8bb85d79f1e3bddb201a84217bc787b9d1dfe332a24d810027ed5ee",
+      "title": "Total Visibility Anywhere - Supply Chain Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://tvasolution.com/industries",
+        "https://tvasolution.com/solutions"
+      ]
+    },
+    {
+      "url": "https://tvasolution.com/industries",
+      "finalUrl": "https://tvasolution.com/industries",
+      "status": "success",
+      "sha256": "e81847091ce0a3c2ea2444ea78f552d516563c8ad923f84e4035cf708f830015",
+      "title": "Federal & Commercial Logistics Solutions | TVA",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://tvasolution.com/solutions",
+      "finalUrl": "https://tvasolution.com/solutions",
+      "status": "success",
+      "sha256": "5c62b93e0baf1f61319128ef48ddd9d80a865b5895d24cf994ace3b537ad5fe1",
+      "title": "Asset Tracking & Inventory Management Software | TVA",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

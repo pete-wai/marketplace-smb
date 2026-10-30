@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-1768c21fc468",
+  "retrievedAt": "2026-10-30T11:02:23.559Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://trello.com/home",
+      "finalUrl": "https://trello.com/home",
+      "status": "success",
+      "sha256": "d06c62a2173e46ae85a8554a7780014619e10252cd94718ea9b2d5a5b738429b",
+      "title": "Capture, organize, and tackle your to-dos from anywhere",
+      "signals": [],
+      "discoveredLinks": [
+        "https://trello.com/about"
+      ]
+    },
+    {
+      "url": "https://trello.com/about",
+      "finalUrl": "https://trello.com/about",
+      "status": "success",
+      "sha256": "4d7935eb0596b6b04867400d7b1c57d73723d01fa169dcd65d56dbbe62230a7a",
+      "title": "About Us: Trello History, Logos & Customers",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " experiences for Brazil, Germany, and Spain. In early 2017, Trello is acquired by Atlassian and begins the next chapter in empowering teams everywhere. Help us add more things to this list. Millions of people and companies of all kinds"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

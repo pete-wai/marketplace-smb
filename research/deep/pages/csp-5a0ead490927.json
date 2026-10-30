@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5a0ead490927",
+  "retrievedAt": "2026-10-30T11:02:16.632Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://tacticaltakedown.com/",
+      "finalUrl": "https://tacticaltakedown.com/",
+      "status": "success",
+      "sha256": "61e8a7cc2531a296b22610ed0937801f95a2c5d4bb11a0e15ce0f3979b62015f",
+      "title": "Tactical Takedown",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

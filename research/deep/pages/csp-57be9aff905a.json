@@ -1,0 +1,85 @@
+{
+  "providerId": "csp-57be9aff905a",
+  "retrievedAt": "2026-10-30T11:00:45.819Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.avaya.com/govcloud",
+      "finalUrl": "https://www.avaya.com/en/products/avaya-government-cloud/",
+      "status": "success",
+      "sha256": "19d68be6c8b946d4da60702006466d59b61b20a6bb883e3ea2835a23b2ce757b",
+      "title": "Avaya Government Cloud | Secure Government UC & Contact Center",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.avaya.com/en/products/avaya-government-cloud/",
+        "https://www.avaya.com/en/solutions/government/",
+        "https://www.avaya.com/en/about-avaya/events/",
+        "https://www.avaya.com/en/about-avaya/",
+        "https://www.avaya.com/en/solutions/government/il4-h-contact-center-unified-communications/",
+        "https://www.avaya.com/en/blogs/modernize-government-communications-infrastructure/",
+        "https://www.avaya.com/en/newsroom/2026/pr-us-260601/",
+        "https://www.avaya.com/en/blogs/how-to-evaluate-government-cloud-communications-providers/",
+        "https://www.avaya.com/en/newsroom/2026/journeys-dc-mission-critical-communications/",
+        "https://www.avaya.com/cdn-cgi/l/email-protection",
+        "https://www.avaya.com/en/about-avaya/careers/"
+      ]
+    },
+    {
+      "url": "https://www.avaya.com/en/products/avaya-government-cloud/",
+      "finalUrl": "https://www.avaya.com/en/products/avaya-government-cloud/",
+      "status": "success",
+      "sha256": "9c73966e759b65eb13628b191b188a0aa1263b8e8e156b6df0047db989d2c46b",
+      "title": "Avaya Government Cloud | Secure Government UC & Contact Center",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.avaya.com/en/solutions/government/",
+        "https://www.avaya.com/en/about-avaya/events/",
+        "https://www.avaya.com/en/about-avaya/",
+        "https://www.avaya.com/en/solutions/government/il4-h-contact-center-unified-communications/",
+        "https://www.avaya.com/en/blogs/modernize-government-communications-infrastructure/",
+        "https://www.avaya.com/en/newsroom/2026/pr-us-260601/",
+        "https://www.avaya.com/en/blogs/how-to-evaluate-government-cloud-communications-providers/",
+        "https://www.avaya.com/en/newsroom/2026/journeys-dc-mission-critical-communications/",
+        "https://www.avaya.com/cdn-cgi/l/email-protection",
+        "https://www.avaya.com/en/about-avaya/careers/"
+      ]
+    },
+    {
+      "url": "https://www.avaya.com/en/solutions/government/",
+      "finalUrl": "https://www.avaya.com/en/solutions/government/",
+      "status": "success",
+      "sha256": "c6e1549e3e122637f261a36532f55f1a7ecafef84362809a8e3adcf6f470f115",
+      "title": "Government Communications Solutions | Avaya",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.avaya.com/en/about-avaya/events/",
+        "https://www.avaya.com/en/about-avaya/",
+        "https://www.avaya.com/fr/solutions/government/",
+        "https://www.avaya.com/de/solutions/government/",
+        "https://www.avaya.com/it/solutions/government/",
+        "https://www.avaya.com/es/solutions/government/",
+        "https://www.avaya.com/jp/solutions/government/",
+        "https://www.avaya.com/cdn-cgi/l/email-protection",
+        "https://www.avaya.com/en/solutions/government/il4-h-contact-center-unified-communications/",
+        "https://www.avaya.com/en/products/infinity-platform/",
+        "https://www.avaya.com/en/solutions/government/state-local-purchasing/contracts/",
+        "https://www.avaya.com/en/solutions/government/avaya-federal-gsa-schedule/"
+      ]
+    },
+    {
+      "url": "https://www.avaya.com/en/about-avaya/events/",
+      "finalUrl": "https://www.avaya.com/en/about-avaya/events/",
+      "status": "success",
+      "sha256": "95aa9cd46b057a47f8eec157493b223097ffb40e4524659961adc6d6602d2e37",
+      "title": "Events & Conferences from Avaya | Webinars, Forums, Expos",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.avaya.com/en/about-avaya/",
+        "https://www.avaya.com/fr/about-avaya/events/",
+        "https://www.avaya.com/en/about-avaya/events/infinity-webinar-series/",
+        "https://www.avaya.com/en/about-avaya/events/all-webinars/",
+        "https://www.avaya.com/en/about-avaya/careers/"
+      ]
+    }
+  ]
+}

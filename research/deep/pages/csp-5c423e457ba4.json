@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-5c423e457ba4",
+  "retrievedAt": "2026-10-30T11:00:52.002Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://claroty.com/",
+      "finalUrl": "https://claroty.com/",
+      "status": "success",
+      "sha256": "d6ed9278b2759261e419472122362b6931207942f82e64cc34b555845c26dc4e",
+      "title": "Secure Your Cyber-Physical Systems | Claroty",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claroty.com/public-sector-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/ctd",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome-secure-access",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/defense",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/civilian",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/federal-healthcare",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/tribal",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/energy",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/water"
+      ]
+    },
+    {
+      "url": "https://claroty.com/public-sector-cybersecurity",
+      "finalUrl": "https://claroty.com/public-sector-cybersecurity",
+      "status": "success",
+      "sha256": "d902d25c3a208625bd35d9232dc6be0c812ca4210016f231064d5daeda3b5ea2",
+      "title": "Public Sector Cybersecurity Solution | Claroty",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/ctd",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome-secure-access",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/defense",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/civilian",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/federal-healthcare",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/tribal",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/energy",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/water",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/transportation"
+      ]
+    },
+    {
+      "url": "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/ctd",
+      "finalUrl": "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/ctd",
+      "status": "success",
+      "sha256": "dcdd80f3a926152f0ec6eae26b3d0628219f2ed5dce4e660e5d3fa13ad2ded8a",
+      "title": "",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome-secure-access",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/defense",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/civilian",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/federal-healthcare",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/tribal",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/energy",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/water",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/transportation",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/ems"
+      ]
+    },
+    {
+      "url": "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome-secure-access",
+      "finalUrl": "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome-secure-access",
+      "status": "success",
+      "sha256": "26118a6e53bd931f86987c8e1f82067fc3cf09057de212899142521f3721ff27",
+      "title": "Secure Access for CPS Environments | Claroty",
+      "signals": [],
+      "discoveredLinks": [
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/xdome",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/defense",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/civilian",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/federal-healthcare",
+        "https://claroty.com/public-sector-cybersecurity/us-government-cybersecurity/tribal",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/energy",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/water",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/transportation",
+        "https://claroty.com/public-sector-cybersecurity/sled-government-cybersecurity/ems",
+        "https://claroty.com/company"
+      ]
+    }
+  ]
+}

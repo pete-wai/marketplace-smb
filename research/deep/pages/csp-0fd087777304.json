@@ -1,0 +1,32 @@
+{
+  "providerId": "csp-0fd087777304",
+  "retrievedAt": "2026-10-30T11:01:22.468Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://elixium.ai/",
+      "finalUrl": "https://elixium.ai/",
+      "status": "success",
+      "sha256": "b73840c6c4d3923236b69f648a9468a4f1a37ef748c6e96cd3715d62ed05650a",
+      "title": "Elixium — One Workflow for Humans and AI Agents",
+      "signals": [],
+      "discoveredLinks": [
+        "https://elixium.ai/about/"
+      ]
+    },
+    {
+      "url": "https://elixium.ai/about/",
+      "finalUrl": "https://elixium.ai/about/",
+      "status": "success",
+      "sha256": "c3c61c5e2785ba8e7dcc2eb8e3c4a278cf2b8d9801eadd49c67b2e9e6fb84f8f",
+      "title": "About IndirectTek — Makers of Elixium",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "omes, and Elixium is that philosophy shipped as software. IndirectTek is a U.S. Small Business Administration-certified Service-Disabled Veteran-Owned Small Business (SDVOSB) and Veteran-Owned Small Business (VOSB), certified in May 2026 and available to government buyers through Carahsoft Technology Corp. on"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

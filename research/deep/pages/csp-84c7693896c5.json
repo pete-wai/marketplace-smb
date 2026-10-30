@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-84c7693896c5",
+  "retrievedAt": "2026-10-30T11:02:15.574Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://sunstonesecure.com/platform",
+      "finalUrl": "https://sunstonesecure.com/platform",
+      "status": "success",
+      "sha256": "1d46439d330b53342997ff20e048c8872fe5d5b8825bf77c54993297df786f98",
+      "title": "Artemis Platform — FedRAMP & CMMC Compliance | SunStone",
+      "signals": [],
+      "discoveredLinks": [
+        "https://sunstonesecure.com/about"
+      ]
+    },
+    {
+      "url": "https://sunstonesecure.com/about",
+      "finalUrl": "https://sunstonesecure.com/about",
+      "status": "success",
+      "sha256": "fbcf6de277395ef659c934495447f10d4f1112e85eb1956a7ad857735ac103c8",
+      "title": "About SunStone Secure | AI-Native Federal Compliance Leaders",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

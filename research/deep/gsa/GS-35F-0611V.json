@@ -1,0 +1,18 @@
+{
+  "name": "LEVEL ACCESS INC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-0611V&contractorName=LEVEL+ACCESS+INC&executeQuery=YES",
+  "providerIds": [
+    "csp-28299cb41874"
+  ],
+  "contractNumber": "GS-35F-0611V",
+  "retrievedAt": "2026-10-30T11:07:53.505Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:12.251Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

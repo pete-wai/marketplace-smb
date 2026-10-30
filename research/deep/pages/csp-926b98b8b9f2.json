@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-926b98b8b9f2",
+  "retrievedAt": "2026-10-30T11:00:49.167Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://boundera.io/",
+      "finalUrl": "https://boundera.io/",
+      "status": "success",
+      "sha256": "53bc3f788916d187d638022c41d2282af55e08286b86dc6bda6c9da8b0dde0c6",
+      "title": "FedRAMP 20x Automation Platform | Boundera",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

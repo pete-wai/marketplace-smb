@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-2346a6c17d90",
+  "retrievedAt": "2026-10-30T11:02:07.023Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.sandsolutionslimited.com/trust/fedramp/",
+      "finalUrl": "https://www.sandsolutionslimited.com/trust/fedramp/",
+      "status": "success",
+      "sha256": "e6b88de0c38b0f9cbd16f42474fc407e4fbd55c47fbe3daf124f24b4214989b3",
+      "title": "FedRAMP Moderate Equivalent Cloud | Sand Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sandsolutionslimited.com/about/",
+        "https://www.sandsolutionslimited.com/about/executiveteam/",
+        "https://www.sandsolutionslimited.com/about/partnerships/"
+      ]
+    },
+    {
+      "url": "https://www.sandsolutionslimited.com/about/",
+      "finalUrl": "https://www.sandsolutionslimited.com/about/",
+      "status": "success",
+      "sha256": "b4fab261e67a3d00b1860933876d8b34330d07a273276a7ca24deccb626ac3c7",
+      "title": "About Sand Solutions | U.S. FedRAMP & ITAR Cloud Provider",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sandsolutionslimited.com/about/executiveteam/",
+        "https://www.sandsolutionslimited.com/about/partnerships/",
+        "https://www.sandsolutionslimited.com/about/partnerships"
+      ]
+    },
+    {
+      "url": "https://www.sandsolutionslimited.com/about/executiveteam/",
+      "finalUrl": "https://www.sandsolutionslimited.com/about/executiveteam/",
+      "status": "success",
+      "sha256": "95e59ff332f8f5d12395ceea3ee3ee934e8a19c54f04f547c2e1017d68350419",
+      "title": "Executive Team | Sand Solutions Limited",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sandsolutionslimited.com/about/partnerships/"
+      ]
+    },
+    {
+      "url": "https://www.sandsolutionslimited.com/about/partnerships/",
+      "finalUrl": "https://www.sandsolutionslimited.com/about/partnerships/",
+      "status": "success",
+      "sha256": "8a00099565c8cbc8b168e608d85d837b637d2ec3cc544fac59ec58f6b4bd7730",
+      "title": "Deltek Partner | SAP Concur Partner | Sand Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

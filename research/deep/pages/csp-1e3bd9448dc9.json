@@ -1,0 +1,37 @@
+{
+  "providerId": "csp-1e3bd9448dc9",
+  "retrievedAt": "2026-10-30T11:00:54.326Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.colabsoftware.com/",
+      "finalUrl": "https://www.colabsoftware.com/",
+      "status": "success",
+      "sha256": "8c878f119830b8993a89d341b2049dc189c923359a6ee0ae79f157c5d992b962",
+      "title": "CoLab | AI-Powered Design Review for Engineering Teams",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.colabsoftware.com/about-us",
+        "https://www.colabsoftware.com/product/integrations"
+      ]
+    },
+    {
+      "url": "https://www.colabsoftware.com/about-us",
+      "finalUrl": "https://www.colabsoftware.com/about-us",
+      "status": "success",
+      "sha256": "5a12c46717d25f67d953ecad510f3c025127bffbb9bf9db0c7a14445cda32365",
+      "title": "About Us - CoLab",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.colabsoftware.com/product/integrations",
+      "finalUrl": "https://www.colabsoftware.com/product/integrations",
+      "status": "success",
+      "sha256": "3f9e03472121ff59bafd3a270651f65798e2922343b67511a0dfbba437ac3a14",
+      "title": "CAD, PLM, and Jira Integrations | CoLab",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

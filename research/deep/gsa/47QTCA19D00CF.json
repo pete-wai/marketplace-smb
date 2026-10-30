@@ -1,0 +1,18 @@
+{
+  "name": "KAHUA, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA19D00CF&contractorName=KAHUA%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-bf929003cf73"
+  ],
+  "contractNumber": "47QTCA19D00CF",
+  "retrievedAt": "2026-10-30T11:07:50.732Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:12.005Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

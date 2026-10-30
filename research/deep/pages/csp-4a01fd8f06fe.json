@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-4a01fd8f06fe",
+  "retrievedAt": "2026-10-30T11:01:01.704Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.datarobot.com/",
+      "finalUrl": "https://www.datarobot.com/",
+      "status": "success",
+      "sha256": "7ddbb768cb6971f0c3cc6fb46d1480f636e047b41579f9c7bfde6fbf335c772c",
+      "title": "DataRobot | Unified Agent Workforce Platform for Enterprise",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datarobot.com/solutions/ai-for-government-agencies/",
+        "https://www.datarobot.com/about-us/",
+        "https://www.datarobot.com/solutions/government/"
+      ]
+    },
+    {
+      "url": "https://www.datarobot.com/solutions/ai-for-government-agencies/",
+      "finalUrl": "https://www.datarobot.com/solutions/ai-for-government-agencies/",
+      "status": "success",
+      "sha256": "a799fda2d16dca332823e648d1a55948933f2ee1148efb7b7f74f9e59fdc1c22",
+      "title": "AI for government agencies | DataRobot",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datarobot.com/about-us/",
+        "https://www.datarobot.com/resources/the-next-frontier-of-ai-in-government/",
+        "https://www.datarobot.com/resources/federal-capabilities-statement/",
+        "https://www.datarobot.com/resources/agentic-ai-for-federal-agencies-qa/",
+        "https://www.datarobot.com/resources/a-buyers-guide-to-ai-in-government/",
+        "https://www.datarobot.com/connect-with-fed-experts/",
+        "https://www.datarobot.com/solutions/government/"
+      ]
+    },
+    {
+      "url": "https://www.datarobot.com/about-us/",
+      "finalUrl": "https://www.datarobot.com/about-us/",
+      "status": "success",
+      "sha256": "767a41550a9f6a017378ef8a1784868afa0d70aba658b0df38cfc3afd096243d",
+      "title": "About DataRobot",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datarobot.com/jp/about-us/",
+        "https://www.datarobot.com/solutions/government/"
+      ]
+    },
+    {
+      "url": "https://www.datarobot.com/solutions/government/",
+      "finalUrl": "https://www.datarobot.com/solutions/ai-for-government-agencies/",
+      "status": "success",
+      "sha256": "a799fda2d16dca332823e648d1a55948933f2ee1148efb7b7f74f9e59fdc1c22",
+      "title": "AI for government agencies | DataRobot",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.datarobot.com/resources/the-next-frontier-of-ai-in-government/",
+        "https://www.datarobot.com/resources/federal-capabilities-statement/",
+        "https://www.datarobot.com/resources/agentic-ai-for-federal-agencies-qa/",
+        "https://www.datarobot.com/resources/a-buyers-guide-to-ai-in-government/",
+        "https://www.datarobot.com/connect-with-fed-experts/"
+      ]
+    }
+  ]
+}

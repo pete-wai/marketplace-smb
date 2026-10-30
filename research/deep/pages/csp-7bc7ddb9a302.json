@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-7bc7ddb9a302",
+  "retrievedAt": "2026-10-30T11:02:29.968Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.vlogicsystems.com/",
+      "finalUrl": "https://www.vlogicsystems.com/",
+      "status": "success",
+      "sha256": "74e0d6c463c6e2e8a29b2213c28fb44e640515633533048c1b960869c810084a",
+      "title": "Home | VLogic Systems",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.vlogicsystems.com/industries/government",
+        "https://www.vlogicsystems.com/about-us?hsLang=en",
+        "https://www.vlogicsystems.com/blog/desk-booking-for-hybrid-government-workplaces-2026?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.vlogicsystems.com/industries/government",
+      "finalUrl": "https://www.vlogicsystems.com/industries/government",
+      "status": "success",
+      "sha256": "56a93e014ddf039343688a4622c56bd5c845553e6b6bd1172c34e291679fb5cf",
+      "title": "Government | VLogic Systems",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.vlogicsystems.com/about-us?hsLang=en",
+      "finalUrl": "https://www.vlogicsystems.com/about-us",
+      "status": "success",
+      "sha256": "2a9d6a3f52ed2e5123da55a505c6daa2acb2398ba0a6189f11fc59e7600a0ece",
+      "title": "About Us | VLogic Systems",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.vlogicsystems.com/blog/desk-booking-for-hybrid-government-workplaces-2026?hsLang=en",
+      "finalUrl": "https://www.vlogicsystems.com/blog/desk-booking-for-hybrid-government-workplaces-2026",
+      "status": "success",
+      "sha256": "4bece912ae1c8c513571a7ccf0d93608516db0ef507a9e71972d88a3828b3b53",
+      "title": "Desk Booking for Hybrid Government Workplaces",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

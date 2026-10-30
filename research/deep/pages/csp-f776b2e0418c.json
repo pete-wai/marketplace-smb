@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-f776b2e0418c",
+  "retrievedAt": "2026-10-30T11:00:52.242Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.clearview.ai/gov",
+      "finalUrl": "https://www.clearview.ai/gov",
+      "status": "success",
+      "sha256": "311c55a5a4ab7a285e14536f5122f0ac557174776d1d6c7e57f8deea4ff83d2c",
+      "title": "Gov | Clearview AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.clearview.ai/federal",
+        "https://www.clearview.ai/faq",
+        "https://www.clearview.ai/testimonials",
+        "https://www.clearview.ai/overview",
+        "https://www.clearview.ai/leadership"
+      ]
+    },
+    {
+      "url": "https://www.clearview.ai/federal",
+      "finalUrl": "https://www.clearview.ai/federal",
+      "status": "success",
+      "sha256": "becdabb2a9227b150967e2027f660aa8f62024a196b2bb44f0a09eee9592cb3f",
+      "title": "Federal | Clearview AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.clearview.ai/faq",
+        "https://www.clearview.ai/testimonials",
+        "https://www.clearview.ai/overview",
+        "https://www.clearview.ai/leadership"
+      ]
+    },
+    {
+      "url": "https://www.clearview.ai/faq",
+      "finalUrl": "https://www.clearview.ai/faq",
+      "status": "success",
+      "sha256": "9357c9f124ee9271f6211037ddcc5a50f7faeac293bcf20da2a0612681edb5a7",
+      "title": "FAQs | Clearview AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.clearview.ai/testimonials",
+        "https://www.clearview.ai/overview",
+        "https://www.clearview.ai/leadership",
+        "https://www.clearview.ai/post/debunking-the-three-biggest-myths-about-clearview-ai"
+      ]
+    },
+    {
+      "url": "https://www.clearview.ai/testimonials",
+      "finalUrl": "https://www.clearview.ai/testimonials",
+      "status": "success",
+      "sha256": "25ca6357f838d9442a5071b85439d21267585ff52de39d6c118f3481983db304",
+      "title": "Testimonials | Clearview AI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.clearview.ai/overview",
+        "https://www.clearview.ai/leadership"
+      ]
+    }
+  ]
+}

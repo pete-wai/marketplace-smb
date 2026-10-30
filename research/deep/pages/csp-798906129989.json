@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-798906129989",
+  "retrievedAt": "2026-10-30T11:02:04.595Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ring.md/",
+      "finalUrl": "https://www.ring.md/",
+      "status": "success",
+      "sha256": "44d8b1578b41c42c9433760f4501e8cb9a06e21e6ee4ddb4dee469c8981c7695",
+      "title": "Home - RingMD",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ring.md/about",
+        "https://www.ring.md/company-history"
+      ]
+    },
+    {
+      "url": "https://www.ring.md/about",
+      "finalUrl": "https://www.ring.md/about",
+      "status": "success",
+      "sha256": "7b74506511cb200326ad728ecb0615d8b545c90608909af7c8f42d64f6b43095",
+      "title": "About RingMD - RingMD",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ring.md/blog/ringmd-and-government-of-india-brings-healthcare-to-rural-populations/",
+        "https://www.ring.md/company-history"
+      ]
+    },
+    {
+      "url": "https://www.ring.md/company-history",
+      "finalUrl": "https://www.ring.md/company-history",
+      "status": "success",
+      "sha256": "0f2f3dac8d3dc13951457acb956d2cb74e277de6e4a6c6482b844c9da290e9fd",
+      "title": "RingMD Company History - RingMD",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.ring.md/blog/ringmd-and-government-of-india-brings-healthcare-to-rural-populations/",
+      "finalUrl": "https://www.ring.md/blog/ringmd-and-government-of-india-brings-healthcare-to-rural-populations/",
+      "status": "success",
+      "sha256": "e0b2c4a46868cb66c697a8c0544a1976aa040c5f21be960dcc152a261b0b70f8",
+      "title": "RingMD and Government of India brings healthcare to rural populations - RingMD",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

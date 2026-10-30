@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-5189f788bbc4",
+  "retrievedAt": "2026-10-30T11:02:32.998Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://zeroeyes.com/",
+      "finalUrl": "https://zeroeyes.com/",
+      "status": "success",
+      "sha256": "65bf28a723f5a766fac21621bdc4bdf2062ae079198f68cf48f013a68c4c5318",
+      "title": "ZeroEyes | AI-Powered Gun Detection & Visual Firearm Detection",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zeroeyes.com/about-us",
+        "https://zeroeyes.com/government-solutions/remote-alerting-and-detection",
+        "https://zeroeyes.com/government-solutions"
+      ]
+    },
+    {
+      "url": "https://zeroeyes.com/about-us",
+      "finalUrl": "https://zeroeyes.com/about-us",
+      "status": "success",
+      "sha256": "8da070ab550b4485f79fbdd8a05b2862bc76c1a3a32dc994032ff588d328277d",
+      "title": "Gun Detection | AI Gun Detection System | ZeroEyes",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zeroeyes.com/government-solutions/remote-alerting-and-detection",
+        "https://zeroeyes.com/government-solutions"
+      ]
+    },
+    {
+      "url": "https://zeroeyes.com/government-solutions/remote-alerting-and-detection",
+      "finalUrl": "https://zeroeyes.com/government-solutions/remote-alerting-and-detection",
+      "status": "success",
+      "sha256": "954f33f1fc2849d954886797ef8a2b657483c22922ddbc3ecae6b65d339a8b05",
+      "title": "ZRAD | Remote Alerting and Detection | ZeroEyes",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zeroeyes.com/government-solutions"
+      ]
+    },
+    {
+      "url": "https://zeroeyes.com/government-solutions",
+      "finalUrl": "https://zeroeyes.com/government-solutions",
+      "status": "success",
+      "sha256": "a70b38b7a2c54c0134b76b2f3a8a056e87969ae22a7c3037b012e5bee76f5097",
+      "title": "Government Solutions | AI Gun Detection | ZeroEyes",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "cs, built for rapid prototyping and deployment. DoD AI marketplace 03 SDVOSB Partner Programs Service-Disabled Veteran-Owned Small Business set-asides via partner channels. Veteran partner channel 04 BOCES & TIPS Cooperative purchasing for state, local, and education entities. State, local, education"
+        }
+      ],
+      "discoveredLinks": [
+        "https://zeroeyes.com/contact-us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-ee0467041651",
+  "retrievedAt": "2026-10-30T11:02:01.875Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://rectitude369.com/",
+      "finalUrl": "https://rectitude.com/",
+      "status": "success",
+      "sha256": "f31bfd88bada815bafa1420a5f61bedbb7edb576468ca886fcad256048fdc752",
+      "title": "Rectitude, LLC - Critical Networks. Reliably Engineered.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rectitude.com/about-us/",
+        "https://rectitude.com/about-us",
+        "https://rectitude.com/data-center-it-infrastructure/",
+        "https://rectitude.com/it-staffing-augmentation-guide/",
+        "https://rectitude.com/high-density-wi-fi-solutions/",
+        "https://rectitude.com/services/"
+      ]
+    },
+    {
+      "url": "https://rectitude.com/about-us/",
+      "finalUrl": "https://rectitude.com/about-us/",
+      "status": "success",
+      "sha256": "cc6b837998b8e111025609ae5b10693ad88beb0354f3b43dfe5c97cebd26181b",
+      "title": "About Rectitude - Rectitude",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rectitude.com/services/"
+      ]
+    },
+    {
+      "url": "https://rectitude.com/about-us",
+      "finalUrl": "https://rectitude.com/about-us/",
+      "status": "success",
+      "sha256": "3f1263b6fd0d46de88667fcf938459003a8238f2981679ed3f6fc97bb2c67b67",
+      "title": "About Rectitude - Rectitude",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rectitude.com/services/"
+      ]
+    },
+    {
+      "url": "https://rectitude.com/data-center-it-infrastructure/",
+      "finalUrl": "https://rectitude.com/data-center-it-infrastructure/",
+      "status": "success",
+      "sha256": "3ee459587cca99bc5339f21072ea29423efce2281578353bad4764974de1fc50",
+      "title": "Data Center IT Infrastructure Guide for Businesses - Rectitude",
+      "signals": [],
+      "discoveredLinks": [
+        "https://rectitude.com/services/"
+      ]
+    }
+  ]
+}

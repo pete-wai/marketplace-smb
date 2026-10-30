@@ -1,0 +1,18 @@
+{
+  "name": "QUADIENT, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QSMA20D08QV&contractorName=QUADIENT%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-8370802aa06b"
+  ],
+  "contractNumber": "47QSMA20D08QV",
+  "retrievedAt": "2026-10-30T11:08:34.113Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:17.754Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

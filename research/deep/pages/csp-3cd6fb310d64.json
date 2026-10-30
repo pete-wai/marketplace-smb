@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-3cd6fb310d64",
+  "retrievedAt": "2026-10-30T11:00:35.828Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://911inform.com/",
+      "finalUrl": "https://911inform.com/",
+      "status": "success",
+      "sha256": "66dd645d64e78f3e8cef10d4ceec180081d3b5790aa8c1832d8061b771c72edf",
+      "title": "911inform",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-39c6d02bff36",
+  "retrievedAt": "2026-10-30T11:02:00.317Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.questionpro.com/govcloud",
+      "finalUrl": "https://www.questionpro.com/govcloud/",
+      "status": "success",
+      "sha256": "52484f126688985851a6b8d2e0067ff7775b69114c8cac38682cbf9bbb6e9eaa",
+      "title": "QuestionPro Research GovCloud - A FedRamp InProgress Market Research Environment | QuestionPro",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.questionpro.com/govcloud/",
+        "https://www.questionpro.com/features/likert-scale.html",
+        "https://www.questionpro.com/features/net-promoter-score.html",
+        "https://www.questionpro.com/info/aboutus.html",
+        "https://www.questionpro.com/about/brand.html",
+        "https://www.questionpro.com/about/mediakit.html",
+        "https://www.questionpro.com/experience-journal/"
+      ]
+    },
+    {
+      "url": "https://www.questionpro.com/govcloud/",
+      "finalUrl": "https://www.questionpro.com/govcloud/",
+      "status": "success",
+      "sha256": "52484f126688985851a6b8d2e0067ff7775b69114c8cac38682cbf9bbb6e9eaa",
+      "title": "QuestionPro Research GovCloud - A FedRamp InProgress Market Research Environment | QuestionPro",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.questionpro.com/features/likert-scale.html",
+        "https://www.questionpro.com/features/net-promoter-score.html",
+        "https://www.questionpro.com/info/aboutus.html",
+        "https://www.questionpro.com/about/brand.html",
+        "https://www.questionpro.com/about/mediakit.html",
+        "https://www.questionpro.com/experience-journal/"
+      ]
+    },
+    {
+      "url": "https://www.questionpro.com/features/likert-scale.html",
+      "finalUrl": "https://www.questionpro.com/features/likert-scale.html",
+      "status": "success",
+      "sha256": "8924f667c4da4eb9fcfa02122c92dfa615be3c568e2da5ef56636f33cfe1ca25",
+      "title": "Likert scale survey | Likert scale questionnaire | QuestionPro",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.questionpro.com/features/net-promoter-score.html",
+        "https://www.questionpro.com/info/aboutus.html",
+        "https://www.questionpro.com/about/brand.html",
+        "https://www.questionpro.com/about/mediakit.html",
+        "https://www.questionpro.com/experience-journal/"
+      ]
+    },
+    {
+      "url": "https://www.questionpro.com/features/net-promoter-score.html",
+      "finalUrl": "https://www.questionpro.com/features/net-promoter-score.html",
+      "status": "success",
+      "sha256": "3312cb161f7a862df53466c5f102a2e362b9e5c3c7f377059c4fa3262d7be4b6",
+      "title": "Net Promoter Score: What It Is & How To Measure It | QuestionPro",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.questionpro.com/info/aboutus.html",
+        "https://www.questionpro.com/about/brand.html",
+        "https://www.questionpro.com/about/mediakit.html",
+        "https://www.questionpro.com/experience-journal/"
+      ]
+    }
+  ]
+}

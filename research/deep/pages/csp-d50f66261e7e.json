@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-d50f66261e7e",
+  "retrievedAt": "2026-10-30T11:01:47.075Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://nucleussec.com/government/",
+      "finalUrl": "https://nucleussec.com/solutions/federal-government/",
+      "status": "success",
+      "sha256": "d7d0744538c7fb55229abb248ac3ab8659567664d0192bb6060873c392eaf933",
+      "title": "Federal Vulnerability Management Platform | FedRAMP Authorized",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nucleussec.com/solutions/federal-government/",
+        "https://nucleussec.com/solutions/sled/",
+        "https://nucleussec.com/partners/",
+        "https://nucleussec.com/resources/public-sector/from-directive-to-deadline-operating-bod-26-04/",
+        "https://nucleussec.com/about/",
+        "https://nucleussec.com/resources/data-sheets/nucleus-federal-government-agencies/",
+        "https://nucleussec.com/resources/data-sheets/nucleus-for-government-intelligence-community/",
+        "https://nucleussec.com/resources/data-sheets/nucleus-for-civilian-government-agencies/",
+        "https://nucleussec.com/resources/public-sector/poam-process-automation-recording/"
+      ]
+    },
+    {
+      "url": "https://nucleussec.com/solutions/federal-government/",
+      "finalUrl": "https://nucleussec.com/solutions/federal-government/",
+      "status": "success",
+      "sha256": "d7d0744538c7fb55229abb248ac3ab8659567664d0192bb6060873c392eaf933",
+      "title": "Federal Vulnerability Management Platform | FedRAMP Authorized",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nucleussec.com/solutions/sled/",
+        "https://nucleussec.com/partners/",
+        "https://nucleussec.com/resources/public-sector/from-directive-to-deadline-operating-bod-26-04/",
+        "https://nucleussec.com/about/",
+        "https://nucleussec.com/resources/data-sheets/nucleus-federal-government-agencies/",
+        "https://nucleussec.com/resources/data-sheets/nucleus-for-government-intelligence-community/",
+        "https://nucleussec.com/resources/data-sheets/nucleus-for-civilian-government-agencies/",
+        "https://nucleussec.com/resources/public-sector/poam-process-automation-recording/"
+      ]
+    },
+    {
+      "url": "https://nucleussec.com/solutions/sled/",
+      "finalUrl": "https://nucleussec.com/solutions/sled/",
+      "status": "success",
+      "sha256": "320f5a9fd18f2bcd0642da296cba5d0f2634af2d1bcded0e25d4ddd087a212af",
+      "title": "Multi-Agency Vulnerability Management for State and Local Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nucleussec.com/partners/",
+        "https://nucleussec.com/resources/public-sector/from-directive-to-deadline-operating-bod-26-04/",
+        "https://nucleussec.com/about/"
+      ]
+    },
+    {
+      "url": "https://nucleussec.com/partners/",
+      "finalUrl": "https://nucleussec.com/partners/",
+      "status": "success",
+      "sha256": "46aa88181a812a4c1062777a119c6cd7c44e789815925aa3dc3047e0864b9e5f",
+      "title": "Nucleus Partner Program",
+      "signals": [],
+      "discoveredLinks": [
+        "https://nucleussec.com/resources/public-sector/from-directive-to-deadline-operating-bod-26-04/",
+        "https://nucleussec.com/about/"
+      ]
+    }
+  ]
+}

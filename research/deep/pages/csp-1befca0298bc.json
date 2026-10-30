@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-1befca0298bc",
+  "retrievedAt": "2026-10-30T11:01:11.275Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.entratus.us/",
+      "finalUrl": "https://www.entratus.us/",
+      "status": "success",
+      "sha256": "2a8a50f011072e6eca7ab9a3c65a7bd20da555f7132f48b11d1472f1cb742cca",
+      "title": "AI Voice Agents for Modern Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.entratus.us/about/"
+      ]
+    },
+    {
+      "url": "https://www.entratus.us/about/",
+      "finalUrl": "https://www.entratus.us/about/",
+      "status": "success",
+      "sha256": "2f32066d5eb1609439521dc6ec768e3af48588813177baea2734ab7708f37564",
+      "title": "About",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

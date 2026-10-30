@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-2019f2597d26",
+  "retrievedAt": "2026-10-30T11:01:25.580Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ipsos.com/en-us/solutions/list?search=Public%20Affairs",
+      "finalUrl": "https://www.ipsos.com/en-us/solutions/list?search=Public%20Affairs",
+      "status": "success",
+      "sha256": "28e4edf582896fffaf9d90d5fb15819f04c3a28842e505447ce61df24efadd24",
+      "title": "Our solutions | Ipsos",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ipsos.com/en-us/about-us/media",
+        "https://www.ipsos.com/en-us/about-us",
+        "https://www.ipsos.com/en-us/about-us/management",
+        "https://www.ipsos.com/en-us/about-us/taking-responsibility",
+        "https://www.ipsos.com/en-us/solutions/communities",
+        "https://www.ipsos.com/en-us/custom-panel",
+        "https://www.ipsos.com/en-us/public-policy-improvement",
+        "https://www.ipsos.com/en-us/solutions/public-affairs/research-for-thought-leadership",
+        "https://www.ipsos.com/en-us/solutions/public-affairs/public-service-improvement",
+        "https://www.ipsos.com/en-us/employee-relationship-management",
+        "https://www.ipsos.com/en-us/solutions/employee-relationship/leadership-organizational-culture",
+        "https://www.ipsos.com/en-us/online-qualitative"
+      ]
+    },
+    {
+      "url": "https://www.ipsos.com/en-us/about-us/media",
+      "finalUrl": "https://www.ipsos.com/en-us/about-us/media",
+      "status": "success",
+      "sha256": "165aba6985ced27be58be947e2e59b1c16c93f75ddc872d950b6b1a74c80b779",
+      "title": "Media Resources | Ipsos",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ipsos.com/en-us/about-us",
+        "https://www.ipsos.com/en-us/about-us/management",
+        "https://www.ipsos.com/en-us/about-us/taking-responsibility"
+      ]
+    },
+    {
+      "url": "https://www.ipsos.com/en-us/about-us",
+      "finalUrl": "https://www.ipsos.com/en-us/about-us",
+      "status": "success",
+      "sha256": "0101f51f299739812cc756c7a502c2ca2ce1df7268f7f6e8ba55ac1ce46e683e",
+      "title": "About us | Ipsos",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ipsos.com/en-us/about-us/management",
+        "https://www.ipsos.com/en-us/about-us/taking-responsibility"
+      ]
+    },
+    {
+      "url": "https://www.ipsos.com/en-us/about-us/management",
+      "finalUrl": "https://www.ipsos.com/en-us/about-us/management",
+      "status": "success",
+      "sha256": "ac93fe8d27040c4290818e7b46f988c78a87cd78cfa86d8a4a66dd45b5e2f73c",
+      "title": "Management | Ipsos",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ipsos.com/en-us/about-us/taking-responsibility"
+      ]
+    }
+  ]
+}

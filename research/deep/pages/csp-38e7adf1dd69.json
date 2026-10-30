@@ -1,0 +1,83 @@
+{
+  "providerId": "csp-38e7adf1dd69",
+  "retrievedAt": "2026-10-30T11:01:21.565Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.hypori.com/",
+      "finalUrl": "https://www.hypori.com/",
+      "status": "success",
+      "sha256": "f636111c4194d4826136742c8b403723104a6b083ece04d3f2fed7a2eafeeefa",
+      "title": "One Device, Zero Worries™ | Hypori",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hypori.com/industry/government",
+        "https://www.hypori.com/industry/dib",
+        "https://www.hypori.com/company/who-we-are",
+        "https://www.hypori.com/company/leadership-and-board",
+        "https://www.hypori.com/company/partners",
+        "https://www.hypori.com/company/careers",
+        "https://www.hypori.com/company/media-hub",
+        "https://www.hypori.com/company/events",
+        "https://www.hypori.com/resources/resource-hub",
+        "https://www.hypori.com/cmmc"
+      ]
+    },
+    {
+      "url": "https://www.hypori.com/industry/government",
+      "finalUrl": "https://www.hypori.com/industry/government",
+      "status": "success",
+      "sha256": "613e760ba84c690dea4ea63924c080e5f2492352cc2f5a9326965c1f7e73949c",
+      "title": "Hypori: Secure BYOD virtual workspace for defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hypori.com/industry/dib",
+        "https://www.hypori.com/company/who-we-are",
+        "https://www.hypori.com/company/leadership-and-board",
+        "https://www.hypori.com/company/partners",
+        "https://www.hypori.com/company/careers",
+        "https://www.hypori.com/company/media-hub",
+        "https://www.hypori.com/company/events",
+        "https://www.hypori.com/resources/resource-hub"
+      ]
+    },
+    {
+      "url": "https://www.hypori.com/industry/dib",
+      "finalUrl": "https://www.hypori.com/industry/dib",
+      "status": "success",
+      "sha256": "599bd3e1f6332b596b0eb3a53c20cc456438938e49bb9e9881ec3f3379b2981c",
+      "title": "Government",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hypori.com/company/who-we-are",
+        "https://www.hypori.com/company/leadership-and-board",
+        "https://www.hypori.com/company/partners",
+        "https://www.hypori.com/company/careers",
+        "https://www.hypori.com/company/media-hub",
+        "https://www.hypori.com/company/events",
+        "https://www.hypori.com/resources/resource-hub"
+      ]
+    },
+    {
+      "url": "https://www.hypori.com/company/who-we-are",
+      "finalUrl": "https://www.hypori.com/company/who-we-are",
+      "status": "success",
+      "sha256": "b471e22a37d4a43d40c0fbfd95a835f70b1db3ff3840aecd650dc545fee5eb1d",
+      "title": "Who We Are",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ard, then President and CEO of Intelligent Waves, leads the company’s acquisition of Hypori 2016 First virtual mobile infrastructure (VMI) vendor to meet NIAP Common Criteria Certification ‍ First VMI vendor adding as a validated component on the National Security"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.hypori.com/company/leadership-and-board",
+        "https://www.hypori.com/company/partners",
+        "https://www.hypori.com/company/careers",
+        "https://www.hypori.com/company/media-hub",
+        "https://www.hypori.com/company/events",
+        "https://www.hypori.com/resources/resource-hub"
+      ]
+    }
+  ]
+}

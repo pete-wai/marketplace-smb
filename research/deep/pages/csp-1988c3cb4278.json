@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-1988c3cb4278",
+  "retrievedAt": "2026-10-30T11:01:24.367Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.ivminc.com/",
+      "finalUrl": "https://www.ivminc.com/",
+      "status": "success",
+      "sha256": "098910357bbd3dce545e7059be5da20b7a87e900ecfec71b7075763f44012573",
+      "title": "Smart Vending Solutions | Technology That Works Harder, So Your Team Can Work Smarter",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ivminc.com/government/",
+        "https://www.ivminc.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.ivminc.com/government/",
+      "finalUrl": "https://www.ivminc.com/government/",
+      "status": "success",
+      "sha256": "c5a857d3f5fa2e4a9a87284f9e1af0d6ca5d5161e783b374ea58eb960e32b835",
+      "title": "Government Asset Management Solutions | IVM SmartSolutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.ivminc.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.ivminc.com/about-us/",
+      "finalUrl": "https://www.ivminc.com/about-us/",
+      "status": "success",
+      "sha256": "19390f432940acd179c15c81909a54cbc189c741714460960b020692b5e047a3",
+      "title": "About Us - IVM, Inc.",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

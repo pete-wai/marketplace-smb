@@ -1,0 +1,16 @@
+{
+  "name": "EVERFOX LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-650GA&contractorName=EVERFOX+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-6c41eefd93da"
+  ],
+  "contractNumber": "GS-35F-650GA",
+  "retrievedAt": "2026-10-30T11:06:06.482Z",
+  "status": "success",
+  "sha256": "48042f64d167884ef452650c0b12f5ce9867e655e65075df14b768868fd56abf",
+  "uei": "G4J1RJ94JBU1",
+  "naics": "611420",
+  "socioEconomic": "Other Than Small Business",
+  "optionEnd": "Aug 31, 2027",
+  "website": "http://www.everfox.com"
+}

@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-0e3c379d15fb",
+  "retrievedAt": "2026-10-30T11:00:50.940Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.chainalysis.com/",
+      "finalUrl": "https://www.chainalysis.com/",
+      "status": "success",
+      "sha256": "b459ef59c888a1fe96076c7adac29a087bc7782232a14764df0019bf01f5944d",
+      "title": "The Blockchain Data Platform - Chainalysis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.chainalysis.com/blog/category/company-news/",
+        "https://www.chainalysis.com/company/",
+        "https://www.chainalysis.com/government/"
+      ]
+    },
+    {
+      "url": "https://www.chainalysis.com/blog/category/company-news/",
+      "finalUrl": "https://www.chainalysis.com/blog/category/company-news/",
+      "status": "success",
+      "sha256": "a9f6a71d2f4f1d7bf20a3792ba291caf58ae11270ca409f72a91df7d765bb637",
+      "title": "Company News Archives - Chainalysis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.chainalysis.com/company/",
+        "https://www.chainalysis.com/government/",
+        "https://www.chainalysis.com/blog/chainalysis-supports-arc-with-automatic-token-support/",
+        "https://www.chainalysis.com/blog/chainalysis-supports-hyperevm-with-automatic-token-support/",
+        "https://www.chainalysis.com/blog/penlink-integration-blockchain-intelligence-august-2026/",
+        "https://www.chainalysis.com/blog/cronos-automatic-token-support/",
+        "https://www.chainalysis.com/blog/stable-automatic-token-support/",
+        "https://www.chainalysis.com/blog/robinhood-chain-automatic-token-support/",
+        "https://www.chainalysis.com/blog/pre-post-designation-sanctions-screening/",
+        "https://www.chainalysis.com/blog/introducing-first-blockchain-intelligence-agents-2026/",
+        "https://www.chainalysis.com/blog/tempo-automatic-token-coverage-march-2026/",
+        "https://www.chainalysis.com/blog/sui-automatic-token-support-march-2026/"
+      ]
+    },
+    {
+      "url": "https://www.chainalysis.com/company/",
+      "finalUrl": "https://www.chainalysis.com/company/",
+      "status": "success",
+      "sha256": "1c354eaa31c85f4a52ddb6efc46ecf84a35503aff682347b11c9cab30a3cc72f",
+      "title": "Company - Chainalysis",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "trategic leadership roles at RingCentral, IBM, and Taleo Corporation (acquired by Oracle). Sebastien is based in New York and holds a Bachelor’s degree in Business Administration from Université Laval in Quebec, Canada, and is a Chartered Professional Accountant (CPA, Canada)."
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.chainalysis.com/government/",
+        "https://www.chainalysis.com/ko/company/",
+        "https://www.chainalysis.com/ja/company/",
+        "https://www.chainalysis.com/pt-br/company/",
+        "https://www.chainalysis.com/es/company/"
+      ]
+    },
+    {
+      "url": "https://www.chainalysis.com/government/",
+      "finalUrl": "https://www.chainalysis.com/government/",
+      "status": "success",
+      "sha256": "134bfe6a2d4563869a9565b65a7dc17d44d77b910ec6dbb22041ee210a364d5a",
+      "title": "Chainalysis Government Solutions - Chainalysis",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-e1c8073165fc",
+  "retrievedAt": "2026-10-30T11:02:26.905Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://vasion.com/",
+      "finalUrl": "https://vasion.com/",
+      "status": "success",
+      "sha256": "7f20b585e3b0e6d64e319b2f8008d29e191ec476ebce521dea2aaca28d1f7248",
+      "title": "Vasion is Intelligent Print Automation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://vasion.com/industries/government/",
+        "https://vasion.com/blog/what-cios-need-to-know-about-intelligent-print-automation/",
+        "https://vasion.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://vasion.com/industries/government/",
+      "finalUrl": "https://vasion.com/industries/government/",
+      "status": "success",
+      "sha256": "bcf2032148c4827fda379d44cbce37a50a87d70430bf1044396660b093a49795",
+      "title": "FedRAMP High Print & Document Management for Government | Vasion",
+      "signals": [],
+      "discoveredLinks": [
+        "https://vasion.com/blog/what-cios-need-to-know-about-intelligent-print-automation/",
+        "https://vasion.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://vasion.com/blog/what-cios-need-to-know-about-intelligent-print-automation/",
+      "finalUrl": "https://vasion.com/blog/what-cios-need-to-know-about-intelligent-print-automation/",
+      "status": "success",
+      "sha256": "bbce6a3c3a2e99554dca02132f19a3238b80514bf3863eb9936c4ce3ce3ad989",
+      "title": "CIO&#x27;s Guide to Intelligent Print Automation | Vasion",
+      "signals": [],
+      "discoveredLinks": [
+        "https://vasion.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://vasion.com/about-us/",
+      "finalUrl": "https://vasion.com/about-us/",
+      "status": "success",
+      "sha256": "539c1344ad868308abde71333a54b286644b10b00d8a488edcb377970ca409f8",
+      "title": "About Us - Vasion | Vasion",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

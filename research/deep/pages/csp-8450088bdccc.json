@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-8450088bdccc",
+  "retrievedAt": "2026-10-30T11:02:18.001Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://techtrend.us/",
+      "finalUrl": "https://www.techtrend.us/",
+      "status": "success",
+      "sha256": "d6a35682b21a8ec17bdf3b1d37db8f3f1c3fbb1d43331241154dd231af171e3c",
+      "title": "Home - TechTrend",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.techtrend.us/devsecops",
+        "https://www.techtrend.us/about-us",
+        "https://www.techtrend.us/why-federal-agencies-are-moving-to-devsecops-saas"
+      ]
+    },
+    {
+      "url": "https://www.techtrend.us/devsecops",
+      "finalUrl": "https://www.techtrend.us/devsecops",
+      "status": "success",
+      "sha256": "e49e256e0b213557746e65f8fab39c614ae4e481d397eb8d98e83030ff702789",
+      "title": "DevSecOps - TechTrend",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.techtrend.us/about-us",
+        "https://www.techtrend.us/federal-govcloud-devsecops-for-faa-research-and-development-2"
+      ]
+    },
+    {
+      "url": "https://www.techtrend.us/about-us",
+      "finalUrl": "https://www.techtrend.us/about-us",
+      "status": "success",
+      "sha256": "a401da0cc040604b0b1a4b5dae2b248ed503df442b1a51fb2e11f10c9c11baac",
+      "title": "About Us - TechTrend",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.techtrend.us/why-federal-agencies-are-moving-to-devsecops-saas",
+      "finalUrl": "https://www.techtrend.us/why-federal-agencies-are-moving-to-devsecops-saas",
+      "status": "success",
+      "sha256": "b0624c9ea5407ec631dc75ccd31bf834923343b56e7354e7db7fb9fde5eccf85",
+      "title": "Is Your Agency&#x2019;s In-House-Built DevSecOps the Right Fit for Mission Delivery? - TechTrend",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

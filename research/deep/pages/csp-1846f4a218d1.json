@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-1846f4a218d1",
+  "retrievedAt": "2026-10-30T11:01:47.187Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://ocient.com/",
+      "finalUrl": "https://ocient.com/",
+      "status": "success",
+      "sha256": "35e7ab81199c7138abfc29484119f2a3212d12afd479bda4e4dd644c340654a7",
+      "title": "OcientAIQ | Production AI at Enterprise Scale",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " e are incredibly impressed. — Rick Shea, VP Engineering, Beachfront (Acquired by Seedtag) Production AI demands more than great software Software alone won&#8217;t get AI into production. Ocient brings together the platform, solution patterns, and delivery expertise required to"
+        }
+      ],
+      "discoveredLinks": [
+        "https://ocient.com/about-ocient/",
+        "https://ocient.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://ocient.com/about-ocient/",
+      "finalUrl": "https://ocient.com/about-ocient/",
+      "status": "success",
+      "sha256": "5ebafecee6fc536b6c8c33d5a5bc1f4da1237a4d7b1085eb99029c1bbdb48312",
+      "title": "About Ocient | The Company Behind OcientAIQ™ | Book a Demo",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "petabyte scale Founded in 2016 by the team that founded Cleversafe , (acquired by IBM in 2015), Ocient delivers petabyte-scale agentic AI solutions through OcientAIQ™. Our team of industry veterans has built data and AI solutions for the world&#8217;s largest"
+        }
+      ],
+      "discoveredLinks": [
+        "https://ocient.com/leadership/"
+      ]
+    },
+    {
+      "url": "https://ocient.com/leadership/",
+      "finalUrl": "https://ocient.com/leadership/",
+      "status": "success",
+      "sha256": "2bd60e6a81b3fdedeecd8138f6c38fbc5fcd19e89babadf8b6c1d12a601d7a07",
+      "title": "Leadership - Ocient",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "aaS pioneer. His investment and board experience includes Bladelogic (acquired by BMC), Kontiki (acquired by Verisign), and VPNet Technologies (acquired by Avaya). Mark holds a BA in Economics from DePauw University and an MBA from Stanford University Graduate School of"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

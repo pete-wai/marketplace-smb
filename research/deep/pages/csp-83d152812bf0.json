@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-83d152812bf0",
+  "retrievedAt": "2026-10-30T11:00:50.546Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cellebritefsi.com/",
+      "finalUrl": "https://www.cellebritefsi.com/",
+      "status": "success",
+      "sha256": "c431a856ff88fc360c25f4dfc68cf6d14de53a3301cd313ef7aa3e54a4e3431c",
+      "title": "Home - Cellebrite Federal Solutions",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cellebritefsi.com/about-us",
+        "https://www.cellebritefsi.com/government-grade-cloud-evidence-collaboration-is-here/",
+        "https://www.cellebritefsi.com/products/guardian/guardian-collaborate/"
+      ]
+    },
+    {
+      "url": "https://www.cellebritefsi.com/about-us",
+      "finalUrl": "https://www.cellebritefsi.com/about-us/",
+      "status": "success",
+      "sha256": "b536340111e3074520c667b2ec146ef3708f7d7cc1b9ee0d5089094110000a25",
+      "title": "About Us - Cellebrite Federal Solutions",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "re, mission‑ready digital intelligence and investigative solutions. A subsidiary of Cellebrite, Inc., CFSI was intentionally structured to operate as a fully independent organization, prioritizing security, trust, and alignment with U.S. government requirements. Oversight by an independent Proxy Board of U.S."
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.cellebritefsi.com/about-us/"
+      ]
+    },
+    {
+      "url": "https://www.cellebritefsi.com/government-grade-cloud-evidence-collaboration-is-here/",
+      "finalUrl": "https://www.cellebritefsi.com/government-grade-cloud-evidence-collaboration-is-here/",
+      "status": "success",
+      "sha256": "d4843fd44c2c74143078d072eedc745481b0239ec275a62de04add898d8a10bc",
+      "title": "Government Grade Cloud Evidence Collaboration Is Here - Cellebrite Federal Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.cellebritefsi.com/products/guardian/guardian-collaborate/",
+      "finalUrl": "https://www.cellebritefsi.com/products/guardian/guardian-collaborate/",
+      "status": "success",
+      "sha256": "527a1c8ab0a5f0863617ad94fc574e4e4283080d8ea91f7b9528198448231095",
+      "title": "Cellebrite Guardian Collaborate - Cellebrite Federal Solutions",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

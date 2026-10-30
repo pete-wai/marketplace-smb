@@ -1,0 +1,39 @@
+{
+  "providerId": "csp-6fe7c22ccc60",
+  "retrievedAt": "2026-10-30T11:01:20.687Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://hbhealthcaresafety.org/healthcare-safeware/",
+      "finalUrl": "https://hbhealthcaresafety.org/software/",
+      "status": "success",
+      "sha256": "1ef740b35ee0fa488713ef2d5cc59cc26205a42f349e15943868d7534538ea2a",
+      "title": "Reveal Hidden Patient Safety Risks with Healthcare Safeware® Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://hbhealthcaresafety.org/about-us/the-loved-one-lens/",
+        "https://hbhealthcaresafety.org/about-us/"
+      ]
+    },
+    {
+      "url": "https://hbhealthcaresafety.org/about-us/the-loved-one-lens/",
+      "finalUrl": "https://hbhealthcaresafety.org/about-us/the-loved-one-lens/",
+      "status": "success",
+      "sha256": "62bee9611e93c21d87d6dda4e2c08ba5c7dd4c7883038e276393db5852fbe393",
+      "title": "Redefining Healthcare Case Reviews Through The Lens of Our Loved Ones",
+      "signals": [],
+      "discoveredLinks": [
+        "https://hbhealthcaresafety.org/about-us/"
+      ]
+    },
+    {
+      "url": "https://hbhealthcaresafety.org/about-us/",
+      "finalUrl": "https://hbhealthcaresafety.org/about-us/",
+      "status": "success",
+      "sha256": "b31e8d5d8335744c1f54f7b6ca7bb873193d15b8a4cbf9d98a13880cba8cb480",
+      "title": "HBHS | Transform Healthcare Delivery & Save Lives",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

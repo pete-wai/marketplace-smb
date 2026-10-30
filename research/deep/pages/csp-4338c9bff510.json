@@ -1,0 +1,97 @@
+{
+  "providerId": "csp-4338c9bff510",
+  "retrievedAt": "2026-10-30T11:01:45.854Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.noblis.org/",
+      "finalUrl": "https://noblis.org/",
+      "status": "success",
+      "sha256": "7b6d987bc7f037fe68f5adf8d549695d454cda31c196af41e07eef2b066cce47",
+      "title": "For the Best of Reasons | Noblis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://noblis.org/who-we-are/about/",
+        "https://noblis.org/who-we-are/leadership/",
+        "https://noblis.org/what-we-do/missions/",
+        "https://noblis.org/",
+        "https://noblis.org/what-we-do/capabilities/applied-sciences/",
+        "https://noblis.org/what-we-do/capabilities/ai/",
+        "https://noblis.org/what-we-do/capabilities/autonomy/",
+        "https://noblis.org/what-we-do/capabilities/cyber/",
+        "https://noblis.org/what-we-do/capabilities/digital-eng/",
+        "https://noblis.org/what-we-do/capabilities/digital-transformation/",
+        "https://noblis.org/what-we-do/capabilities/environment/",
+        "https://noblis.org/what-we-do/capabilities/modsim/"
+      ]
+    },
+    {
+      "url": "https://noblis.org/who-we-are/about/",
+      "finalUrl": "https://noblis.org/who-we-are/about/",
+      "status": "success",
+      "sha256": "6588136743fbc5560ed010ad15b54f26dcb52f41bc318a500cc917235a2d7bca",
+      "title": "Consulting, Science, Technology and Engineering | Noblis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://noblis.org/who-we-are/leadership/",
+        "https://noblis.org/what-we-do/missions/",
+        "https://noblis.org/what-we-do/capabilities/applied-sciences/",
+        "https://noblis.org/what-we-do/capabilities/ai/",
+        "https://noblis.org/what-we-do/capabilities/autonomy/",
+        "https://noblis.org/what-we-do/capabilities/cyber/",
+        "https://noblis.org/what-we-do/capabilities/digital-eng/",
+        "https://noblis.org/what-we-do/capabilities/digital-transformation/",
+        "https://noblis.org/what-we-do/capabilities/environment/",
+        "https://noblis.org/what-we-do/capabilities/modsim/",
+        "https://noblis.org/news/fts-acquisition/",
+        "https://noblis.org/news/streileincto-news/"
+      ]
+    },
+    {
+      "url": "https://noblis.org/who-we-are/leadership/",
+      "finalUrl": "https://noblis.org/who-we-are/leadership/",
+      "status": "success",
+      "sha256": "cfbe4559ed19b6bf3261f72875a3954b4c31adfa7f4460b97755210c43ed9130",
+      "title": "Leadership | Noblis",
+      "signals": [],
+      "discoveredLinks": [
+        "https://noblis.org/what-we-do/missions/",
+        "https://noblis.org/what-we-do/capabilities/applied-sciences/",
+        "https://noblis.org/what-we-do/capabilities/ai/",
+        "https://noblis.org/what-we-do/capabilities/autonomy/",
+        "https://noblis.org/what-we-do/capabilities/cyber/",
+        "https://noblis.org/what-we-do/capabilities/digital-eng/",
+        "https://noblis.org/what-we-do/capabilities/digital-transformation/",
+        "https://noblis.org/what-we-do/capabilities/environment/",
+        "https://noblis.org/what-we-do/capabilities/modsim/"
+      ]
+    },
+    {
+      "url": "https://noblis.org/what-we-do/missions/",
+      "finalUrl": "https://noblis.org/what-we-do/missions/",
+      "status": "success",
+      "sha256": "20f6717c69a4720f404a006d29d43596325c43369ee11e1be707cca5b5da4b28",
+      "title": "Our Missions | Noblis",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "Contract for FBI Blanket purchase agreement (BPA) will streamline the acquisition of IT solutions and services. Learn More Publications &#038; Resources Tire Examination A collection of published Noblis forensics research studies evaluating tire examination. Learn More Capabilities: How Noblis Delivers"
+        }
+      ],
+      "discoveredLinks": [
+        "https://noblis.org/what-we-do/capabilities/applied-sciences/",
+        "https://noblis.org/what-we-do/capabilities/ai/",
+        "https://noblis.org/what-we-do/capabilities/autonomy/",
+        "https://noblis.org/what-we-do/capabilities/cyber/",
+        "https://noblis.org/what-we-do/capabilities/digital-eng/",
+        "https://noblis.org/what-we-do/capabilities/digital-transformation/",
+        "https://noblis.org/what-we-do/capabilities/environment/",
+        "https://noblis.org/what-we-do/capabilities/modsim/",
+        "https://noblis.org/news/noblis-selected-as-key-teammate-on-nasa-nams-2-contract/",
+        "https://noblis.org/ai-at-cms-and-beyond/",
+        "https://noblis.org/news/fts-acquisition/",
+        "https://noblis.org/resource/precept/"
+      ]
+    }
+  ]
+}

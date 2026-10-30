@@ -1,0 +1,18 @@
+{
+  "name": "SAN LUIS AVIATION, INC.",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-0157Y&contractorName=SAN+LUIS+AVIATION%2C+INC.&executeQuery=YES",
+  "providerIds": [
+    "csp-fc1f92ce467b"
+  ],
+  "contractNumber": "GS-35F-0157Y",
+  "retrievedAt": "2026-10-30T11:08:43.559Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:18.857Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

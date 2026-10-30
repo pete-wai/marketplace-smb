@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-9ea6dc77cfd0",
+  "retrievedAt": "2026-10-30T11:02:25.800Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.unqork.com/government/",
+      "finalUrl": "https://unqork.com/industry/government/",
+      "status": "success",
+      "sha256": "23fbb7f9cd4a26199d9e2699fbd707a39892c30c73dda0b45bbf20d0b550e239",
+      "title": "Government | Unqork Enterprise Application Development Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unqork.com/industry/government/",
+        "https://unqork.com/about-unqork/",
+        "https://unqork.com/industry/Government"
+      ]
+    },
+    {
+      "url": "https://unqork.com/industry/government/",
+      "finalUrl": "https://unqork.com/industry/government/",
+      "status": "success",
+      "sha256": "23fbb7f9cd4a26199d9e2699fbd707a39892c30c73dda0b45bbf20d0b550e239",
+      "title": "Government | Unqork Enterprise Application Development Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unqork.com/about-unqork/",
+        "https://unqork.com/industry/Government"
+      ]
+    },
+    {
+      "url": "https://unqork.com/about-unqork/",
+      "finalUrl": "https://unqork.com/about-unqork/",
+      "status": "success",
+      "sha256": "a13c55a44702402b760e8fdbd650a693f821e2327f89a7a63d773e51df762752",
+      "title": "About Unqork",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unqork.com/industry/Government"
+      ]
+    },
+    {
+      "url": "https://unqork.com/industry/Government",
+      "finalUrl": "https://unqork.com/industry/Government/",
+      "status": "success",
+      "sha256": "7aab34bf1b4b8a150b56474ced04eb546367b8909b89dec902aa622d813b6bec",
+      "title": "Government | Unqork Enterprise Application Development Platform",
+      "signals": [],
+      "discoveredLinks": [
+        "https://unqork.com/industry/Government/"
+      ]
+    }
+  ]
+}

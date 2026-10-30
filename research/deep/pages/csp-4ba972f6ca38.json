@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-4ba972f6ca38",
+  "retrievedAt": "2026-10-30T11:02:00.151Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.questionmark.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

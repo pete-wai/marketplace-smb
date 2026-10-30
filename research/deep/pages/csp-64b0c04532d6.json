@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-64b0c04532d6",
+  "retrievedAt": "2026-10-30T11:01:43.805Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.bitrip.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

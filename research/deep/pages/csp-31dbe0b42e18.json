@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-31dbe0b42e18",
+  "retrievedAt": "2026-10-30T11:02:12.407Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://alira.tech/",
+      "finalUrl": "https://skywarditsolutions.com/foia",
+      "status": "success",
+      "sha256": "bb16601db3a3b2dcda937fc86588a853818bece3744589002b46436cbdaefd0d",
+      "title": "Modern FOIA Tracking Software & Intelligent Redaction | Alira",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

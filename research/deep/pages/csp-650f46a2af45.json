@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-650f46a2af45",
+  "retrievedAt": "2026-10-30T11:02:33.923Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.zlinkcorp.com/",
+      "finalUrl": "https://zlinkcorp.com/",
+      "status": "success",
+      "sha256": "4a6487b4887c679b9a572e1bf5babd4d4635f91928ea2af68d21b5f67239d600",
+      "title": "zLink | Facilities Management, Inspections & Asset Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://zlinkcorp.com/industry/government"
+      ]
+    },
+    {
+      "url": "https://zlinkcorp.com/industry/government",
+      "finalUrl": "https://zlinkcorp.com/industry/government",
+      "status": "success",
+      "sha256": "516d5850bb02af2b139e071f010aab33b412b59cd5a645bf74e3e5e314382fc8",
+      "title": "Government",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

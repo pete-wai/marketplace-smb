@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-bb56ce64d6cc",
+  "retrievedAt": "2026-10-30T11:01:21.441Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.hootsuite.com/industries/government",
+      "finalUrl": "https://www.hootsuite.com/industries/government",
+      "status": "success",
+      "sha256": "32797f5a3e05cbf1c006ad0ca4cb91f02544ab008675c926d32bbb71cce48bc0",
+      "title": "Hootsuite for Government and Public Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hootsuite.com/about/hootgiving",
+        "https://www.hootsuite.com/resources/blog/government-template-bundle",
+        "https://www.hootsuite.com/about",
+        "https://www.hootsuite.com/about/leadership",
+        "https://www.hootsuite.com/about/contact-us"
+      ]
+    },
+    {
+      "url": "https://www.hootsuite.com/about/hootgiving",
+      "finalUrl": "https://www.hootsuite.com/about/hootgiving",
+      "status": "success",
+      "sha256": "f750ad14c43e3c2c773a448e36165f942c160b69bb2d6a1e8c416da31ad4bc10",
+      "title": "Hootsuite Nonprofit Discount, Pricing, and Application",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hootsuite.com/about",
+        "https://www.hootsuite.com/about/leadership",
+        "https://www.hootsuite.com/about/contact-us"
+      ]
+    },
+    {
+      "url": "https://www.hootsuite.com/resources/blog/government-template-bundle",
+      "finalUrl": "https://www.hootsuite.com/resources/blog/government-template-bundle",
+      "status": "success",
+      "sha256": "f54d8d6e9f2d28650303150c30dc7e64c08eb5709de1d9b90bbb7ecc6b81cdc5",
+      "title": "Social Media Templates for Government Teams | Hootsuite",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hootsuite.com/about",
+        "https://www.hootsuite.com/about/leadership",
+        "https://www.hootsuite.com/about/contact-us"
+      ]
+    },
+    {
+      "url": "https://www.hootsuite.com/about",
+      "finalUrl": "https://www.hootsuite.com/about",
+      "status": "success",
+      "sha256": "1ba6e34d0d62d5c722d89001f75ed685fc2347869d62f02f60cf405a37e74d22",
+      "title": "About Hootsuite | Our Mission, History, & Guiding Principles",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.hootsuite.com/about/leadership",
+        "https://www.hootsuite.com/about/contact-us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "providerId": "csp-56b1d6ae8c92",
+  "retrievedAt": "2026-10-30T11:02:06.024Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.sailpoint.com/identity-security-cloud/",
+      "finalUrl": "https://www.sailpoint.com/products/human-fabric",
+      "status": "success",
+      "sha256": "73f4d851250180363400fdcff41ebab241cdcb2809427ee9adc6a925093cd441",
+      "title": "SailPoint Human Fabric",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sailpoint.com/solutions/industries/government",
+        "https://www.sailpoint.com/why-us/about-us",
+        "https://www.sailpoint.com/why-us/leadership",
+        "https://www.sailpoint.com/company/accolades",
+        "https://www.sailpoint.com/company/careers",
+        "https://www.sailpoint.com/company/careers/sail-u"
+      ]
+    },
+    {
+      "url": "https://www.sailpoint.com/solutions/industries/government",
+      "finalUrl": "https://www.sailpoint.com/solutions/industries/government",
+      "status": "success",
+      "sha256": "f73db10a4a20d4f783d1537e5ed8f1a18098f193f63c0a900fca49d031216b46",
+      "title": "Government identity security: Achieve your mission | SailPoint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sailpoint.com/why-us/about-us",
+        "https://www.sailpoint.com/why-us/leadership",
+        "https://www.sailpoint.com/company/accolades",
+        "https://www.sailpoint.com/company/careers",
+        "https://www.sailpoint.com/company/careers/sail-u",
+        "https://www.sailpoint.com/solutions/industries/government/federal",
+        "https://www.sailpoint.com/solutions/industries/government-us",
+        "https://www.sailpoint.com/identity-library/government-identity-security"
+      ]
+    },
+    {
+      "url": "https://www.sailpoint.com/why-us/about-us",
+      "finalUrl": "https://www.sailpoint.com/why-us/about-us",
+      "status": "success",
+      "sha256": "58d4317da3eabaec60903859ca2015c7346dbe7b811455ae1047e63676b014d1",
+      "title": "About SailPoint and adaptive identity | SailPoint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sailpoint.com/why-us/leadership",
+        "https://www.sailpoint.com/company/accolades",
+        "https://www.sailpoint.com/company/careers",
+        "https://www.sailpoint.com/company/careers/sail-u"
+      ]
+    },
+    {
+      "url": "https://www.sailpoint.com/why-us/leadership",
+      "finalUrl": "https://www.sailpoint.com/why-us/leadership",
+      "status": "success",
+      "sha256": "bf3ac386c670b92d3a53660f4855812019bf7db7f0f432feb2c1160c37bd696c",
+      "title": "Leadership: Leading with Integrity - Why Us | SailPoint",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sailpoint.com/company/accolades",
+        "https://www.sailpoint.com/company/careers",
+        "https://www.sailpoint.com/company/careers/sail-u"
+      ]
+    }
+  ]
+}

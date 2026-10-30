@@ -1,0 +1,36 @@
+{
+  "providerId": "csp-81b69e1ce336",
+  "retrievedAt": "2026-10-30T11:01:32.637Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://lcptracker.com/",
+      "finalUrl": "https://lcptracker.com/",
+      "status": "success",
+      "sha256": "d34da978107bce518202820d4d44f3781280b32f4b1416e2ec31253d4a680889",
+      "title": "Certified Payroll & Prevailing Wage Software | LCPtracker",
+      "signals": [],
+      "discoveredLinks": [
+        "https://lcptracker.com/about-us/",
+        "https://lcptracker.com/subcontractors/",
+        "https://lcptracker.com/solutions-energy/",
+        "https://lcptracker.com/security/"
+      ]
+    },
+    {
+      "url": "https://lcptracker.com/about-us/",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://lcptracker.com/subcontractors/",
+      "status": "unavailable",
+      "reason": "HTTP 504"
+    },
+    {
+      "url": "https://lcptracker.com/solutions-energy/",
+      "status": "unavailable",
+      "reason": "The operation was aborted due to timeout"
+    }
+  ]
+}

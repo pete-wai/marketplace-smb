@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-391f4c4cf12e",
+  "retrievedAt": "2026-10-30T11:02:32.516Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cartn.com/",
+      "finalUrl": "https://www.cartn.com/",
+      "status": "success",
+      "sha256": "6b5de1a5a6fc4d889247e1ef3003098953b6aacd4d70a785f3d68c47bb00167d",
+      "title": "CARTN — Continously Aware Realtime Tracking Network",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

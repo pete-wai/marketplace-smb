@@ -1,0 +1,73 @@
+{
+  "providerId": "csp-548ba3ac02e5",
+  "retrievedAt": "2026-10-30T11:01:21.030Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://healthverity.com/",
+      "finalUrl": "https://healthverity.com/",
+      "status": "success",
+      "sha256": "8c55af2070802a907769cbad7d7830d0b51aec0746a07cc99928a97000006cec",
+      "title": "HealthVerity: The healthcare data platform built for breakthroughs",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthverity.com/government/",
+        "https://healthverity.com/about-us/",
+        "https://healthverity.com/government",
+        "https://healthverity.com/resources/news-and-events/"
+      ]
+    },
+    {
+      "url": "https://healthverity.com/government/",
+      "finalUrl": "https://healthverity.com/government/",
+      "status": "success",
+      "sha256": "3f6b20188714444cd9bd7f58c64f35ba2febceae697d1c05d1c29f90236f9468",
+      "title": "Government - HealthVerity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthverity.com/about-us/",
+        "https://healthverity.com/government-request/",
+        "https://healthverity.com/resources/news-and-events/"
+      ]
+    },
+    {
+      "url": "https://healthverity.com/about-us/",
+      "finalUrl": "https://healthverity.com/about-us/",
+      "status": "success",
+      "sha256": "6cd1eb7b696853debf760cb8410a9c4c90198dc1a65d755059fa3c5dee9590b0",
+      "title": "About Us - HealthVerity",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ching the firm in 2006, Ian led Greycroft’s investments in Braintree (acquired by eBay) More&#8230; Matt Wallach Matt is a co-founder of Veeva Systems, one of the world&#8217;s leading industry cloud companies. He served as Veeva&#8217;s president through the company&#8217;s"
+        }
+      ],
+      "discoveredLinks": [
+        "https://healthverity.com/about/leadership/andrew-kress/",
+        "https://healthverity.com/about-us/leadership/andrew-kress/",
+        "https://healthverity.com/about/leadership/andrew-goldberg/",
+        "https://healthverity.com/about-us/leadership/heather-altieri/",
+        "https://healthverity.com/about/leadership/heather-altieri/",
+        "https://healthverity.com/about/leadership/austin-eliazar/",
+        "https://healthverity.com/about-us/leadership/adam-greenfield/",
+        "https://healthverity.com/about-us/leadership/mike-james/",
+        "https://healthverity.com/about-us/leadership/hd-kim/",
+        "https://healthverity.com/about/leadership/joe-satili/",
+        "https://healthverity.com/about-us/leadership/joe-satili/",
+        "https://healthverity.com/about-us/leadership/edward-spaniel-jr/"
+      ]
+    },
+    {
+      "url": "https://healthverity.com/government",
+      "finalUrl": "https://healthverity.com/government/",
+      "status": "success",
+      "sha256": "3f6b20188714444cd9bd7f58c64f35ba2febceae697d1c05d1c29f90236f9468",
+      "title": "Government - HealthVerity",
+      "signals": [],
+      "discoveredLinks": [
+        "https://healthverity.com/government-request/",
+        "https://healthverity.com/resources/news-and-events/"
+      ]
+    }
+  ]
+}

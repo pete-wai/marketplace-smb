@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-1b9fc2dd04a8",
+  "retrievedAt": "2026-10-30T11:01:42.264Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "http://mlinqs.net/",
+      "finalUrl": "https://mlinqs.net/",
+      "status": "success",
+      "sha256": "93a7df78b3b85221f8a9afeff11f619adb86b5cf8c7d0fd2021c3e8bb76d3eff",
+      "title": "mLINQS: Government Relocation Accounting Software | mLINQS",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "d mLINQS COTS solution to process thousands of employee moves. mLINQS is a Service-disabled Veteran-owned Small Business (SDVOSB) that stands ready to support you. Schedule a consultation now to see how mLINQS can simplify, streamline, and securely automate your organization&#8217;s"
+        }
+      ],
+      "discoveredLinks": [
+        "https://mlinqs.net/about/"
+      ]
+    },
+    {
+      "url": "https://mlinqs.net/",
+      "finalUrl": "https://mlinqs.net/",
+      "status": "success",
+      "sha256": "93a7df78b3b85221f8a9afeff11f619adb86b5cf8c7d0fd2021c3e8bb76d3eff",
+      "title": "mLINQS: Government Relocation Accounting Software | mLINQS",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "d mLINQS COTS solution to process thousands of employee moves. mLINQS is a Service-disabled Veteran-owned Small Business (SDVOSB) that stands ready to support you. Schedule a consultation now to see how mLINQS can simplify, streamline, and securely automate your organization&#8217;s"
+        }
+      ],
+      "discoveredLinks": [
+        "https://mlinqs.net/about/"
+      ]
+    },
+    {
+      "url": "https://mlinqs.net/about/",
+      "finalUrl": "https://mlinqs.net/about/",
+      "status": "success",
+      "sha256": "70a2dc64424bbefa0e7b5457e4d9e5b74a5e419ecb1068a7faf8dd34fd48de5e",
+      "title": "About - mLINQS",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "elp customers achieve their goals and objectives in an era of change. As a Service-disabled Veteran-owned Small Business (SDVOSB), we offer outstanding results at competitive rates to the Federal marketplace. Greg McIntyre President Greg founded mLINQS in March 2003. As"
+        }
+      ],
+      "discoveredLinks": [
+        "https://mlinqs.net/contact/"
+      ]
+    },
+    {
+      "url": "https://mlinqs.net/contact/",
+      "finalUrl": "https://mlinqs.net/contact/",
+      "status": "success",
+      "sha256": "c870e2f84622f8e1427cc385ee04c2de103986af71dd55cc9d200b310c91d573",
+      "title": "Contact - mLINQS",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": " it easy for us to partner with federal agencies. In addition, mLINQS is a Service-disabled Veteran-owned Small Business (SDVOSB), which streamlines and simplifies orders (see FAR 19-406). Our prices are competitive and our value outstanding. We partner with federal"
+        }
+      ],
+      "discoveredLinks": []
+    }
+  ]
+}

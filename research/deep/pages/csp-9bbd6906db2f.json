@@ -1,0 +1,56 @@
+{
+  "providerId": "csp-9bbd6906db2f",
+  "retrievedAt": "2026-10-30T11:01:00.558Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.cyware.com/products/government-agencies-public-sector",
+      "finalUrl": "https://www.cyware.com/industry/government",
+      "status": "success",
+      "sha256": "c8615db5959499d26046090ca61de518c81162ca0b30500399fe6b685c6f083e",
+      "title": "Strengthen Government Cybersecurity with Unified Threat Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cyware.com/industry/government",
+        "https://www.cyware.com/about",
+        "https://www.cyware.com/resources/whitepapers-ebooks-and-industry-reports/IDC-analyst-report",
+        "https://www.cyware.com/news-and-press/cyware-carahsoft-boost-public-sector-cyber-defense",
+        "https://www.cyware.com/blog/bridging-the-threat-intelligence-gap-why-sltt-governments-cant-afford-to-wait",
+        "https://www.cyware.com/blog/how-to-operationalize-cyber-threat-intelligence-and-achieve-collective"
+      ]
+    },
+    {
+      "url": "https://www.cyware.com/industry/government",
+      "finalUrl": "https://www.cyware.com/industry/government",
+      "status": "success",
+      "sha256": "c8615db5959499d26046090ca61de518c81162ca0b30500399fe6b685c6f083e",
+      "title": "Strengthen Government Cybersecurity with Unified Threat Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cyware.com/about",
+        "https://www.cyware.com/resources/whitepapers-ebooks-and-industry-reports/IDC-analyst-report",
+        "https://www.cyware.com/news-and-press/cyware-carahsoft-boost-public-sector-cyber-defense",
+        "https://www.cyware.com/blog/bridging-the-threat-intelligence-gap-why-sltt-governments-cant-afford-to-wait",
+        "https://www.cyware.com/blog/how-to-operationalize-cyber-threat-intelligence-and-achieve-collective"
+      ]
+    },
+    {
+      "url": "https://www.cyware.com/about",
+      "finalUrl": "https://www.cyware.com/about",
+      "status": "success",
+      "sha256": "cb17ee82ca607d1013857f23cca1c85e1f86e5cddf6f99e55911cde38ab1f8cc",
+      "title": "About Cyware",
+      "signals": [],
+      "discoveredLinks": []
+    },
+    {
+      "url": "https://www.cyware.com/resources/whitepapers-ebooks-and-industry-reports/IDC-analyst-report",
+      "finalUrl": "https://www.cyware.com/resources/whitepapers-ebooks-and-industry-reports/IDC-analyst-report",
+      "status": "success",
+      "sha256": "829cb605948d3ab473457b1b04ee4781834bab1c70457fa5752dc2b4edbce5bc",
+      "title": "$2.4B and Growing. See Who&#x27;s Winning the Threat Intelligence Market",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

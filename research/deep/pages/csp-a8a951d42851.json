@@ -1,0 +1,88 @@
+{
+  "providerId": "csp-a8a951d42851",
+  "retrievedAt": "2026-10-30T11:01:16.731Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.forescout.com/",
+      "finalUrl": "https://www.forescout.com/",
+      "status": "success",
+      "sha256": "6d9cafb2d808d3329006a4de97916b755a337dc18970123d8047deeb96d95863",
+      "title": "Forescout – Manage cyber risk and mitigate threats, continuously.",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forescout.com/blog/what-47700-segments-reveal-about-network-segmentation/",
+        "https://www.forescout.com/company/contact-us",
+        "https://www.forescout.com/solutions/public-sector/",
+        "https://www.forescout.com/research-labs/",
+        "https://www.forescout.com/company/",
+        "https://www.forescout.com/company/awards/",
+        "https://www.forescout.com/company/news-press/",
+        "https://www.forescout.com/company/careers/",
+        "https://www.forescout.com/company/legal/",
+        "https://www.forescout.com/company/legal/notice-of-collection/"
+      ]
+    },
+    {
+      "url": "https://www.forescout.com/blog/what-47700-segments-reveal-about-network-segmentation/",
+      "finalUrl": "https://www.forescout.com/blog/what-47700-segments-reveal-about-network-segmentation/",
+      "status": "success",
+      "sha256": "1e65e1154e61921c2581a6d42f88bc708a129082516758e56c643f1b062c1a1c",
+      "title": "What 47,700 Segments Reveal About Network Segmentation",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forescout.com/company/contact-us",
+        "https://www.forescout.com/solutions/public-sector/",
+        "https://www.forescout.com/research-labs/",
+        "https://www.forescout.com/company/",
+        "https://www.forescout.com/company/awards/",
+        "https://www.forescout.com/company/news-press/",
+        "https://www.forescout.com/company/careers/",
+        "https://www.forescout.com/company/legal/",
+        "https://www.forescout.com/company/legal/notice-of-collection/"
+      ]
+    },
+    {
+      "url": "https://www.forescout.com/company/contact-us",
+      "finalUrl": "https://www.forescout.com/company/contact-us/",
+      "status": "success",
+      "sha256": "f00edaa5c1bb1e54ecc0229f508cbedddb100cf7f6973c323cad9df847b2472f",
+      "title": "Contact Us - Forescout",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forescout.com/company/contact-us/",
+        "https://www.forescout.com/solutions/public-sector/",
+        "https://www.forescout.com/research-labs/",
+        "https://www.forescout.com/company/",
+        "https://www.forescout.com/company/awards/",
+        "https://www.forescout.com/company/news-press/",
+        "https://www.forescout.com/company/careers/",
+        "https://www.forescout.com/company/legal/",
+        "https://www.forescout.com/partners/",
+        "https://www.forescout.com/company/legal/notice-of-collection/"
+      ]
+    },
+    {
+      "url": "https://www.forescout.com/solutions/public-sector/",
+      "finalUrl": "https://www.forescout.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "e124a1dd9e4f756daec591f3bbc296d9d364d4fb0ca7e44a078253b60fa0303e",
+      "title": "Public Sector Cybersecurity Solutions: IT, OT & IoT Security",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.forescout.com/research-labs/",
+        "https://www.forescout.com/company/",
+        "https://www.forescout.com/company/awards/",
+        "https://www.forescout.com/company/news-press/",
+        "https://www.forescout.com/company/careers/",
+        "https://www.forescout.com/company/legal/",
+        "https://www.forescout.com/resources/government-solution-brief/",
+        "https://www.forescout.com/ebook-everything-you-want-to-know-about-failing-government-security-audits/",
+        "https://www.forescout.com/resources/u.s.state-government-agency/",
+        "https://www.forescout.com/resources/forescout-eyealert-for-the-public-sector-solution-brief/",
+        "https://www.forescout.com/wp-securing-government-and-defence-networks-with-forescouts-adaptive-zero-trust-approach/",
+        "https://www.forescout.com/resources/public-sector-solution-brief/"
+      ]
+    }
+  ]
+}

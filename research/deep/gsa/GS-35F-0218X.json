@@ -1,0 +1,18 @@
+{
+  "name": "WINGSWEPT, LLC",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=GS-35F-0218X&contractorName=WINGSWEPT%2C+LLC&executeQuery=YES",
+  "providerIds": [
+    "csp-caf4d9ec81b1"
+  ],
+  "contractNumber": "GS-35F-0218X",
+  "retrievedAt": "2026-10-30T11:09:14.629Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:23.070Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

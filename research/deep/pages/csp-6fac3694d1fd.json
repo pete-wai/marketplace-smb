@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-6fac3694d1fd",
+  "retrievedAt": "2026-10-30T11:01:44.366Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.neogov.com/",
+      "finalUrl": "https://www.neogov.com/",
+      "status": "success",
+      "sha256": "1a606055a963ac2d0bd0a77ece745d7ba2e29a231dbb94df7d241be06659211b",
+      "title": "Government HR Software & Management Solutions | NEOGOV",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.neogov.com/products/gjobs",
+        "https://www.neogov.com/ai-tools",
+        "https://www.neogov.com/government-procurement",
+        "https://www.neogov.com/about-us/",
+        "https://www.neogov.com/about-us/careers/"
+      ]
+    },
+    {
+      "url": "https://www.neogov.com/products/gjobs",
+      "finalUrl": "https://www.neogov.com/products/gjobs",
+      "status": "success",
+      "sha256": "1659afa0fbe3d07388f59229442bc6bb651edfea177a4475ba06a0ffc60b0c1d",
+      "title": "GovernmentJobs.com | The #1 Public Sector Job Board",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.neogov.com/ai-tools",
+        "https://www.neogov.com/government-procurement",
+        "https://www.neogov.com/about-us/",
+        "https://www.neogov.com/about-us/careers/"
+      ]
+    },
+    {
+      "url": "https://www.neogov.com/ai-tools",
+      "finalUrl": "https://www.neogov.com/ai-tools",
+      "status": "success",
+      "sha256": "c9d177fc70c55bb36982dd8a481c5b70a921f7e519eb588ac4f7751f03e0dbdd",
+      "title": "AI for Government HR | NEOGOV",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.neogov.com/government-procurement",
+        "https://www.neogov.com/about-us/",
+        "https://www.neogov.com/about-us/careers/"
+      ]
+    },
+    {
+      "url": "https://www.neogov.com/government-procurement",
+      "finalUrl": "https://www.neogov.com/government-procurement",
+      "status": "success",
+      "sha256": "747ec6a0012746ca5f9a38cd51e21128788d55353547f260b8c6112340ca75c3",
+      "title": "Government Procurement Vehicle Partners | NEOGOV",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.neogov.com/about-us/",
+        "https://www.neogov.com/about-us/careers/"
+      ]
+    }
+  ]
+}

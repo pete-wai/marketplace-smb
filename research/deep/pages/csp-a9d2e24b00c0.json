@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-a9d2e24b00c0",
+  "retrievedAt": "2026-10-30T11:00:49.897Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://app.terra.bio/",
+      "finalUrl": "https://app.terra.bio/",
+      "status": "success",
+      "sha256": "1ac4c657e9fb1ceee026e0608a6c2aaf6659a4525df8334a6cf5c202a36c3e34",
+      "title": "Terra",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

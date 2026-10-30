@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-fc9bd9e9a6be",
+  "retrievedAt": "2026-10-30T11:02:26.107Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://valid8financial.com/",
+      "finalUrl": "https://www.valid8financial.com/",
+      "status": "success",
+      "sha256": "e01a6294db03836df312ffcd91710276814cfbb8e5404d8511252f6cc9bcb7aa",
+      "title": "Verified Financial Intelligence & Forensic Accounting Software - Valid8 Financial",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valid8financial.com/use-cases/transaction-advisory",
+        "https://www.valid8financial.com/solutions/government",
+        "https://www.valid8financial.com/about",
+        "https://www.valid8financial.com/about/careers",
+        "https://www.valid8financial.com/client/tactical-financial-takedown",
+        "https://www.valid8financial.com/client/lapping-scheme-fraud",
+        "https://www.valid8financial.com/resource/beyond-the-balance-sheet-real-life-white-collar-crime-investigation",
+        "https://www.valid8financial.com/resource/the-evolution-of-fraud-analysis-in-insolvency-best-practices-for-fiduciaries",
+        "https://www.valid8financial.com/resource/expediting-financial-crime-investigations-automation-ai"
+      ]
+    },
+    {
+      "url": "https://www.valid8financial.com/use-cases/transaction-advisory",
+      "finalUrl": "https://www.valid8financial.com/use-cases/transaction-advisory",
+      "status": "success",
+      "sha256": "119ffb7d8b150bd5e973da08e5e4450268a486f4761e503bbf775cb4a26474cd",
+      "title": "Transaction Advisory - Valid8 Financial Use Case",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valid8financial.com/solutions/government",
+        "https://www.valid8financial.com/about",
+        "https://www.valid8financial.com/about/careers",
+        "https://www.valid8financial.com/resource/uncovering-financial-discrepancies-in-joint-ventures-how-forensic-accountants-ensure-profit-equity",
+        "https://www.valid8financial.com/resource/beyond-the-balance-sheet-real-life-white-collar-crime-investigation"
+      ]
+    },
+    {
+      "url": "https://www.valid8financial.com/solutions/government",
+      "finalUrl": "https://www.valid8financial.com/solutions/government",
+      "status": "success",
+      "sha256": "600f78e8c89576f7608a692d7288ff6a5be59eef67c9553ea90d7902a86ead1f",
+      "title": "Verified Financial Intelligence for Government Agencies and Investigators",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valid8financial.com/about",
+        "https://www.valid8financial.com/about/careers",
+        "https://www.valid8financial.com/resource/valid8-financial-earns-fedramp-in-process-designation-for-govcloud-offering",
+        "https://www.valid8financial.com/resource/key-to-catching-crypto-criminals-lies-in-bank-statements",
+        "https://www.valid8financial.com/resource/upstate-new-york-district-attorney-secures-convictions-in-complex-investigations-involving-300k-in-losses"
+      ]
+    },
+    {
+      "url": "https://www.valid8financial.com/about",
+      "finalUrl": "https://www.valid8financial.com/about",
+      "status": "success",
+      "sha256": "7962c77a76d68f200c06d8c3dfc798408f95d1bf009a38f144fc0b3745d68144",
+      "title": "About Valid8 Financial - Forensic Accounting Software Providing VFI",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.valid8financial.com/about/careers"
+      ]
+    }
+  ]
+}

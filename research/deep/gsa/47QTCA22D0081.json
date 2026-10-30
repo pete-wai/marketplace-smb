@@ -1,0 +1,18 @@
+{
+  "name": "MIS SCIENCES CORPORATION",
+  "url": "https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA22D0081&contractorName=MIS+SCIENCES+CORPORATION&executeQuery=YES",
+  "providerIds": [
+    "csp-6b517fc5a13e"
+  ],
+  "contractNumber": "47QTCA22D0081",
+  "retrievedAt": "2026-10-30T11:08:00.278Z",
+  "previousAttempts": [
+    {
+      "status": "unavailable",
+      "reason": "HTTP 500",
+      "retrievedAt": "2026-10-30T11:06:13.078Z"
+    }
+  ],
+  "status": "unavailable",
+  "reason": "HTTP 500"
+}

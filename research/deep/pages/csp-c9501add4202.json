@@ -1,0 +1,79 @@
+{
+  "providerId": "csp-c9501add4202",
+  "retrievedAt": "2026-10-30T11:02:15.561Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.sumologic.com/public-sector/",
+      "finalUrl": "https://www.sumologic.com/solutions/public-sector",
+      "status": "success",
+      "sha256": "d7142c22f6f15116ad9f71bd059ce0eb002316577aca335f8269c6fc8dcc57c3",
+      "title": "Public sector cloud migration, security and log management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sumologic.com/solutions/public-sector",
+        "https://www.sumologic.com/briefs/gartner-siem-critical-capabilities",
+        "https://www.sumologic.com/company",
+        "https://www.sumologic.com/company/careers",
+        "https://www.sumologic.com/company/leadership",
+        "https://www.sumologic.com/company/newsroom",
+        "https://www.sumologic.com/de/solutions/public-sector",
+        "https://www.sumologic.com/ja/solutions/public-sector",
+        "https://www.sumologic.com/ko/solutions/public-sector",
+        "https://www.sumologic.com/briefs/federal-cloud-analytics-best-practices"
+      ]
+    },
+    {
+      "url": "https://www.sumologic.com/solutions/public-sector",
+      "finalUrl": "https://www.sumologic.com/solutions/public-sector",
+      "status": "success",
+      "sha256": "d7142c22f6f15116ad9f71bd059ce0eb002316577aca335f8269c6fc8dcc57c3",
+      "title": "Public sector cloud migration, security and log management",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sumologic.com/briefs/gartner-siem-critical-capabilities",
+        "https://www.sumologic.com/company",
+        "https://www.sumologic.com/company/careers",
+        "https://www.sumologic.com/company/leadership",
+        "https://www.sumologic.com/company/newsroom",
+        "https://www.sumologic.com/de/solutions/public-sector",
+        "https://www.sumologic.com/ja/solutions/public-sector",
+        "https://www.sumologic.com/ko/solutions/public-sector",
+        "https://www.sumologic.com/briefs/federal-cloud-analytics-best-practices"
+      ]
+    },
+    {
+      "url": "https://www.sumologic.com/briefs/gartner-siem-critical-capabilities",
+      "finalUrl": "https://www.sumologic.com/briefs/gartner-siem-critical-capabilities",
+      "status": "success",
+      "sha256": "104228f072361e099c8c49bbf53e7aec7c64435a4c524ac683a617830c551c31",
+      "title": "Sumo Logic named in the 2025 Gartner Critical Capabilities for Security Information and Event Management (SIEM)",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sumologic.com/company",
+        "https://www.sumologic.com/company/careers",
+        "https://www.sumologic.com/company/leadership",
+        "https://www.sumologic.com/company/newsroom",
+        "https://www.sumologic.com/de/briefs/gartner-siem-critical-capabilities",
+        "https://www.sumologic.com/ja/briefs/gartner-siem-critical-capabilities",
+        "https://www.sumologic.com/ko/briefs/gartner-siem-critical-capabilities"
+      ]
+    },
+    {
+      "url": "https://www.sumologic.com/company",
+      "finalUrl": "https://www.sumologic.com/company",
+      "status": "success",
+      "sha256": "f7f9ac873dbc16fc4625468b1369974f6fb4c053ae37698506b0fe043224f0b9",
+      "title": "Who we are and what we do",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.sumologic.com/company/careers",
+        "https://www.sumologic.com/company/leadership",
+        "https://www.sumologic.com/company/newsroom",
+        "https://www.sumologic.com/de/company",
+        "https://www.sumologic.com/ja/company",
+        "https://www.sumologic.com/ko/company"
+      ]
+    }
+  ]
+}

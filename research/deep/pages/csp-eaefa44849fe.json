@@ -1,0 +1,63 @@
+{
+  "providerId": "csp-eaefa44849fe",
+  "retrievedAt": "2026-10-30T11:01:44.439Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://net-inspect.com/",
+      "finalUrl": "https://www.net-inspect.com/",
+      "status": "success",
+      "sha256": "e9bb4344ab3e41eaaed070270871f0ba36177fd2e49c3e32847f909edbdac1e3",
+      "title": "Supply Chain Management and Quality Management Software | Net-Inspect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.net-inspect.com/about/",
+        "https://www.net-inspect.com/about/press/",
+        "https://www.net-inspect.com/about/compliance/",
+        "https://www.net-inspect.com/about/ai-quality-management-principles/"
+      ]
+    },
+    {
+      "url": "https://www.net-inspect.com/about/",
+      "finalUrl": "https://www.net-inspect.com/about/",
+      "status": "success",
+      "sha256": "f6fdca75ecfb9fc4b62804c7657be9229cdafb933ec8904a8aa649f50ce995f2",
+      "title": "About | Net-Inspect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.net-inspect.com/about/press/",
+        "https://www.net-inspect.com/about/compliance/",
+        "https://www.net-inspect.com/about/ai-quality-management-principles/"
+      ]
+    },
+    {
+      "url": "https://www.net-inspect.com/about/press/",
+      "finalUrl": "https://www.net-inspect.com/about/press/",
+      "status": "success",
+      "sha256": "ce1ca9745325c68879a6cdd96c4a93d21e1c745c70a8dd128d206e959147fe3e",
+      "title": "Press Releases | Net-Inspect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.net-inspect.com/about/compliance/",
+        "https://www.net-inspect.com/about/ai-quality-management-principles/",
+        "https://www.net-inspect.com/about/press/net-inspect-earns-class-c-moderate-certification/",
+        "https://www.net-inspect.com/about/press/net-inspect-joins-digital-metrology-standards-consortium/",
+        "https://www.net-inspect.com/about/press/net-inspect-launches-supplier-deviation-concession-management-solution/",
+        "https://www.net-inspect.com/about/press/net-inspect-and-capvidia-announce-strategic-partnership/",
+        "https://www.net-inspect.com/about/press/net-inspect-and-origin-international-announce-strategic-partnership/"
+      ]
+    },
+    {
+      "url": "https://www.net-inspect.com/about/compliance/",
+      "finalUrl": "https://www.net-inspect.com/about/compliance/",
+      "status": "success",
+      "sha256": "8ae431e92b6d3413653192e07608711bb43dbf5b493c106873ffa913e44f32dc",
+      "title": "Security and Compliance | ITAR Compliant Cloud | Net-Inspect",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.net-inspect.com/about/ai-quality-management-principles/",
+        "https://www.net-inspect.com/about/press/net-inspect-earns-class-c-moderate-certification/"
+      ]
+    }
+  ]
+}

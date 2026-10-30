@@ -1,0 +1,27 @@
+{
+  "providerId": "csp-f4bf90a738cd",
+  "retrievedAt": "2026-10-30T11:00:50.111Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://cahillswift.com/",
+      "finalUrl": "https://www.cahillswift.com/",
+      "status": "success",
+      "sha256": "c35814ca01e654dfb92813200e0d844403b27fce4d049772e76f4d38dce6a29c",
+      "title": "Cahill Swift, LLC | DOT drug and alcohol compliance",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.cahillswift.com/"
+      ]
+    },
+    {
+      "url": "https://www.cahillswift.com/",
+      "finalUrl": "https://www.cahillswift.com/",
+      "status": "success",
+      "sha256": "c35814ca01e654dfb92813200e0d844403b27fce4d049772e76f4d38dce6a29c",
+      "title": "Cahill Swift, LLC | DOT drug and alcohol compliance",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

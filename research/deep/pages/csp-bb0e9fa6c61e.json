@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-bb0e9fa6c61e",
+  "retrievedAt": "2026-10-30T11:02:29.463Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.visiblethread.com/",
+      "finalUrl": "https://www.visiblethread.com/",
+      "status": "success",
+      "sha256": "a7ddf192af79bdba57118dddc7ac66104d4d7f8bfcde90d76101777b267df9a2",
+      "title": "RFP Software",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visiblethread.com/government/",
+        "https://www.visiblethread.com/company/about-us/",
+        "https://www.visiblethread.com/company/careers/",
+        "https://www.visiblethread.com/company/contact-us/",
+        "https://www.visiblethread.com/blog/how-big-bear-uses-visiblethread-to-strengthen-government-proposals/",
+        "https://www.visiblethread.com/blog/statement-of-work-sow-in-government-contracting-everything-you-need-to-know/",
+        "https://www.visiblethread.com/blog/visiblethreads-methodical-approach-to-genai-for-government-contractors/",
+        "https://www.visiblethread.com/government-contracting/",
+        "https://www.visiblethread.com/blog/the-government-contracting-boom-a-growing-opportunity-in-todays-economic-climate/",
+        "https://www.visiblethread.com/customers/",
+        "https://www.visiblethread.com/company/team/",
+        "https://www.visiblethread.com/company/partners/"
+      ]
+    },
+    {
+      "url": "https://www.visiblethread.com/government/",
+      "finalUrl": "https://www.visiblethread.com/government/",
+      "status": "success",
+      "sha256": "f360b45470177eb9cd7bdabde1a1eb5037016d6c268c990b7adb317b11a91a8c",
+      "title": "RFP Software for Government Agencies",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visiblethread.com/company/about-us/",
+        "https://www.visiblethread.com/company/careers/",
+        "https://www.visiblethread.com/company/contact-us/",
+        "https://www.visiblethread.com/company/team/",
+        "https://www.visiblethread.com/company/partners/"
+      ]
+    },
+    {
+      "url": "https://www.visiblethread.com/company/about-us/",
+      "finalUrl": "https://www.visiblethread.com/company/about-us/",
+      "status": "success",
+      "sha256": "2d835d929920854418ddcf343b813ca7fc227442ba4400100b369a90675021c2",
+      "title": "VisibleThread - About Us",
+      "signals": [
+        {
+          "kind": "explicit-small",
+          "excerpt": "hread was a no-brainer for us with its multiple benefits, allowing us as a small business to compete at higher levels. It’s like fighting above our weight class. ” Cheryl Warner Vice President of Business Development, BVTI Product RFP Platform"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.visiblethread.com/company/careers/",
+        "https://www.visiblethread.com/company/contact-us/",
+        "https://www.visiblethread.com/company/team/",
+        "https://www.visiblethread.com/company/partners/"
+      ]
+    },
+    {
+      "url": "https://www.visiblethread.com/company/careers/",
+      "finalUrl": "https://www.visiblethread.com/company/careers/",
+      "status": "success",
+      "sha256": "675093e485114ff858959faa7f562556758e73ab2f55744454ad5eb7a0f6d201",
+      "title": "VisibleThread - Careers",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.visiblethread.com/company/contact-us/",
+        "https://www.visiblethread.com/company/team/",
+        "https://www.visiblethread.com/company/partners/"
+      ]
+    }
+  ]
+}

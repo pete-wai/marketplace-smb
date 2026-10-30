@@ -1,0 +1,79 @@
+{
+  "providerId": "csp-0cff8d0a8237",
+  "retrievedAt": "2026-10-30T11:02:28.719Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://virtru.com/fedramp",
+      "finalUrl": "https://www.virtru.com/global-public-sector",
+      "status": "success",
+      "sha256": "fd6b853b102a152467204de3de5d0465f592219636e822beb232a87dc9959a52",
+      "title": "Data-Centric Security for the Global Public Sector | ZTDF | Virtru",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.virtru.com/global-public-sector/defense?hsLang=en",
+        "https://www.virtru.com/global-public-sector/intelligence?hsLang=en",
+        "https://www.virtru.com/industry-solutions/state-local-government?hsLang=en",
+        "https://www.virtru.com/global-public-sector/systems-integrators?hsLang=en",
+        "https://www.virtru.com/about-us?hsLang=en",
+        "https://www.virtru.com/leadership/?hsLang=en",
+        "https://www.virtru.com/hash-it-out?hsLang=en",
+        "https://www.virtru.com/government/defense?hsLang=en",
+        "https://www.virtru.com/government/intelligence?hsLang=en",
+        "https://www.virtru.com/government/systems-integrators?hsLang=en",
+        "https://www.virtru.com/global-public-sector"
+      ]
+    },
+    {
+      "url": "https://www.virtru.com/global-public-sector/defense?hsLang=en",
+      "finalUrl": "https://www.virtru.com/global-public-sector/defense",
+      "status": "success",
+      "sha256": "9b119c723c456342c05681a30eb80ab041fd0cfbcd73480c38a357957ebd5f04",
+      "title": "Advanced Data Security for National Defense",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.virtru.com/global-public-sector/defense",
+        "https://www.virtru.com/global-public-sector/intelligence?hsLang=en",
+        "https://www.virtru.com/industry-solutions/state-local-government?hsLang=en",
+        "https://www.virtru.com/global-public-sector/systems-integrators?hsLang=en",
+        "https://www.virtru.com/about-us?hsLang=en",
+        "https://www.virtru.com/leadership/?hsLang=en",
+        "https://www.virtru.com/hash-it-out?hsLang=en",
+        "https://www.virtru.com/global-public-sector?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.virtru.com/global-public-sector/intelligence?hsLang=en",
+      "finalUrl": "https://www.virtru.com/global-public-sector/intelligence",
+      "status": "success",
+      "sha256": "23211acb758a7e9fc33fbd211305044923bcb413fa1c5689549a7e24ffe64f91",
+      "title": "Advanced Data Security for National Intelligence",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.virtru.com/global-public-sector/intelligence",
+        "https://www.virtru.com/industry-solutions/state-local-government?hsLang=en",
+        "https://www.virtru.com/global-public-sector/systems-integrators?hsLang=en",
+        "https://www.virtru.com/about-us?hsLang=en",
+        "https://www.virtru.com/leadership/?hsLang=en",
+        "https://www.virtru.com/hash-it-out?hsLang=en",
+        "https://www.virtru.com/global-public-sector?hsLang=en"
+      ]
+    },
+    {
+      "url": "https://www.virtru.com/industry-solutions/state-local-government?hsLang=en",
+      "finalUrl": "https://www.virtru.com/industry-solutions/state-local-government",
+      "status": "success",
+      "sha256": "d0fed04c005022ffcdd55bf643d0acbca245591d01ce39d65b5f7463cc637cf2",
+      "title": "State & Local Government Email & Data Protection - Virtru",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.virtru.com/industry-solutions/state-local-government",
+        "https://www.virtru.com/global-public-sector/systems-integrators?hsLang=en",
+        "https://www.virtru.com/about-us?hsLang=en",
+        "https://www.virtru.com/leadership/?hsLang=en",
+        "https://www.virtru.com/hash-it-out?hsLang=en",
+        "https://www.virtru.com/global-public-sector?hsLang=en"
+      ]
+    }
+  ]
+}

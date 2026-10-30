@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-7063d51d1b2d",
+  "retrievedAt": "2026-10-30T11:02:16.934Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://login.agilquest.com/",
+      "finalUrl": "https://login.agilquest.com/",
+      "status": "success",
+      "sha256": "a5814952eefe8f416e21f6f5a9dce2133cf4758c4de4c089aaa2980dca0ccf89",
+      "title": "Reserve",
+      "signals": [],
+      "discoveredLinks": []
+    }
+  ]
+}

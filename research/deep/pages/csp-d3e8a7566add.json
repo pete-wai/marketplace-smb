@@ -1,0 +1,82 @@
+{
+  "providerId": "csp-d3e8a7566add",
+  "retrievedAt": "2026-10-30T11:01:18.397Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.geotab.com/",
+      "finalUrl": "https://www.geotab.com/",
+      "status": "success",
+      "sha256": "ca9dc7b43d106f1ae71ef4cc7221d7f04a39aa386512601ff6981f58b82ee4db",
+      "title": "One Platform - Total Fleet Management | Geotab",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geotab.com/industries/government/",
+        "https://www.geotab.com/industries/federal-fleet/",
+        "https://www.geotab.com/about/corporate-sustainability/",
+        "https://www.geotab.com/about/",
+        "https://www.geotab.com/about/leadership/",
+        "https://www.geotab.com/about/corporate-social-responsibility/",
+        "https://www.geotab.com/fleet-management-solutions/productivity/",
+        "https://www.geotab.com/fleet-management-solutions/fleet-safety/",
+        "https://www.geotab.com/ace/",
+        "https://www.geotab.com/fleet-management-solutions/fleet-maintenance/",
+        "https://www.geotab.com/fleet-management-solutions/expandability/",
+        "https://www.geotab.com/government/"
+      ]
+    },
+    {
+      "url": "https://www.geotab.com/industries/government/",
+      "finalUrl": "https://www.geotab.com/industries/government/",
+      "status": "success",
+      "sha256": "3a4cfdfe3cf1692e13521ec1a14f534c5b5ed08f2c57daccedda7ed92a5e75ab",
+      "title": "Government Fleet Tracking & Management Software | Geotab",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geotab.com/industries/federal-fleet/",
+        "https://www.geotab.com/about/corporate-sustainability/",
+        "https://www.geotab.com/about/",
+        "https://www.geotab.com/about/leadership/",
+        "https://www.geotab.com/about/corporate-social-responsibility/",
+        "https://www.geotab.com/public-sector/",
+        "https://www.geotab.com/blog/fleet-costs/",
+        "https://www.geotab.com/white-paper/rolling-out-telematics-in-government-fleet",
+        "https://www.geotab.com/industries/federal-fleet",
+        "https://www.geotab.com/government/"
+      ]
+    },
+    {
+      "url": "https://www.geotab.com/industries/federal-fleet/",
+      "finalUrl": "https://www.geotab.com/industries/federal-fleet/",
+      "status": "success",
+      "sha256": "00c4990851d5595bd0cb97dd7a693b04c9593e2636ae0ebaa0f0ca6109a58b1b",
+      "title": "Federal Government Fleet Management | Geotab",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geotab.com/about/corporate-sustainability/",
+        "https://www.geotab.com/about/",
+        "https://www.geotab.com/about/leadership/",
+        "https://www.geotab.com/about/corporate-social-responsibility/",
+        "https://www.geotab.com/public-sector/",
+        "https://www.geotab.com/white-paper/rolling-out-telematics-in-government-fleet",
+        "https://www.geotab.com/press-release/general-services-administration-contract/",
+        "https://www.geotab.com/press-release/one-million-public-sector-subscriptions/",
+        "https://www.geotab.com/government/"
+      ]
+    },
+    {
+      "url": "https://www.geotab.com/about/corporate-sustainability/",
+      "finalUrl": "https://www.geotab.com/about/corporate-sustainability/",
+      "status": "success",
+      "sha256": "5e28f0ba8cbf3f1681cbcbdf5c485e9981458b50041a81eb49b2b5a4e0ab9f24",
+      "title": "Corporate Sustainability | Geotab",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.geotab.com/about/",
+        "https://www.geotab.com/about/leadership/",
+        "https://www.geotab.com/about/corporate-social-responsibility/",
+        "https://www.geotab.com/government/"
+      ]
+    }
+  ]
+}

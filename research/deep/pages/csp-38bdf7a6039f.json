@@ -1,0 +1,44 @@
+{
+  "providerId": "csp-38bdf7a6039f",
+  "retrievedAt": "2026-10-30T11:01:26.618Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.itamar-medical.com/",
+      "finalUrl": "https://www.itamar-medical.com/",
+      "status": "success",
+      "sha256": "551d608336eacd32736fb6a4f04ee9bb2a80119fd905580b5cce6e8c13b28289",
+      "title": "home-new - ZOLL Itamar",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "tries. For example, WatchPAT ® is a trademark of Itamar Medical Ltd a subsidiary of ZOLL Medical Corporation, in the United States and/or other countries. All other trademarks are the property of their respective owners., registered in the U.S. and"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.itamar-medical.com/company-profile/"
+      ]
+    },
+    {
+      "url": "https://www.itamar-medical.com/company-profile/",
+      "finalUrl": "https://www.itamar-medical.com/company-profile/",
+      "status": "success",
+      "sha256": "a842ff0a3a642dc5147a9a559ba738ea074dbbc999b05b757ec951fdc6592dc0",
+      "title": "Medical Device Company Profile - ZOLL Itamar",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "PAT ® products and services. Itamar ® Medical was founded in 1997 and acquired by ZOLL ® in 2021. Request A Demo Of Our Home Sleep Apnea Test To reach out customer support please send an email to [email protected]"
+        }
+      ],
+      "discoveredLinks": [
+        "https://www.itamar-medical.com/company-profile/.demo-request"
+      ]
+    },
+    {
+      "url": "https://www.itamar-medical.com/company-profile/.demo-request",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

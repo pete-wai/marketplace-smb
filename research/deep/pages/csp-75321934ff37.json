@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-75321934ff37",
+  "retrievedAt": "2026-10-30T11:00:41.838Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.armis.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

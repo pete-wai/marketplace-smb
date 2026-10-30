@@ -1,0 +1,89 @@
+{
+  "providerId": "csp-80ebdb9dc336",
+  "retrievedAt": "2026-10-30T11:00:59.649Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://www.crestron.com/",
+      "finalUrl": "https://www.crestron.com/",
+      "status": "success",
+      "sha256": "c7e6a27ce0e600cd6ade5c810aa87618534ed5e5aa4106fa50c089d15fe1081a",
+      "title": "Control Systems for Home Automation, Campus & Building Control by Crestron Electronics [Crestron Electronics, Inc.]",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crestron.com/About",
+        "https://www.crestron.com/About/Sustainability",
+        "https://www.crestron.com/About/Social-Responsibility",
+        "https://www.crestron.com/About/Environmental-Impact",
+        "https://www.crestron.com/About/Our-Commitment",
+        "https://www.crestron.com/About/commitment-to-security"
+      ]
+    },
+    {
+      "url": "https://www.crestron.com/About",
+      "finalUrl": "https://www.crestron.com/about/company-overview-information",
+      "status": "success",
+      "sha256": "f9df7072d6cbc833c401dc32544417ca8970f0ed5dc6b2951a2ed13a834e79bd",
+      "title": "Company Overview [Crestron Electronics, Inc.]",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crestron.com/about/company-overview-information",
+        "https://www.crestron.com/about/$%7BquickLink.URL%7D",
+        "https://www.crestron.com/about/$%7Belement.elementURL%7D",
+        "https://www.crestron.com/about/$%7Belement.menuItemURLInternal%7D",
+        "https://www.crestron.com/about/$%7BpanelData.Url%7D",
+        "https://www.crestron.com/about/$%7BfileURL%7D",
+        "https://www.crestron.com/about/$%7BsubMenuURL%7D",
+        "https://www.crestron.com/about/$%7Blink.Url%7D",
+        "https://www.crestron.com/solutions/market/government-eoc-noc-ccc-courtroom-automation",
+        "https://www.crestron.com/About/Sustainability",
+        "https://www.crestron.com/About/Social-Responsibility",
+        "https://www.crestron.com/About/Environmental-Impact"
+      ]
+    },
+    {
+      "url": "https://www.crestron.com/About/Sustainability",
+      "finalUrl": "https://www.crestron.com/About/Crestrons-Commitment-to-Sustainability",
+      "status": "success",
+      "sha256": "1584f5550897946ef21303a5083100a960beec8d88729a88fbe32aa9ac12a07b",
+      "title": "Crestron&#39;s Commitment to Sustainability [Crestron Electronics, Inc.]",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crestron.com/About/Crestrons-Commitment-to-Sustainability",
+        "https://www.crestron.com/About/$%7BquickLink.URL%7D",
+        "https://www.crestron.com/About/$%7Belement.elementURL%7D",
+        "https://www.crestron.com/About/$%7Belement.menuItemURLInternal%7D",
+        "https://www.crestron.com/About/$%7BpanelData.Url%7D",
+        "https://www.crestron.com/About/$%7BfileURL%7D",
+        "https://www.crestron.com/About/$%7BsubMenuURL%7D",
+        "https://www.crestron.com/About/$%7Blink.Url%7D",
+        "https://www.crestron.com/about/company-overview-information",
+        "https://www.crestron.com/About/Environmental-Impact",
+        "https://www.crestron.com/About/Social-Responsibility",
+        "https://www.crestron.com/About/Commitment-to-Sustainability"
+      ]
+    },
+    {
+      "url": "https://www.crestron.com/About/Social-Responsibility",
+      "finalUrl": "https://www.crestron.com/About/Crestron-Social-Responsibility",
+      "status": "success",
+      "sha256": "602ef19de1565fecbd1bfe1ab5dbf2df25543418f3985ffdee5a618ebff69d72",
+      "title": "Crestron Social Responsibility [Crestron Electronics, Inc.]",
+      "signals": [],
+      "discoveredLinks": [
+        "https://www.crestron.com/About/Crestron-Social-Responsibility",
+        "https://www.crestron.com/About/$%7BquickLink.URL%7D",
+        "https://www.crestron.com/About/$%7Belement.elementURL%7D",
+        "https://www.crestron.com/About/$%7Belement.menuItemURLInternal%7D",
+        "https://www.crestron.com/About/$%7BpanelData.Url%7D",
+        "https://www.crestron.com/About/$%7BfileURL%7D",
+        "https://www.crestron.com/About/$%7BsubMenuURL%7D",
+        "https://www.crestron.com/About/$%7Blink.Url%7D",
+        "https://www.crestron.com/about/company-overview-information",
+        "https://www.crestron.com/About/Environmental-Impact",
+        "https://www.crestron.com/About/Commitment-to-Sustainability",
+        "https://www.crestron.com/About/Our-Commitment"
+      ]
+    }
+  ]
+}

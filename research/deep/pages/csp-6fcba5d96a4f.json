@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-6fcba5d96a4f",
+  "retrievedAt": "2026-10-30T11:02:32.420Z",
+  "purpose": "Bounded official-site discovery; no automatic size finding",
+  "attempts": [
+    {
+      "url": "https://x.ai/grok/government",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}
