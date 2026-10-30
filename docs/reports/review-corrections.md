@@ -1,5 +1,7 @@
 # Review of annual counts and non-pilot 20x · October 30, 2026
 
+> Superseded audit record: the figures below describe the earlier review, not current results. Use [current participation](participation.md), [annual cohorts](annual-cohorts.md), and the [second-pass checkpoint](second-pass.md). Current certified non-pilot 20x is 3/8; the historical-size audit remains preserved.
+
 This review keeps the Marketplace snapshot fixed so classification and presentation changes can be distinguished from new listings.
 
 ## What was misleading

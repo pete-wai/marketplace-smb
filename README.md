@@ -98,7 +98,7 @@ This repository is separate from the `fedramp-web` prototype lab. It does not mo
 
 ## First deeper review (October 30, 2026; superseded by the checkpoint below)
 
-The reviewed pass is recorded in `research/deep/decisions.json`. It has 131 individual decisions and preserves the pre-review snapshot in `research/deep/baseline.json`. Source discovery and researcher proposals are retained separately; proposals are not automatically accepted. The full ledger gives all 707 providers a disposition and distinguishes individual review from screening. It includes 620 bounded site-discovery attempts and the 50-record stratified audit, with overlap. This is not exhaustive individual research of 707 companies.
+The first reviewed pass is preserved in `research/pass2/prior-decisions.json`. It had 131 individual decisions and preserves the pre-review snapshot in `research/deep/baseline.json`. Source discovery and researcher proposals are retained separately; proposals are not automatically accepted. The full ledger gives all 707 providers a disposition and distinguishes individual review from screening. It includes 620 bounded site-discovery attempts and the 50-record stratified audit, with overlap. This is not exhaustive individual research of 707 companies.
 
 Current listed small share changed from 182/662 to 179/662 (27.04%); current unknowns fell from 399 to 352. The 68 changes include confidence changes as well as classifications. Historical assessments, Marketplace snapshot, identities, and denominators are preserved. See [the research report](docs/reports/deep-research.md) and [methodology](https://pete-wai.github.io/marketplace-smb/methodology/).
 
