@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c9a8dee159d7",
+  "retrievedAt": "2026-10-30T09:11:09.954Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cobblestonesoftware.com/",
+      "finalUrl": "https://www.cobblestonesoftware.com/",
+      "status": "success",
+      "sha256": "526744fd4c3326e3c8cb946d1c415f94dcf4f0ad27ab87eb27f1c5f4f535648e",
+      "title": "Contract Management &amp; Procurement Software | CobbleStone Software",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "s Records Managed in CobbleStone ® 24 Million + Contract management tailored for you. Enterprise Intelligence scala"
+        }
+      ]
+    }
+  ]
+}

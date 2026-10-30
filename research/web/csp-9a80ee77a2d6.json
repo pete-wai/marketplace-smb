@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-9a80ee77a2d6",
+  "retrievedAt": "2026-10-30T09:11:48.194Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://pdri.com/platform/",
+      "finalUrl": "https://pdri.com/platform/",
+      "status": "success",
+      "sha256": "bf0451d46eefe5ced2c66ff46193269fca554d39228b8f2ce9031c53d5995dfb",
+      "title": "Palladium - PDRI",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "tal and Training Solutions (HCaTS) Small Business Interest About PDRI News Leadership Team Join Our Team Contact Us"
+        }
+      ]
+    }
+  ]
+}

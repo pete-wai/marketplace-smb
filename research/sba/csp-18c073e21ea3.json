@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-18c073e21ea3",
+  "providerName": "United States Department of the Treasury",
+  "retrievedAt": "2026-10-30T09:13:33.790Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "United States Department of the Treasury",
+      "status": "success",
+      "results": 3178,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-266cfc407ad7",
+  "retrievedAt": "2026-10-30T09:11:00.275Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.avature.net",
+      "finalUrl": "https://www.avature.net/",
+      "status": "success",
+      "sha256": "d20f935022f0e9bfb914ba326d58d6b648772bf19e023e5ceece07f0b5d0d938",
+      "title": "AI-Powered Recruitment and Talent Management Platform | Avature",
+      "signals": []
+    }
+  ]
+}

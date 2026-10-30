@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a7f5da6139a3",
+  "retrievedAt": "2026-10-30T09:12:00.068Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://sofwarellc.com/forge.html",
+      "finalUrl": "https://sofwarellc.com/forge.html",
+      "status": "success",
+      "sha256": "95e24a98f143cb79725da49fecf3dd6e5e5b23ad8bd4e0c8a6b3e694df36b38c",
+      "title": "FORGE&trade; | SOFware",
+      "signals": []
+    }
+  ]
+}

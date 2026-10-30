@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4b349a4b2988",
+  "providerName": "NCR Government, LLC",
+  "retrievedAt": "2026-10-30T09:11:59.749Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NCR Government,",
+      "status": "success",
+      "results": 44,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

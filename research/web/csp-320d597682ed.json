@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-320d597682ed",
+  "retrievedAt": "2026-10-30T09:10:59.498Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.autodesk.com/",
+      "finalUrl": "https://www.autodesk.com/",
+      "status": "success",
+      "sha256": "02ff3c10fec00a47ecd18a925386416854e6b4a43919d00368c4f33a3336aa88",
+      "title": "Autodesk | 3D Design, Engineering &amp;amp; Construction Software",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "\"bold\\\"}],\\\"value\\\":\\\"Autodesk for small business: \\\",\\\"nodeType\\\":\\\"text\\\"},{\\\"data\\\":{},\\\"marks\\\":[],\\\"value\\\":\\\""
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "value\\\":\\\"Attach point cloud files acquired by 3D laser scanners or other technologies to use as a starting point f"
+        }
+      ]
+    }
+  ]
+}

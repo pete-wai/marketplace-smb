@@ -1,0 +1,101 @@
+{
+  "providerId": "csp-80364114e6ec",
+  "providerName": "GovStrive, LLC",
+  "retrievedAt": "2026-10-30T09:14:52.241Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "UKXQJYEKUN34",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "GOVSTRIVE LLC",
+      "dba_name": "",
+      "uei": "UKXQJYEKUN34",
+      "cage_code": "6V5E1",
+      "naics_primary": "541612",
+      "naics_all_codes": [
+        "541199",
+        "541214",
+        "541219",
+        "541330",
+        "541410",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541613",
+        "541614",
+        "541618",
+        "541720",
+        "541910",
+        "541930",
+        "541990",
+        "561110",
+        "561210",
+        "561311",
+        "561312",
+        "561320",
+        "561330",
+        "561410",
+        "561422",
+        "561499",
+        "561611",
+        "561920",
+        "561990",
+        "611430",
+        "624190",
+        "711320",
+        "812990",
+        "813920",
+        "923110"
+      ],
+      "naics_small_codes": [
+        "541214",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541612",
+        "561210",
+        "561311",
+        "561312",
+        "561320",
+        "561330"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1771200000,
+      "website": "www.govstrive.com",
+      "additional_website": "http://www.govstrive.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "HUBZone",
+          "active": true,
+          "entranceDate": "2013-12-30",
+          "exitDate": "2027-12-30",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

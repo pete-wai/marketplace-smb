@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d3566809b85a",
+  "retrievedAt": "2026-10-30T09:11:08.364Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://circleci.com/",
+      "finalUrl": "https://circleci.com/",
+      "status": "success",
+      "sha256": "93c196b66957edb22e3bdc50fba2f4d599d91db91e1b236f8aa518478a86abca",
+      "title": "Autonomous validation for the AI era - CircleCI",
+      "signals": []
+    }
+  ]
+}

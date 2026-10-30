@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b9a87d9826ce",
+  "retrievedAt": "2026-10-30T09:11:57.911Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sevenbridges.com/",
+      "finalUrl": "https://www.sevenbridges.com/",
+      "status": "success",
+      "sha256": "a0160fa043f968a98c4366d4f2153b36252ce097c179496ebdf96de9de346e99",
+      "title": "Seven Bridges Genomics - The biomedical data analysis company",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "idges Genomics - The biomedical data analysis company Skip to content Primary Menu industries BioPharma and NGS hea"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b1b40dcb8dfa",
+  "retrievedAt": "2026-10-30T09:12:12.334Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.zscaler.com",
+      "finalUrl": "https://www.zscaler.com/",
+      "status": "success",
+      "sha256": "61ab53913d725cedaef14dc972482ff07e1bb161078f4196f8741a39ca357b55",
+      "title": "Leading Cloud Enterprise Security Provider for Zero Trust",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": ". Financial Services and Insurance 16,000 employees Deutsche Börse Group Secures Financial Markets with the Zscaler"
+        }
+      ]
+    }
+  ]
+}

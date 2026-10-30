@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-6ca148dbe173",
+  "retrievedAt": "2026-10-30T09:15:01.700Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://corasystems.com/industry/govcon-program-management-software/",
+      "finalUrl": "https://corasystems.com/industry/government-contracting-project-management-software",
+      "status": "success",
+      "sha256": "67001f8b26c233b1e8f4c651736505107f52ea81396ed84345b9962c896ddb92",
+      "title": "GovCon Project Management Software (EVMS, FAR/DFARS) | Cora",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "andards. The Value Cora Generates $450 Million “Improvement to bottom line” 2% Increase \"In net profit on projects”"
+        }
+      ]
+    }
+  ]
+}

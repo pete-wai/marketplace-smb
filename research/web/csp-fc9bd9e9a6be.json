@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-fc9bd9e9a6be",
+  "retrievedAt": "2026-10-30T09:12:07.906Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://valid8financial.com",
+      "finalUrl": "https://www.valid8financial.com/",
+      "status": "success",
+      "sha256": "e01a6294db03836df312ffcd91710276814cfbb8e5404d8511252f6cc9bcb7aa",
+      "title": "Verified Financial Intelligence &amp; Forensic Accounting Software - Valid8 Financial",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "tured Case Study Featured Tracing $1 Million In Stolen Foreclosure Funds Across 13 Accounts Read the Case Study → C"
+        }
+      ]
+    }
+  ]
+}

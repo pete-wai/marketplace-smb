@@ -1,0 +1,84 @@
+{
+  "providerId": "csp-d58999507a10",
+  "providerName": "Nominal, Inc.",
+  "retrievedAt": "2026-10-30T09:12:05.606Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Nominal, .",
+      "status": "success",
+      "results": 7,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "NOMINAL, INC.",
+      "dba_name": "",
+      "uei": "QPBJMYLAF787",
+      "cage_code": "9F5J9",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791331200,
+      "website": "nominal.io",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2022",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": [
+    {
+      "legal_business_name": "NOMINAL USG, LLC",
+      "dba_name": "",
+      "uei": "L53MPULW5RQ3",
+      "cage_code": "13KJ3",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1767744000,
+      "website": "https://nominal.io/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2025",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

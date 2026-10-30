@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d2153d1e4855",
+  "retrievedAt": "2026-10-30T09:11:20.323Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.elekta.com/products/oncology-informatics/elekta-one/real-world-outcomes/proknow/",
+      "finalUrl": "https://www.elekta.com/products/oncology-informatics/elekta-one/real-world-outcomes/proknow/",
+      "status": "success",
+      "sha256": "cfd3eeaab1cf90eae8a673104f68eaf72644fd672572580208a7f6a201fe382a",
+      "title": "ProKnow | Cancer Care Software | Radiation Therapy | Elekta",
+      "signals": []
+    }
+  ]
+}

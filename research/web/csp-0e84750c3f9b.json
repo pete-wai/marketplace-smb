@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-0e84750c3f9b",
+  "retrievedAt": "2026-10-30T09:10:54.849Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.agilerank.com/",
+      "finalUrl": "https://www.agilerank.com/",
+      "status": "success",
+      "sha256": "09e8fca2d4bd6fa8926f63badcf7f8d257d92d73a7ac4cd1a6345e1d46db50c6",
+      "title": "Home | Agilerank",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "s a Service-Disabled Veteran-Owned Small Business (SDVOSB) information technology firm based out of the Washington "
+        }
+      ]
+    }
+  ]
+}

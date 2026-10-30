@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-4046587ba172",
+  "providerName": "Gallery Systems",
+  "retrievedAt": "2026-10-30T09:10:35.855Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Gallery Systems",
+      "status": "success",
+      "results": 221,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "GALLERY SYSTEMS, INC.",
+      "dba_name": "",
+      "uei": "X97KWJLKVJB9",
+      "cage_code": "3S2M2",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1778112000,
+      "website": "http://gallerysystems.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1993",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

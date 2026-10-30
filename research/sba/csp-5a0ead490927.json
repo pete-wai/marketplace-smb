@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5a0ead490927",
+  "providerName": "Tactical Takedown LLC",
+  "retrievedAt": "2026-10-30T09:13:02.605Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CJH1B9XPAQQ6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Tactical Takedown",
+      "status": "success",
+      "results": 2107,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

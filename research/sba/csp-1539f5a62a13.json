@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-1539f5a62a13",
+  "providerName": "Abnormal AI",
+  "retrievedAt": "2026-10-30T09:09:08.166Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "C1MPKNUNE761",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Abnormal AI",
+      "status": "success",
+      "results": 12,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

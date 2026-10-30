@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-31ff403a64d8",
+  "retrievedAt": "2026-10-30T09:11:29.108Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.informatica.com/solutions/industry-solutions/public-sector.html",
+      "finalUrl": "https://www.informatica.com/solutions/industry-solutions/public-sector.html",
+      "status": "success",
+      "sha256": "490befc9aa496008becc2ddf65e3b4442ad425232e5e62361aef227cbe23236d",
+      "title": "Federal Government Data Management",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "s, resulting in annual savings of $65 million. learn more The FDA Center for Drug Evaluation and Research uses mode"
+        }
+      ]
+    }
+  ]
+}

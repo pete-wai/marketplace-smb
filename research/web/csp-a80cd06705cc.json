@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a80cd06705cc",
+  "retrievedAt": "2026-10-30T09:11:06.003Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.calderapbc.com/platform",
+      "finalUrl": "https://www.calderapbc.com/platform",
+      "status": "success",
+      "sha256": "8fefc09bc48d19502ccd4df27173d5218bf1a86bff0a1303d0030037b5349d23",
+      "title": "The Mesa platform | Caldera PBC",
+      "signals": []
+    }
+  ]
+}

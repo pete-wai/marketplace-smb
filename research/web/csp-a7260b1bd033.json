@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-a7260b1bd033",
+  "retrievedAt": "2026-10-30T09:12:04.629Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://coleridgeinitiative.org/",
+      "finalUrl": "https://coleridge.us/",
+      "status": "success",
+      "sha256": "e945a2c972b58ee8fc218c46ec8b0fb181478e4a9651ed8f06e15b7adfc3f908",
+      "title": "Home | Coleridge Initiative | Coleridge Initiative",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "nitiative made possible through a $19.5 million investment from Ascendium Education Group. Together, we are helping"
+        }
+      ]
+    }
+  ]
+}

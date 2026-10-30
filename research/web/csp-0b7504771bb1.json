@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-0b7504771bb1",
+  "retrievedAt": "2026-10-30T09:11:42.599Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.nextgenid.com/",
+      "finalUrl": "https://www.nextgenid.com/",
+      "status": "success",
+      "sha256": "ea028ecc133415437f1b63f3adada60b4cfd52ba10497197f5208ced77546987",
+      "title": "IAL3 Identity Proofing, Credentialing &amp; Enrollment | NextgenID",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "nto Fairfax City, proving that our small business ecosystem can compete on a national and global scale. Their decis"
+        }
+      ]
+    }
+  ]
+}

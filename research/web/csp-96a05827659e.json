@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-96a05827659e",
+  "retrievedAt": "2026-10-30T09:11:13.301Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.coretsu.us",
+      "finalUrl": "https://www.coretsu.us/",
+      "status": "success",
+      "sha256": "6c686d74c6b029d4ed4db08d1dbf8788ca6ebf15cf315e1e78c66a6ba3f1f992",
+      "title": "Sherpa",
+      "signals": []
+    }
+  ]
+}

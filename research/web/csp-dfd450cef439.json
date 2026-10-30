@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-dfd450cef439",
+  "retrievedAt": "2026-10-30T09:11:07.840Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://chargie.com",
+      "finalUrl": "https://www.chargie.com/",
+      "status": "success",
+      "sha256": "97de9c5298060dc4d7535c06cc664e144fde8ed8e5d6f0c45dcb6b484122f3af",
+      "title": "Electric Vehicle (EV) Charging Stations | Chargie",
+      "signals": []
+    }
+  ]
+}

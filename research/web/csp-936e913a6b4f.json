@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-936e913a6b4f",
+  "retrievedAt": "2026-10-30T09:15:02.233Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://e-builder.net/",
+      "finalUrl": "https://www.trimble.com/en/products/trimble-unity-construct",
+      "status": "success",
+      "sha256": "fd14b9d231c47f9cce1e8516ebe979800e5ed64db1873bb49f7f5cf48b318d6b",
+      "title": "Trimble Unity Construct: The Next Evolution of e-Builder",
+      "signals": []
+    }
+  ]
+}

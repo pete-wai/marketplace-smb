@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f919ad813262",
+  "retrievedAt": "2026-10-30T09:11:35.159Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.liferay.com",
+      "finalUrl": "https://www.liferay.com/",
+      "status": "success",
+      "sha256": "a9069d2b56a425e60b3a03d07c63bb8310c5e998d1219437a8c21b24c65899ef",
+      "title": "Headless &amp; Composable DXP | AI, CMS, DAM, Portals, Commerce - Liferay DXP",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "tured Skoda Auto's Intranet Serves 40,000 Employees Inside Škoda personalized employee experience 11 Building Block"
+        }
+      ]
+    }
+  ]
+}

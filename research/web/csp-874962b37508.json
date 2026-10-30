@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-874962b37508",
+  "retrievedAt": "2026-10-30T09:12:00.157Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.somnoware.com/",
+      "finalUrl": "https://www.somnoware.com/",
+      "status": "success",
+      "sha256": "466de256fe9784b1a4de4fbcf0ab75ef8f7ee18f7b402b96222c35e1e5a91d66",
+      "title": "Sleep Diagnostics and Respiratory Care Management | Somnoware by Resmed",
+      "signals": []
+    }
+  ]
+}

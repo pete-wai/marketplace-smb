@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-846774e6abd6",
+  "providerName": "Tyler Technologies Data & Insights",
+  "retrievedAt": "2026-10-30T09:13:30.902Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Tyler Technologies Data & Insights",
+      "status": "success",
+      "results": 164,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

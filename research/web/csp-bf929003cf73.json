@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-bf929003cf73",
+  "retrievedAt": "2026-10-30T09:11:32.057Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.kahua.com/",
+      "finalUrl": "https://kahua.com/",
+      "status": "success",
+      "sha256": "8371a14ddb392cc111ef9bf760e028abe321212492c9b31cc414c0628f8dfa2a",
+      "title": "Kahua | Construction Project Management Software",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "o our team Want to dig deeper? Get a demo Company Security and Compliance Deliver every project with confidence on "
+        }
+      ]
+    }
+  ]
+}

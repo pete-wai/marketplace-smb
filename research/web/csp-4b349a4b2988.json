@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4b349a4b2988",
+  "retrievedAt": "2026-10-30T09:11:41.566Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ncrvoyix.com/company/public-sector",
+      "finalUrl": "https://www.ncrvoyix.com/industry/retail",
+      "status": "success",
+      "sha256": "f85db32fb8db7db28aef916e8b9d47330fd19294877a3d8e8a421a2283d6a911",
+      "title": "Voyix POS Retail Technology Platform &amp; Solutions | NCR Voyix",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-02e19ea8d338",
+  "providerName": "DTEX Systems, Inc.",
+  "retrievedAt": "2026-10-30T09:10:20.060Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "RNMZVVMLJVC4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "DTEX SYSTEMS, INC",
+      "dba_name": "",
+      "uei": "RNMZVVMLJVC4",
+      "cage_code": "7ER16",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541512",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1773360000,
+      "website": "https://www.dtex.ai",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2014",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

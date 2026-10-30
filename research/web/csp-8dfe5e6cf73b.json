@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8dfe5e6cf73b",
+  "retrievedAt": "2026-10-30T09:11:53.286Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/aws",
+      "finalUrl": "https://www.redhat.com/en/technologies/cloud-computing/openshift/aws",
+      "status": "success",
+      "sha256": "8f04f6f13e5551a8670fb46c4e9a48b3d0b10a745909569c4385df57fa568fbd",
+      "title": "Red Hat OpenShift Service on AWS",
+      "signals": []
+    }
+  ]
+}

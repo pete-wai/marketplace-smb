@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-f98407019f8c",
+  "providerName": "Abbott, Inc.",
+  "retrievedAt": "2026-10-30T09:09:07.952Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Abbott, .",
+      "status": "success",
+      "results": 51,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

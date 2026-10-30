@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-455a707cc506",
+  "retrievedAt": "2026-10-30T09:11:32.719Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.knightscope.com/",
+      "finalUrl": "https://knightscope.com/",
+      "status": "success",
+      "sha256": "160c6720f34695ae6f76e1fcfd1c33dbe50cf1c976a7856d9bb07da831213aab",
+      "title": "Knightscope — The Nation's First Autonomous Security Force",
+      "signals": []
+    }
+  ]
+}

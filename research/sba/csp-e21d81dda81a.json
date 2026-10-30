@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-e21d81dda81a",
+  "providerName": "TRM Labs, Inc.",
+  "retrievedAt": "2026-10-30T09:13:29.903Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EW97MHKPD1P8",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "TRM Labs, .",
+      "status": "success",
+      "results": 17,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

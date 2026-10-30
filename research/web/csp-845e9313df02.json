@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-845e9313df02",
+  "retrievedAt": "2026-10-30T09:11:22.378Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://etherfax.net/government ",
+      "finalUrl": "https://www.etherfax.net/government/",
+      "status": "success",
+      "sha256": "0d29eabc3286d7a1ef92ffbd8d6ab11d85de17053e3435571ffefa129f368036",
+      "title": "Secure Cloud Based Fax for Government Agencies",
+      "signals": []
+    }
+  ]
+}

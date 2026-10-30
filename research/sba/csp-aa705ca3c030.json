@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-aa705ca3c030",
+  "providerName": "Meterbox Inc.",
+  "retrievedAt": "2026-10-30T09:11:51.427Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Meterbox .",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

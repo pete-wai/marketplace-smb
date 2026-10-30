@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-91c2e0669804",
+  "retrievedAt": "2026-10-30T09:11:56.526Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://saviynt.com/",
+      "finalUrl": "https://saviynt.com/",
+      "status": "success",
+      "sha256": "507e9f27627f2f41a16965ad0db234be4ec1afe164f5924dd4e1d0d13b943d08",
+      "title": "Secure Every Identity | Unified Identity Governance Solutions | Saviynt",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "y Platform Watch Launch Event Over 100 million identities secured globally Your enterprise control plane for AI We "
+        }
+      ]
+    }
+  ]
+}

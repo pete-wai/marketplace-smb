@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-39918274b585",
+  "retrievedAt": "2026-10-30T09:12:00.004Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://aris.com/",
+      "finalUrl": "https://aris.com/",
+      "status": "success",
+      "sha256": "e55a0c4661fd90129e91e941df870061889865cb1119bfc636d7db90f4e7ba40",
+      "title": "Unlock the Value Potential Trapped within AI - ARIS",
+      "signals": []
+    }
+  ]
+}

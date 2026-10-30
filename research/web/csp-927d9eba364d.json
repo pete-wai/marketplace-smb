@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-927d9eba364d",
+  "retrievedAt": "2026-10-30T09:11:12.010Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.valiantysfederal.com",
+      "finalUrl": "https://www.valiantysfederal.com/",
+      "status": "success",
+      "sha256": "c34b39eac0c3098c23687b2922a776acbff3d26a63680b09cbdb02cf643c6a92",
+      "title": "\r\n    \n    Secure Federal Solutions | Valiantys Federal | U.S.A.\n  \r\n  ",
+      "signals": []
+    }
+  ]
+}

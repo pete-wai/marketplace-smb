@@ -1,0 +1,97 @@
+{
+  "providerId": "csp-2955da5eadb6",
+  "providerName": "Armedia, LLC",
+  "retrievedAt": "2026-10-30T09:09:20.968Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "YY5MPEDLKXE8",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ARMEDIA LLC",
+      "dba_name": "",
+      "uei": "YY5MPEDLKXE8",
+      "cage_code": "3HAW7",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "519210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541930",
+        "541990",
+        "561110",
+        "561410",
+        "561621",
+        "561990"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "519210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541930",
+        "561621"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1791331200,
+      "website": "http://www.armedia.com",
+      "additional_website": "http://www.armedia.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2002",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2005-05-06",
+          "exitDate": "2014-05-06",
+          "caseNumber": "32545",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": null,
+          "officeId": null
+        },
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2023-09-18",
+          "exitDate": "2028-03-18",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-09-18",
+          "exitDate": "2028-03-18",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

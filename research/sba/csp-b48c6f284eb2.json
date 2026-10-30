@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-b48c6f284eb2",
+  "providerName": "Everlaw, Inc.",
+  "retrievedAt": "2026-10-30T09:10:26.439Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "VL9GLDMAN889",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Everlaw, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

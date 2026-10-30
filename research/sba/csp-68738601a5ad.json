@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-68738601a5ad",
+  "providerName": "Cisco AppDynamics",
+  "retrievedAt": "2026-10-30T09:09:42.166Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Cisco AppDynamics",
+      "status": "success",
+      "results": 1052,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

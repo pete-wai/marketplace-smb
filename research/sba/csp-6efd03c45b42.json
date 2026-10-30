@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-6efd03c45b42",
+  "providerName": "Sprinklr, Inc.",
+  "retrievedAt": "2026-10-30T09:12:59.603Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Sprinklr, .",
+      "status": "success",
+      "results": 474,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c553c6eb7ad4",
+  "retrievedAt": "2026-10-30T09:11:10.129Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cofense.com/solutions/industry/federal-government/",
+      "finalUrl": "https://cofense.com/",
+      "status": "success",
+      "sha256": "5440cdae4b8136d72b745ba3d76407ccfbc5593b62f3e9f25b14a3563c60729a",
+      "title": "Phishing Defense Powered by AI & Human Insight | Cofense",
+      "signals": []
+    }
+  ]
+}

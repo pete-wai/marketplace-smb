@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-7d82b1bc77c5",
+  "providerName": "Syneren Technologies Corporation",
+  "retrievedAt": "2026-10-30T09:13:01.601Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KQUHZMCJGUC5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SYNEREN TECHNOLOGIES CORPORATION",
+      "dba_name": "",
+      "uei": "KQUHZMCJGUC5",
+      "cage_code": "3HF13",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "334418",
+        "334419",
+        "336413",
+        "513210",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541990",
+        "561210"
+      ],
+      "naics_small_codes": [
+        "334418",
+        "334419",
+        "336413",
+        "513210",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541990",
+        "561210"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1778198400,
+      "website": "http://www.syneren.com",
+      "additional_website": "https://syneren.com/all-contracts.html",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2003",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2005-10-26",
+          "exitDate": "2014-10-26",
+          "caseNumber": "32718",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": null,
+          "officeId": null
+        },
+        {
+          "name": "WOSB",
+          "active": true,
+          "entranceDate": "2020-11-18",
+          "exitDate": "2027-02-08",
+          "pending": false,
+          "suspended": false,
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b1238abce01d",
+  "retrievedAt": "2026-10-30T09:11:28.343Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ideagen.com ",
+      "finalUrl": "https://www.ideagen.com/noram/",
+      "status": "success",
+      "sha256": "cad70971c63a914ef2d1ee81886c3ea6304a38eeae1ec67bd29d1d5dbda494ca",
+      "title": "GRC Software Management Solutions",
+      "signals": []
+    }
+  ]
+}

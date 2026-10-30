@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-8ab95df603f7",
+  "providerName": "Freshworks",
+  "retrievedAt": "2026-10-30T09:10:35.289Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "G7ZZLNUUUXV2",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Freshworks",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

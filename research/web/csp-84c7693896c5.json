@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-84c7693896c5",
+  "retrievedAt": "2026-10-30T09:12:02.030Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://sunstonesecure.com/platform",
+      "finalUrl": "https://sunstonesecure.com/platform",
+      "status": "success",
+      "sha256": "b4e9b48a27801e54dc674873153c1ac62cc958c484b981f1930f9d3abfcbdc3d",
+      "title": "Artemis Platform — FedRAMP &amp; CMMC Compliance | SunStone",
+      "signals": []
+    }
+  ]
+}

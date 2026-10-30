@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9a7d072ac96c",
+  "retrievedAt": "2026-10-30T09:11:10.346Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cognition.com/",
+      "finalUrl": "https://cognition.com/",
+      "status": "success",
+      "sha256": "b38534b9a9060d6103970a3bf58bbb3afd3ab55deaca0bfd461023f5d7a9940d",
+      "title": "Cognition",
+      "signals": []
+    }
+  ]
+}

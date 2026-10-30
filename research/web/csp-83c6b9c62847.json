@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-83c6b9c62847",
+  "retrievedAt": "2026-10-30T09:15:05.755Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.wasabi.com/govcloud",
+      "finalUrl": "https://wasabi.com/",
+      "status": "success",
+      "sha256": "1b407e6bc41caef066a4cc558b46e86503179aaeac5459425056d5361da143ed",
+      "title": "Store More and Do More with Your Data | Wasabi",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-544b663e2336",
+  "retrievedAt": "2026-10-30T09:11:58.775Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.signifi.com/",
+      "finalUrl": "https://www.signifi.com/",
+      "status": "success",
+      "sha256": "33433f3a427ccdcc104c3e81aaec3f7ed64294c06f89079230ddc98a137aed43",
+      "title": "Signifi Solutions | Smart Vending &amp; Digital Locker Systems",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-06bb736f062f",
+  "retrievedAt": "2026-10-30T09:10:56.350Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://anomali.com",
+      "finalUrl": "https://www.anomali.com/",
+      "status": "success",
+      "sha256": "0369264a7e2ed46a7daae8140d6ee3918d546d6cae01fa9be746cff3b35ef7f2",
+      "title": "Anomali | Agentic SOC Platform for Governed Security Action",
+      "signals": []
+    }
+  ]
+}

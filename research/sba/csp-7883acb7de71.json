@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-7883acb7de71",
+  "providerName": "Axiad IDS Inc.",
+  "retrievedAt": "2026-10-30T09:09:27.403Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MGKAB33LAQ36",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "AXIAD IDS INC",
+      "dba_name": "",
+      "uei": "MGKAB33LAQ36",
+      "cage_code": "6SG58",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "541512",
+        "541519",
+        "561621"
+      ],
+      "naics_small_codes": [
+        "541512",
+        "541519",
+        "561621"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1769472000,
+      "website": "https://www.axiad.com/",
+      "additional_website": "http://www.axiadids.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2010",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

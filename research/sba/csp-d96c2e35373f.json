@@ -1,0 +1,87 @@
+{
+  "providerId": "csp-d96c2e35373f",
+  "providerName": "PSI Services LLC",
+  "retrievedAt": "2026-10-30T09:12:24.242Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NDWDJKDL8RA4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "PSI Services",
+      "status": "success",
+      "results": 99,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "Paradigm Services Inc",
+      "dba_name": "PSI-Services",
+      "uei": "LKM2HMH85SS5",
+      "cage_code": "3GY33",
+      "naics_primary": "561210",
+      "naics_all_codes": [
+        "236210",
+        "236220",
+        "237130",
+        "238110",
+        "238120",
+        "238130",
+        "238140",
+        "238150",
+        "238160",
+        "238170",
+        "238190",
+        "238210",
+        "238220",
+        "238310",
+        "238320",
+        "238330",
+        "238340",
+        "238350",
+        "238390",
+        "238910",
+        "488210",
+        "561210",
+        "561720",
+        "561730",
+        "561790"
+      ],
+      "naics_small_codes": [],
+      "self_small_boolean": true,
+      "sam_extract_code": "E",
+      "last_update_date": 1636934400,
+      "website": "www.psi-services.com",
+      "additional_website": "https://.www.psi-services.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2002",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2006-09-08",
+          "exitDate": "2015-09-08",
+          "caseNumber": "31789",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": null,
+          "officeId": null
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

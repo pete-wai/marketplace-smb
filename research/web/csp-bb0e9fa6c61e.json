@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-bb0e9fa6c61e",
+  "retrievedAt": "2026-10-30T09:12:09.484Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.visiblethread.com/",
+      "finalUrl": "https://www.visiblethread.com/",
+      "status": "success",
+      "sha256": "0b7fb7b01f39e9486a479f9233f8151dfd0e3003611b8c6ddd61da0d3611fe08",
+      "title": "RFP Software",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": " CIO-SP4 Is Cancelled Polaris GWAC Small Business Pool All Contract Vehicles Company About Us Partner Program Caree"
+        }
+      ]
+    }
+  ]
+}

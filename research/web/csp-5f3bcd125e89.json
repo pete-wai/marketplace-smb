@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5f3bcd125e89",
+  "retrievedAt": "2026-10-30T09:11:37.698Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mathematica.org/",
+      "finalUrl": "https://www.mathematica.org/",
+      "status": "success",
+      "sha256": "5a4c82ecaabda56b0beecf5e47632a946bcc088b5bc1cfc7e3db9ee212065288",
+      "title": " Mathematica | Progress Together. ",
+      "signals": []
+    }
+  ]
+}

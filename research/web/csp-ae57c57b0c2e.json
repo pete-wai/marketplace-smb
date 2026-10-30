@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ae57c57b0c2e",
+  "retrievedAt": "2026-10-30T09:11:50.118Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.privoro.com",
+      "finalUrl": "https://privoro.com/",
+      "status": "success",
+      "sha256": "9b5b1c3685482443180502b112e465796d594cc6acf98f9a84cecb069610d68b",
+      "title": "Mobile Security Solutions | Privoro",
+      "signals": []
+    }
+  ]
+}

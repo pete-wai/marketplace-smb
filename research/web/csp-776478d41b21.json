@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-776478d41b21",
+  "retrievedAt": "2026-10-30T09:11:53.913Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://relomw.com/",
+      "finalUrl": "https://relomw.com/",
+      "status": "success",
+      "sha256": "d899219181aea2c03137ecdfeee9944446a6e5f2761d06d63b94c643c0802760",
+      "title": "RMW VEN | Relocation Management Worldwide",
+      "signals": []
+    }
+  ]
+}

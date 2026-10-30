@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-2604cbd60d88",
+  "providerName": "Ironclad Inc.",
+  "retrievedAt": "2026-10-30T09:11:19.979Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Ironclad .",
+      "status": "success",
+      "results": 76,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "IRONCLAD LLC",
+      "dba_name": "",
+      "uei": "MC3YX3WSBGG5",
+      "cage_code": "24NG6",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "221112",
+        "221118",
+        "221310",
+        "236220",
+        "237130",
+        "238210",
+        "238220",
+        "238990",
+        "332311",
+        "332312",
+        "334511",
+        "336411",
+        "336611",
+        "423110",
+        "423860",
+        "518210",
+        "541715",
+        "561621"
+      ],
+      "naics_small_codes": [
+        "221112",
+        "221118",
+        "221310",
+        "236220",
+        "237130",
+        "238210",
+        "238220",
+        "238990",
+        "332311",
+        "332312",
+        "334511",
+        "336411",
+        "336611",
+        "423110",
+        "423860",
+        "518210",
+        "541715",
+        "561621"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790294400,
+      "website": "www.ironcladcompute.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2026",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

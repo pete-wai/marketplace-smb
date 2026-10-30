@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-099d99207621",
+  "retrievedAt": "2026-10-30T09:11:47.545Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.paloaltonetworks.com/",
+      "finalUrl": "https://www.paloaltonetworks.com/",
+      "status": "success",
+      "sha256": "e908dfd8b8cef91a285a8403d7a8f509db1a9be37fbfbbf1e2e62094e9e8f81f",
+      "title": "Leader in Cybersecurity Protection &amp; Software for the Modern Enterprises - Palo Alto Networks",
+      "signals": []
+    }
+  ]
+}

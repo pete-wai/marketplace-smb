@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-abb9bdfbce3c",
+  "retrievedAt": "2026-10-30T09:12:05.634Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.transunion.com",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

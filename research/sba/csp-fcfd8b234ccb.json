@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-fcfd8b234ccb",
+  "providerName": "Gordian",
+  "retrievedAt": "2026-10-30T09:10:46.308Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "R8JXSHBYMJS2",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Gordian",
+      "status": "success",
+      "results": 14,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

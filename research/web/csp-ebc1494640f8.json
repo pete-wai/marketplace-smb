@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ebc1494640f8",
+  "retrievedAt": "2026-10-30T09:11:17.752Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dnanexus.com/",
+      "finalUrl": "https://www.dnanexus.com/",
+      "status": "success",
+      "sha256": "8e0e2e40d9d70056f4b5c9354e48011eecc25d5a16285aa4c2a1484a5306efc1",
+      "title": "The Precision Health Data Cloud | DNAnexus® ",
+      "signals": []
+    }
+  ]
+}

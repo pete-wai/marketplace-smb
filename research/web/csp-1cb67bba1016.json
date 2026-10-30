@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1cb67bba1016",
+  "retrievedAt": "2026-10-30T09:10:53.684Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://adaptiva.com",
+      "finalUrl": "https://adaptiva.com/",
+      "status": "success",
+      "sha256": "f96551e710ec1a2f671fea4d70a2e601039a3de72bf6095386fa930a5c54a9af",
+      "title": "Adaptiva | The fastest way to patch and manage endpoints at scale",
+      "signals": []
+    }
+  ]
+}

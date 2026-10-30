@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d239a300f337",
+  "retrievedAt": "2026-10-30T09:11:40.685Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mulesoft.com/integration-solutions/soa/government",
+      "finalUrl": "https://www.mulesoft.com/government",
+      "status": "success",
+      "sha256": "0bbb22985f4894254b18c042ecdf34ed012d13dab59924993262968e22b44677",
+      "title": "Government IT Integration Solution | Mulesoft",
+      "signals": []
+    }
+  ]
+}

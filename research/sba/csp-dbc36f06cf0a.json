@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-dbc36f06cf0a",
+  "providerName": "BP Pulse",
+  "retrievedAt": "2026-10-30T09:09:33.662Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "BP Pulse",
+      "status": "success",
+      "results": 124,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

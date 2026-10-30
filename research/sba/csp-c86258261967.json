@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c86258261967",
+  "providerName": "CGI Federal",
+  "retrievedAt": "2026-10-30T09:09:38.825Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TRKEP1HEBNS5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "CGI Federal",
+      "status": "success",
+      "results": 36,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

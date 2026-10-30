@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-329ee6c5dbd2",
+  "retrievedAt": "2026-10-30T09:11:32.998Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.knowledgeservices.com/",
+      "finalUrl": "https://knowledgeservices.com/",
+      "status": "success",
+      "sha256": "244f90ff06035f551358c205e769bb2b4205301f18cfc8f21c929ba18b5847bf",
+      "title": "Knowledge Services",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "cessary Services Being a certified woman-owned business that has grown significantly since 1994, we attribute a lot"
+        }
+      ]
+    }
+  ]
+}

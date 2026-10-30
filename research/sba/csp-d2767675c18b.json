@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-d2767675c18b",
+  "providerName": "Collabware",
+  "retrievedAt": "2026-10-30T09:09:49.592Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "W53NBJ3KYAM7",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "COLLABWARE CORPORATION",
+      "dba_name": "",
+      "uei": "W53NBJ3KYAM7",
+      "cage_code": "79RD6",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541519",
+        "541611"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541519",
+        "541611"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1779321600,
+      "website": "https://collabware.com/",
+      "additional_website": "http://www.collabware.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

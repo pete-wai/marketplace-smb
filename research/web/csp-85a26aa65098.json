@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-85a26aa65098",
+  "retrievedAt": "2026-10-30T09:11:49.369Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.planstreet.com/",
+      "finalUrl": "https://www.planstreet.com/",
+      "status": "success",
+      "sha256": "c97704b4ebc0093948355847cdb8b15a11f71bf819b908f48178499918bd105c",
+      "title": "Community-Based Care &amp; Case Management Platform | PlanStreet",
+      "signals": []
+    }
+  ]
+}

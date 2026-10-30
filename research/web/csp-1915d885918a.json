@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-1915d885918a",
+  "retrievedAt": "2026-10-30T09:11:13.962Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.coupa.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

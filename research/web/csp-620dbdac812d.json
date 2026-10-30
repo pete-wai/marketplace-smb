@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-620dbdac812d",
+  "retrievedAt": "2026-10-30T09:11:14.860Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cyera.io",
+      "finalUrl": "https://www.cyera.com/",
+      "status": "success",
+      "sha256": "120aa1adfbdb13547d3792b700cd65c330c49bb261662e10f98e0900d8b23831",
+      "title": "The Data, Identity &amp; AI Security Platform | Cyera",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4344ab4b9364",
+  "providerName": "Mastercard Cybersecurity",
+  "retrievedAt": "2026-10-30T09:14:52.594Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Mastercard Cybersecurity",
+      "status": "success",
+      "results": 62,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

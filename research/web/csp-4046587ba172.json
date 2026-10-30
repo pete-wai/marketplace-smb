@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4046587ba172",
+  "retrievedAt": "2026-10-30T09:11:24.909Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.gallerysystems.com/",
+      "finalUrl": "https://www.gallerysystems.com/",
+      "status": "success",
+      "sha256": "4815149d1bcd45678dfeb367fc024467a5ec872bb53baa200e9e4a2a2f8180f1",
+      "title": "Gallery &amp; Museum Management Software | Gallery Systems",
+      "signals": []
+    }
+  ]
+}

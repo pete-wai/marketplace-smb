@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-caf4d9ec81b1",
+  "providerName": "WingSwept",
+  "retrievedAt": "2026-10-30T09:13:43.553Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "M3RYEADSETP7",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "WINGSWEPT, LLC",
+      "dba_name": "",
+      "uei": "M3RYEADSETP7",
+      "cage_code": "32KF0",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1767312000,
+      "website": "https://www.wingswept.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

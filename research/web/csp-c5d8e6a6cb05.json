@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c5d8e6a6cb05",
+  "retrievedAt": "2026-10-30T09:10:59.198Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.authentic8.com/",
+      "finalUrl": "https://authentic8.com/",
+      "status": "success",
+      "sha256": "bbb4565e0168bad6af2ae019442ce9f3d105107f9e90a6c5face685389aa40c1",
+      "title": "Digital Investigations Platform | Authentic8 Silo",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "r threats targeting your executives, employees, and facilities — surfacing pre-operational indicators before they e"
+        }
+      ]
+    }
+  ]
+}

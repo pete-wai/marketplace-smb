@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-a82261cfdc8e",
+  "retrievedAt": "2026-10-30T09:11:42.593Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://newrelic.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

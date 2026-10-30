@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-96cefa0e6299",
+  "providerName": "Innovest Systems, LLC",
+  "retrievedAt": "2026-10-30T09:11:16.240Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Innovest Systems,",
+      "status": "success",
+      "results": 14,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a406bc9c6589",
+  "retrievedAt": "2026-10-30T09:11:25.675Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.glassbeam.com/solutions/",
+      "finalUrl": "https://www.glassbeam.com/solutions/",
+      "status": "success",
+      "sha256": "7a5184f0556229fef16f88e083d91e37f227c15dd9ce8b4f32be28718a9b1e48",
+      "title": "Machine Data Analytics Solutions for Healthcare | Glassbeam",
+      "signals": []
+    }
+  ]
+}

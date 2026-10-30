@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2b7b60f50b70",
+  "retrievedAt": "2026-10-30T09:10:51.303Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cloud.gov",
+      "finalUrl": "https://www.cloud.gov/",
+      "status": "success",
+      "sha256": "e06a28629d68f2c5d7d0231c4f177b94009fc5899ef665d74d7229eaeedb8e14",
+      "title": "Faster, easier, and more secure digital services for government agencies | Cloud.gov",
+      "signals": []
+    }
+  ]
+}

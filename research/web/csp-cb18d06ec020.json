@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-cb18d06ec020",
+  "retrievedAt": "2026-10-30T09:10:56.909Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.apptio.com/",
+      "finalUrl": "https://www.apptio.com/",
+      "status": "success",
+      "sha256": "4445b32703815197762f6a80a3100d46966061948e8e54f5c2faa543d166ddc1",
+      "title": "Trusted Technology Investment Decisions | Apptio",
+      "signals": []
+    }
+  ]
+}

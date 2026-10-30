@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-78d29618630f",
+  "providerName": "Zeta Global Corp.",
+  "retrievedAt": "2026-10-30T09:13:45.875Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Zeta Global .",
+      "status": "success",
+      "results": 18,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

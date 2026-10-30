@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e7c9dc3ce5df",
+  "retrievedAt": "2026-10-30T09:11:54.756Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.riverbed.com/solutions/platform-for-government/",
+      "finalUrl": "https://www.riverbed.com/solutions/platform-for-government/",
+      "status": "success",
+      "sha256": "e8d90a4c41caf91ad4b23f315475f1edeb71c11bcbc5d212f06bebde0e9c4d58",
+      "title": "Riverbed Platform for Government",
+      "signals": []
+    }
+  ]
+}

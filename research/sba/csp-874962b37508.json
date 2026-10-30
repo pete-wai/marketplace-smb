@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-874962b37508",
+  "providerName": "Somnoware Healthcare Systems",
+  "retrievedAt": "2026-10-30T09:12:58.663Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Somnoware Healthcare Systems",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

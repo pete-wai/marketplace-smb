@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-60a539de7bb0",
+  "providerName": "Ivanti",
+  "retrievedAt": "2026-10-30T09:11:26.844Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Ivanti",
+      "status": "success",
+      "results": 11,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5189f788bbc4",
+  "retrievedAt": "2026-10-30T09:12:11.617Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://zeroeyes.com/",
+      "finalUrl": "https://zeroeyes.com/",
+      "status": "success",
+      "sha256": "99c9984802ca56bee3b5cad3090bc75b2aac1ce5d28409052ba5bc10c139c671",
+      "title": "ZeroEyes | AI-Powered Gun Detection &amp; Visual Firearm Detection",
+      "signals": []
+    }
+  ]
+}

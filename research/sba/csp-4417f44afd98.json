@@ -1,0 +1,97 @@
+{
+  "providerId": "csp-4417f44afd98",
+  "providerName": "My Business Matches",
+  "retrievedAt": "2026-10-30T09:11:55.866Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EFU5YA2WXSG3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "My Business Matches",
+      "status": "success",
+      "results": 1121,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MY BUSINESS MATCHES INC.",
+      "dba_name": "",
+      "uei": "TCFMGX6XJ831",
+      "cage_code": "767X6",
+      "naics_primary": "561920",
+      "naics_all_codes": [
+        "541511",
+        "541611",
+        "541618",
+        "561110",
+        "561311",
+        "561330",
+        "561421",
+        "561422",
+        "561920",
+        "561990"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541611",
+        "541618",
+        "561110",
+        "561311",
+        "561330",
+        "561421",
+        "561422",
+        "561920",
+        "561990"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1788307200,
+      "website": "www.mybusinessmatches.com",
+      "additional_website": "http://www.mybusinessmatches.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2012",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2016-08-28",
+          "exitDate": "2026-08-28",
+          "caseNumber": "23594",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": "San Antonio District Office",
+          "officeId": "0681"
+        },
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2022-06-13",
+          "exitDate": "2027-08-28",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2022-06-13",
+          "exitDate": "2027-08-28",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

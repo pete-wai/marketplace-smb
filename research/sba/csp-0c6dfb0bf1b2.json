@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-0c6dfb0bf1b2",
+  "providerName": "Ceribell",
+  "retrievedAt": "2026-10-30T09:09:38.689Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DTFEVJUKBV74",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CERIBELL, INC",
+      "dba_name": "CERIBELL INC",
+      "uei": "DTFEVJUKBV74",
+      "cage_code": "7FT78",
+      "naics_primary": "334510",
+      "naics_all_codes": [
+        "334510"
+      ],
+      "naics_small_codes": [
+        "334510"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1761868800,
+      "website": "www.ceribell.com",
+      "additional_website": "http://www.ceribell.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2014",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

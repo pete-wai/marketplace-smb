@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-a66f937e9f4f",
+  "retrievedAt": "2026-10-30T09:11:17.567Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dlhcorp.com/",
+      "finalUrl": "https://www.dlhcorp.com/",
+      "status": "success",
+      "sha256": "25f5e44b9cc8ba71d0ae1cdda6844dd883835b98ed86422a2fcc0ccd15cb71fb",
+      "title": "DLH | Solving health and national security challenges through innovation",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "IT Services Award Valued at Up to $43.7 Million DLH Secures Follow-On NHLBI IT Services Award Valued at Up to $43.7"
+        }
+      ]
+    }
+  ]
+}

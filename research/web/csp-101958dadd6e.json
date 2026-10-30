@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-101958dadd6e",
+  "retrievedAt": "2026-10-30T09:11:14.415Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.crowdstrike.com/solutions/falcon-on-govcloud/",
+      "finalUrl": "https://www.crowdstrike.com/en-us/solutions/federal-government/",
+      "status": "success",
+      "sha256": "da08c88ca6f4755649b6e39f76e47807062e9973bbef7b1b74e06c808718e72a",
+      "title": "Cybersecurity For The Federal Government | CrowdStrike",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "s your defender stack. By Industry Small Business Federal Government Department of War State &amp; Local Government"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-128c1ce89542",
+  "providerName": "Public Health Foundation",
+  "retrievedAt": "2026-10-30T09:12:24.893Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Public Health Foundation",
+      "status": "success",
+      "results": 8830,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

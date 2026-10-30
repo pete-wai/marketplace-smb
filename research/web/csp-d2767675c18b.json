@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-d2767675c18b",
+  "retrievedAt": "2026-10-30T09:11:10.699Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://collabware.com/",
+      "finalUrl": "https://collabware.com/",
+      "status": "success",
+      "sha256": "42bfa608efcbcd35049c797bd5997c60d8d14c24977ee9b19c439fad8cf86704",
+      "title": "Collabware | Archive, Discovery &amp; Records Management Software",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "e Benefits Across Your Organization. Employees : with their document lifecycle automated, they can focus on their j"
+        }
+      ]
+    }
+  ]
+}

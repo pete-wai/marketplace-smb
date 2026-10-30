@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-72da9dbf0092",
+  "retrievedAt": "2026-10-30T09:10:57.752Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.arubanetworks.com/products/network-management-operations/central/",
+      "finalUrl": "https://www.hpe.com/us/en/products/networking/edgeconnect.html",
+      "status": "success",
+      "sha256": "5a4e6176c447e1e7ad519d7ba84e7819ef1ff16b705dbf91972a7c0abb3d946c",
+      "title": "HPE Networking EdgeConnect | HPE",
+      "signals": []
+    }
+  ]
+}

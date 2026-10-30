@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-38e7adf1dd69",
+  "providerName": "Hypori, Inc.",
+  "retrievedAt": "2026-10-30T09:10:57.223Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TR1XHJJ6N1Q3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "HYPORI, INC.",
+      "dba_name": "",
+      "uei": "TR1XHJJ6N1Q3",
+      "cage_code": "8U8N5",
+      "naics_primary": "519290",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "519290",
+        "541330",
+        "541512",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "519290"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1776124800,
+      "website": "https://www.hypori.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

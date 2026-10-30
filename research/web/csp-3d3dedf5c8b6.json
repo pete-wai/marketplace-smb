@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3d3dedf5c8b6",
+  "retrievedAt": "2026-10-30T09:12:07.481Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.connect.gov/",
+      "finalUrl": "https://www.connect.gov/",
+      "status": "success",
+      "sha256": "35745b35108c2dc823e7f43e8e24707551e4f116dc02df00753b5ee16533706b",
+      "title": "Connect.gov",
+      "signals": []
+    }
+  ]
+}

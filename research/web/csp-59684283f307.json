@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-59684283f307",
+  "retrievedAt": "2026-10-30T09:11:30.829Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ironwifi.com/",
+      "finalUrl": "https://www.ironwifi.com/",
+      "status": "success",
+      "sha256": "df9db46e5fbb68cb1c363e490fd19707138c9605820b96716aa45f810b58dee5",
+      "title": "IronWiFi - Replace NPS and ISE with Cloud RADIUS",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "works Retail Store &amp; mall WiFi Small Business Office &amp; shop connectivity Transportation Transit WiFi system"
+        }
+      ]
+    }
+  ]
+}

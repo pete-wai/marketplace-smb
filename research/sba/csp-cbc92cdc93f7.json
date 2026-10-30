@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-cbc92cdc93f7",
+  "providerName": "DataBank Holdings",
+  "retrievedAt": "2026-10-30T09:09:59.305Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DataBank Holdings",
+      "status": "success",
+      "results": 7,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

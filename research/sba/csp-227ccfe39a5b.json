@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-227ccfe39a5b",
+  "providerName": "Remedio Technologies Inc",
+  "retrievedAt": "2026-10-30T09:12:37.674Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Remedio Technologies",
+      "status": "success",
+      "results": 10,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-35159d31ae3c",
+  "providerName": "Ripcord",
+  "retrievedAt": "2026-10-30T09:12:41.505Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ZL1AZGNUURR8",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Ripcord",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "RIPCORD LLC",
+      "dba_name": "",
+      "uei": "EJGQHNZT65M8",
+      "cage_code": "173R8",
+      "naics_primary": "541990",
+      "naics_all_codes": [
+        "541990",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "541990",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1765152000,
+      "website": "https://www.ripcordsolutions.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2005",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

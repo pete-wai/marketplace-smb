@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5e815286bca5",
+  "providerName": "Persona",
+  "retrievedAt": "2026-10-30T09:14:54.317Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EPYDWT6LARB7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Persona",
+      "status": "success",
+      "results": 8058,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

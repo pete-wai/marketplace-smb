@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6969dd7b169a",
+  "retrievedAt": "2026-10-30T09:11:13.659Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.cornerstoneondemand.com/",
+      "finalUrl": "https://www.cornerstoneondemand.com/",
+      "status": "success",
+      "sha256": "b608ca691d0c1810c36c63b01ebb684962e1761dfdb9bb8d7c202092ed97266a",
+      "title": "Cornerstone OnDemand | The Intelligence Platform for Workforce Readiness",
+      "signals": []
+    }
+  ]
+}

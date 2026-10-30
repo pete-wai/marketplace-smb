@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-21c211debb17",
+  "providerName": "Confluent",
+  "retrievedAt": "2026-10-30T09:09:52.184Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Confluent",
+      "status": "success",
+      "results": 751,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

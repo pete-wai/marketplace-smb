@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4f6334ce9d4a",
+  "providerName": "WillCo Tech",
+  "retrievedAt": "2026-10-30T09:13:43.352Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WillCo Tech",
+      "status": "success",
+      "results": 41,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

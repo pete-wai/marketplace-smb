@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-194dbd4fb732",
+  "retrievedAt": "2026-10-30T09:12:12.327Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.zoomgov.com/",
+      "finalUrl": "https://www.zoomgov.com/",
+      "status": "success",
+      "sha256": "c001d909663254cc309efea149e505cd62f4205205fafea230d700a2fbc75abe",
+      "title": "Zoom for Government",
+      "signals": []
+    }
+  ]
+}

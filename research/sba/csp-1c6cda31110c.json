@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-1c6cda31110c",
+  "providerName": "PagerDuty",
+  "retrievedAt": "2026-10-30T09:12:12.496Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KLLLAKNNNMK6",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "PAGERDUTY, INC.",
+      "dba_name": "",
+      "uei": "KLLLAKNNNMK6",
+      "cage_code": "7RY78",
+      "naics_primary": "541990",
+      "naics_all_codes": [
+        "513210",
+        "541519",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790208000,
+      "website": "www.pagerduty.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2010",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-2b219c9dc0a7",
+  "retrievedAt": "2026-10-30T09:11:55.307Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.samsara.com/resources/connected-operations",
+      "finalUrl": "https://www.samsara.com/resources/connected-operations",
+      "status": "success",
+      "sha256": "82fb9dd152444d855840d1158af6be3a442bdab3f4c6cf9b91ce443ab3c9b953",
+      "title": "Connected Operations l Samsara",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ars Guides Customer Webstore Samsara Signals Company [ + ] Pricing and Plans About Us Careers Investor Relations Sa"
+        }
+      ]
+    }
+  ]
+}

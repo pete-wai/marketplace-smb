@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-efea7f530727",
+  "retrievedAt": "2026-10-30T09:10:54.453Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://kineticcode.aequitascyberlabs.com",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

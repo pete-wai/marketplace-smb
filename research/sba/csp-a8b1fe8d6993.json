@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-a8b1fe8d6993",
+  "providerName": "Wellspring Worldwide, Inc.",
+  "retrievedAt": "2026-10-30T09:13:43.101Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Wellspring Worldwide, .",
+      "status": "success",
+      "results": 32,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

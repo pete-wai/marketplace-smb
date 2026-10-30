@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-078927b6adaf",
+  "retrievedAt": "2026-10-30T09:12:08.980Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.verily.com/",
+      "finalUrl": "https://www.verily.com/",
+      "status": "success",
+      "sha256": "123abb4c2f648be514216361d4c61b7b232755083ea3c9f4c2934e6edb3908c1",
+      "title": "Verily Health | AI-native precision health",
+      "signals": []
+    }
+  ]
+}

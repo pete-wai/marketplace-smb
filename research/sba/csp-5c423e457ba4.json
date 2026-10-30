@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-5c423e457ba4",
+  "providerName": "Claroty",
+  "retrievedAt": "2026-10-30T09:09:45.001Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DWDPHUUNCAR3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Claroty",
+      "status": "success",
+      "results": 439,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "CLAROTY, INC.",
+      "dba_name": "",
+      "uei": "N6GBVHTV36U5",
+      "cage_code": "22G79",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1784764800,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2015",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

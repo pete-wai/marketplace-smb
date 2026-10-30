@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f629bcb2cb96",
+  "retrievedAt": "2026-10-30T09:11:54.209Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://rescale.com/",
+      "finalUrl": "https://rescale.com/",
+      "status": "success",
+      "sha256": "177f87820875a23393b55cd3cbbef652dbccfaab9c2eaa68baf53bdc6b12704d",
+      "title": "Rescale&#039;s Digital Engineering Platform, Built for the AI Era",
+      "signals": []
+    }
+  ]
+}

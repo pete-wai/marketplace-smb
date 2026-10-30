@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-bbdefa2950f4",
+  "providerName": "Google",
+  "retrievedAt": "2026-10-30T09:10:45.671Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NQV3T7DDKNT6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Google",
+      "status": "success",
+      "results": 811,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

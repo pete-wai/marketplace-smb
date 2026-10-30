@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-456f45fddc2e",
+  "providerName": "Lumen",
+  "retrievedAt": "2026-10-30T09:11:44.239Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Lumen",
+      "status": "success",
+      "results": 403,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "CYNTHIA LUM",
+      "dba_name": "LUMEN",
+      "uei": "M74QESUNHQP8",
+      "cage_code": "22VR1",
+      "naics_primary": "531390",
+      "naics_all_codes": [
+        "531390"
+      ],
+      "naics_small_codes": [
+        "531390"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1785974400,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2026",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "LUMEN TECHNOLOGIES GOVERNMENT SOLUTIONS, INC",
+      "dba_name": "",
+      "uei": "R649KR5942C3",
+      "cage_code": "572W8",
+      "naics_primary": "517111",
+      "naics_all_codes": [
+        "238210",
+        "334111",
+        "513210",
+        "516210",
+        "517111",
+        "517122",
+        "517810",
+        "518210",
+        "532490",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "561422",
+        "611420",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "http://www.Lumen.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1998",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d559958b0404",
+  "retrievedAt": "2026-10-30T09:10:56.794Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.monstergovernmentsolutions.com/",
+      "finalUrl": "https://www.applygovernmentsolutions.com/",
+      "status": "success",
+      "sha256": "746b48016eb31181a5820a689262ef30236ab40c058bcba4ecf08f6607eb1d9e",
+      "title": "Federal Government Workforce Solutions | Apply Government Solutions",
+      "signals": []
+    }
+  ]
+}

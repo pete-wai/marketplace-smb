@@ -1,0 +1,105 @@
+<script>
+import { base } from '$app/paths';
+</script>
+
+
+<p class="eyebrow"><a href="{base}/">← Back to the findings</a> · Methodology v1</p>
+
+# What counts as a small business?
+
+There is no universal employee cutoff. A company’s federal small-business status depends on its industry, its affiliates, the applicable size standard, and the date and purpose of the determination. This study classifies public evidence; it does not make binding eligibility determinations.
+
+## The legal framework
+
+The Small Business Act describes a small business concern as independently owned and operated and not dominant in its field. SBA regulations generally require a business concern to be organized for profit, with a place of business in the United States and qualifying U.S. operations or economic contribution. Registration is evidence about an entity, not an exemption from these requirements. See [15 U.S.C. § 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), [13 CFR 121.101](https://www.ecfr.gov/current/title-13/section-121.101), and [13 CFR 121.105](https://www.ecfr.gov/current/title-13/section-121.105).
+
+For federal procurement, the contracting officer assigns a NAICS industry code to the procurement. The corresponding SBA size standard determines the threshold. A provider can be small for one procurement and other than small for another. FedRAMP certification itself does not assign one procurement NAICS code to every use of a product. See [13 CFR 121.402](https://www.ecfr.gov/current/title-13/section-121.402).
+
+Selected current standards relevant to cloud and software services, checked October 30, 2026:
+
+| NAICS | Industry | Average annual receipts ceiling |
+| --- | --- | ---: |
+| 513210 | Software Publishers | $47 million |
+| 518210 | Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services | $40 million |
+| 541511 | Custom Computer Programming Services | $34 million |
+| 541512 | Computer Systems Design Services | $34 million |
+| 541513 | Computer Facilities Management Services | $37 million |
+| 541519 | Other Computer Related Services | $34 million |
+
+These are selected industry standards, not a complete list; exceptions and other NAICS codes may apply. Historical code 511210 is retained for older software-publishing records. Standards and code definitions change, so current thresholds cannot establish historical eligibility. Source: [13 CFR 121.201](https://www.ecfr.gov/current/title-13/section-121.201).
+
+Receipts generally use the average over five completed fiscal years, with special rules for newer concerns and acquisitions. Employee-based standards generally use the average number of employees for each pay period over the preceding 24 calendar months. Size includes affiliates: control, or the power to control, can matter even when not exercised. A subsidiary’s standalone revenue or headcount is insufficient. See [receipts rules](https://www.ecfr.gov/current/title-13/section-121.104), [employee rules](https://www.ecfr.gov/current/title-13/section-121.106), and [affiliation rules](https://www.ecfr.gov/current/title-13/section-121.103).
+
+## How we look up a company
+
+1. Resolve the provider’s legal identity, aliases, website, and Unique Entity ID (UEI) from Marketplace exports. A brand name alone is not a reliable match.
+2. Query the public [SBA Small Business Search](https://search.certifications.sba.gov/advanced). Accept an exact UEI, or normalized legal name plus matching website domain. Ambiguous candidates remain unaccepted unless a documented manual review resolves the identity.
+3. Inspect active registration status and NAICS-specific small-business representations. The selected scope is the primary cloud-related NAICS when present, otherwise all registered cloud-related codes. Merely finding a profile, a SAM registration, or a business serving small customers is insufficient.
+4. Cross-check available SEC annual financial data, official company claims, dated program histories, and known ownership changes. Every resolved provider receives registry and website screening attempts; some sources are unavailable or inconclusive.
+5. Preserve unknown or conflicting results. Absence from SBA search is never proof that a business is large.
+
+[SAM.gov](https://sam.gov/) is the federal entity registration system. Public API access requires an API key; this run did not use authenticated SAM API access. SBA search provides public representations and program information, but is not a complete or independently adjudicated census of small businesses. [GSA’s Entity API documentation](https://open.gsa.gov/api/entity-api/) explains its access model.
+
+An ordinary small-business representation differs from an SBA program certification such as 8(a), HUBZone, or WOSB. Neither should be confused with FedRAMP certification, which addresses a cloud offering’s security requirements.
+
+## Evidence tiers and confidence
+
+| Classification | Included evidence | Interpretation |
+| --- | --- | --- |
+| Documented small | Matched, active SBA record reports small in the selected cloud NAICS context | Documented representation; not an independent legal finding |
+| Likely small | Relevant dated program history or explicit company small-business claim | Inference, with temporal and affiliation limitations |
+| Documented other-than-small | Reserved for an explicit applicable determination or representation | None assigned merely because a search returned no result |
+| Likely other-than-small | Financial evidence above a conservative cloud/software benchmark | Inference from reported revenue, not SBA-calculated receipts |
+| Unknown | Missing, ambiguous, conflicting, or insufficient evidence | Remains in the denominator |
+
+**Documented share** = documented-small ÷ all eligible records in the selected group. **Expanded share** = (documented-small + likely-small) ÷ all eligible records. These are observed evidence shares, not statistical estimates of true prevalence. The expanded share is not a confidence interval. Medium confidence reflects a strong identity match with unresolved legal context; low confidence reflects weaker inference or insufficient evidence. No blanket high-confidence legal judgments are made.
+
+For SEC screening, annual revenue periods must be nonoverlapping, end within the preceding five years, and have been filed before the assessment date. Their sum is divided by five even when some years are missing. A result above $47 million—the largest selected current cloud/software receipts threshold—supports **likely other-than-small** only. GAAP revenue differs from SBA receipts, historical standards vary, and affiliation exceptions may apply. Current parent mappings do not establish historical ownership; the mapping audit is retained. [SEC data documentation](https://www.sec.gov/search-filings/edgar-application-programming-interfaces).
+
+Conflicting registration and financial evidence is unknown pending review. Known acquisitions can also invalidate a standalone representation. Ownership research is incomplete: “documented small” does not mean all possible affiliation concerns were independently checked.
+
+## Historical size and certification dates
+
+Historical size is the default for annual and rolling-window comparisons. We never backdate today’s SBA size representation or today’s Marketplace flag. A dated SBA program interval spanning a certification date supports only likely-small because the procurement NAICS and intervening ownership remain uncertain. Dated company or reporting evidence is separately curated with an explicit applicable interval. Financial facts must have been available by the assessment date.
+
+An alternative view uses **current size of historical cohorts**. It answers “How are the companies from that cohort classified today?” and must not be described as size at entry.
+
+Certification means the first recorded transition to `FedRAMP Certified` for a package ID. Each package contributes once to annual first-certification counts. A distinct provider can occur in multiple annual cohorts if separate products were first certified in different years. Within a cohort, its earliest product certification determines its historical size assessment. “First-time providers” are providers with their earliest observed package certification in that cohort. These records cannot prove there was no earlier participation outside the available data.
+
+## Reconciling the Marketplace files
+
+The source is the [FedRAMP Marketplace data repository](https://github.com/FedRAMP/marketplace-fedramp-gov-data). We retain an immutable commit snapshot, retrieval time, and SHA-256 hashes. Three sources are joined:
+
+- The legacy `data.json` supplies provider names, products, UEIs, and original small-business flags.
+- `fedramp-frc-cso-pkg.json` supplies newer package/provider details. Where the exported retro package ID differs from a submitted ID, the export’s retro ID is the join key and the discrepancy is logged.
+- `fedramp-status-changelog.json` supplies dated status, pathway, and class transitions, including initial implementation and delisting.
+
+Seven historical legacy snapshots from April–September 2026 recover additional identities. Repository history starts April 14, 2026; earlier status transitions are retrospective data, not contemporaneous snapshots. Transition dates and recording dates are preserved separately. Source files may reflect different update times.
+
+Latest transition date, then recording date and event identifier, determines current status. Current certified includes certified offerings in remediation. Initial implementation is a preparation stage, not certification; see [FedRAMP provider implementation guidance](https://www.fedramp.gov/2026/providers/implement/). Current comparisons use the latest pathway, while certification cohorts use the pathway recorded at that certification. “Rev5” is the source’s label even for historical events predating Revision 5; it should be interpreted as the traditional pathway series, not evidence that those earlier authorizations used Rev5 controls.
+
+Pilot and non-pilot 20x are the source’s separate `20x Pilot` and `20x` labels. “Ever pilot” is separately retained; a current non-pilot record can have pilot history. No unrecorded pilot membership is inferred.
+
+Providers are distinct resolved legal/provider identities. Conservative alias and UEI matching merges duplicate identities; subsidiaries are not automatically collapsed into parent groups. Packages are distinct FedRAMP package IDs, not necessarily unique software products. A provider with several packages counts once within a provider group, but may appear in more than one pathway. Therefore pathway provider counts are not additive.
+
+Government-operated services are excluded from commercial participation rates and retained in the data. Unidentified packages remain in package denominators with unknown size, but cannot be counted as distinct providers. Original Marketplace small-business flags are published separately; they are not substituted for the evidence classification.
+
+## Comparing the past two years
+
+The rolling comparison covers the 24 months through the snapshot date and the immediately preceding 24 months. Dates use inclusive starts and exclusive ends, recorded in the CSV. Annual tables flag the current year as partial. Class-level, pathway-level, package-level, and provider-level tables are downloadable to make different denominator choices inspectable.
+
+<h2 id="limitations">What this study cannot establish</h2>
+
+Public evidence is incomplete and missingness is unlikely to be random. Small firms may have no public registration; large private firms may have no public financial statements. Historical size and historical ownership are especially sparse. Present-day provider names can also differ from the owner at certification. The initial-implementation population is visible in newer records to a degree that older preparation activity was not.
+
+This is an observational description of recorded participation, not a causal evaluation of FedRAMP reforms. It lacks the full applicant pool, unsuccessful applicants, costs, agency demand, and time spent before listing. Pilot selection, class differences, survival and delisting, acquisitions, and changes in reporting can all affect the apparent mix. A larger documented share could reflect better evidence rather than broader access.
+
+The public USAspending bulk download was attempted for dated contracting-officer size fields but failed during this run. No unavailable transaction data is silently treated as evidence. Additional procurement records, date-specific SAM representations, and ownership histories would materially strengthen the historical analysis.
+
+## Updating or correcting the research
+
+The [repository](https://github.com/pete-wai/marketplace-smb) contains raw source snapshots, sanitized public research observations, curated identity/ownership decisions, analysis scripts, tests, and this site. `research/review.json` separates human-reviewed evidence from generated output. Refresh source and research snapshots, inspect the changes, run analysis and checks, then publish a new dated version. See the README for exact commands and cache behavior.
+
+To suggest a correction, [open an issue](https://github.com/pete-wai/marketplace-smb/issues) with the provider, UEI if known, dated source, applicable NAICS, and any relevant parent relationship. Please do not submit private financial or personal information.
+
+<p class="note">Independent research, as of October 30, 2026. This site is not an official FedRAMP, SBA, or contracting-officer determination.</p>

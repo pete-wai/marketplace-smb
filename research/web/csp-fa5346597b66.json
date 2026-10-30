@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-fa5346597b66",
+  "retrievedAt": "2026-10-30T09:11:06.331Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://platform.casepointgov.com/",
+      "finalUrl": "https://platform.casepointgov.com/",
+      "status": "success",
+      "sha256": "cc2bc84aad596ff811a46fcaaf8ed9751c7ca76bf3e4f89d3126f03946179967",
+      "title": "Casepoint Platform Login",
+      "signals": []
+    }
+  ]
+}

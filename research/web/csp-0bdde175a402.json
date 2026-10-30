@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-0bdde175a402",
+  "retrievedAt": "2026-10-30T09:12:10.082Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://wallarm.com",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

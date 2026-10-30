@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b93b3f8889c7",
+  "retrievedAt": "2026-10-30T09:11:37.356Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.manh.com/",
+      "finalUrl": "https://www.manh.com/",
+      "status": "success",
+      "sha256": "3fc892e3da94916f5f2d83ceb26e4f912a0e3b8697a6e9836fd696c5144b9741",
+      "title": "Retail and Supply Chain Management Software Solutions | Manhattan Associates",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "re of Commerce Join a team of over 4,150 employees on five continents that never stands still. Explore Careers Face"
+        }
+      ]
+    }
+  ]
+}

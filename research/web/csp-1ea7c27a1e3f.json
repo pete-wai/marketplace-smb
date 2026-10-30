@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1ea7c27a1e3f",
+  "retrievedAt": "2026-10-30T09:12:09.957Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://vulcan.ai/FedRAMP",
+      "finalUrl": "https://vulcan.ai/fedramp",
+      "status": "success",
+      "sha256": "a0eb4d5520dd1e6e818b55594a55470d2c54427e2f6bc537edd2900d5952160d",
+      "title": "FedRAMP Ready Government AI: Justinian for Federal and State Agencies",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "oundary, in us-gov-east-1. Records 157 billion The live legal and policy corpus, field by field. Law Federal + stat"
+        }
+      ]
+    }
+  ]
+}

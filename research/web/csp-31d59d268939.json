@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-31d59d268939",
+  "retrievedAt": "2026-10-30T09:11:03.551Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.bland.ai",
+      "finalUrl": "https://www.bland.ai/",
+      "status": "success",
+      "sha256": "2a3620bdadc52d735af96fc4a07a6aa7fc9761a4fde419da28feccfebb95536a",
+      "title": "Bland | Enterprise Voice AI Platform for Phone Agents",
+      "signals": []
+    }
+  ]
+}

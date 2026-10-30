@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b4e67d0567a8",
+  "retrievedAt": "2026-10-30T09:11:28.692Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://incode.com",
+      "finalUrl": "https://incode.com/",
+      "status": "success",
+      "sha256": "c532d8dca1177f26ae6231ab097db7c1dd8296514d1ac240d9049c4d9d38fb5b",
+      "title": "AI Identity Verification Software &amp; KYC Platform | Incode",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ocuments in the EU. Engineer · Media Production Company Six months of rigorous testing proved Incode indispensable "
+        }
+      ]
+    }
+  ]
+}

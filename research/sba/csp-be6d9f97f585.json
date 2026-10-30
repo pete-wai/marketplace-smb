@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-be6d9f97f585",
+  "providerName": "Trenchant Analytics",
+  "retrievedAt": "2026-10-30T09:13:28.807Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Trenchant Analytics",
+      "status": "success",
+      "results": 563,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "TRENCHANT ANALYTICS LLC",
+      "dba_name": "",
+      "uei": "DTSHKJN5C6H9",
+      "cage_code": "30NQ6",
+      "naics_primary": "541330",
+      "naics_all_codes": [
+        "541219",
+        "541330",
+        "541511",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541690",
+        "541715",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "541219",
+        "541330",
+        "541511",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541690",
+        "541715",
+        "541990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792627200,
+      "website": "www.tacgov.com",
+      "additional_website": "http://www.tacgov.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2004",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

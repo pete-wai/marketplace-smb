@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ac4d35d196e5",
+  "retrievedAt": "2026-10-30T09:11:00.081Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://wpvip.com/",
+      "finalUrl": "https://wpvip.com/",
+      "status": "success",
+      "sha256": "f6c7b5c74b792026458798a958bbc7067e9b9adca0875ce1610fbf4bcc4d5e33",
+      "title": "WordPress VIP | Enterprise Content Platform &amp; Managed WordPress",
+      "signals": []
+    }
+  ]
+}

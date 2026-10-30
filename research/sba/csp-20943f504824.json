@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-20943f504824",
+  "providerName": "Rosalind, Inc.",
+  "retrievedAt": "2026-10-30T09:12:42.347Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Rosalind, .",
+      "status": "success",
+      "results": 11,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ROSALIND, INC.",
+      "dba_name": null,
+      "uei": "EZSNBAKMXJV3",
+      "cage_code": "7KEF4",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "541714"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541714"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "E",
+      "last_update_date": 1701043200,
+      "website": "www.rosalind.bio",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

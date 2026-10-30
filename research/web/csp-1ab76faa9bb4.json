@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1ab76faa9bb4",
+  "retrievedAt": "2026-10-30T09:12:10.926Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://wraithwatch.com",
+      "finalUrl": "https://wraithwatch.com/",
+      "status": "success",
+      "sha256": "8ec566a751cf43d19bae7c44c4b399564473f0f79c988d35d0ad6d7f9ff940f7",
+      "title": "Wraithwatch | Mission Control for Cyber Defense",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f94bf11b177e",
+  "retrievedAt": "2026-10-30T09:11:45.752Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.oati.com/",
+      "finalUrl": "https://www.oati.com/",
+      "status": "success",
+      "sha256": "a62385c793e90dbeeaa92da5f18bdd2191b29b45471c3b0c928a42d5a4e3a41e",
+      "title": "OATI | DERMS, Grid Operations &amp; Energy Market Software",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-35159d31ae3c",
+  "retrievedAt": "2026-10-30T09:11:54.529Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ripcord.com/platform",
+      "finalUrl": "https://www.ripcord.com/platform",
+      "status": "success",
+      "sha256": "97f3d53c713f84413f5efd6cdf56d655cc8128a5adb45c9c92f08af5e1881434",
+      "title": "The Ripcord Platform: Turn your documents into powerful data",
+      "signals": []
+    }
+  ]
+}

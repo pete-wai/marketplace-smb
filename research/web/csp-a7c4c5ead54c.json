@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a7c4c5ead54c",
+  "retrievedAt": "2026-10-30T09:11:23.911Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.files.com",
+      "finalUrl": "https://www.files.com/",
+      "status": "success",
+      "sha256": "d5a8899e713a1a7883b28dbf29261fbae9c1f37d6086a440ec2df8fc89bd6584",
+      "title": "Managed File Transfer, SFTP &amp; File Sharing — Files.com",
+      "signals": []
+    }
+  ]
+}

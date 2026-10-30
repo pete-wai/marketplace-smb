@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-03b010e0b875",
+  "retrievedAt": "2026-10-30T09:11:00.740Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.avepoint.com/solutions/public-sector",
+      "finalUrl": "https://www.avepoint.com/solutions/government",
+      "status": "success",
+      "sha256": "d59fc4533425c13a8336df37637c5af0d331839307da0ea46cedff5c605fa86d",
+      "title": "Public Sector Solutions with AvePoint | Modern Government Collaboration | AvePoint",
+      "signals": []
+    }
+  ]
+}

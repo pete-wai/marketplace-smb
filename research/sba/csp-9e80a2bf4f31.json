@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-9e80a2bf4f31",
+  "providerName": "Chronus LLC",
+  "retrievedAt": "2026-10-30T09:09:40.614Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Chronus",
+      "status": "success",
+      "results": 10,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CHRONUS LLC",
+      "dba_name": "",
+      "uei": "J8SRRBF3MNY5",
+      "cage_code": "7UEL4",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "541511"
+      ],
+      "naics_small_codes": [
+        "541511"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1779062400,
+      "website": "www.chronus.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2007",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

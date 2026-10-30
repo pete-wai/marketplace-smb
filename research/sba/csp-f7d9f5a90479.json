@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-f7d9f5a90479",
+  "providerName": "Ramp",
+  "retrievedAt": "2026-10-30T09:12:31.701Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MMC6R2DML8L4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Ramp",
+      "status": "success",
+      "results": 580,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "RAMP LLC",
+      "dba_name": "17 ACRES",
+      "uei": "V9NYAAEBK8U6",
+      "cage_code": "165X5",
+      "naics_primary": "111998",
+      "naics_all_codes": [
+        "111998",
+        "112310",
+        "112910",
+        "311920"
+      ],
+      "naics_small_codes": [
+        "111998",
+        "112310",
+        "112910",
+        "311920"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "E",
+      "last_update_date": 1761004800,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2025",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

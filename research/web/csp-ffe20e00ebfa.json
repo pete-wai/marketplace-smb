@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ffe20e00ebfa",
+  "retrievedAt": "2026-10-30T09:11:38.350Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://federal.medialab.com/",
+      "finalUrl": "https://federal.medialab.com/",
+      "status": "success",
+      "sha256": "79187a35f728ec0927ab1d164d2fd1c2c64fbb53dd67fddef04659d8ab958e84",
+      "title": "\r\n\tMediaLab, Inc. - Quality Management Solutions Designed for Healthcare\r\n",
+      "signals": []
+    }
+  ]
+}

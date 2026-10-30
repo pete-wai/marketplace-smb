@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-9d96d9d5b1ad",
+  "retrievedAt": "2026-10-30T09:11:25.669Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://about.gitlab.com/solutions/public-sector/",
+      "finalUrl": "https://about.gitlab.com/solutions/public-sector/",
+      "status": "success",
+      "sha256": "8cb7ac92e1e23ee6b5802885f6c52b35ce9101461c52c960d2859afa0360c7e1",
+      "title": "GitLab for the Public Sector",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "I Modernization By size Enterprise Small Business Startups Industries Financial Services Public Sector Telecommunic"
+        }
+      ]
+    }
+  ]
+}

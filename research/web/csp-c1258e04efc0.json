@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c1258e04efc0",
+  "retrievedAt": "2026-10-30T09:10:56.345Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.anitian.com/fedflex-platform-overview/",
+      "finalUrl": "https://www.anitian.com/fedflex-platform-overview/",
+      "status": "success",
+      "sha256": "536823b7919be8aa5aa297d78ddb7319cdd8d93245bbf256d22979e75858c4c6",
+      "title": "FedFlex Platform Overview | Anitian",
+      "signals": []
+    }
+  ]
+}

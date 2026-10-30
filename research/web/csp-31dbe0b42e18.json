@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-31dbe0b42e18",
+  "retrievedAt": "2026-10-30T09:11:59.260Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://alira.tech",
+      "finalUrl": "https://skywarditsolutions.com/foia",
+      "status": "success",
+      "sha256": "db21aef2b0c35e51d9ad164213b2d9ca82ee94afe6422488988326fa516e8412",
+      "title": "Modern FOIA Tracking Software &amp; Intelligent Redaction | Alira",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "tract vehicles for Alira are FOIA: 8(a) STARS III, GSA MAS, SEWP VI (Nov. 2026), OASIS+ TOTAL SMALL BUSINESS & 8(a)"
+        }
+      ]
+    }
+  ]
+}

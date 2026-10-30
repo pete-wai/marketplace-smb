@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-031ac995a40f",
+  "retrievedAt": "2026-10-30T09:11:33.715Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://launchdarkly.com/solutions/federal-government-solutions/",
+      "finalUrl": "https://launchdarkly.com/government/",
+      "status": "success",
+      "sha256": "da7d0f1133458db7c9f9296add89535326abe3b8e73c59fa45096f2aa9ac1c42",
+      "title": "Feature Management and Experimentation for the U.S. Government | LaunchDarkly",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "MS streamlines Open Enrollment for 24 million Americans. / / The CMS team managing the Plan Finder application uses"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b3704083f1b6",
+  "retrievedAt": "2026-10-30T09:12:07.168Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.unisonglobal.com/",
+      "finalUrl": "https://www.unisonglobal.com/",
+      "status": "success",
+      "sha256": "45c28bb8afe0cdfb6192978ee16aae34f14108b7408f58ad9d64f129d1a41d8e",
+      "title": "Unison | Simplifying the Complexites of Federal Business | AI Federal Government",
+      "signals": []
+    }
+  ]
+}

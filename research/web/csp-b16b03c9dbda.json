@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b16b03c9dbda",
+  "retrievedAt": "2026-10-30T09:11:12.939Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.copado.com/industries/public-sector",
+      "finalUrl": "https://www.copado.com/industries/public-sector",
+      "status": "success",
+      "sha256": "e45f3d2aeba657ca6844b6a0caf3c144f968f31d94dcc35c121dcbb7bfbff4ba",
+      "title": "DevOps Tools for the Public Sector | Copado",
+      "signals": []
+    }
+  ]
+}

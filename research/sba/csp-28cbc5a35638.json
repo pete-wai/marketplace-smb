@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-28cbc5a35638",
+  "providerName": "Juniper Networks",
+  "retrievedAt": "2026-10-30T09:11:28.386Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "GYF8MBJ5CH61",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Juniper Networks",
+      "status": "success",
+      "results": 151,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

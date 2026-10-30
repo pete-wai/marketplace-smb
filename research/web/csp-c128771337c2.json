@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c128771337c2",
+  "retrievedAt": "2026-10-30T09:11:37.226Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.magnetforensics.com/",
+      "finalUrl": "https://www.magnetforensics.com/",
+      "status": "success",
+      "sha256": "150cfe263fa5750351ddb1473b7bea1feafc448b3d03dfccc72b441f0792a32d",
+      "title": "Magnet Forensics | Gain an Investigative Edge",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Award Merchandise store Magnet Idea Lab Company Careers Our team Magnet Idea Lab Press Resources Resource center E"
+        }
+      ]
+    }
+  ]
+}

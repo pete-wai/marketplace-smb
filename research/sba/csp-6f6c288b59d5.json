@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-6f6c288b59d5",
+  "providerName": "Vibrent Health",
+  "retrievedAt": "2026-10-30T09:13:39.826Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WUWGNMBAHKG2",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "VIGNET INC.",
+      "dba_name": "VIBRENT HEALTH",
+      "uei": "WUWGNMBAHKG2",
+      "cage_code": "6HXX9",
+      "naics_primary": "541714",
+      "naics_all_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541690",
+        "541714",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541690",
+        "541714",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788220800,
+      "website": "https://www.vibrenthealth.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2008",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

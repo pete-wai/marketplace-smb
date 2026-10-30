@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-ae5a1213929a",
+  "providerName": "Govini",
+  "retrievedAt": "2026-10-30T09:10:53.129Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "C92MYZJBLR97",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "POPLICUS INCORPORATED",
+      "dba_name": "AIR",
+      "uei": "C92MYZJBLR97",
+      "cage_code": "7DR83",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "519290",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541614",
+        "541715",
+        "541990",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792454400,
+      "website": "www.air.ai",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

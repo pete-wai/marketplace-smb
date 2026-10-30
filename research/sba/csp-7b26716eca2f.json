@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-7b26716eca2f",
+  "providerName": "Transmittr, Inc.",
+  "retrievedAt": "2026-10-30T09:13:27.576Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Transmittr, .",
+      "status": "success",
+      "results": 217,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "TRANSMITTR, INC",
+      "dba_name": "CASCO",
+      "uei": "RMP4PT27MGX1",
+      "cage_code": "24QT0",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210"
+      ],
+      "naics_small_codes": [
+        "518210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789084800,
+      "website": "https://casco.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2025",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

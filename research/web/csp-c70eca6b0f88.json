@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c70eca6b0f88",
+  "retrievedAt": "2026-10-30T09:10:56.354Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://claude.com/product/overview",
+      "finalUrl": "https://claude.com/product/overview",
+      "status": "success",
+      "sha256": "93b12f0474dc5ffb25edc9964a287264c06e4f340abdfae5380ab17d985f4cc1",
+      "title": "Claude | The AI assistant for work",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": " teachers Life sciences Nonprofits Small business Programs Campus Frontier Academy Scientists Startups Developers D"
+        }
+      ]
+    }
+  ]
+}

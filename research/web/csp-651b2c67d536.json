@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-651b2c67d536",
+  "retrievedAt": "2026-10-30T09:10:58.458Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.atlassian.com/government",
+      "finalUrl": "https://www.atlassian.com/government",
+      "status": "success",
+      "sha256": "31107d6c00f1c3bb7636597e4f20843e5f33a96b8d1b1c31bccf4cf09c0d64c4",
+      "title": " Atlassian Government Teams | Atlassian ",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ting IT Product By size Enterprise Small business Startup Non-profit By industry Retail Telecommunications Professi"
+        },
+        {
+          "kind": "size",
+          "excerpt": "erprise 2.5 years ahead of schedule, employees are collaborating more; delivering more value faster; and attracting"
+        }
+      ]
+    }
+  ]
+}

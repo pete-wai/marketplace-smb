@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-05271a882060",
+  "retrievedAt": "2026-10-30T09:11:28.673Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.immuta.com",
+      "finalUrl": "https://www.immuta.com/",
+      "status": "success",
+      "sha256": "05778945e616f0acfd92194a3d21d888069e0b829c3ff235afe33c322293125b",
+      "title": "The Authorization Layer for Data Access | Immuta",
+      "signals": []
+    }
+  ]
+}

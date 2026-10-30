@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-ab91dd928254",
+  "providerName": "OneSpan Inc.",
+  "retrievedAt": "2026-10-30T09:12:07.437Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "OneSpan .",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

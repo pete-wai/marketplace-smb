@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-108f8078fb77",
+  "retrievedAt": "2026-10-30T09:12:07.153Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ultra.security",
+      "finalUrl": "https://ultra.security/",
+      "status": "success",
+      "sha256": "68ba3015f4aff847dada177c011d601a99f5e37362079f7b620da99ebd616c24",
+      "title": "Ultra Security - Runtime security for AI agents",
+      "signals": []
+    }
+  ]
+}

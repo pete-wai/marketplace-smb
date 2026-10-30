@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-40a671c08256",
+  "retrievedAt": "2026-10-30T09:11:16.022Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.decisionlens.com/",
+      "finalUrl": "https://www.decisionlens.com/",
+      "status": "success",
+      "sha256": "4ef0c24163025b3a127026d1db05c481ddb2ef864fb6cda7b6cc31cb87ab16a6",
+      "title": "Decision Lens | Modernizing Government Planning &amp; Budgeting",
+      "signals": []
+    }
+  ]
+}

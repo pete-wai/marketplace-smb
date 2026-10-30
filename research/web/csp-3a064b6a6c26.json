@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3a064b6a6c26",
+  "retrievedAt": "2026-10-30T09:11:15.365Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://darktracefederal.com",
+      "finalUrl": "https://www.darktrace.com/federal",
+      "status": "success",
+      "sha256": "4343a8511274bbb411e52644d5e084bbe32d61ff14d6af0217958e03e1f2fd9f",
+      "title": "Darktrace Federal | Darktrace",
+      "signals": []
+    }
+  ]
+}

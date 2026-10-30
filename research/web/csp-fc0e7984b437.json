@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-fc0e7984b437",
+  "retrievedAt": "2026-10-30T09:10:56.482Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://anyreach.ai/",
+      "finalUrl": "https://anyreach.ai/",
+      "status": "success",
+      "sha256": "248ef459826fd9ee2238a39ab19b7ddeebd040b9c152f4d83b64189e6c3f1610",
+      "title": "Anyreach — Become the AI-native BPO",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "mo Case · $300M hospital network · 1,700 employees · Outreach to signed contract in 2 months. 02 · Expand Margin Th"
+        }
+      ]
+    }
+  ]
+}

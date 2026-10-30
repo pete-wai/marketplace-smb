@@ -1,0 +1,77 @@
+{
+  "providerId": "csp-1271513e1523",
+  "providerName": "TechnoMile",
+  "retrievedAt": "2026-10-30T09:13:05.738Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "FXBLDM1BZJD3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "TECHNOMILE LLC",
+      "dba_name": "",
+      "uei": "FXBLDM1BZJD3",
+      "cage_code": "6WBD7",
+      "naics_primary": "541611",
+      "naics_all_codes": [
+        "519290",
+        "541330",
+        "541430",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541714",
+        "541990",
+        "561110",
+        "561210",
+        "561499",
+        "611420",
+        "611430",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "519290",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541714",
+        "541990",
+        "561210",
+        "561499",
+        "611710"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1771977600,
+      "website": "technomile.com",
+      "additional_website": "http://www.technomile.com/",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2007",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

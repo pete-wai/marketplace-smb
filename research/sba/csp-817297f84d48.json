@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-817297f84d48",
+  "providerName": "Axonius Federal Systems",
+  "retrievedAt": "2026-10-30T09:09:27.821Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Axonius Federal Systems",
+      "status": "success",
+      "results": 8,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "AXONIUS FEDERAL SYSTEMS LLC",
+      "dba_name": "",
+      "uei": "VQUMKTALUV45",
+      "cage_code": "91ZQ2",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541513",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-da4e8d294263",
+  "retrievedAt": "2026-10-30T09:11:17.430Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dispel.com",
+      "finalUrl": "https://dispel.com/",
+      "status": "success",
+      "sha256": "aca889af674b15bf814cfc9d7a51539968e1da649070e6db78f7abb57c23820c",
+      "title": "OT Secure Remote Access for Industrial Operations | Dispel ",
+      "signals": []
+    }
+  ]
+}

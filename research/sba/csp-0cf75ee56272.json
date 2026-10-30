@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-0cf75ee56272",
+  "providerName": "EnergyCAP LLC.",
+  "retrievedAt": "2026-10-30T09:10:24.432Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EnergyCAP .",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

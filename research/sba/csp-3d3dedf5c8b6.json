@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-3d3dedf5c8b6",
+  "providerName": "USDA DISC",
+  "retrievedAt": "2026-10-30T09:13:35.052Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "USDA DISC",
+      "status": "success",
+      "results": 389,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-877c48a4b7e8",
+  "retrievedAt": "2026-10-30T09:11:23.119Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://exlibrisgroup.com/",
+      "finalUrl": "https://exlibrisgroup.com/",
+      "status": "success",
+      "sha256": "ceeed0e5261846de6b5a18654ecac2385c2642a8c800c8ac0cab04b630aea9b9",
+      "title": "Ex Libris Library Software : Library Management Software",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "Library Victoria &#8211; Unlocking 4.5 Million Titles Through Patron-First Transformation Read more Blog How a Unif"
+        }
+      ]
+    }
+  ]
+}

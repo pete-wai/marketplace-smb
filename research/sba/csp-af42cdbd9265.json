@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-af42cdbd9265",
+  "providerName": "Toonimo Inc.",
+  "retrievedAt": "2026-10-30T09:13:27.290Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Toonimo .",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

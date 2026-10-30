@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-b1b40dcb8dfa",
+  "providerName": "Zscaler, Inc.",
+  "retrievedAt": "2026-10-30T09:13:46.432Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Zscaler, .",
+      "status": "success",
+      "results": 12,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ZSCALER US GOVERNMENT SOLUTIONS, LLC",
+      "dba_name": "",
+      "uei": "HP7JQFY2LF58",
+      "cage_code": "9AA83",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "541519",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "www.zscaler.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

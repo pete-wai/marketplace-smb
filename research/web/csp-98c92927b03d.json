@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-98c92927b03d",
+  "retrievedAt": "2026-10-30T09:12:05.770Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://trapwire.com/",
+      "finalUrl": "https://trapwire.com/",
+      "status": "success",
+      "sha256": "2c72a129dde45a09e6fda23bd8988333d6994352ac35b4b227f220616d31cd3c",
+      "title": "TrapWire | Threat Detection and Protective Intelligence",
+      "signals": []
+    }
+  ]
+}

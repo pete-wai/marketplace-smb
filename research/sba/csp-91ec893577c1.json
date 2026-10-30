@@ -1,0 +1,102 @@
+{
+  "providerId": "csp-91ec893577c1",
+  "providerName": "Creative Veteran Productions",
+  "retrievedAt": "2026-10-30T09:09:56.575Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Creative Veteran Productions",
+      "status": "success",
+      "results": 3225,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CREATIVE VETERAN PRODUCTIONS, LLC",
+      "dba_name": "",
+      "uei": "DBNRN5GNHDP5",
+      "cage_code": "4SDZ2",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "512110",
+        "512191",
+        "512199",
+        "513210",
+        "541330",
+        "541430",
+        "541511",
+        "541512",
+        "541519",
+        "541618",
+        "541690",
+        "541930",
+        "541990",
+        "561920",
+        "611420",
+        "611430",
+        "611519",
+        "611630",
+        "611699",
+        "611710",
+        "711510"
+      ],
+      "naics_small_codes": [
+        "512110",
+        "512191",
+        "512199",
+        "513210",
+        "541330",
+        "541430",
+        "541511",
+        "541512",
+        "541519",
+        "541618",
+        "541690",
+        "541930",
+        "541990",
+        "561920",
+        "611420",
+        "611430",
+        "611519",
+        "611630",
+        "611699",
+        "611710",
+        "711510"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1761696000,
+      "website": "http://www.creativevet.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2007",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2022-04-22",
+          "exitDate": "2027-10-22",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2022-04-22",
+          "exitDate": "2027-10-22",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

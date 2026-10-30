@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4f16da7cc79a",
+  "retrievedAt": "2026-10-30T09:12:11.447Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://yello.co/government-recruiting/",
+      "finalUrl": "https://yello.co/government-recruiting/",
+      "status": "success",
+      "sha256": "a54cd073f8a543db49597a6aa4415279f6e2d37831a8c33c2d7a4404e8cbf95d",
+      "title": "Government Recruiting Solutions - Yello",
+      "signals": []
+    }
+  ]
+}

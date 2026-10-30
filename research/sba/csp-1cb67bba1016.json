@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1cb67bba1016",
+  "providerName": "Adaptive Protocols, Inc. (Adaptiva)",
+  "retrievedAt": "2026-10-30T09:09:10.537Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Adaptive Protocols, . (Adaptiva)",
+      "status": "success",
+      "results": 646,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-96282e8be772",
+  "retrievedAt": "2026-10-30T09:11:36.090Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://lspedia.com",
+      "finalUrl": "https://www.lspedia.com/",
+      "status": "success",
+      "sha256": "40ece46cc6cd47daf1ea964f907507d04108e34db4f5d9516f2df6fc958b2cc9",
+      "title": "DSCSA Compliance Software and EPCIS Solutions by LSPedia",
+      "signals": []
+    }
+  ]
+}

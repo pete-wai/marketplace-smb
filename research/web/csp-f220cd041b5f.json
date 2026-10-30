@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f220cd041b5f",
+  "retrievedAt": "2026-10-30T09:11:18.195Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.docketscope.com",
+      "finalUrl": "https://www.docketscope.com/",
+      "status": "success",
+      "sha256": "f5a5272670fd63ae87dde62293b3dca44d9f02531a33f4aee4082b71b923efd7",
+      "title": "Public Comments - DocketScope",
+      "signals": []
+    }
+  ]
+}

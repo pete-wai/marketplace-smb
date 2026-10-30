@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-77633e4c62e7",
+  "providerName": "DigiCert, Inc.",
+  "retrievedAt": "2026-10-30T09:10:05.436Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DigiCert, .",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

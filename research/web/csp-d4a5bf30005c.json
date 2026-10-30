@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d4a5bf30005c",
+  "retrievedAt": "2026-10-30T09:11:38.082Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mcgenergy.com",
+      "finalUrl": "https://www.mcgenergy.com/",
+      "status": "success",
+      "sha256": "19eb380950e5d10e14dec267b515e1225b77b6e4fc6f3ec03ea921cedd2e9432",
+      "title": "Energy Software - MCG Energy",
+      "signals": []
+    }
+  ]
+}

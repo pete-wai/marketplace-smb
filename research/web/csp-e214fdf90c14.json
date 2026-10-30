@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e214fdf90c14",
+  "retrievedAt": "2026-10-30T09:11:25.289Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.genesys.com/fedramp/genesys-cloud-cx",
+      "finalUrl": "https://www.genesys.com/fedramp/genesys-cloud-cx",
+      "status": "success",
+      "sha256": "16b0563c999865ef73bcb666c8a7a1a8c4eee47afc4356fcbe3a98e645831c74",
+      "title": "Genesys Cloud CX — FedRAMP Certified | Genesys",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-24415532349d",
+  "retrievedAt": "2026-10-30T09:11:18.608Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.docusign.com/solutions/industries/government/federal",
+      "finalUrl": "https://www.docusign.com/solutions/industries/government/federal",
+      "status": "success",
+      "sha256": "a9897d8b9d1c94d6d362152efe3208845340f063e2f64b63acc4a7939e1dba51",
+      "title": "Docusign eSignature and Contract Management for the U.S. Federal Government | Docusign",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "sign? The market leader trusted by 1.9 million customers Learn More IAM for departments IAM Core Sales Customer Exp"
+        }
+      ]
+    }
+  ]
+}

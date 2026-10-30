@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-e056c895e8f1",
+  "retrievedAt": "2026-10-30T09:11:04.295Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://boomi.com/",
+      "finalUrl": "https://boomi.com/",
+      "status": "success",
+      "sha256": "c369b9aed4aa11902798337bab582235bf5acab145e6ff6eddc800933103f162",
+      "title": "Boomi | The Data Activation Company",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " --> Boomi | The Data Activation Company Close message 💫 Boomi has acquired Elementary Data to brin"
+        }
+      ]
+    }
+  ]
+}

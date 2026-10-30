@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-116ceba96b7b",
+  "retrievedAt": "2026-10-30T09:11:43.629Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.nozominetworks.com/",
+      "finalUrl": "https://www.nozominetworks.com/",
+      "status": "success",
+      "sha256": "01f7d1a94343f8550ebbaaf9a5318abd03a584b0dc6478a903b64f52e0568b2b",
+      "title": "The Leader in OT Cybersecurity Technology | Nozomi Networks",
+      "signals": []
+    }
+  ]
+}

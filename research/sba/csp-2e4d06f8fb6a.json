@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-2e4d06f8fb6a",
+  "providerName": "TeleTech (TTEC) Services Corporation",
+  "retrievedAt": "2026-10-30T09:13:06.270Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "YJN8HMHTFRK9",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "TeleTech (TTEC) Services",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

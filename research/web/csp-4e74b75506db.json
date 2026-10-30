@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-4e74b75506db",
+  "retrievedAt": "2026-10-30T09:11:19.906Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://eightfold.ai/",
+      "finalUrl": "https://eightfold.ai/",
+      "status": "success",
+      "sha256": "06b974db76d8c70f3211559831c9ed5a617e64c115814b441d5def078f6e7e55",
+      "title": "Eightfold AI | AI Native Talent Intelligence Platform",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "files puts the intelligence in AI. 1.6 billion career trajectories. 1.6 million skills. That data fuels the intelli"
+        }
+      ]
+    }
+  ]
+}

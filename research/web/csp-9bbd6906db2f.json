@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9bbd6906db2f",
+  "retrievedAt": "2026-10-30T09:15:01.781Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cyware.com/products/government-agencies-public-sector",
+      "finalUrl": "https://www.cyware.com/industry/government",
+      "status": "success",
+      "sha256": "c8615db5959499d26046090ca61de518c81162ca0b30500399fe6b685c6f083e",
+      "title": "Strengthen Government Cybersecurity with Unified Threat Intelligence",
+      "signals": []
+    }
+  ]
+}

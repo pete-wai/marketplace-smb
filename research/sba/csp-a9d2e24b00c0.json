@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-a9d2e24b00c0",
+  "providerName": "Broad Institute, Inc.",
+  "retrievedAt": "2026-10-30T09:09:33.909Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Broad Institute, .",
+      "status": "success",
+      "results": 1286,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

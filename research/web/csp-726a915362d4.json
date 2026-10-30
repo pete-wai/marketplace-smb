@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-726a915362d4",
+  "retrievedAt": "2026-10-30T09:11:48.866Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://withpersona.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

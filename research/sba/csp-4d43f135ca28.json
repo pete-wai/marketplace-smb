@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-4d43f135ca28",
+  "providerName": "Four BT, LLC",
+  "retrievedAt": "2026-10-30T09:10:35.001Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Four BT,",
+      "status": "success",
+      "results": 917,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "FOUR BT, LLC",
+      "dba_name": "",
+      "uei": "LKU5YJNQSTS6",
+      "cage_code": "7RB80",
+      "naics_primary": "541611",
+      "naics_all_codes": [
+        "513120",
+        "513210",
+        "518210",
+        "541611",
+        "541614",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513120",
+        "513210",
+        "518210",
+        "541611",
+        "541614",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1787529600,
+      "website": "www.4bt.us",
+      "additional_website": "http://www.4bt.us",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2016",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2021-09-21",
+          "exitDate": "2027-03-21",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

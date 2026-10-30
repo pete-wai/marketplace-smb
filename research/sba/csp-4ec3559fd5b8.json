@@ -1,0 +1,101 @@
+{
+  "providerId": "csp-4ec3559fd5b8",
+  "providerName": "Zeva Incorporated",
+  "retrievedAt": "2026-10-30T09:15:01.081Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Zeva",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ZEVA INC",
+      "dba_name": null,
+      "uei": "CYWRR48QTPG1",
+      "cage_code": "8BLC8",
+      "naics_primary": "336411",
+      "naics_all_codes": [
+        "335999",
+        "336411",
+        "336413",
+        "423610",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "335999",
+        "336411",
+        "336413",
+        "423610",
+        "541715"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "E",
+      "last_update_date": 1695254400,
+      "website": "zevaaero.com",
+      "additional_website": "https://zevaaero.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2018",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "ZEVA INCORPORATED",
+      "dba_name": "ZEVA INC",
+      "uei": "WKRER9GT1NY4",
+      "cage_code": "60JZ1",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1793059200,
+      "website": "http://www.zevainc.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2005",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "WOSB",
+          "active": true,
+          "entranceDate": "2020-12-30",
+          "exitDate": "2029-10-25",
+          "pending": false,
+          "suspended": false,
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-a9fba1546986",
+  "retrievedAt": "2026-10-30T09:11:12.734Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://continuumgrc.com/",
+      "finalUrl": "https://continuumgrc.com/",
+      "status": "success",
+      "sha256": "ca1e8d067abce67fe6a1b225d4e498928c1aff5ebeb1d01dde0d5d872f6b3d1e",
+      "title": "FedRAMP Authorized GRC Platform Featuring the World&#039;s First AI Auditor",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "inuum GRC is on track to become a $40 billion market over the next five years and Continuum GRC is a proven innovat"
+        }
+      ]
+    }
+  ]
+}

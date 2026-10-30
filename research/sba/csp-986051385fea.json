@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-986051385fea",
+  "providerName": "Elastic",
+  "retrievedAt": "2026-10-30T09:10:21.499Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Elastic",
+      "status": "success",
+      "results": 141,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

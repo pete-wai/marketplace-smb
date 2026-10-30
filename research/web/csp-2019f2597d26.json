@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2019f2597d26",
+  "retrievedAt": "2026-10-30T09:11:30.491Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ipsos.com/en-us/solutions/list?search=Public%20Affairs",
+      "finalUrl": "https://www.ipsos.com/en-us/solutions/list?search=Public%20Affairs",
+      "status": "success",
+      "sha256": "82ceed8b0c7ac119b1f7d97f9d69e849c4b9a9d65935e1c781b3f1621e006c5b",
+      "title": "Our solutions | Ipsos",
+      "signals": []
+    }
+  ]
+}

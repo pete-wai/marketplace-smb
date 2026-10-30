@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-86ba12711a9e",
+  "retrievedAt": "2026-10-30T09:11:27.186Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://healthedge.com/",
+      "finalUrl": "https://healthedge.com/",
+      "status": "success",
+      "sha256": "286222cbbaf190742dc9ed835dcd0f376316e36fa4b78a628994162f592d8ad8",
+      "title": "HealthEdge",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "althEdge Impacts Payer Operations $1.6 million in savings by automating processes 99% accuracy in claims payment 95"
+        }
+      ]
+    }
+  ]
+}

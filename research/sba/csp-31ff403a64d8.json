@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-31ff403a64d8",
+  "providerName": "Informatica LLC",
+  "retrievedAt": "2026-10-30T09:11:08.272Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Informatica",
+      "status": "success",
+      "results": 11254,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

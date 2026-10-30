@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-74bec9be9c8f",
+  "retrievedAt": "2026-10-30T09:11:38.131Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.medallia.com/",
+      "finalUrl": "https://www.medallia.com/",
+      "status": "success",
+      "sha256": "556d94880055198c71cdc9653c89347b9ec934aff4bf8b11bd70d8540b7fb720",
+      "title": "Experience Management Software Platform &#8211; Medallia &#8211; Experience Management Software",
+      "signals": []
+    }
+  ]
+}

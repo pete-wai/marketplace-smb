@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-91c2e0669804",
+  "providerName": "Saviynt",
+  "retrievedAt": "2026-10-30T09:12:44.807Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Saviynt",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Saviynt, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

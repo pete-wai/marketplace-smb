@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4259bbeceb42",
+  "retrievedAt": "2026-10-30T09:12:02.802Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tmetrics.com/industries/fedramp",
+      "finalUrl": "https://www.tmetrics.com/certifications/fedramp",
+      "status": "success",
+      "sha256": "8995d28081b72c867f0975c88feb3c3c7a7e88ada256a48b384ea2374a9fdbbf",
+      "title": "Contact Center | FedRAMP Authorized for Federal Agencies",
+      "signals": []
+    }
+  ]
+}

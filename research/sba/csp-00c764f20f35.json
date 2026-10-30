@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-00c764f20f35",
+  "providerName": "Blackboard",
+  "retrievedAt": "2026-10-30T09:09:29.943Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Blackboard",
+      "status": "success",
+      "results": 78,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

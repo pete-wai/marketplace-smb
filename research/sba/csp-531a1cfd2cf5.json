@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-531a1cfd2cf5",
+  "providerName": "Bentley Systems, Incorporated",
+  "retrievedAt": "2026-10-30T09:09:28.930Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EN2MEYLMUK51",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Bentley Systems,",
+      "status": "success",
+      "results": 58,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

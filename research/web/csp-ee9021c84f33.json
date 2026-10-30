@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ee9021c84f33",
+  "retrievedAt": "2026-10-30T09:10:53.858Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://business.adobe.com/solutions/industries/government.html",
+      "finalUrl": "https://business.adobe.com/industries/government.html",
+      "status": "success",
+      "sha256": "91426ba1485c4ed1e93616a694e94a0e907a1ee018a07ad9003e6b7dc2211626",
+      "title": "Government Solutions: Efficient, Impactful, Modernized",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c7941b6920e2",
+  "providerName": "Magenta",
+  "retrievedAt": "2026-10-30T09:11:46.348Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Magenta",
+      "status": "success",
+      "results": 21,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

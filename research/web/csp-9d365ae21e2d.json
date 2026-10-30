@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9d365ae21e2d",
+  "retrievedAt": "2026-10-30T09:11:11.543Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://Connectsecure.com",
+      "finalUrl": "https://connectsecure.com/",
+      "status": "success",
+      "sha256": "e848333c0ea0f89a1094050714c84fd35ae0e220f7502ecaa2925282918c45f8",
+      "title": "Vulnerability, Patch &amp; Compliance Software | ConnectSecure",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-74f12c21bfc1",
+  "retrievedAt": "2026-10-30T09:11:16.508Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.deltek.com/en/time-tracking/replicon",
+      "finalUrl": "https://www.deltek.com/products/replicon/",
+      "status": "success",
+      "sha256": "ad3f75a817391f5b421890a82ddda88bdcd58647ca8685fa89f2f7d97e91dee0",
+      "title": "Deltek Replicon: AI-Powered Time Tracking Software | Deltek",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ing firms deliver with confidence. Small Business Get the project control and financial insights you need to grow y"
+        },
+        {
+          "kind": "size",
+          "excerpt": " Enormous Global Efficiencies With 340,000 employees across 39 countries, Capgemini needed a single, compliant time"
+        }
+      ]
+    }
+  ]
+}

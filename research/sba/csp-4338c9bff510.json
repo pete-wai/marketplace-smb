@@ -1,0 +1,98 @@
+{
+  "providerId": "csp-4338c9bff510",
+  "providerName": "Noblis",
+  "retrievedAt": "2026-10-30T09:12:05.409Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Noblis",
+      "status": "success",
+      "results": 31,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "NOBLIS MSD, LLC",
+      "dba_name": "",
+      "uei": "HATLZ67EA8J8",
+      "cage_code": "4JM06",
+      "naics_primary": "541330",
+      "naics_all_codes": [
+        "334511",
+        "336611",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541715",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "541519",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "https://noblis.org/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2006",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    },
+    {
+      "legal_business_name": "NOBLIS MSD, LLC",
+      "dba_name": "",
+      "uei": "VZNRTNJZJUQ6",
+      "cage_code": "720M6",
+      "naics_primary": "541330",
+      "naics_all_codes": [
+        "334511",
+        "336611",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541715",
+        "541990",
+        "561110"
+      ],
+      "naics_small_codes": [
+        "541519",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "https://noblis.org/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2006",
+      "legal_structure": "ZZ",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

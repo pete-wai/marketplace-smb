@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-4980c399281d",
+  "retrievedAt": "2026-10-30T09:11:11.778Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://consus.io",
+      "finalUrl": "https://consus.io/",
+      "status": "success",
+      "sha256": "93c2ca286f6f5910cb60b361e3b5e63c76e0ac6711af839f0c6a44c11ba15298",
+      "title": "Consus — Compliant AI gateway for US defense contractors",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": ". Zero token markup. Teams · under 50 employees, ITAR $40 per employee / month Plus AI tokens at provider cost, wit"
+        }
+      ]
+    }
+  ]
+}

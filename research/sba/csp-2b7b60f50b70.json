@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-2b7b60f50b70",
+  "providerName": "18F - 18F Cloud.gov",
+  "retrievedAt": "2026-10-30T09:08:46.151Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "18F - 18F Cloud.gov",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

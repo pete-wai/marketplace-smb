@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-cf8f21041594",
+  "providerName": "SMX",
+  "retrievedAt": "2026-10-30T09:12:52.815Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SMX",
+      "status": "success",
+      "results": 31,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

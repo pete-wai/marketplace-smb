@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-151c45dc58aa",
+  "providerName": "Lastwall Corp",
+  "retrievedAt": "2026-10-30T09:11:32.577Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DGLNFE65EYH3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "LASTWALL CORP.",
+      "dba_name": "",
+      "uei": "DGLNFE65EYH3",
+      "cage_code": "7KWJ4",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "519290"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "519290"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792108800,
+      "website": "Www.lastwall.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

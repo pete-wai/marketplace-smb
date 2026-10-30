@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-545b1fe9c188",
+  "providerName": "BlackOhm",
+  "retrievedAt": "2026-10-30T09:09:30.351Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "BlackOhm",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "BLACKOHM LLC",
+      "dba_name": "",
+      "uei": "YGSGJDJZ2J24",
+      "cage_code": "9L9G5",
+      "naics_primary": "334511",
+      "naics_all_codes": [
+        "334111",
+        "334220",
+        "334511",
+        "339113"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "334220",
+        "334511",
+        "339113"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1774483200,
+      "website": "blackohm.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2023",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

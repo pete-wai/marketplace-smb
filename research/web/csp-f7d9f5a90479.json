@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f7d9f5a90479",
+  "retrievedAt": "2026-10-30T09:11:52.640Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ramp.com/government",
+      "finalUrl": "https://ramp.com/public-sector",
+      "status": "success",
+      "sha256": "5d99b7b0718ac467829c6133775d3243d931558dcbc69eedf22bb0ee28442e43",
+      "title": "Public Sector Finance Automation &amp; Spend Management Software | Ramp",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "heets Solutions Solutions Startups Small business Mid market Enterprise Platform Platform Platform overview Account"
+        }
+      ]
+    }
+  ]
+}

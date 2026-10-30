@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-802c6c39bf1b",
+  "retrievedAt": "2026-10-30T09:11:03.950Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.bluescape.com/",
+      "finalUrl": "https://www.bluescape.com/",
+      "status": "success",
+      "sha256": "6d446cbaa1698ab0bb784c8e39426ff55dbee6eec3d53c8aa86d82343ff2875d",
+      "title": "Bluescape",
+      "signals": []
+    }
+  ]
+}

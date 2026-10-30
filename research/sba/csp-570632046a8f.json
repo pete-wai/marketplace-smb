@@ -1,0 +1,123 @@
+{
+  "providerId": "csp-570632046a8f",
+  "providerName": "Artera",
+  "retrievedAt": "2026-10-30T09:09:21.410Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "L3FECCPGJDV6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Artera",
+      "status": "success",
+      "results": 663,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ARTERA CORPORATION",
+      "dba_name": "",
+      "uei": "LS7JWC8GE6F6",
+      "cage_code": "5BZL3",
+      "naics_primary": "541990",
+      "naics_all_codes": [
+        "518210",
+        "541330",
+        "541511",
+        "541519",
+        "541930",
+        "541990",
+        "561210",
+        "561499",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541330",
+        "541511",
+        "541519",
+        "541930",
+        "541990",
+        "561210",
+        "561499",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788393600,
+      "website": "www.arteracorp.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2008",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "ARTERA INC.",
+      "dba_name": "",
+      "uei": "S8PHW2AWT2R7",
+      "cage_code": "9DW29",
+      "naics_primary": "621511",
+      "naics_all_codes": [
+        "325412",
+        "339113",
+        "541380",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541990",
+        "561110",
+        "561499",
+        "621511",
+        "624190",
+        "624230"
+      ],
+      "naics_small_codes": [
+        "325412",
+        "339113",
+        "541380",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541990",
+        "561110",
+        "561499",
+        "621511",
+        "624190",
+        "624230"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1792195200,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

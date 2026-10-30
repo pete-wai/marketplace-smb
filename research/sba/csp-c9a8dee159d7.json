@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-c9a8dee159d7",
+  "providerName": "CobbleStone Software",
+  "retrievedAt": "2026-10-30T09:09:46.661Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "VAL8HSETZFG7",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "COBBLESTONE SYSTEMS CORP",
+      "dba_name": "COBBLESTONE SYSTEMS CORP",
+      "uei": "VAL8HSETZFG7",
+      "cage_code": "57HR0",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "423430",
+        "513210",
+        "518210",
+        "541199",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1779321600,
+      "website": "http://www.CobbleStoneSoftware.com",
+      "additional_website": "http://www.CobbleStoneSystems.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1995",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

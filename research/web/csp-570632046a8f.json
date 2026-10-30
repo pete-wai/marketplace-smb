@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-570632046a8f",
+  "retrievedAt": "2026-10-30T09:10:57.705Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://artera.io/",
+      "finalUrl": "https://artera.io/",
+      "status": "success",
+      "sha256": "9d8280414bb815479397d5bc7c9ea902ff4098d2ec5335afc858dd2aed9ca3d7",
+      "title": "AI Agents for Healthcare | Patient Communication Platform",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "esource Center Knowledge Base Artera Academy Company About Us Mission Values Leadership Careers In the Press Announ"
+        }
+      ]
+    }
+  ]
+}

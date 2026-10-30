@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-448c4d22f5b1",
+  "providerName": "JupiterOne, Inc.",
+  "retrievedAt": "2026-10-30T09:11:28.810Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WV2CAEYKZHY9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "JUPITERONE INC",
+      "dba_name": "",
+      "uei": "WV2CAEYKZHY9",
+      "cage_code": "14CG1",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "E",
+      "last_update_date": 1754524800,
+      "website": "https://www.jupiterone.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2020",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

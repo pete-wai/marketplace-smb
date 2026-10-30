@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2346a6c17d90",
+  "retrievedAt": "2026-10-30T09:15:04.144Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sandsolutionslimited.com/trust/fedramp/",
+      "finalUrl": "https://www.sandsolutionslimited.com/trust/fedramp/",
+      "status": "success",
+      "sha256": "e6b88de0c38b0f9cbd16f42474fc407e4fbd55c47fbe3daf124f24b4214989b3",
+      "title": "FedRAMP Moderate Equivalent Cloud | Sand Solutions",
+      "signals": []
+    }
+  ]
+}

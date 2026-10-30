@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-96c523772cf2",
+  "retrievedAt": "2026-10-30T09:11:01.997Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.baseten.co",
+      "finalUrl": "https://www.baseten.co/",
+      "status": "success",
+      "sha256": "1b987c4f15233190ec5782ed0f77f60dae12f189b9ab17c1880e3e1fde6b9b11",
+      "title": "Inference Platform: Deploy AI models in production | Baseten",
+      "signals": []
+    }
+  ]
+}

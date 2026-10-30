@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-6398af4db72b",
+  "retrievedAt": "2026-10-30T09:11:16.702Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.deltek.com/en/government-contracting/costpoint/cloud",
+      "finalUrl": "https://www.deltek.com/products/erp/costpoint/",
+      "status": "success",
+      "sha256": "1ffac5c4b04225f52a73446adb23c8b9901cd52918ccc89224d89ce69ba8aca3",
+      "title": "Deltek Costpoint: ERP for Government Contractors | Deltek",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ing firms deliver with confidence. Small Business Get the project control and financial insights you need to grow y"
+        }
+      ]
+    }
+  ]
+}

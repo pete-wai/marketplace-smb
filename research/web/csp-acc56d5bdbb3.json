@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-acc56d5bdbb3",
+  "retrievedAt": "2026-10-30T09:12:04.595Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.terida.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-86cf5c1b73ed",
+  "providerName": "Huddle US",
+  "retrievedAt": "2026-10-30T09:10:56.969Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Huddle US",
+      "status": "success",
+      "results": 17,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

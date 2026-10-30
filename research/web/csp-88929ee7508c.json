@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-88929ee7508c",
+  "retrievedAt": "2026-10-30T09:11:59.286Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://slack.com/",
+      "finalUrl": "https://slack.com/",
+      "status": "success",
+      "sha256": "4394bd3d47560fd3f9da30ba689d9589d3fb968cbcfdf8793e2bb71dfb2f1acf",
+      "title": "Slack | AI Work Platform &amp; Productivity Tools",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "Auto &amp; Energy Technology Media Small Business Financial Services Retail Public Sector Education Health &amp; Li"
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "ces ©2026 Slack Technologies, LLC, a Salesforce company. All rights reserved. Various trademarks held by their resp"
+        }
+      ]
+    }
+  ]
+}

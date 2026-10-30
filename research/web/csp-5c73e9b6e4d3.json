@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5c73e9b6e4d3",
+  "retrievedAt": "2026-10-30T09:11:42.971Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ninjaone.com/government/federal/",
+      "finalUrl": "https://www.ninjaone.com/government/federal/",
+      "status": "success",
+      "sha256": "1e74748f8a022bf0325ad6c285c7dc91e16e736d4d30b6e426096bbd78f18a1b",
+      "title": "FedRAMP®️ Authorized Unified IT Platform for Federal Agencies | NinjaOne",
+      "signals": []
+    }
+  ]
+}

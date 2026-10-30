@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-7a19d8e812f5",
+  "retrievedAt": "2026-10-30T09:11:26.287Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://gndctl.com",
+      "finalUrl": "https://gndctl.com/",
+      "status": "success",
+      "sha256": "37036dc27fbef49ebdd9c6896500931130a65ff1d25c15d69ff3c2fedccfe466",
+      "title": "GroundControl | AS9102 FAI &amp; Quality Software",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9637f80db970",
+  "retrievedAt": "2026-10-30T09:11:35.530Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://lmisolutions.com/",
+      "finalUrl": "https://www.lmisolutions.com/",
+      "status": "success",
+      "sha256": "c4fe338f0ecb8b695d198302ac7915a197886759ba9bd40b2d9ae1f1fe26f1bc",
+      "title": "Advanced Technology Solutions | LMI",
+      "signals": []
+    }
+  ]
+}

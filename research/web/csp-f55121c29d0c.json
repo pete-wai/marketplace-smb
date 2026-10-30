@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f55121c29d0c",
+  "retrievedAt": "2026-10-30T09:10:57.505Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.armada.ai/",
+      "finalUrl": "https://www.armada.ai/",
+      "status": "success",
+      "sha256": "ef7cd11bfb3c2b2aaedd1af7a1467596d9ab5579e3a29b13680fd60aae7908a4",
+      "title": "Armada: Solving Your Hardest Problems at the Edge",
+      "signals": []
+    }
+  ]
+}

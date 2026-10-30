@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-d00a12b998e1",
+  "retrievedAt": "2026-10-30T09:11:54.983Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://rqipartners.com/",
+      "finalUrl": "https://rqipartners.com/",
+      "status": "success",
+      "sha256": "9d7a943589fa79572825f3ca09d8c8b422c279600148df65442b8695891f9c11",
+      "title": "Resuscitation Quality Improvement and CPR Training | RQI Partners",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "f Emergency Medicine, UAB Hospital 0 MILLION+ healthcare providers have used the RQI Simulation Station for complet"
+        }
+      ]
+    }
+  ]
+}

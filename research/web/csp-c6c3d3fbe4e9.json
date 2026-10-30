@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c6c3d3fbe4e9",
+  "retrievedAt": "2026-10-30T09:10:52.423Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.a-lign.com/a-scend",
+      "finalUrl": "https://www.a-lign.com/a-scend",
+      "status": "success",
+      "sha256": "2010b33008cc4586527ff02c83a9dd77a9717917153b0b5ba33e863b68c6ff0f",
+      "title": "A-SCEND | Audit Management Technology",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "NDUCTED 36,000+ PIECES OF EVIDENCE 4 Million A BETTER WAY TO AUDIT Audit teams face the same challenges every year:"
+        }
+      ]
+    }
+  ]
+}

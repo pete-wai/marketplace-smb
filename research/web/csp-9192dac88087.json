@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-9192dac88087",
+  "retrievedAt": "2026-10-30T09:11:46.186Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.getopenwater.com/",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://openwater.com/",
+      "finalUrl": "https://openwater.com/",
+      "status": "success",
+      "sha256": "1d694304621c620e1f6c15ec1e963c130b0313fca0184512d010cff2edc3f322",
+      "title": "OpenWater - Awards, Abstract, Application Management Software",
+      "signals": []
+    }
+  ]
+}

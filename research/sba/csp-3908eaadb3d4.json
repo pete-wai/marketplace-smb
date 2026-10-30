@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-3908eaadb3d4",
+  "providerName": "Ask Sage, Inc.",
+  "retrievedAt": "2026-10-30T09:09:23.235Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "W9X4EWLUBAW1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ASK SAGE, INC.",
+      "dba_name": "",
+      "uei": "W9X4EWLUBAW1",
+      "cage_code": "9GA09",
+      "naics_primary": "541715",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1781740800,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2023",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

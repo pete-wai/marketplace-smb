@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9e557d81cec2",
+  "retrievedAt": "2026-10-30T09:11:52.483Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.rackspace.com/cloud/rackspace-government-cloud",
+      "finalUrl": "https://www.rackspace.com/cloud/rackspace-government-cloud",
+      "status": "success",
+      "sha256": "0947b71076db72e36a0bb9e0227fe7587477095ff94c5b491b321acebfedc6a6",
+      "title": "Zero Trust Government Cloud | Rackspace Technology",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6778f19e225c",
+  "retrievedAt": "2026-10-30T09:11:31.007Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.issio.com/",
+      "finalUrl": "https://www.issio.com/",
+      "status": "success",
+      "sha256": "f5b6f4639fc4c49b304dc894be295202884b29a043d8f23c0b9cf216f66ccb49",
+      "title": "Secure, reliable FedRAMP authorized SaaS workforce platform",
+      "signals": []
+    }
+  ]
+}

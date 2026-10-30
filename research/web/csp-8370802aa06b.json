@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-8370802aa06b",
+  "retrievedAt": "2026-10-30T09:11:51.466Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://mail.quadient.com",
+      "finalUrl": "https://www.quadient.com/en-us",
+      "status": "success",
+      "sha256": "d334500d7b5a376fd7b173ebfc5e36b7a5e0b9a294e7200c3a00767e67235342",
+      "title": "Make every connection count | Quadient",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "fy package management for residents, employees, and customers. Explore parcel delivery solutions svg]:size-full\"> A"
+        }
+      ]
+    }
+  ]
+}

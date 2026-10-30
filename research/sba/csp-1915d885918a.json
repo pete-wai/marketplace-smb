@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1915d885918a",
+  "providerName": "Coupa Software Inc",
+  "retrievedAt": "2026-10-30T09:09:56.165Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Coupa Software",
+      "status": "success",
+      "results": 23,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-cb571403f03f",
+  "providerName": "Thomson Reuters",
+  "retrievedAt": "2026-10-30T09:13:25.915Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Thomson Reuters",
+      "status": "success",
+      "results": 363,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

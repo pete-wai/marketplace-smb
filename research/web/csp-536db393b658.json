@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-536db393b658",
+  "retrievedAt": "2026-10-30T09:12:04.009Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tecsys.com/",
+      "finalUrl": "https://www.tecsys.com/",
+      "status": "success",
+      "sha256": "b659f29b83197cdcccd5258a55fd693e9d4febee8f89c92fd74cddca50d1facd",
+      "title": "Supply Chain Management Software | Tecsys",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ciencies that added up to roughly $40 million each year. We decided on implementing RFID-enabled inventory manageme"
+        }
+      ]
+    }
+  ]
+}

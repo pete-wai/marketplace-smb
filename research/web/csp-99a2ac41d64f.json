@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-99a2ac41d64f",
+  "retrievedAt": "2026-10-30T09:11:01.091Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.axon.com/",
+      "finalUrl": "https://www.axon.com/",
+      "status": "success",
+      "sha256": "6d8b567023f678d1d0314a77b9f318563bf5ab1a1a2544a754ddd4493cee66f6",
+      "title": "Axon | Protect Life - Axon.com",
+      "signals": []
+    }
+  ]
+}

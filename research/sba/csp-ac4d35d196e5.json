@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-ac4d35d196e5",
+  "providerName": "Automattic, Inc.",
+  "retrievedAt": "2026-10-30T09:09:26.032Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Automattic, .",
+      "status": "success",
+      "results": 615,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

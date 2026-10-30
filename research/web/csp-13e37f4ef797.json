@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-13e37f4ef797",
+  "retrievedAt": "2026-10-30T09:11:43.399Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://gov.blackkitetech.com/",
+      "finalUrl": "https://gov.blackkitetech.com/User/Login/welcome?ReturnUrl=%2fDashboard",
+      "status": "success",
+      "sha256": "683140aac8f8c525acfc687c0a7fab5a0e18ef5f93be61a60cf641af6ea238a5",
+      "title": "Black Kite | Login",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-51c5a9e3e9da",
+  "retrievedAt": "2026-10-30T09:12:04.784Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://thinktrends.co/",
+      "finalUrl": "https://thinktrends.co/",
+      "status": "success",
+      "sha256": "c02f34dbadf1c12f840ce4dd3601423a6a0784e85a8af242f4844a8c0b4adc50",
+      "title": "ThinkTrends | The Full-Lifecycle Agentic AI Platform",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "reasury has awarded ThinkTrends a $26 million prime contract under a multiple-award IDIQ. Through this contract, Th"
+        }
+      ]
+    }
+  ]
+}

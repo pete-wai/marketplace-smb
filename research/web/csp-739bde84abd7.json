@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-739bde84abd7",
+  "retrievedAt": "2026-10-30T09:11:16.969Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://clarity.dexcom.us/professional/",
+      "finalUrl": "https://clarity.dexcom.us/professional/",
+      "status": "success",
+      "sha256": "472a46013bff29b918628d2a61aa0319b3fbc4335949228d0e532d05ffe525b3",
+      "title": "Dexcom Clarity Clinic Portal",
+      "signals": []
+    }
+  ]
+}

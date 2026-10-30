@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9202af6ce925",
+  "providerName": "Oracle",
+  "retrievedAt": "2026-10-30T09:12:10.879Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Oracle",
+      "status": "success",
+      "results": 1447,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

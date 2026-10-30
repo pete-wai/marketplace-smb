@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a4e63bcacf6c",
+  "retrievedAt": "2026-10-30T09:11:26.689Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://usehalo.com",
+      "finalUrl": "https://www.usehalo.com/",
+      "status": "success",
+      "sha256": "92f8f4520e6242dc13642f2eb3e4ca32495bfb900b8c717516efeb64596e943e",
+      "title": "HALO - Workflow Automation for your Enterprise",
+      "signals": []
+    }
+  ]
+}

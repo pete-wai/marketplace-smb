@@ -1,0 +1,137 @@
+{
+  "providerId": "csp-a4e63bcacf6c",
+  "providerName": "Halo",
+  "retrievedAt": "2026-10-30T09:10:54.969Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Halo",
+      "status": "success",
+      "results": 184,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "HALO LLC",
+      "dba_name": "",
+      "uei": "S7LFETZN17U3",
+      "cage_code": "936E5",
+      "naics_primary": "621610",
+      "naics_all_codes": [
+        "621610"
+      ],
+      "naics_small_codes": [
+        "621610"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "E",
+      "last_update_date": 1747958400,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2017",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "HALO LLC",
+      "dba_name": "",
+      "uei": "J1Q6EG11J3D7",
+      "cage_code": "9DMQ6",
+      "naics_primary": "561499",
+      "naics_all_codes": [
+        "518210",
+        "561499"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "561499"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791763200,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2017",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "HALO (HELPING AND LEADING OTHERS)",
+      "dba_name": "HALO",
+      "uei": "V96KKZVDNB58",
+      "cage_code": "81Y20",
+      "naics_primary": "624110",
+      "naics_all_codes": [
+        "624110"
+      ],
+      "naics_small_codes": [],
+      "self_small_boolean": false,
+      "sam_extract_code": "E",
+      "last_update_date": 1747094400,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2016",
+      "legal_structure": "8H",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "HALO SOFTWARE LLC",
+      "dba_name": "",
+      "uei": "E9FXULMNC1W5",
+      "cage_code": "185U2",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791417600,
+      "website": "https://usehalo.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2022",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

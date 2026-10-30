@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-273a0ab7d791",
+  "providerName": "Anecdotes",
+  "retrievedAt": "2026-10-30T09:09:16.827Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Anecdotes",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

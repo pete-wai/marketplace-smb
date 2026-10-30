@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-67ca1878df93",
+  "retrievedAt": "2026-10-30T09:11:32.881Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.knowbe4.com/federal",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

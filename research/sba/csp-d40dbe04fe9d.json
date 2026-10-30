@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-d40dbe04fe9d",
+  "providerName": "Menlo Security",
+  "retrievedAt": "2026-10-30T09:11:50.927Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Menlo Security",
+      "status": "success",
+      "results": 50,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

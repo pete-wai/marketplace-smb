@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1d73beacb4e5",
+  "providerName": "Precisely Software",
+  "retrievedAt": "2026-10-30T09:12:22.878Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Precisely Software",
+      "status": "success",
+      "results": 634,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

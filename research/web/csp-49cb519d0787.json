@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-49cb519d0787",
+  "retrievedAt": "2026-10-30T09:10:58.328Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.assyst.net/complysyncato",
+      "finalUrl": "https://www.assyst.net/complysyncato",
+      "status": "success",
+      "sha256": "43855eabc015de8a120dfc46bfd20b5ff71760d1ca0b5fad380ee93d70b9560e",
+      "title": "ComplySyncATO | FedRAMP 20x Certified GRC Platform",
+      "signals": []
+    }
+  ]
+}

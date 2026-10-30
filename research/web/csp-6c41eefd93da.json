@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6c41eefd93da",
+  "retrievedAt": "2026-10-30T09:11:22.510Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.everfox.com/products/threat-protection-solutions/remote-browser-isolation",
+      "finalUrl": "https://www.everfox.com/products/threat-protection-solutions/",
+      "status": "success",
+      "sha256": "37e26f34e3820dc462a571b0ed726f158dff8f0ea518e12ba14fef9885d041ed",
+      "title": "Threat Protection Solutions | Everfox",
+      "signals": []
+    }
+  ]
+}

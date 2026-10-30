@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-cba9e54a6220",
+  "retrievedAt": "2026-10-30T09:11:52.386Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://rksolutions.com/gorpm",
+      "finalUrl": "https://www.rksolutions.com/gorpm",
+      "status": "success",
+      "sha256": "65d6e372a70da9505e9947f61e75b43175c4c31e1c86b385fe3d190dabbe6d25",
+      "title": "GoRPM - Geospatial Real Property Management",
+      "signals": []
+    }
+  ]
+}

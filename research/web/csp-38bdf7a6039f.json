@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-38bdf7a6039f",
+  "retrievedAt": "2026-10-30T09:11:31.133Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.itamar-medical.com/",
+      "finalUrl": "https://www.itamar-medical.com/",
+      "status": "success",
+      "sha256": "9e827a65423f62cb5864f628bef1b6f691a0f6b86b33bcd8f8e6b43db6147d70",
+      "title": "home-new - ZOLL Itamar",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " trademark of Itamar Medical Ltd a subsidiary of ZOLL Medical Corporation, in the United States and/or other countr"
+        }
+      ]
+    }
+  ]
+}

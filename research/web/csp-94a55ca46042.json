@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-94a55ca46042",
+  "retrievedAt": "2026-10-30T09:12:02.693Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://synergetics.com/openflis/",
+      "finalUrl": "https://synergetics.com/openflis/",
+      "status": "success",
+      "sha256": "dac2560461b652038aab89325a9aea3755f32ba0cc0906b5857c43bf028e9e0d",
+      "title": "OpenFLIS | Synergetics",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "0:2009 Data Quality GSA IT MAS GSA 8(a) STARS III ABOUT ​Company Expertise Our Team Certifications and Capabilities"
+        }
+      ]
+    }
+  ]
+}

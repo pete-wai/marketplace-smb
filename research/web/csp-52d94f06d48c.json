@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-52d94f06d48c",
+  "retrievedAt": "2026-10-30T09:11:08.464Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cirrusmd.com/",
+      "finalUrl": "https://www.cirrusmd.com/",
+      "status": "success",
+      "sha256": "9e56b6f481f6bd73c41b7819089e4b57d4355c189e4207f740391b6d71477450",
+      "title": "Physician-first Care &amp; Guidance | CirrusMD",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "elp. VIEW CLINICAL STUDY More than 124 million people in the U.S. face musculoskeletal (MSK)-related pain. And ther"
+        }
+      ]
+    }
+  ]
+}

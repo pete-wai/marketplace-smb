@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-30e363d3e8c5",
+  "retrievedAt": "2026-10-30T09:15:04.268Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://evgateway.com",
+      "finalUrl": "https://evgateway.com/",
+      "status": "success",
+      "sha256": "3196cdf9e52a20172e0bc576ebdd155941e01a18e3f7c230e6265aa5ad1d3c19",
+      "title": "EVGATEWAY - EV Charging Solutions",
+      "signals": []
+    }
+  ]
+}

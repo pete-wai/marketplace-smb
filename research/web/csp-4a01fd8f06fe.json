@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4a01fd8f06fe",
+  "retrievedAt": "2026-10-30T09:11:15.786Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.datarobot.com",
+      "finalUrl": "https://www.datarobot.com/",
+      "status": "success",
+      "sha256": "429e028fb6306227ea32fff5ab645ebfa2fa8a0fe82266ac23930a9a2d7f6b6e",
+      "title": "DataRobot | Unified Agent Workforce Platform for Enterprise",
+      "signals": []
+    }
+  ]
+}

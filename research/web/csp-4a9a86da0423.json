@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4a9a86da0423",
+  "retrievedAt": "2026-10-30T09:12:01.632Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.federalzengrc.com",
+      "finalUrl": "https://www.steelpatriotpartners.com/",
+      "status": "success",
+      "sha256": "b0167e60bacea23c08f32ffe6916fe944c9ae39b6bab251693bd67950d8ffaa2",
+      "title": "Steel Patriot Partners  |  Cybersecurity &amp; Compliance Experts",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-3e0bf615f1d8",
+  "providerName": "Yardi Systems, Inc.",
+  "retrievedAt": "2026-10-30T09:15:00.566Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KCJYKGHNZWH9",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Yardi Systems, .",
+      "status": "success",
+      "results": 461,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

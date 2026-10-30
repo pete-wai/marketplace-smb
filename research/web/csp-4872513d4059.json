@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-4872513d4059",
+  "retrievedAt": "2026-10-30T09:11:10.830Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.publicsector.com/",
+      "finalUrl": "https://www.publicsector.com/",
+      "status": "success",
+      "sha256": "209cf3b4b8ba048f46b6390e5bbcc6e0ec065b044c0adbbd87292c3f8838c535",
+      "title": "Secure and trusted data and AI governance for US Federal agencies | Collibra Public Sector",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "ctor, an independently operated US subsidiary of Collibra Inc, works with agencies across the US federal government"
+        }
+      ]
+    }
+  ]
+}

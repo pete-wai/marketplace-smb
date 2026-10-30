@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3b11c3af81fd",
+  "retrievedAt": "2026-10-30T09:10:57.723Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://articulate.com/360",
+      "finalUrl": "https://www.articulate.com/360/",
+      "status": "success",
+      "sha256": "22db6e2abaae7c09bcbf48c861e39e046c6258eb3d40ee0da419afba44804611",
+      "title": "Articulate 360 | Articulate",
+      "signals": []
+    }
+  ]
+}

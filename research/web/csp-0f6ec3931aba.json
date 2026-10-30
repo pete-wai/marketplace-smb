@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-0f6ec3931aba",
+  "retrievedAt": "2026-10-30T09:11:34.329Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.leadershipconnect.io",
+      "finalUrl": "https://leadershipconnect.io/",
+      "status": "success",
+      "sha256": "cf0ce99c083cdf61c6f407960a4067e197503457fd650a3b32ba300eddac21b3",
+      "title": "Home | Leadership Connect",
+      "signals": []
+    }
+  ]
+}

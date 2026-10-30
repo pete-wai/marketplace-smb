@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-650f46a2af45",
+  "providerName": "zLink, Inc.",
+  "retrievedAt": "2026-10-30T09:13:46.348Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Q3GLB2QZAT64",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ZLINK INC",
+      "dba_name": "",
+      "uei": "Q3GLB2QZAT64",
+      "cage_code": "81AR7",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "513210",
+        "541310",
+        "541330",
+        "541340",
+        "541511",
+        "541512",
+        "541513",
+        "561210"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541310",
+        "541330",
+        "541340",
+        "541511",
+        "541512",
+        "541513",
+        "561210"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1782432000,
+      "website": "www.zlinkcorp.com",
+      "additional_website": "https://www.zlinkcorp.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2017",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

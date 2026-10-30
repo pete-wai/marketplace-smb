@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4edeeb833a09",
+  "providerName": "Dejero Labs, Inc.",
+  "retrievedAt": "2026-10-30T09:10:03.689Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Dejero Labs, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

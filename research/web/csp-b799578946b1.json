@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b799578946b1",
+  "retrievedAt": "2026-10-30T09:12:03.119Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tanium.com/",
+      "finalUrl": "https://www.tanium.com/",
+      "status": "success",
+      "sha256": "e15f27eade69cf9e52741aba6a2da0be9700bb57b8843a70a61e17bbff898af2",
+      "title": "Autonomous IT, endpoint intelligence and control | Tanium",
+      "signals": []
+    }
+  ]
+}

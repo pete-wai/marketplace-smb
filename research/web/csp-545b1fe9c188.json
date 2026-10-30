@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-545b1fe9c188",
+  "retrievedAt": "2026-10-30T09:11:03.268Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.blackohm.com",
+      "finalUrl": "https://blackohm.com/",
+      "status": "success",
+      "sha256": "03335d17d2f855574b89d9b1ff0378656665168a6db1a34026cd4badf4609920",
+      "title": "Solutions for Personnel, Asset &amp; Drone Tracking | BlackOhm",
+      "signals": []
+    }
+  ]
+}

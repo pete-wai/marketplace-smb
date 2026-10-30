@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-f577060eba02",
+  "providerName": "Fulcrum",
+  "retrievedAt": "2026-10-30T09:10:35.656Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Fulcrum",
+      "status": "success",
+      "results": 54,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "FULCRUM, INC.",
+      "dba_name": "",
+      "uei": "WLBAHAYWYT89",
+      "cage_code": "51HN5",
+      "naics_primary": "561410",
+      "naics_all_codes": [
+        "323111",
+        "323117",
+        "512110",
+        "513130",
+        "541611",
+        "541613",
+        "561410",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "323111",
+        "323117",
+        "512110",
+        "513130",
+        "541611",
+        "541613",
+        "561410",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "E",
+      "last_update_date": 1756166400,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1984",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-3563f1731f2d",
+  "providerName": "RegDOX Solutions",
+  "retrievedAt": "2026-10-30T09:12:35.267Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EEURWD6KXLE1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "REGDOX SOLUTIONS INC",
+      "dba_name": "",
+      "uei": "EEURWD6KXLE1",
+      "cage_code": "54KQ1",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1782864000,
+      "website": "https://www.regdox.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2007",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

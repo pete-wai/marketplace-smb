@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-57be9aff905a",
+  "retrievedAt": "2026-10-30T09:11:00.425Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.avaya.com/govcloud",
+      "finalUrl": "https://www.avaya.com/en/products/avaya-government-cloud/",
+      "status": "success",
+      "sha256": "9fc32270c2480fdb7dfc96d03c8ee6d5e71dbbd43115c806c9b016d90503b916",
+      "title": "Avaya Government Cloud | Secure Government UC &amp; Contact Center    ",
+      "signals": []
+    }
+  ]
+}

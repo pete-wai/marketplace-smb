@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c626c6a2e289",
+  "providerName": "Consensus Cloud Solutions",
+  "retrievedAt": "2026-10-30T09:09:52.884Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "C47BNA8GM833",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Consensus Cloud Solutions",
+      "status": "success",
+      "results": 76,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

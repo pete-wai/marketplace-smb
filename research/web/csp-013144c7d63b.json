@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-013144c7d63b",
+  "retrievedAt": "2026-10-30T09:11:50.159Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.procore.com/",
+      "finalUrl": "https://www.procore.com/",
+      "status": "success",
+      "sha256": "a82a89fd8dbcb9269ed267a346823a6b4487480dd30de49137fa3dcad184be95",
+      "title": "Construction Project Management Software | Procore",
+      "signals": []
+    }
+  ]
+}

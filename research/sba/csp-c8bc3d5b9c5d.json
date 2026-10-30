@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-c8bc3d5b9c5d",
+  "providerName": "Cognitus, an IBM Company",
+  "retrievedAt": "2026-10-30T09:09:47.843Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "E7DJP76PBX63",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Cognitus, an IBM Company",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "COGNITUS DIGITAL LLC",
+      "dba_name": "",
+      "uei": "K2VTFLZC1SM3",
+      "cage_code": "96G40",
+      "naics_primary": "813920",
+      "naics_all_codes": [
+        "813920"
+      ],
+      "naics_small_codes": [
+        "813920"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "E",
+      "last_update_date": 1753401600,
+      "website": "www.cognitus.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

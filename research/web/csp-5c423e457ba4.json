@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5c423e457ba4",
+  "retrievedAt": "2026-10-30T09:11:09.338Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://claroty.com/",
+      "finalUrl": "https://claroty.com/",
+      "status": "success",
+      "sha256": "d6ed9278b2759261e419472122362b6931207942f82e64cc34b555845c26dc4e",
+      "title": "Secure Your Cyber-Physical Systems | Claroty",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8cb0f11dba8f",
+  "retrievedAt": "2026-10-30T09:11:59.823Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://snyk.io/",
+      "finalUrl": "https://snyk.io/",
+      "status": "success",
+      "sha256": "95b8373c26666e55dedd1ba1fedcf9f76859f0c2dee647160ca21f5ecf094e67",
+      "title": "Snyk AI Security Platform | Secure Code, Agents &amp; Apps | Snyk",
+      "signals": []
+    }
+  ]
+}

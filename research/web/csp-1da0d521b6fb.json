@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1da0d521b6fb",
+  "retrievedAt": "2026-10-30T09:10:55.337Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.altana.ai",
+      "finalUrl": "https://altana.ai/",
+      "status": "success",
+      "sha256": "2c9038051cd3d7f7010d1635b7038344d9afc5bdfbc0918f928c83891b9b5e0c",
+      "title": "Altana | The AI-Powered Network for Trusted Trade",
+      "signals": []
+    }
+  ]
+}

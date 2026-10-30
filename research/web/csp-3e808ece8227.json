@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3e808ece8227",
+  "retrievedAt": "2026-10-30T09:11:16.371Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.deloitte.com/",
+      "finalUrl": "https://www.deloitte.com/us/en.html",
+      "status": "success",
+      "sha256": "c0a65411406944aa4d64ad5404aa715fde8b9e3c19e46ec4a482fe0e934301fe",
+      "title": "Deloitte US | Together Makes Progress",
+      "signals": []
+    }
+  ]
+}

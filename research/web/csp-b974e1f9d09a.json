@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b974e1f9d09a",
+  "retrievedAt": "2026-10-30T09:11:09.804Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cloudera.com",
+      "finalUrl": "https://www.cloudera.com/",
+      "status": "success",
+      "sha256": "2bc61a14b00c487d579043a227dbb3747d3cb75e1c704f15f7b5c88a77fce4d3",
+      "title": "Cloudera | The hybrid platform for data &amp; AI",
+      "signals": []
+    }
+  ]
+}

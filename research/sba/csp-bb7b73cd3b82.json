@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-bb7b73cd3b82",
+  "providerName": "Bamboo Health, Inc.",
+  "retrievedAt": "2026-10-30T09:09:28.078Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Bamboo Health, .",
+      "status": "success",
+      "results": 73,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

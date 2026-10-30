@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-56817b335039",
+  "retrievedAt": "2026-10-30T09:11:26.471Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://h2o.ai/",
+      "finalUrl": "https://h2o.ai/",
+      "status": "success",
+      "sha256": "807588e2e304b2ff67cb81ad468737fcee2c15fa4c187b78540af2bcca064f15",
+      "title": "The Trusted Sovereign AI Platform | H2O.ai",
+      "signals": []
+    }
+  ]
+}

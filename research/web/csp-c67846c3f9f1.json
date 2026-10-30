@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c67846c3f9f1",
+  "retrievedAt": "2026-10-30T09:11:14.400Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cribl.io",
+      "finalUrl": "https://cribl.io/",
+      "status": "success",
+      "sha256": "0e03d98a7d71457ca4fe5858c0491827d212c364a67dd121090109b66b78f8a6",
+      "title": "The AI Platform for Telemetry | Cribl",
+      "signals": []
+    }
+  ]
+}

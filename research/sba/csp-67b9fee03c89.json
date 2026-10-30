@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-67b9fee03c89",
+  "providerName": "United States Department of Agriculture",
+  "retrievedAt": "2026-10-30T09:13:32.688Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "United States Department of Agriculture",
+      "status": "success",
+      "results": 3178,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

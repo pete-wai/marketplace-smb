@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ce0b67f97268",
+  "retrievedAt": "2026-10-30T09:11:42.396Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://neuramill.co/",
+      "finalUrl": "https://neuramill.co/",
+      "status": "success",
+      "sha256": "0fa0fa5764e063fa245dc0711a20c99273e6c3b076fbf8bfdd11a607bfdb0f1f",
+      "title": "Neuramill — Design to parts 10× faster",
+      "signals": []
+    }
+  ]
+}

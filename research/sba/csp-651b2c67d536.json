@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-651b2c67d536",
+  "providerName": "Atlassian",
+  "retrievedAt": "2026-10-30T09:09:25.176Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Atlassian",
+      "status": "success",
+      "results": 53,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

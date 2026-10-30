@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-15c0edb69e72",
+  "providerName": "Ernst & Young LLP",
+  "retrievedAt": "2026-10-30T09:10:25.377Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Ernst & Young LLP",
+      "status": "success",
+      "results": 62,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ERNST & YOUNG PUERTO RICO LLC",
+      "dba_name": "",
+      "uei": "NV4KMM12YJ38",
+      "cage_code": "7X6A8",
+      "naics_primary": "541211",
+      "naics_all_codes": [
+        "541211",
+        "541213",
+        "541219"
+      ],
+      "naics_small_codes": [
+        "541211",
+        "541213",
+        "541219"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1765756800,
+      "website": "http://www.ey.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1969",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

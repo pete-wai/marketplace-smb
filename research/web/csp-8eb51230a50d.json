@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8eb51230a50d",
+  "retrievedAt": "2026-10-30T09:11:33.093Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.koniag-gs.com/health/",
+      "finalUrl": "https://www.koniag-gs.com/health/",
+      "status": "success",
+      "sha256": "6c16eca7bf59dc642c7e2f003f9b5eaaed6b8f7d280f7129898e7a163c54769e",
+      "title": "Health - Koniag Government Services",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-031ac995a40f",
+  "providerName": "LaunchDarkly",
+  "retrievedAt": "2026-10-30T09:11:32.665Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HZSZKVJU9TH3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "LaunchDarkly",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

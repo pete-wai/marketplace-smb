@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-54ce55ddc498",
+  "retrievedAt": "2026-10-30T09:11:49.683Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.portal26.ai",
+      "finalUrl": "https://portal26.ai/",
+      "status": "success",
+      "sha256": "d31d4c0810f2ce28e3f5b75e921c8e86323d5c0b04272fe71623bd1cc24fdfd1",
+      "title": "Portal26 | The AI-First Enterprise Platform",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ion. CISO Perspectives on Portal26 1 Billion+ Transactions/month 550k+ Users 72hrs to ROI Schedule a Demo 30min Act"
+        }
+      ]
+    }
+  ]
+}

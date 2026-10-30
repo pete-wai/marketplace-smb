@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-0e6582c691e4",
+  "retrievedAt": "2026-10-30T09:11:22.068Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ArcGIS.com",
+      "finalUrl": "https://www.arcgis.com/index.html",
+      "status": "success",
+      "sha256": "2e712b4084a72663900fa175ca9c931131a20d116843c2c82efe55eb40b4c6c6",
+      "title": "",
+      "signals": []
+    }
+  ]
+}

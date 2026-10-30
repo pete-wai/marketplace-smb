@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-98c92927b03d",
+  "providerName": "TRAPWIRE",
+  "retrievedAt": "2026-10-30T09:13:28.574Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TRAPWIRE",
+      "status": "success",
+      "results": 7,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "TRAPWIRE INC.",
+      "dba_name": "TRAPWIRE INC",
+      "uei": "M81JC1J298K8",
+      "cage_code": "4B2W4",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "541990",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "541990",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "www.trapwire.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2005",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

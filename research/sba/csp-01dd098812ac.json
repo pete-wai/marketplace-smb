@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-01dd098812ac",
+  "providerName": "ArcSuite AI (Formerly ArcProcure)",
+  "retrievedAt": "2026-10-30T09:09:20.688Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "JR1NGCDN8AF9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "A-FRAME SOLUTIONS LLC",
+      "dba_name": "",
+      "uei": "JR1NGCDN8AF9",
+      "cage_code": "72P29",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541512",
+        "541519",
+        "541611",
+        "541618",
+        "541990",
+        "561110",
+        "561990"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541512",
+        "541519",
+        "541611",
+        "541618",
+        "541990",
+        "561110",
+        "561990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792627200,
+      "website": "www.aframesolutions.com",
+      "additional_website": "www.aframesolutions.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-2e74dafd61e7",
+  "retrievedAt": "2026-10-30T09:11:17.179Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.overleaf.com/for/government",
+      "finalUrl": "https://www.overleaf.com/for/government",
+      "status": "success",
+      "sha256": "f4dd090449ad4f28102e79c9faeb0f24a4fcf0d0acf9ea82e0248debadd32dee",
+      "title": "Overleaf for government - Overleaf, Online LaTeX Editor",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "gencies, we partner with preferred small business resellers that are SDVOSB and/or HUBZone certified. We also suppo"
+        },
+        {
+          "kind": "size",
+          "excerpt": "d. Learn more arrow_right_alt Over 25 million users in the public sector, businesses, and research organizations wo"
+        }
+      ]
+    }
+  ]
+}

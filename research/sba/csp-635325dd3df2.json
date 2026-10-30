@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-635325dd3df2",
+  "providerName": "Certivo, Inc.",
+  "retrievedAt": "2026-10-30T09:09:38.741Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "E457B1U8K8P5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CERTIVO INC",
+      "dba_name": "",
+      "uei": "E457B1U8K8P5",
+      "cage_code": "14EF2",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "E",
+      "last_update_date": 1754870400,
+      "website": "https://certivo.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2024",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

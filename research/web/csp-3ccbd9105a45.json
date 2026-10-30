@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-3ccbd9105a45",
+  "retrievedAt": "2026-10-30T09:11:55.284Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.salesforce.com/solutions/industries/government/overview/",
+      "finalUrl": "https://www.salesforce.com/government/",
+      "status": "success",
+      "sha256": "ce4f53007af26e06684648cd0b7613ffaadd65dbef4abb61a31982b7126e3b80",
+      "title": "Best Software &amp; CRM for Government | Salesforce",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": " Marketing Analytics Marketing for Small Business Marketing Pricing Commerce Back Commerce Increase revenue and del"
+        },
+        {
+          "kind": "size",
+          "excerpt": "rnance and compliance for customers, employees, partners and suppliers. See legal For Customers For Partners and Al"
+        }
+      ]
+    }
+  ]
+}

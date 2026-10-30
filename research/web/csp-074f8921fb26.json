@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-074f8921fb26",
+  "retrievedAt": "2026-10-30T09:11:27.312Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.hirevue.com/",
+      "finalUrl": "https://www.hirevue.com/",
+      "status": "success",
+      "sha256": "cfc04561d4dd9312b34f6581a72beaddd2532c13f672cf368ac647046b32df9c",
+      "title": "Home | Hirevue",
+      "signals": []
+    }
+  ]
+}

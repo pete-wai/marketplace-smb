@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6a54a3ac754a",
+  "retrievedAt": "2026-10-30T09:11:17.191Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://digital.ai/",
+      "finalUrl": "https://digital.ai/",
+      "status": "success",
+      "sha256": "950deb576c90536b639f0a48611468b9e2023f092dacb6bea630b8e0eea161b5",
+      "title": "AI-Powered DevOps Platform | Digital.ai",
+      "signals": []
+    }
+  ]
+}

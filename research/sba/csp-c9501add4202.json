@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c9501add4202",
+  "providerName": "Sumo Logic",
+  "retrievedAt": "2026-10-30T09:13:00.684Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Sumo Logic",
+      "status": "success",
+      "results": 9,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

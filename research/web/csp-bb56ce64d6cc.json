@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-bb56ce64d6cc",
+  "retrievedAt": "2026-10-30T09:11:27.348Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.hootsuite.com/industries/government",
+      "finalUrl": "https://www.hootsuite.com/industries/government",
+      "status": "success",
+      "sha256": "32797f5a3e05cbf1c006ad0ca4cb91f02544ab008675c926d32bbb71cce48bc0",
+      "title": "Hootsuite for Government and Public Agencies",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "althcare Technology Consumer goods Small business Hospitality Education Agencies Nonprofit Business Needs PR and co"
+        }
+      ]
+    }
+  ]
+}

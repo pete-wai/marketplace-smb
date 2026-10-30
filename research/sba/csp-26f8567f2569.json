@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-26f8567f2569",
+  "providerName": "Box Inc.",
+  "retrievedAt": "2026-10-30T09:09:33.066Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Box .",
+      "status": "success",
+      "results": 1382,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

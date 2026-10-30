@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-93969d193161",
+  "retrievedAt": "2026-10-30T09:11:27.392Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://workforceexperience.hp.com/wxp-collaboration/",
+      "finalUrl": "https://workforceexperience.hp.com/wxp-collaboration/",
+      "status": "success",
+      "sha256": "5c070d4e1ce6f9ae5dc61a822074c4a8a85394656f35ad6cf01add2586d6c430",
+      "title": "WXP Collaboration - HP Workforce Experience Platform",
+      "signals": []
+    }
+  ]
+}

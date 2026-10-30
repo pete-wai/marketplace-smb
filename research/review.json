@@ -1,0 +1,299 @@
+{
+  "reviewedAt": "2026-10-30",
+  "identityMatches": {
+    "csp-6cb91e356a54": {
+      "uei": "J3YFJF4339J9",
+      "reason": "MapLarge and MAP LARGE spacing variation; both sources identify maplarge.com."
+    },
+    "csp-a4e63bcacf6c": {
+      "uei": "E9FXULMNC1W5",
+      "reason": "HALO SOFTWARE LLC uses the Marketplace product domain usehalo.com; unrelated HALO results rejected."
+    },
+    "csp-efea7f530727": {
+      "uei": "ZGS3HTJGHCD7",
+      "reason": "Exact legal name and product subdomain under aequitascyberlabs.com."
+    },
+    "csp-5ef359c6ea22": {
+      "uei": "G7X7JBRL7N17",
+      "reason": "Exact legal name; product subdomain xtractiq.tscti.com matches tscti.com."
+    },
+    "csp-b81fbf841425": {
+      "uei": "J6L1J4KNF7N4",
+      "reason": "Company versus Co abbreviation; exact inteum.com domain."
+    },
+    "csp-776478d41b21": {
+      "uei": "PV8NV27KRJC7",
+      "reason": "Marketplace parenthetical RMW abbreviation; full legal name and relomw.com match."
+    },
+    "csp-f55121c29d0c": {
+      "uei": "UWXDAXHYDNF5",
+      "reason": "Armada Systems name and armada.ai domain match; Armada Ltd security firm rejected."
+    },
+    "csp-7038a7b79a5e": {
+      "uei": "CX6SHE5NFNG6",
+      "reason": "InfusionPoints corporate cloud-solutions capability statement identifies this UEI and XBU40 product.",
+      "url": "https://infusionpoints.com/sites/default/files/2025-04/InfusionPoints_Cloud_Solutions.pdf"
+    },
+    "csp-34feb3621f7b": {
+      "uei": "HXLKB5PUEUM7",
+      "reason": "Marketplace misspells Systems as Sytems; exact Feith business domain."
+    }
+  },
+  "excludedProviders": {
+    "csp-2b7b60f50b70": "Government-operated cloud.gov, not a business concern.",
+    "csp-f8048254c29f": "General Services Administration, a federal agency.",
+    "csp-67b9fee03c89": "United States Department of Agriculture, a federal agency.",
+    "csp-18c073e21ea3": "United States Department of the Treasury, a federal agency.",
+    "csp-3d3dedf5c8b6": "USDA DISC, a federal agency service."
+  },
+  "currentOverrides": {
+    "csp-6b3977c6227a": {
+      "classification": "unknown",
+      "confidence": "low",
+      "conflict": true,
+      "reason": "Canon identifies Canon Inc. as its parent and reports approximately $29.5 billion global 2025 revenue. This conflicts with the matched SBA small-business representation; affiliate-adjusted eligibility requires review.",
+      "evidence": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/DTQLFAEKKCP5/4J871",
+          "uei": "DTQLFAEKKCP5",
+          "legalName": "CANON U.S.A., INC.",
+          "primaryNaics": "532420",
+          "smallNaics": [
+            "459410",
+            "532420",
+            "541511",
+            "561210",
+            "811210"
+          ],
+          "registeredNaics": [
+            "323111",
+            "323120",
+            "333248",
+            "333310",
+            "334118",
+            "334220",
+            "334290",
+            "334310",
+            "339940",
+            "423420",
+            "423430",
+            "459410",
+            "532420",
+            "541511",
+            "561210",
+            "811210"
+          ],
+          "registrationStatus": "A",
+          "recordUpdated": "2026-10-23",
+          "matchBasis": "exact name and website domain"
+        },
+        {
+          "kind": "Official company financial disclosure",
+          "url": "https://www.usa.canon.com/newsroom/2026/20260408-annual-report",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-7c2dddc2c258": {
+      "classification": "unknown",
+      "confidence": "low",
+      "conflict": true,
+      "reason": "BeyondTrust reported over $400 million annual recurring revenue in mid-2024. ARR is not SBA receipts, but the scale conflicts with an unqualified small-business reading of its SBA record; entity, affiliation, and receipts review is required.",
+      "evidence": [
+        {
+          "kind": "SBA Small Business Search",
+          "url": "https://search.certifications.sba.gov/profile/M7U8NDFYRPJ9/4B5K1",
+          "uei": "M7U8NDFYRPJ9",
+          "legalName": "BEYONDTRUST CORPORATION",
+          "primaryNaics": "541519",
+          "smallNaics": [
+            "541519"
+          ],
+          "registeredNaics": [
+            "541519"
+          ],
+          "registrationStatus": "A",
+          "recordUpdated": null,
+          "matchBasis": "exact name and website domain"
+        },
+        {
+          "kind": "Official company financial disclosure",
+          "url": "https://www.beyondtrust.com/blog/entry/beyond-momentum",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-652ab6fa78af": {
+      "classification": "likely-not-small",
+      "confidence": "medium",
+      "reason": "SAS reports over $3 billion annual sales in its 2025 annual report. One year divided by five still exceeds the $47 million conservative cloud/software benchmark. Management sales measures are not SBA receipts; classification is an inference.",
+      "evidence": [
+        {
+          "kind": "Official annual report",
+          "url": "https://www.sas.com/en_us/company-information/annual-report.geo.html",
+          "period": "2025",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-ce63f29292ac": {
+      "classification": "unknown",
+      "confidence": "low",
+      "reason": "ElevenLabs reported $350m ARR at end-2025 and over $500m by May 2026. ARR is a run rate, not completed-year receipts. Without the applicable receipts history and affiliate context, this study retains unknown rather than treating ARR as a legal size test.",
+      "evidence": [
+        {
+          "kind": "Official company disclosure; insufficient size evidence",
+          "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-74f3bba0747b": {
+      "classification": "unknown",
+      "confidence": "low",
+      "reason": "Cursor’s official press index links a March 2026 report of $2b recurring revenue. A press-linked run rate does not establish completed-year SBA receipts or historical ownership; no qualifying registration was matched, so size remains unknown.",
+      "evidence": [
+        {
+          "kind": "Official company disclosure; insufficient size evidence",
+          "url": "https://cursor.com/blog/topic/press",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-a7c4c5ead54c": {
+      "classification": "unknown",
+      "confidence": "low",
+      "reason": "Files.com describes audited consolidated financial statements and explicitly does not publicly disclose headcount. The public page does not supply affiliate-adjusted receipts; no qualifying registry match was established. Size remains unknown.",
+      "evidence": [
+        {
+          "kind": "Official company disclosure; insufficient size evidence",
+          "url": "https://www.files.com/compliance/overview-and-responsibilities/company-overview-and-business-information",
+          "observed": "2026-10-30"
+        }
+      ]
+    },
+    "csp-6a1ffd5d9580": {
+      "classification": "unknown",
+      "confidence": "low",
+      "reason": "Wisedocs describes Canadian startup origins and funding, but investment amounts are not revenue or SBA receipts. U.S. entity and affiliate-adjusted size cannot be inferred from a small team or funding round. No qualifying registry match was established.",
+      "evidence": [
+        {
+          "kind": "Official company disclosure; insufficient size evidence",
+          "url": "https://www.wisedocs.ai/company/careers",
+          "observed": "2026-10-30"
+        }
+      ]
+    }
+  },
+  "historicalOverrides": [
+    {
+      "providerId": "csp-a79f352c4b77",
+      "start": "2016-01-15",
+      "end": "2016-01-28",
+      "assessment": {
+        "classification": "likely-small",
+        "confidence": "medium",
+        "reason": "Contemporaneous reporting identifies NetComm as a woman-owned small business when Beacon received its authorization in January 2016. Underlying procurement NAICS and affiliate-adjusted receipts were not independently verified.",
+        "evidence": [
+          {
+            "kind": "Dated contemporaneous reporting",
+            "date": "2016-01-28",
+            "url": "https://www.federaltimes.com/management/2016/01/28/first-woman-owned-small-business-gets-fedramp-approval/"
+          }
+        ]
+      }
+    },
+    {
+      "providerId": "csp-7038a7b79a5e",
+      "start": "2026-01-20",
+      "end": "2026-04-10",
+      "assessment": {
+        "classification": "likely-small",
+        "confidence": "low",
+        "reason": "The company explicitly described itself as a small business on January 20, 2026, 80 days before its April certification. This is a nearby dated self-description, not proof of eligibility on the certification date.",
+        "evidence": [
+          {
+            "kind": "Dated company small-business claim",
+            "date": "2026-01-20",
+            "url": "https://infusionpoints.com/News/infusionpoints-achieves-aws-premier-tier-services-partner-status-marking-major-milestone-our"
+          }
+        ]
+      }
+    }
+  ],
+  "ownershipFlags": [
+    {
+      "providerName": "StackArmor",
+      "effectiveDate": "2025-05-08",
+      "parent": "Tyto Athene (subsequently Quantum Sky)",
+      "url": "https://gotyto.com/press-releases/tyto-athene-acquires-stackarmor/",
+      "reason": "Acquisition makes legacy standalone small-business claims insufficient without an affiliation review. Preserve unknown rather than assume either size outcome."
+    }
+  ],
+  "reviewNotes": [
+    "Company homepage small-business mentions were screened manually: customer segments and reseller descriptions do not classify the provider.",
+    "Exact normalized name alone is insufficient: IBM, Snowflake, Ramp, Tango, Artera and other searches produced unrelated businesses.",
+    "SBA program-history intervals support only a likely-small historical inference; they do not prove size at every intervening date."
+  ],
+  "providerAliases": {
+    "Cisco Systems Inc.": "CISCO",
+    "Elastic Cloud Hosted": "Elastic",
+    "Citrix Systems, Inc.": "Citrix",
+    "SMX (Formerly Smartronix)": "SMX",
+    "Persona Identities, LLC": "Persona",
+    "Siemens AG": "Siemens",
+    "Center for Translational Data Science (CTDS), University of Chicago and Open Commons Consortium (OCC)": "Center for Translational Data Science (CTDS)"
+  },
+  "aliasReason": "Reviewed same-provider name variants and product naming, preserving subsidiaries as separate legal-provider records unless identity is established. Ultimate parents are considered for size, not automatically merged for participation counts.",
+  "companyClaims": [
+    {
+      "providerName": "Zeva Incorporated",
+      "url": "https://zevacrypt.zevainc.com/",
+      "reason": "Provider identifies itself as a woman-owned small business.",
+      "asOf": "2026-10-30",
+      "classification": "likely-small",
+      "confidence": "low"
+    },
+    {
+      "providerName": "UberEther",
+      "url": "https://uberether.com/iam-advantage/",
+      "reason": "Provider describes its corporate structure as a domestically owned small business.",
+      "asOf": "2026-10-30",
+      "classification": "likely-small",
+      "confidence": "low"
+    },
+    {
+      "providerName": "MIS Sciences Corporation",
+      "url": "https://www.mis-sciences.com/",
+      "reason": "Provider claims SBA woman-owned small-business certification.",
+      "asOf": "2026-10-30",
+      "classification": "likely-small",
+      "confidence": "low"
+    },
+    {
+      "providerName": "Optimal Labs",
+      "url": "https://gooptimal.io/nineline/",
+      "reason": "Provider claims service-disabled veteran-owned small-business certification.",
+      "asOf": "2026-10-30",
+      "classification": "likely-small",
+      "confidence": "low"
+    },
+    {
+      "providerName": "mLINQS",
+      "url": "https://mlinqs.net/",
+      "reason": "Provider claims SDVOSB status; selected registry NAICS evidence is not sufficient by itself.",
+      "asOf": "2026-10-30",
+      "classification": "likely-small",
+      "confidence": "low"
+    },
+    {
+      "providerName": "Syneren Technologies Corporation",
+      "url": "https://www.syneren.com/",
+      "reason": "Provider claims SBA woman-owned small-business certification.",
+      "asOf": "2026-10-30",
+      "classification": "likely-small",
+      "confidence": "low"
+    }
+  ]
+}

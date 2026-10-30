@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c1c2b83ddc5d",
+  "retrievedAt": "2026-10-30T09:11:26.492Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.hackerone.com/",
+      "finalUrl": "https://www.hackerone.com/",
+      "status": "success",
+      "sha256": "94bf463b89723b4e4cebd13b678709fcdff74441da2d506d7152bb4eedfb6eac",
+      "title": "HackerOne | Leader in Continuous Threat Exposure Management | Security for AI",
+      "signals": []
+    }
+  ]
+}

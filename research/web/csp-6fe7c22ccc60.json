@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6fe7c22ccc60",
+  "retrievedAt": "2026-10-30T09:11:27.060Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://hbhealthcaresafety.org/healthcare-safeware/",
+      "finalUrl": "https://hbhealthcaresafety.org/software/",
+      "status": "success",
+      "sha256": "1ef740b35ee0fa488713ef2d5cc59cc26205a42f349e15943868d7534538ea2a",
+      "title": "Reveal Hidden Patient Safety Risks with Healthcare Safeware® Software",
+      "signals": []
+    }
+  ]
+}

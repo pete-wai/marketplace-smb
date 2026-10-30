@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-53ef61b2ac21",
+  "retrievedAt": "2026-10-30T09:11:48.552Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tagovcloud.com/",
+      "finalUrl": "https://www.tagovcloud.com/",
+      "status": "success",
+      "sha256": "768a7a7061416a895b5ae7883f5ad022b833970c145a9b4c6a8f07d8c76e7657",
+      "title": "Content &amp; Document Management Solution - TransAccess",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": ", a service-disabled veteran-owned small business (SDVOSB), is proud to announce that its flagship records manageme"
+        }
+      ]
+    }
+  ]
+}

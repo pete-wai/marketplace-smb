@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c1258e04efc0",
+  "providerName": "Anitian",
+  "retrievedAt": "2026-10-30T09:09:17.059Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DQHLH8C1PH66",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Anitian",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

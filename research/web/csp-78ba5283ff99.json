@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-78ba5283ff99",
+  "retrievedAt": "2026-10-30T09:12:04.603Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://app-gov.trustguardai.com",
+      "finalUrl": "https://www.trustguardai.com/",
+      "status": "success",
+      "sha256": "73cf2ace5a764778949007daed7b602978f87ee5c88963a0d9c332ce823a0d0c",
+      "title": "TrustGuard | AI for Third-Party Risk",
+      "signals": []
+    }
+  ]
+}

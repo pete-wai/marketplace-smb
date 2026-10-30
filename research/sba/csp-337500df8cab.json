@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-337500df8cab",
+  "providerName": "Power Settlements Consulting and Software, LLC (PSCS), a subsidiary of Yes Energy, LLC",
+  "retrievedAt": "2026-10-30T09:12:19.949Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Power Settlements Consulting and Software,  (PSCS), a subsidiary of Yes Energy,",
+      "status": "success",
+      "results": 8660,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

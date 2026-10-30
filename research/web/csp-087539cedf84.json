@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-087539cedf84",
+  "retrievedAt": "2026-10-30T09:11:13.395Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cority.com/",
+      "finalUrl": "https://www.cority.com/",
+      "status": "success",
+      "sha256": "8fa26fb1b3c70c39084e8ac0db8ef1acbeb35b312f14db9e90b243bdb1e383db",
+      "title": "EHS Software Solutions | Applied AI for EHS Management",
+      "signals": []
+    }
+  ]
+}

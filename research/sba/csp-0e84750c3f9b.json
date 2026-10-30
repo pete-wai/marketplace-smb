@@ -1,0 +1,97 @@
+{
+  "providerId": "csp-0e84750c3f9b",
+  "providerName": "AgileRank",
+  "retrievedAt": "2026-10-30T09:09:12.015Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Y5PTNH8M5GA1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "AGILERANK LLC",
+      "dba_name": "",
+      "uei": "Y5PTNH8M5GA1",
+      "cage_code": "74KW9",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "334111",
+        "339112",
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541990",
+        "561320",
+        "611420",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "339112",
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541990",
+        "561320",
+        "611420",
+        "811210"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1785801600,
+      "website": "www.agilerank.com",
+      "additional_website": "https://www.agilerank.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2014",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": true,
+          "entranceDate": "2021-07-25",
+          "exitDate": "2030-07-24",
+          "caseNumber": "104859",
+          "suspended": false,
+          "status": "Active",
+          "servicingOffice": "Houston District Office",
+          "officeId": "0671"
+        },
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2022-05-06",
+          "exitDate": "2027-07-25",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2022-05-06",
+          "exitDate": "2027-07-25",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

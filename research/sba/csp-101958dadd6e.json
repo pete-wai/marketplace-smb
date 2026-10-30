@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-101958dadd6e",
+  "providerName": "CrowdStrike, Inc.",
+  "retrievedAt": "2026-10-30T09:09:57.996Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "JXV5KPM56S34",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "CrowdStrike, .",
+      "status": "success",
+      "results": 28,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

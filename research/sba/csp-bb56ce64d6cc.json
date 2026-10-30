@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-bb56ce64d6cc",
+  "providerName": "Hootsuite",
+  "retrievedAt": "2026-10-30T09:10:56.226Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Hootsuite",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

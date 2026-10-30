@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d48e1093a46f",
+  "retrievedAt": "2026-10-30T09:11:50.647Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.proofpoint.com/",
+      "finalUrl": "https://www.proofpoint.com/us",
+      "status": "success",
+      "sha256": "d5149648b530b8cf425741235bad3d48fbeefb5a88915858fa3cec0d9b5f9f55",
+      "title": "Enterprise Cybersecurity Solutions, Services &amp; Training | Proofpoint US",
+      "signals": []
+    }
+  ]
+}

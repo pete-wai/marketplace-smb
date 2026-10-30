@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3cd6fb310d64",
+  "retrievedAt": "2026-10-30T09:10:52.245Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://911inform.com",
+      "finalUrl": "https://911inform.com/",
+      "status": "success",
+      "sha256": "66dd645d64e78f3e8cef10d4ceec180081d3b5790aa8c1832d8061b771c72edf",
+      "title": "911inform",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-aba20fea803f",
+  "retrievedAt": "2026-10-30T09:12:08.257Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.varonis.com",
+      "finalUrl": "https://www.varonis.com/",
+      "status": "success",
+      "sha256": "be59baa6d856d8d8d96b712336b72dbbd0689e0dc69ec5b6f4b251845f61ef6a",
+      "title": "Varonis | Leader in Data and AI Security. For Cloud, SaaS and On-Prem",
+      "signals": []
+    }
+  ]
+}

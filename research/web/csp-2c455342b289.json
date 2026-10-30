@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2c455342b289",
+  "retrievedAt": "2026-10-30T09:11:47.825Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.paramify.com",
+      "finalUrl": "https://www.paramify.com/",
+      "status": "success",
+      "sha256": "242920825aa3bee84b62bdaaf1415588593b0c01fc5fdc1f459f3bfbbcef9b96",
+      "title": "Paramify | FedRAMP, CMMC, FISMA Compliance Automation Software",
+      "signals": []
+    }
+  ]
+}

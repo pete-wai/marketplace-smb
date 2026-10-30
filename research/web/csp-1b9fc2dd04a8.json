@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1b9fc2dd04a8",
+  "retrievedAt": "2026-10-30T09:11:40.137Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://mlinqs.net/",
+      "finalUrl": "https://mlinqs.net/",
+      "status": "success",
+      "sha256": "4260566e31675480836a1e5eb6ec492b125f9812094e8f517b05d6a97f40ff0e",
+      "title": "mLINQS: Government Relocation Accounting Software | mLINQS",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "s a Service-disabled Veteran-owned Small Business (SDVOSB) that stands ready to support you. Schedule a consultatio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "providerId": "csp-53ef61b2ac21",
+  "providerName": "Peniel Solutions, LLC",
+  "retrievedAt": "2026-10-30T09:12:15.213Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "RL1GEPFF8NW5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "PENIEL SOLUTIONS, LLC",
+      "dba_name": "PENIEL SOLUTIONS LLC",
+      "uei": "RL1GEPFF8NW5",
+      "cage_code": "1RYE3",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "493110",
+        "513210",
+        "518210",
+        "519290",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541860",
+        "541910",
+        "541990",
+        "561110",
+        "561210",
+        "561499",
+        "561920",
+        "561990"
+      ],
+      "naics_small_codes": [
+        "493110",
+        "513210",
+        "518210",
+        "519290",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541860",
+        "541910",
+        "541990",
+        "561110",
+        "561210",
+        "561499",
+        "561920",
+        "561990"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1781136000,
+      "website": "http://www.PSLSolutions.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2023-02-15",
+          "exitDate": "2027-08-15",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-02-15",
+          "exitDate": "2027-08-15",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

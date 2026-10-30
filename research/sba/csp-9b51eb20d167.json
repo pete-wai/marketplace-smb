@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9b51eb20d167",
+  "providerName": "Motorola Solutions",
+  "retrievedAt": "2026-10-30T09:11:53.746Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HFK9V1G2B513",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Motorola Solutions",
+      "status": "success",
+      "results": 127,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

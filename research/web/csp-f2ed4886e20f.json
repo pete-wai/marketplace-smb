@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f2ed4886e20f",
+  "retrievedAt": "2026-10-30T09:11:21.496Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cradlepoint.com/about/trust/",
+      "finalUrl": "https://cradlepoint.ericsson.com/about/trust/",
+      "status": "success",
+      "sha256": "d4c77032566ef31395fc2d51fb6b7b0cdcc0b6940a62a5d76ace20cdab8c2c6c",
+      "title": "Trust | Ericsson",
+      "signals": []
+    }
+  ]
+}

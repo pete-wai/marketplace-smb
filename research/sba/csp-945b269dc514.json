@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-945b269dc514",
+  "providerName": "Nuance",
+  "retrievedAt": "2026-10-30T09:12:06.279Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Nuance",
+      "status": "success",
+      "results": 61,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-66e15c98a8aa",
+  "retrievedAt": "2026-10-30T09:11:57.016Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.secunetics.com/gobo",
+      "finalUrl": "https://www.secunetics.com/gobo",
+      "status": "success",
+      "sha256": "b16246199ad81041dbbf1fb115220c270bf998b35c9e67f09788a6fc5cdfe4ac",
+      "title": "Gobo &mdash; Secunetics",
+      "signals": []
+    }
+  ]
+}

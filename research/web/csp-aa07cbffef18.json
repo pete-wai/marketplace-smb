@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-aa07cbffef18",
+  "retrievedAt": "2026-10-30T09:11:35.663Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.logicmonitor.com",
+      "finalUrl": "https://www.logicmonitor.com/",
+      "status": "success",
+      "sha256": "ebbbd28fc52a4bb87be86e738ebef921a3b7f9b76640ff0370e675cbd8fda9fb",
+      "title": "LogicMonitor | Autonomous IT for Modern Enterprises",
+      "signals": []
+    }
+  ]
+}

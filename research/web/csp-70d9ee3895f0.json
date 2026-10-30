@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-70d9ee3895f0",
+  "retrievedAt": "2026-10-30T09:10:53.628Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.gbg.com/",
+      "finalUrl": "https://www.gbg.com/en-us/",
+      "status": "success",
+      "sha256": "8228a1fdd654a1d24a658a856941850b77e51c772386308bac7dc62d6b8e0a77",
+      "title": "GBG | Global identity verification leaders",
+      "signals": []
+    }
+  ]
+}

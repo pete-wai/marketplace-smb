@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-12356b04ba2e",
+  "retrievedAt": "2026-10-30T09:11:32.432Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.keyfactor.com/resources/content/keyfactor-for-federal-government",
+      "finalUrl": "https://www.keyfactor.com/resources/keyfactor-for-federal-government/",
+      "status": "success",
+      "sha256": "8d2770a01ab45363eb6025cc7046628d383ad86ed689cc3708c5b1acb6235d45",
+      "title": "Keyfactor for Federal Government | Keyfactor",
+      "signals": []
+    }
+  ]
+}

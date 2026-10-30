@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1271513e1523",
+  "retrievedAt": "2026-10-30T09:12:03.423Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://technomile.com",
+      "finalUrl": "https://technomile.com/",
+      "status": "success",
+      "sha256": "10a9cebceb4e778bb4d946fa39d998663c92222b04e066d8846a39e653826aa4",
+      "title": "AI-Native GovCon CRM, CLM, Opportunity Intelligence, and SIMS | TechnoMile",
+      "signals": []
+    }
+  ]
+}

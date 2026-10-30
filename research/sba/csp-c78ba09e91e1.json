@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c78ba09e91e1",
+  "providerName": "Get A-Head",
+  "retrievedAt": "2026-10-30T09:10:41.248Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Get A-Head",
+      "status": "success",
+      "results": 1256,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

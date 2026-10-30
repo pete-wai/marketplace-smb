@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2afca592f85c",
+  "retrievedAt": "2026-10-30T09:11:44.699Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.omnissa.com/trust-center/compliance/#Public_Sector",
+      "finalUrl": "https://www.omnissa.com/trust-center/compliance/",
+      "status": "success",
+      "sha256": "24ec74c7d0173014a02229654b526d21d0c4409e10b320ce555609b715cb039e",
+      "title": "Compliance programs at Omnissa",
+      "signals": []
+    }
+  ]
+}

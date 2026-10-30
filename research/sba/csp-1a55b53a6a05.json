@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1a55b53a6a05",
+  "providerName": "Zimperium",
+  "retrievedAt": "2026-10-30T09:13:46.064Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Zimperium",
+      "status": "success",
+      "results": 65,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-91ec893577c1",
+  "retrievedAt": "2026-10-30T09:11:14.108Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.creativevet.com/",
+      "finalUrl": "https://www.creativevet.com/",
+      "status": "success",
+      "sha256": "d9838be0e12f938a5ffc44cc667e387db16cc9d0a6323f4d7e6382b42d0cbcdf",
+      "title": null,
+      "signals": []
+    }
+  ]
+}

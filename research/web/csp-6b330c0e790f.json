@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6b330c0e790f",
+  "retrievedAt": "2026-10-30T09:11:50.393Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.projecthosts.com/",
+      "finalUrl": "https://projecthosts.com/",
+      "status": "success",
+      "sha256": "092c7f9656c421a4c5e22cc1beef7952aa8d0f9d21548302121ba82bc4f38f1c",
+      "title": "Project Hosts | Secure Cloud Solutions &amp; FedRAMP Compliance",
+      "signals": []
+    }
+  ]
+}

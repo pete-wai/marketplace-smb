@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-c187a7c7377b",
+  "providerName": "Agile Fleet",
+  "retrievedAt": "2026-10-30T09:09:11.927Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ED1SN56ALLZ5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "AGILE FLEET, INC.",
+      "dba_name": "",
+      "uei": "ED1SN56ALLZ5",
+      "cage_code": "1WJ11",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "423430",
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "518210",
+        "541511",
+        "541512"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1773878400,
+      "website": "http://www.agilefleet.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

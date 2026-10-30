@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f9b83b92da9f",
+  "retrievedAt": "2026-10-30T09:11:24.143Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.flocksafety.com/",
+      "finalUrl": "https://www.flocksafety.com/",
+      "status": "success",
+      "sha256": "36bdfa19ce23e275e032fd0675567bca185f0c87710cef77d59a4f0cc13ad6fc",
+      "title": "Flock Safety",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "Help Center API Documentation Book a demo Company Back Privacy &amp; Ethics Newsroom Careers Get To Know Us Privacy"
+        }
+      ]
+    }
+  ]
+}

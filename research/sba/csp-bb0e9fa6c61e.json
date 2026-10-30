@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-bb0e9fa6c61e",
+  "providerName": "VisibleThread",
+  "retrievedAt": "2026-10-30T09:13:40.933Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MJWYNX1KNQW8",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "VisibleThread",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

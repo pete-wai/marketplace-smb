@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-56817b335039",
+  "providerName": "H2O.AI for Government",
+  "retrievedAt": "2026-10-30T09:10:54.476Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "H2O.AI for Government",
+      "status": "success",
+      "results": 94,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "H2O.AI, INC.",
+      "dba_name": "H2O.AI INC",
+      "uei": "NF8EG83AK8G6",
+      "cage_code": "8P6L8",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1783382400,
+      "website": "www.h2o.ai",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

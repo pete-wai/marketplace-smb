@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5f3bcd125e89",
+  "providerName": "Mathematica Inc.",
+  "retrievedAt": "2026-10-30T09:11:49.368Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Mathematica .",
+      "status": "success",
+      "results": 178,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

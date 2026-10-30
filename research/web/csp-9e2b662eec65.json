@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-9e2b662eec65",
+  "retrievedAt": "2026-10-30T09:10:56.127Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://andesite.ai/",
+      "finalUrl": "https://andesite.ai/",
+      "status": "success",
+      "sha256": "f506299b8e7a21888686e24051abab116a58b5f3eaa470e26e6967f30e6eb2c9",
+      "title": "Andesite | The Human+AI SOC",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "live product walk through, Request a Demo Company About Careers Privacy Policy Terms of Service Resources Buyer's G"
+        }
+      ]
+    }
+  ]
+}

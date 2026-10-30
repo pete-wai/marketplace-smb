@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-635325dd3df2",
+  "retrievedAt": "2026-10-30T09:11:06.847Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.certivo.com/",
+      "finalUrl": "https://www.certivo.com/",
+      "status": "success",
+      "sha256": "f8ecca21d60d5c079df133fd5797039a9dd5c88fdf17dbfc26a886ab04f689c9",
+      "title": "Certivo",
+      "signals": []
+    }
+  ]
+}

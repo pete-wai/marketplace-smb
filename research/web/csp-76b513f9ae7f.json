@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-76b513f9ae7f",
+  "retrievedAt": "2026-10-30T09:11:47.303Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pagefreezer.com/",
+      "finalUrl": "https://www.pagefreezer.com/",
+      "status": "success",
+      "sha256": "c2261980305ebf60e71f7877409c1f0652b5e0bb1ad5200eb3d244d96ac5e3b9",
+      "title": "Pagefreezer Digital Archiving Software",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "0+ Organizations using Pagefreezer 2.5 Billion+ Webpages archived 207,700+ Social media accounts captured Discover "
+        }
+      ]
+    }
+  ]
+}

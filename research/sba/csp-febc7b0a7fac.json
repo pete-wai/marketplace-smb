@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-febc7b0a7fac",
+  "providerName": "Lucid Software, Inc.",
+  "retrievedAt": "2026-10-30T09:11:43.835Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "K9YKPJNB4AD5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Lucid Software, .",
+      "status": "success",
+      "results": 70,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

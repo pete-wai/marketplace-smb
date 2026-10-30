@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f4bf90a738cd",
+  "retrievedAt": "2026-10-30T09:11:05.934Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cahillswift.com",
+      "finalUrl": "https://www.cahillswift.com/",
+      "status": "success",
+      "sha256": "c35814ca01e654dfb92813200e0d844403b27fce4d049772e76f4d38dce6a29c",
+      "title": "Cahill Swift, LLC | DOT drug and alcohol compliance",
+      "signals": []
+    }
+  ]
+}

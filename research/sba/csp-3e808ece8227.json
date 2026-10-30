@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-3e808ece8227",
+  "providerName": "Deloitte",
+  "retrievedAt": "2026-10-30T09:10:03.883Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Deloitte",
+      "status": "success",
+      "results": 24,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

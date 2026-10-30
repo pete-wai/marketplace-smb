@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-6cd5124ba92d",
+  "providerName": "Accenture Federal Services",
+  "retrievedAt": "2026-10-30T09:09:08.999Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Accenture Federal Services",
+      "status": "success",
+      "results": 175,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

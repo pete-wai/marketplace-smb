@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1768c21fc468",
+  "retrievedAt": "2026-10-30T09:15:04.468Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://trello.com/home",
+      "finalUrl": "https://trello.com/home",
+      "status": "success",
+      "sha256": "d06c62a2173e46ae85a8554a7780014619e10252cd94718ea9b2d5a5b738429b",
+      "title": "Capture, organize, and tackle your to-dos from anywhere",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "venue goals to managing workflows, small businesses thrive with Trello. Remote teams Keep your remote team connecte"
+        }
+      ]
+    }
+  ]
+}

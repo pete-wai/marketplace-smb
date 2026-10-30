@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f19600b9e18f",
+  "retrievedAt": "2026-10-30T09:12:06.956Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.uipath.com/",
+      "finalUrl": "https://www.uipath.com/",
+      "status": "success",
+      "sha256": "896d19f9e742b15e6cb5d21546426f240ca30ed09086fa8fb1857dd96f7858f0",
+      "title": "The UiPath Platform™ for Business Orchestration and Automation | UiPath",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-2dc010636b9d",
+  "providerName": "Databricks, Inc.",
+  "retrievedAt": "2026-10-30T09:09:59.497Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "JJZCW7PZP8Q4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Databricks, .",
+      "status": "success",
+      "results": 85,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

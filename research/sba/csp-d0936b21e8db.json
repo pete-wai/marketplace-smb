@@ -1,0 +1,78 @@
+{
+  "providerId": "csp-d0936b21e8db",
+  "providerName": "Optimal Labs",
+  "retrievedAt": "2026-10-30T09:12:10.636Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TYMSGKDF2K48",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "OPTIMAL, LLC",
+      "dba_name": "",
+      "uei": "TYMSGKDF2K48",
+      "cage_code": "14HQ0",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541690",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541690",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790726400,
+      "website": "https://www.gooptimal.io",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2024",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2026-07-01",
+          "exitDate": "2029-07-01",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2026-07-01",
+          "exitDate": "2029-07-01",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

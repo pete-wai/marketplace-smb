@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a3b0f2ceadf6",
+  "retrievedAt": "2026-10-30T09:11:09.843Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cloudfitsoftware.com",
+      "finalUrl": "https://cloudfitsoftware.com/",
+      "status": "success",
+      "sha256": "08cbe8de998401d72c28f03b238e9163905758d5afb7734ff1aae143d707d520",
+      "title": "Home | CloudFit",
+      "signals": []
+    }
+  ]
+}

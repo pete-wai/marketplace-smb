@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-a9d620996672",
+  "providerName": "Haivision Systems, Inc.",
+  "retrievedAt": "2026-10-30T09:10:54.889Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "YR26K4JHBJC7",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "HAIVISION NETWORK VIDEO INC",
+      "dba_name": "HAIVISION NETWORK VIDEO INC",
+      "uei": "YR26K4JHBJC7",
+      "cage_code": "3MSD7",
+      "naics_primary": "334310",
+      "naics_all_codes": [
+        "334111",
+        "334220",
+        "334310"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "334220",
+        "334310"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1770854400,
+      "website": "http://www.haivision.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2002",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

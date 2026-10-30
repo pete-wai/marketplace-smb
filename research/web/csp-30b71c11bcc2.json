@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-30b71c11bcc2",
+  "retrievedAt": "2026-10-30T09:12:08.828Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.veridix.com",
+      "finalUrl": "https://theemmesgroup.com/capabilities/veridix-tech-ai",
+      "status": "success",
+      "sha256": "dc07c424230db043da9e7cbad94edf9c47333dff68f12109b89e2d439ff8e3e7",
+      "title": "Veridix | Emmes Group",
+      "signals": []
+    }
+  ]
+}

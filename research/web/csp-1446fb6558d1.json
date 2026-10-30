@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1446fb6558d1",
+  "retrievedAt": "2026-10-30T09:12:05.354Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.threatlocker.com",
+      "finalUrl": "https://www.threatlocker.com/",
+      "status": "success",
+      "sha256": "608c4dda62f12e62f86cb44fc0ffb1636f698275cd03b2dc061b938573b203e3",
+      "title": "Enterprise Cybersecurity Solutions | ThreatLocker",
+      "signals": []
+    }
+  ]
+}

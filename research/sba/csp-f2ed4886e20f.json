@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-f2ed4886e20f",
+  "providerName": "Ericsson",
+  "retrievedAt": "2026-10-30T09:10:25.180Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Ericsson",
+      "status": "success",
+      "results": 68,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ERICSSON ENTERPRISE WIRELESS SOLUTIONS, INC.",
+      "dba_name": "",
+      "uei": "ZAV8DT7YALJ7",
+      "cage_code": "672R1",
+      "naics_primary": "334220",
+      "naics_all_codes": [
+        "334220",
+        "334290",
+        "517112",
+        "517121",
+        "517122",
+        "517810",
+        "624230"
+      ],
+      "naics_small_codes": [
+        "517112",
+        "517121",
+        "517122"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1781481600,
+      "website": "https://cradlepoint.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2006",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1b182199e823",
+  "retrievedAt": "2026-10-30T09:11:38.098Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mdrc.org/",
+      "finalUrl": "https://www.mdrc.org/",
+      "status": "success",
+      "sha256": "81b931b562a3a8fb7c344894fd871e600c35ac4cf79be31b3b5ccbbf72747a3f",
+      "title": "MDRC | Building knowledge to improve social policy",
+      "signals": []
+    }
+  ]
+}

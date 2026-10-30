@@ -1,0 +1,91 @@
+{
+  "providerId": "csp-5f25188cb2a9",
+  "providerName": "Valley IT Solutions, LLC",
+  "retrievedAt": "2026-10-30T09:13:35.817Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "G2VFAKKJJZ53",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Valley IT Solutions,",
+      "status": "success",
+      "results": 1780,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "VALLEY IT SOLUTIONS LLC",
+      "dba_name": "",
+      "uei": "MLH3WU8JYFP1",
+      "cage_code": "7DDM0",
+      "naics_primary": "541990",
+      "naics_all_codes": [
+        "334111",
+        "334112",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541715",
+        "541720",
+        "541930",
+        "541990",
+        "561210",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "334112",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541715",
+        "541720",
+        "541930",
+        "541990",
+        "561210",
+        "611420"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1782086400,
+      "website": "www.valleyit.com",
+      "additional_website": "https://valleyit.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2015",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2019-09-19",
+          "exitDate": "2025-02-05",
+          "caseNumber": "54026",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": "North Dakota District Office",
+          "officeId": "0875"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

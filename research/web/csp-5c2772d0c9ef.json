@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5c2772d0c9ef",
+  "retrievedAt": "2026-10-30T09:11:28.855Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://netsfere.com/fedramp",
+      "finalUrl": "https://netsfere.com/fedramp-secure-messaging",
+      "status": "success",
+      "sha256": "ce1396cdcb24b02a4554d8b31c267abf4870f3ca260e66d2113be8aa0ea9101d",
+      "title": "NetSfere FedRAMP Ready Secure Messaging for Government",
+      "signals": []
+    }
+  ]
+}

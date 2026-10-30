@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-96282e8be772",
+  "providerName": "LSPedia",
+  "retrievedAt": "2026-10-30T09:11:43.748Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "JVBBFWVDC2P1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "LSPEDIA, INC.",
+      "dba_name": "",
+      "uei": "JVBBFWVDC2P1",
+      "cage_code": "9NX46",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "541512",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "https://lspedia.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

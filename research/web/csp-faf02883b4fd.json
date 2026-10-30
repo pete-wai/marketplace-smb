@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-faf02883b4fd",
+  "retrievedAt": "2026-10-30T09:11:09.461Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.readyop.com",
+      "finalUrl": "https://www.readyop.com/",
+      "status": "success",
+      "sha256": "37a8a4f2cee68ba9ef178bc530974cd6e8fd1d6d22c38dfe28ff6274f21b35bf",
+      "title": "ReadyOp",
+      "signals": []
+    }
+  ]
+}

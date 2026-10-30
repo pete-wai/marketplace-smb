@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e395d03e988d",
+  "retrievedAt": "2026-10-30T09:11:48.743Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.peraton.com/",
+      "finalUrl": "https://www.peraton.com/",
+      "status": "success",
+      "sha256": "9148eda3ecfc91587c46bdc821fec9b7dddc65693517935cba1b946795295459",
+      "title": "Peraton",
+      "signals": []
+    }
+  ]
+}

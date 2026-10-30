@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-79f0e91bc044",
+  "retrievedAt": "2026-10-30T09:11:17.932Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.docebo.com",
+      "finalUrl": "https://www.docebo.com/",
+      "status": "success",
+      "sha256": "f2c112f59140f91e8423b61decbe439efb993c3bfaf1c264fab99b45d1bddd84",
+      "title": "Workforce Readiness Platform and Skills Intelligence LMS | Docebo",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "hey even open our software.” 2020, a Cyncly Company “We built the Learning Center to empower our customers to achie"
+        }
+      ]
+    }
+  ]
+}

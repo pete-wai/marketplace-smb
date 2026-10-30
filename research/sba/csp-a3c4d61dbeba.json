@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-a3c4d61dbeba",
+  "providerName": "Akamai",
+  "retrievedAt": "2026-10-30T09:09:12.274Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MN5ENSRLDVK5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Akamai",
+      "status": "success",
+      "results": 16,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

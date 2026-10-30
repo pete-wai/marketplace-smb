@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5cc935b4ad65",
+  "providerName": "Qualys",
+  "retrievedAt": "2026-10-30T09:12:28.940Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Qualys",
+      "status": "success",
+      "results": 35,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Qualys, .",
+      "status": "success",
+      "results": 20,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

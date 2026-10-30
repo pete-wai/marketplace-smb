@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2663d0bf60d2",
+  "retrievedAt": "2026-10-30T09:11:35.285Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://linear.app",
+      "finalUrl": "https://linear.app/",
+      "status": "success",
+      "sha256": "9badf955dbe948469c9da4c00fef8ea983eca419bd05faf9a1da77da2bb76533",
+      "title": "Linear – The system for product development",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4f6334ce9d4a",
+  "retrievedAt": "2026-10-30T09:12:10.433Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cyberstar.com/",
+      "finalUrl": "https://cyberstar.com/",
+      "status": "success",
+      "sha256": "4d4b906380eeafa455e42ad47df3f68e6087998065ddee68eb049ac1643684cd",
+      "title": "DoD 8140 &amp; DCWF Cyber Workforce Compliance Platform",
+      "signals": []
+    }
+  ]
+}

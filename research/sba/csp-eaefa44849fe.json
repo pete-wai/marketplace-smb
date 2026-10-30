@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-eaefa44849fe",
+  "providerName": "Net-Inspect LLC",
+  "retrievedAt": "2026-10-30T09:12:00.354Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Net-Inspect",
+      "status": "success",
+      "results": 1287,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "NET-INSPECT, LLC",
+      "dba_name": "NET INSPECT",
+      "uei": "K6FCQ48JM9J3",
+      "cage_code": "86MU6",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "541512"
+      ],
+      "naics_small_codes": [
+        "541512"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1746662400,
+      "website": "https://www.net-inspect.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1999",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-bc89b78fea28",
+  "retrievedAt": "2026-10-30T09:11:10.976Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cdslegal.com/",
+      "finalUrl": "https://cdslegal.com/",
+      "status": "success",
+      "sha256": "82acd1217614ceaf85e63fd90b22e1758e5c3643109db8e5db7e71fa8276043f",
+      "title": "Real People. Real Results. - Complete Discovery Source",
+      "signals": []
+    }
+  ]
+}

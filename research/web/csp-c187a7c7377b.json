@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c187a7c7377b",
+  "retrievedAt": "2026-10-30T09:10:54.694Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.agilefleet.com/",
+      "finalUrl": "https://www.agilefleet.com/",
+      "status": "success",
+      "sha256": "6d1106ab4eb59ecdd6cbc6c5dffa44c82cdc32ec1ab27d03ab634aeae64a0066",
+      "title": "Fleet Management Software &amp; Maintenance System | Agile Fleet Management Solutions",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-fbc835d2c63c",
+  "providerName": "MARi, LLC",
+  "retrievedAt": "2026-10-30T09:11:48.894Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "QENZCVXK8845",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MARI, LLC",
+      "dba_name": "",
+      "uei": "QENZCVXK8845",
+      "cage_code": "6V2Z0",
+      "naics_primary": "541720",
+      "naics_all_codes": [
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "541612",
+        "541618",
+        "541720",
+        "541990",
+        "611420",
+        "611430",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "541612",
+        "541618",
+        "541720",
+        "541990",
+        "611420",
+        "611430",
+        "611710"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1770336000,
+      "website": "www.mari.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

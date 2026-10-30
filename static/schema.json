@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pete-wai.github.io/marketplace-smb/schema.json",
+  "title": "Marketplace small business analytical dataset",
+  "type": "object",
+  "required": ["schemaVersion", "asOf", "source", "providers", "offerings", "reports", "coverage"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "asOf": {"type": "string", "format": "date"},
+    "providers": {"type": "array", "items": {"type": "object", "required": ["id", "name", "assessment", "research"], "properties": {"id": {"type": "string"}, "name": {"type": "string"}, "assessment": {"$ref": "#/$defs/assessment"}}}},
+    "offerings": {"type": "array", "items": {"type": "object", "required": ["id", "providerId", "status", "pathway", "currentAssessment", "historicalAssessment"], "properties": {"id": {"type": "string"}, "providerId": {"type": ["string", "null"]}, "currentAssessment": {"$ref": "#/$defs/assessment"}, "historicalAssessment": {"$ref": "#/$defs/assessment"}}}}
+  },
+  "$defs": {
+    "assessment": {
+      "type": "object", "required": ["classification", "confidence", "reason", "evidence"],
+      "properties": {
+        "classification": {"enum": ["documented-small", "likely-small", "documented-not-small", "likely-not-small", "unknown"]},
+        "confidence": {"enum": ["high", "medium", "low"]},
+        "reason": {"type": "string", "minLength": 1},
+        "evidence": {"type": "array", "items": {"type": "object", "required": ["kind", "url"], "properties": {"kind": {"type": "string"}, "url": {"type": "string", "format": "uri"}}}}
+      }
+    }
+  }
+}

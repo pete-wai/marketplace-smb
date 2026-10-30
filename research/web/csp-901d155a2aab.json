@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-901d155a2aab",
+  "retrievedAt": "2026-10-30T09:11:40.421Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://moveworks.com",
+      "finalUrl": "https://www.moveworks.com/",
+      "status": "success",
+      "sha256": "9da3914c3df0d28cfb3ebdc970e4d356ba5c643b8c63a80d12a7602085cadf58",
+      "title": "Moveworks: The AI Assistant Platform That Gets Work Done",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "anding care and experiences to the 185 million people we serve.&#34; CISO and SVP, Infrastructure and Operations, C"
+        }
+      ]
+    }
+  ]
+}

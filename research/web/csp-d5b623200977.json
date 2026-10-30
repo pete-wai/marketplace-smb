@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d5b623200977",
+  "retrievedAt": "2026-10-30T09:11:48.007Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://partos.ai",
+      "finalUrl": "https://partos.ai/",
+      "status": "success",
+      "sha256": "394cfa952aac83981b70b850964d5eecb9630736712e03ac934c43400ffaae6e",
+      "title": "Partos AI, The AI-Native Operating System for the Aerospace &amp; Defense Supply Chain",
+      "signals": []
+    }
+  ]
+}

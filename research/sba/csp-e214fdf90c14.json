@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-e214fdf90c14",
+  "providerName": "Genesys",
+  "retrievedAt": "2026-10-30T09:10:40.115Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DD9KMGMUZM47",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Genesys",
+      "status": "success",
+      "results": 345,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "GENESYS, LLC",
+      "dba_name": "GENESYS LLC",
+      "uei": "LMSSNBSQ3WF4",
+      "cage_code": "454A8",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541690",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541690",
+        "541990"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1784505600,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2003",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2016-03-03",
+          "exitDate": "2024-05-13",
+          "caseNumber": "23227",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": null,
+          "officeId": null
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

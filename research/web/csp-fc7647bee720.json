@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-fc7647bee720",
+  "retrievedAt": "2026-10-30T09:11:02.420Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.blackberry.com/en/secure-communications/athoc",
+      "finalUrl": "https://www.blackberry.com/en/secure-communications/athoc",
+      "status": "success",
+      "sha256": "ba54657f4a1a44cdd17827e63cd722b4461a366bd473e666f1ce752caaa56ba4",
+      "title": "BlackBerry AtHoc | Critical Event Management",
+      "signals": []
+    }
+  ]
+}

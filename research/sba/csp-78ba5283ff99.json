@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-78ba5283ff99",
+  "providerName": "TGuardAI Inc.",
+  "retrievedAt": "2026-10-30T09:13:07.254Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TGuardAI .",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

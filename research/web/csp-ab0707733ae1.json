@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ab0707733ae1",
+  "retrievedAt": "2026-10-30T09:12:09.840Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.visualvault.com",
+      "finalUrl": "https://www.visualvault.com/",
+      "status": "success",
+      "sha256": "b0e44de8a28d08796c23a3cf131af99ce00f98c9ecc683c3455a00e91edf077c",
+      "title": "Cloud-Native ECM &amp; Content Services Platform | VisualVault",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-8dfe5e6cf73b",
+  "providerName": "Red Hat",
+  "retrievedAt": "2026-10-30T09:12:34.079Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Red Hat",
+      "status": "success",
+      "results": 1595,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

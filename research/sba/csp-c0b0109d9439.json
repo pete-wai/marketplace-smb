@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c0b0109d9439",
+  "providerName": "GitHub",
+  "retrievedAt": "2026-10-30T09:10:42.232Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WR2ZN519GFX4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "GitHub",
+      "status": "success",
+      "results": 45,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

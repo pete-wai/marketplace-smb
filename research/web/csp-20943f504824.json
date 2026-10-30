@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-20943f504824",
+  "retrievedAt": "2026-10-30T09:11:54.921Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.rosalind.bio/",
+      "finalUrl": "https://www.rosalind.bio/",
+      "status": "success",
+      "sha256": "d30c3cdf81ddb74ccfa6fd9523e10c8fccc3bf9cc3994c7044ef1057aab56299",
+      "title": "Discovery Platform &amp; Data Hub for Scientists | ROSALIND®",
+      "signals": []
+    }
+  ]
+}

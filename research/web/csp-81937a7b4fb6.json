@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-81937a7b4fb6",
+  "retrievedAt": "2026-10-30T09:11:02.415Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://bizzdesign.com",
+      "finalUrl": "https://bizzdesign.com/",
+      "status": "success",
+      "sha256": "5573ae7494d8f66f302ddf70f74a3ef673daa24e7595a3c04ca8cc56b948463b",
+      "title": "Enterprise Transformation Software | Bizzdesign",
+      "signals": []
+    }
+  ]
+}

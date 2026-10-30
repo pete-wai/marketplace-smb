@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5ed78700497c",
+  "retrievedAt": "2026-10-30T09:12:07.915Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.valimail.com",
+      "finalUrl": "https://www.valimail.com/",
+      "status": "success",
+      "sha256": "800074a49e5dcfc7a53033337a3095361eaa141f3c0d39bf7af7b5f762339eb5",
+      "title": "Leading Email Authentication Solution | Valimail",
+      "signals": []
+    }
+  ]
+}

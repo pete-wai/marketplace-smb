@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4cfb5ab4767e",
+  "providerName": "Trustwave Government Solutions",
+  "retrievedAt": "2026-10-30T09:13:30.276Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Trustwave Government Solutions",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f5c514dd37a0",
+  "retrievedAt": "2026-10-30T09:12:05.520Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://trackvia.com",
+      "finalUrl": "https://trackvia.com/",
+      "status": "success",
+      "sha256": "06abba936ecfafbc7dd21789a466c3b56f1bfd49eed784c40b45e6f81ca61cc1",
+      "title": "TrackVia | Field Operations Software, Connected",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "se Studies &#8249; &#8250; Downer $8 billion construction company Work Order Management Off the spreadsheet. Into o"
+        }
+      ]
+    }
+  ]
+}

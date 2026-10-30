@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5910003416a6",
+  "providerName": "NORC",
+  "retrievedAt": "2026-10-30T09:12:05.652Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MPYFY5UMSDP4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "NORC",
+      "status": "success",
+      "results": 75,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

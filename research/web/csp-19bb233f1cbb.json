@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-19bb233f1cbb",
+  "retrievedAt": "2026-10-30T09:11:25.853Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://glytec.com/",
+      "finalUrl": "https://glytec.com/",
+      "status": "success",
+      "sha256": "320d5ebfb09b0a5970b70da93cde9463d1c9df9ab726e0f009f1c7f3d98bb509",
+      "title": "Diabetes Management: Intelligent Glycemic Solutions",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "erside Healthcare Saved More than $2.6 million Annually READ THE CASE STUDY Glytec&#8217;s Numbers Speak for Themse"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c70eca6b0f88",
+  "providerName": "Anthropic",
+  "retrievedAt": "2026-10-30T09:09:17.659Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SPQZL8XDKGK7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Anthropic",
+      "status": "success",
+      "results": 76,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

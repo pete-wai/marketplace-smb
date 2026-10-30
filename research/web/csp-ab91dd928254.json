@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-ab91dd928254",
+  "retrievedAt": "2026-10-30T09:11:44.792Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.onespan.com/fedramp",
+      "finalUrl": "https://www.onespan.com/fedramp",
+      "status": "success",
+      "sha256": "5468c5fb8aaa719489a94549c6472ffa41a9347059b34492ce0bc76a47fe2590",
+      "title": "OneSpan Sign FedRAMP Authorization Supports U.S. Federal Government | OneSpan",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "Found Success with OneSpan Sign US Small Business Administration Leveraging the benefits of the cloud, the SBA bega"
+        }
+      ]
+    }
+  ]
+}

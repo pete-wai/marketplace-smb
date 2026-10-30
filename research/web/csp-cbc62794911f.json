@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-cbc62794911f",
+  "retrievedAt": "2026-10-30T09:10:55.559Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.aws.amazon.com/",
+      "finalUrl": "https://aws.amazon.com/",
+      "status": "success",
+      "sha256": "68f67f120c89a1cc6ab1ad138602033f3c8fff5ae872defbab56e3fdbd6f7f77",
+      "title": "Cloud Computing Services - Amazon Web Services (AWS)",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ner Magic Quadrant for SCPS AI for Small Businesses Solutions designed for your business. Delivered by AWS Partners"
+        }
+      ]
+    }
+  ]
+}

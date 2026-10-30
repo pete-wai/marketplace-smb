@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-c29299f9cf93",
+  "providerName": "Cornerstone Information Systems",
+  "retrievedAt": "2026-10-30T09:09:55.572Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Cornerstone Information Systems",
+      "status": "success",
+      "results": 473,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CORNERSTONE INFORMATION SYSTEMS, INC",
+      "dba_name": "CORNERSTONE INFORMATION SYSTEMS, INC",
+      "uei": "C19TALWGSZ99",
+      "cage_code": "5NC96",
+      "naics_primary": "561599",
+      "naics_all_codes": [
+        "518210",
+        "561599"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "561599"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791763200,
+      "website": "http://www.ciswired.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1992",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": [
+    {
+      "legal_business_name": "CORNERSTONE INFORMATION SYSTEMS, INC.",
+      "dba_name": "CORNERSTONE INFO SYSTEMS",
+      "uei": "MEYFVALFPUQ2",
+      "cage_code": "3AZ39",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "238210",
+        "541511",
+        "541512",
+        "541519",
+        "541618",
+        "561499",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "238210",
+        "541511",
+        "541512",
+        "541519",
+        "541618",
+        "561499",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1776729600,
+      "website": "http://www.cornerstone.us",
+      "additional_website": "http://www.cornerstone.us",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1984",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

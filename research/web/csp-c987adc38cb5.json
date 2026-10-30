@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c987adc38cb5",
+  "retrievedAt": "2026-10-30T09:12:04.278Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.telos.com/offerings/xacta/",
+      "finalUrl": "https://www.telos.com/offerings/xacta/",
+      "status": "success",
+      "sha256": "d1912a44b86ba668d130f9589ddfb6061339251c03e62dbacfeb33a89b6ce959",
+      "title": "Cyber GRC Platform | Cyber Governance, Risk and Compliance",
+      "signals": []
+    }
+  ]
+}

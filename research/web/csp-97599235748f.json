@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-97599235748f",
+  "retrievedAt": "2026-10-30T09:11:37.763Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://maximus.com/technology-consulting-services",
+      "finalUrl": "https://maximus.com/technology-capabilities",
+      "status": "success",
+      "sha256": "c04191170d4b3de7ab4e5df9664614b7d99893a5858443f6cef84a6cd87b7f11",
+      "title": "Technology Capabilities | Maximus",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "al for effective mission delivery. Small business partners Creating opportunities as strategic partners. Small busi"
+        }
+      ]
+    }
+  ]
+}

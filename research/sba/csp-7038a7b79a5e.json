@@ -1,0 +1,88 @@
+{
+  "providerId": "csp-7038a7b79a5e",
+  "providerName": "InfusionPoints",
+  "retrievedAt": "2026-10-30T09:11:13.151Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "InfusionPoints",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "INFUSIONPOINTS LLC",
+      "dba_name": "",
+      "uei": "CX6SHE5NFNG6",
+      "cage_code": "58AZ0",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "423430",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541715",
+        "541990",
+        "611420",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541715",
+        "541990",
+        "611420",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788220800,
+      "website": "https://www.infusionpoints.com",
+      "additional_website": "https://www.infusionpoints.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2007",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "HUBZone",
+          "active": true,
+          "entranceDate": "2010-08-12",
+          "exitDate": "2027-08-12",
+          "status": "Active"
+        },
+        {
+          "name": "VOSB",
+          "active": false,
+          "entranceDate": "2020-02-07",
+          "exitDate": "2024-02-07",
+          "status": "Expired"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

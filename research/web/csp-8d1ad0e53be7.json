@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8d1ad0e53be7",
+  "retrievedAt": "2026-10-30T09:11:14.087Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.exiger.com/industries/public-sector/",
+      "finalUrl": "https://www.exiger.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "65c57fb1c1eefebeb78ab6ec64f2fe0dd5e1b02a8284c5c3930de0d2809e28a3",
+      "title": "Public Sector - Exiger",
+      "signals": []
+    }
+  ]
+}

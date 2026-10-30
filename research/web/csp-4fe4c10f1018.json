@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4fe4c10f1018",
+  "retrievedAt": "2026-10-30T09:11:37.536Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://mark43.com/",
+      "finalUrl": "https://mark43.com/",
+      "status": "success",
+      "sha256": "cefe6313c808e846493caf468e5cd013de9855c4b430bbd737f0b76a0894e964",
+      "title": "Made for Your Mission",
+      "signals": []
+    }
+  ]
+}

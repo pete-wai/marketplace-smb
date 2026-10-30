@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-53b69ef92c83",
+  "retrievedAt": "2026-10-30T09:11:54.119Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://replit.com",
+      "finalUrl": "https://replit.com/",
+      "status": "success",
+      "sha256": "d427caf32045df1b164bb1bacacc39302b78f97935023a269a1d04d890523bfd",
+      "title": "AI App and Website Builder | Replit",
+      "signals": []
+    }
+  ]
+}

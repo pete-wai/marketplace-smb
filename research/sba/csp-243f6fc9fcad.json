@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-243f6fc9fcad",
+  "providerName": "WalkMe, Inc",
+  "retrievedAt": "2026-10-30T09:13:42.225Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "G129UVCADTP3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "WalkMe,",
+      "status": "success",
+      "results": 23,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

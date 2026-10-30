@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-eb8c0ab84091",
+  "providerName": "Stell Engineering",
+  "retrievedAt": "2026-10-30T09:13:00.545Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "J6T4RJG18UL4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "STELL ENGINEERING, INC.",
+      "dba_name": "STELL ENGINEERING INC",
+      "uei": "J6T4RJG18UL4",
+      "cage_code": "9MTY1",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541511"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541511"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1781481600,
+      "website": "www.stell-engineering.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2022",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

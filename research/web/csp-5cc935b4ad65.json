@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-5cc935b4ad65",
+  "retrievedAt": "2026-10-30T09:11:52.015Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.qualys.com/",
+      "finalUrl": "https://www.qualys.com/",
+      "status": "success",
+      "sha256": "e108cd279e4f990251c8280d54537395df8df526911a002dd773e545ba613ad5",
+      "title": "Enterprise Cyber Risk and Security Platform | Qualys",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "re Supply Chain Risk NIS2 Segments Small Business Mid-Sized Business Enterprise Public Sector Customers Overview Be"
+        }
+      ]
+    }
+  ]
+}

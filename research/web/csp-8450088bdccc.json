@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8450088bdccc",
+  "retrievedAt": "2026-10-30T09:12:03.571Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://techtrend.us/",
+      "finalUrl": "https://www.techtrend.us/",
+      "status": "success",
+      "sha256": "8a03025e8266efa72856a1c81b2e695d184dea51c14ef10040d629726e6dc9f2",
+      "title": "Home - TechTrend",
+      "signals": []
+    }
+  ]
+}

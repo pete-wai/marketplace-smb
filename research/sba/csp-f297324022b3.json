@@ -1,0 +1,97 @@
+{
+  "providerId": "csp-f297324022b3",
+  "providerName": "Quzara, LLC.",
+  "retrievedAt": "2026-10-30T09:12:29.803Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Quzara, .",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "QUZARA LLC",
+      "dba_name": "",
+      "uei": "XJLZKET2ED95",
+      "cage_code": "7VCA1",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "423430",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541690",
+        "541990",
+        "561410"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541690",
+        "541990",
+        "561410"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1782086400,
+      "website": "www.quzara.com",
+      "additional_website": "https://www.quzara.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2015",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": true,
+          "entranceDate": "2020-09-20",
+          "exitDate": "2029-09-19",
+          "caseNumber": "82194",
+          "suspended": false,
+          "status": "Active",
+          "servicingOffice": "South Dakota District Office",
+          "officeId": "0876"
+        },
+        {
+          "name": "WOSB",
+          "active": true,
+          "entranceDate": "2024-02-09",
+          "exitDate": "2027-09-20",
+          "pending": false,
+          "suspended": false,
+          "status": "Active"
+        },
+        {
+          "name": "EDWOSB",
+          "active": true,
+          "entranceDate": "2024-02-09",
+          "exitDate": "2027-09-20",
+          "pending": false,
+          "suspended": false,
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

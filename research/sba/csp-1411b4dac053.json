@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-1411b4dac053",
+  "providerName": "Absolute Security",
+  "retrievedAt": "2026-10-30T09:09:08.539Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "PN3DGMTHLXY4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Absolute Security",
+      "status": "success",
+      "results": 319,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

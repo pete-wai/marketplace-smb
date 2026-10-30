@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-ca3318dee8b5",
+  "providerName": "National Resident Matching Program",
+  "retrievedAt": "2026-10-30T09:11:56.680Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "M21HNSMADLE5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "National Resident Matching Program",
+      "status": "success",
+      "results": 3863,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

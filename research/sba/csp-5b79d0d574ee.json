@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5b79d0d574ee",
+  "providerName": "Figma",
+  "retrievedAt": "2026-10-30T09:10:32.211Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ECZWCX1KXYU5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Figma",
+      "status": "success",
+      "results": 590,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-cdcc28ca84b3",
+  "providerName": "Tansi LLC",
+  "retrievedAt": "2026-10-30T09:13:04.477Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Tansi",
+      "status": "success",
+      "results": 2937,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

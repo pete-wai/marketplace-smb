@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9473d9eec8f9",
+  "retrievedAt": "2026-10-30T09:11:19.898Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.egnyte.com/products/governance",
+      "finalUrl": "https://www.egnyte.com/products/governance",
+      "status": "success",
+      "sha256": "78263e79720e8aa1084e7141ee047a4c433fb69d9b3ef669d2c9ae4cef5f73dc",
+      "title": "Enterprise Data Governance &amp; Security Solutions | Egnyte",
+      "signals": []
+    }
+  ]
+}

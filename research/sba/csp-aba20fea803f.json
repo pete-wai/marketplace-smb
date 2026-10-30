@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-aba20fea803f",
+  "providerName": "Varonis",
+  "retrievedAt": "2026-10-30T09:13:37.171Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Varonis",
+      "status": "success",
+      "results": 45,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

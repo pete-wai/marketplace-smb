@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-e056c895e8f1",
+  "providerName": "Boomi",
+  "retrievedAt": "2026-10-30T09:09:32.239Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Boomi",
+      "status": "success",
+      "results": 548,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Boomi, .",
+      "status": "success",
+      "results": 221,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

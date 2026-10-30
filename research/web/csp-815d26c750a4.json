@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-815d26c750a4",
+  "retrievedAt": "2026-10-30T09:11:56.826Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://sciencelogic.com",
+      "finalUrl": "https://sciencelogic.com/",
+      "status": "success",
+      "sha256": "536d5c70679aa084a792c9a3043f9d80b87e183ccd5e235fe196fbf4ef36c960",
+      "title": "ScienceLogic - AI-Driven Observability and ITOps Platform",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "on Glossary Request a Demo Request a Trial Company About Us Careers Newsroom Leadership Contact Us Contact Partner "
+        }
+      ]
+    }
+  ]
+}

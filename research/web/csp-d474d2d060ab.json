@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d474d2d060ab",
+  "retrievedAt": "2026-10-30T09:10:51.315Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://38northsecurity.com/northwatch/",
+      "finalUrl": "https://38northsecurity.com/northwatch/",
+      "status": "success",
+      "sha256": "67eba7af82133917db6c199905ab89181b0a7143452274293f2abcf367ddd1b4",
+      "title": "NorthWatch | Compliance Operations Platform for FedRAMP 20x | 38North",
+      "signals": []
+    }
+  ]
+}

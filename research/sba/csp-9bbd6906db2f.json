@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-9bbd6906db2f",
+  "providerName": "Cyware Labs, Inc.",
+  "retrievedAt": "2026-10-30T09:14:49.296Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Cyware Labs, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CYWARE LABS INC.",
+      "dba_name": "CYWARE LABS INC",
+      "uei": "XMSGN9K9VD78",
+      "cage_code": "0QR22",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541512",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1765411200,
+      "website": "https://www.cyware.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2016",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-31d59d268939",
+  "providerName": "Bland AI",
+  "retrievedAt": "2026-10-30T09:09:30.499Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Bland AI",
+      "status": "success",
+      "results": 2878,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

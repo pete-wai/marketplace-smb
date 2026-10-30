@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8825c07e1e67",
+  "retrievedAt": "2026-10-30T09:11:55.013Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.rsa.com/solutions/public-sector/",
+      "finalUrl": "https://www.rsa.com/solutions/government/",
+      "status": "success",
+      "sha256": "4cb1a9d04b4cd56254e5c336462b1afc2965cfe2a90d076602b4ed3f566c8073",
+      "title": "Cybersecurity Solutions for Government Organizations | RSA",
+      "signals": []
+    }
+  ]
+}

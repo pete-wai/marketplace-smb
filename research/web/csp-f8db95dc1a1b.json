@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f8db95dc1a1b",
+  "retrievedAt": "2026-10-30T09:11:19.191Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.druva.com/brand",
+      "finalUrl": "https://www.druva.com/why-druva/about/brand",
+      "status": "success",
+      "sha256": "886cd417360626347e457c37b71bcd0dfd32e88445e0d7df73c082d4aa501706",
+      "title": "Brand Usage Guides and Assets | Druva",
+      "signals": []
+    }
+  ]
+}

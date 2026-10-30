@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c86258261967",
+  "retrievedAt": "2026-10-30T09:11:07.048Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cgi.com/en/solutions/momentum-federal-erp",
+      "finalUrl": "https://www.cgi.com/us/en-us/federal/momentum-enterprise-suite",
+      "status": "success",
+      "sha256": "3698bda3ffa794ba6d8630a40c2ac7703ca8e734f7d5ec0018017abe002d9d85",
+      "title": "Momentum® Enterprise Suite | CGI United States",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": ", the wholly-owned U. S. operating subsidiary of CGI Inc. (NYSE: GIB) (TSX: GIB. A), today announced the release of"
+        }
+      ]
+    }
+  ]
+}

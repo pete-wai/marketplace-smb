@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-9fbf261b62c1",
+  "retrievedAt": "2026-10-30T09:11:39.412Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.microsoft.com/",
+      "finalUrl": "https://www.microsoft.com/en-us",
+      "status": "success",
+      "sha256": "adcbf107c1d5245d3d73af64bc22329de18689ce41dc4aa7220f5b8c5a6e50a1",
+      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming &amp; Apps",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "Copilot Windows Surface XBOX Deals Small Business Support Windows Apps Outlook OneDrive Microsoft Teams OneNote Mic"
+        }
+      ]
+    }
+  ]
+}

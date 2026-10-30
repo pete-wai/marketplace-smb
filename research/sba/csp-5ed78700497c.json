@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-5ed78700497c",
+  "providerName": "Valimail",
+  "retrievedAt": "2026-10-30T09:13:35.729Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Valimail",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "VALIMAIL INC.",
+      "dba_name": "",
+      "uei": "Z7FHZJ7F9P84",
+      "cage_code": "17PZ5",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1778544000,
+      "website": "https://www.valimail.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2015",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-04f893a1a754",
+  "providerName": "Specset",
+  "retrievedAt": "2026-10-30T09:12:58.853Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "S7RZBSZXNBD5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SPOT.XYZ CORPORATION",
+      "dba_name": "",
+      "uei": "S7RZBSZXNBD5",
+      "cage_code": "165H5",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790640000,
+      "website": "www.specset.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2020",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-cb18d06ec020",
+  "providerName": "Apptio an IBM company",
+  "retrievedAt": "2026-10-30T09:09:19.895Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Apptio an IBM company",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

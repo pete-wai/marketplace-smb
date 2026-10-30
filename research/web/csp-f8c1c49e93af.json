@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f8c1c49e93af",
+  "retrievedAt": "2026-10-30T09:11:19.392Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://duo.com/",
+      "finalUrl": "https://duo.com/",
+      "status": "success",
+      "sha256": "783c67b40e259792762de9a193c811d5399325a2ec8eb8515b757e72756e459e",
+      "title": "IAM & MFA Identity Security for Business, Humans, AI | Cisco Duo",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "nt it to our users. We had roughly 1,000 employees onboarded, registered, and using the product in less than 30 day"
+        }
+      ]
+    }
+  ]
+}

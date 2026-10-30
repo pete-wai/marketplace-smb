@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c705181c8d50",
+  "retrievedAt": "2026-10-30T09:10:57.156Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.aprimo.com",
+      "finalUrl": "https://www.aprimo.com/",
+      "status": "success",
+      "sha256": "95314bd7599fa9821b7bb238fb174280a14da0459f9b66bb1d571c458571579e",
+      "title": "Aprimo: Digital Asset Management.",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e80b7abbfd47",
+  "retrievedAt": "2026-10-30T09:10:57.197Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.aquasec.com/solutions/federal/",
+      "finalUrl": "https://www.aquasec.com/solutions/federal/",
+      "status": "success",
+      "sha256": "a952f94733cc336c03fed10ed86163b62b0568c6bc4ed21fec07056b6aa3e2d0",
+      "title": "Runtime Security for Federal Agencies | Aquasec",
+      "signals": []
+    }
+  ]
+}

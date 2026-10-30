@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-18c073e21ea3",
+  "retrievedAt": "2026-10-30T09:12:07.411Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://home.treasury.gov/",
+      "finalUrl": "https://home.treasury.gov/",
+      "status": "success",
+      "sha256": "08192573e4105deaab1364ddae46e3af29a7f31201d31564fbef360d90ff0955",
+      "title": "U.S. Department of the Treasury",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": " Strategic Economic Dialogue (CED) SMALL BUSINESS PROGRAMS Small and Disadvantaged Business Utilization Small Busin"
+        }
+      ]
+    }
+  ]
+}

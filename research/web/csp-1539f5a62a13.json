@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1539f5a62a13",
+  "retrievedAt": "2026-10-30T09:10:52.738Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://abnormal.ai/",
+      "finalUrl": "https://abnormal.ai/",
+      "status": "success",
+      "sha256": "b31b77b163f8a321232b14a42fc2df11d1cf3e0a267ff718224fcc1a7d16e3d4",
+      "title": "Behavioral AI for Email, Identity, and AI Security | Abnormal AI",
+      "signals": []
+    }
+  ]
+}

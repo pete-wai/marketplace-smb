@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-55f6fa4e245a",
+  "providerName": "Security Control LLC (an ISI Company)",
+  "retrievedAt": "2026-10-30T09:12:47.298Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "W969AAMDYJD1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SECURITY CONTROL, LLC",
+      "dba_name": "SECURITY CONTROL LLC",
+      "uei": "W969AAMDYJD1",
+      "cage_code": "8C7K8",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1775088000,
+      "website": "www.SecConSoftware.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2018",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

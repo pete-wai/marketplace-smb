@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-9fc573216a24",
+  "providerName": "Veoci Inc.",
+  "retrievedAt": "2026-10-30T09:13:38.645Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Veoci .",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "VEOCI INC.",
+      "dba_name": "VEOCI INC",
+      "uei": "N7JJUTZKVE69",
+      "cage_code": "8QZB5",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1771977600,
+      "website": "http://veoci.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2018",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

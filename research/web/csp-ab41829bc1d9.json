@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-ab41829bc1d9",
+  "retrievedAt": "2026-10-30T09:11:46.705Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://business.optum.com/en/federal-government.html",
+      "finalUrl": "https://business.optum.com/en/federal-government.html",
+      "status": "success",
+      "sha256": "b4658d7da63fc477c45cffa89e520d7f08b0133f11438ff08b7b2cdabc2ffcb7",
+      "title": "Devoted to Improving Lives Across the Nation | Optum Business",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "munities impact health. Learn more Small Business Partners Small Business Partners We&#39;re committed to developin"
+        },
+        {
+          "kind": "size",
+          "excerpt": "xt On Screen – We’ve impacted over 25 million lives, *All metrics based on data as of August 30, 2023] We&#39;ve im"
+        }
+      ]
+    }
+  ]
+}

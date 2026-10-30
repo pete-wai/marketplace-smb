@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c9cfabddd9c6",
+  "retrievedAt": "2026-10-30T09:12:09.041Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.veritone.com/industries/government/",
+      "finalUrl": "https://www.veritone.com/industries/federal-government/",
+      "status": "success",
+      "sha256": "632b5ed66fc42bb66c4dee03c5ff599e1bd80ac0ae3d74c94b2917fd6c21a13f",
+      "title": "Enterprise AI Solutions for Government Agencies - Veritone",
+      "signals": []
+    }
+  ]
+}

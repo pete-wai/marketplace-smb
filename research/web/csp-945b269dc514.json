@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-945b269dc514",
+  "retrievedAt": "2026-10-30T09:11:43.713Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.nuance.com/index.html",
+      "finalUrl": "https://dragon.nuance.com/en-us/home",
+      "status": "success",
+      "sha256": "7790bf6c9d3e88f60e62d745eb55563815afa29de5feaca570d12c4a88a22a53",
+      "title": "Nuance - Achieve even more. Nuance is now Microsoft. | Nuance",
+      "signals": []
+    }
+  ]
+}

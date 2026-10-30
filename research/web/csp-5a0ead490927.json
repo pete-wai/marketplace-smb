@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5a0ead490927",
+  "retrievedAt": "2026-10-30T09:12:02.841Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://tacticaltakedown.com",
+      "finalUrl": "https://tacticaltakedown.com/",
+      "status": "success",
+      "sha256": "61e8a7cc2531a296b22610ed0937801f95a2c5d4bb11a0e15ce0f3979b62015f",
+      "title": "Tactical Takedown",
+      "signals": []
+    }
+  ]
+}

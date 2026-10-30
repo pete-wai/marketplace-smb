@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1c14e5ea726c",
+  "retrievedAt": "2026-10-30T09:10:55.135Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.alation.com/",
+      "finalUrl": "https://www.alation.com/",
+      "status": "success",
+      "sha256": "25821692982b45929a83ca50bbf4ba895b1f181a2dab6bcb880aae6eda67ac74",
+      "title": "Alation Intelligence Operating System",
+      "signals": []
+    }
+  ]
+}

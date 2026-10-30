@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-798906129989",
+  "providerName": "RingMD USA Inc.",
+  "retrievedAt": "2026-10-30T09:12:41.467Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "RingMD USA .",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "RINGMD USA INC",
+      "dba_name": "",
+      "uei": "PDHDWNB7HFA8",
+      "cage_code": "8D2Z6",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "423430",
+        "513210",
+        "541690"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "513210",
+        "541690"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1791849600,
+      "website": "www.ring.md",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2018",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

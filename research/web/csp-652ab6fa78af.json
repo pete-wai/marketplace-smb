@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-652ab6fa78af",
+  "retrievedAt": "2026-10-30T09:11:56.358Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sas.com/en_us/home.html",
+      "finalUrl": "https://www.sas.com/en_us/home.html",
+      "status": "success",
+      "sha256": "7aa57b367b3205dec0fa27bf9f38a2f99c1c5934047cdd6894c069f58abec989",
+      "title": "SAS: Data and AI Solutions | SAS",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "e incredibly accurate.” Tiffany S. Small Business Manager See what makes SAS Viya so highly rated February 10, 2026"
+        },
+        {
+          "kind": "size",
+          "excerpt": "nd just like that ... we could see 10 million customers, every claim, every connection. We stopped reacting to frau"
+        }
+      ]
+    }
+  ]
+}

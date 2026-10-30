@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-b4e67d0567a8",
+  "providerName": "Incode Technologies Inc.",
+  "retrievedAt": "2026-10-30T09:10:59.598Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "GRC4T5JHH397",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Incode Technologies .",
+      "status": "success",
+      "results": 345,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

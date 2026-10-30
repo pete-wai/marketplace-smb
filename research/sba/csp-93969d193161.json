@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-93969d193161",
+  "providerName": "HP Inc.",
+  "retrievedAt": "2026-10-30T09:10:56.421Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SMLNZ8X9SHE7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "HP .",
+      "status": "success",
+      "results": 652,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

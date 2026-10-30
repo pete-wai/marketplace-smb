@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-5d1f99baf41f",
+  "providerName": "WidePoint Integrated Solutions Corp.",
+  "retrievedAt": "2026-10-30T09:13:43.317Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MKJGBYTR5MM4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "WIDEPOINT INTEGRATED SOLUTIONS CORP",
+      "dba_name": "",
+      "uei": "MKJGBYTR5MM4",
+      "cage_code": "1V1K7",
+      "naics_primary": "517121",
+      "naics_all_codes": [
+        "334210",
+        "334220",
+        "512191",
+        "516120",
+        "517111",
+        "517112",
+        "517121",
+        "517122",
+        "517410",
+        "517810",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541990",
+        "561421",
+        "561422"
+      ],
+      "naics_small_codes": [
+        "334210",
+        "334220",
+        "517111",
+        "517112",
+        "517121",
+        "517122"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1775606400,
+      "website": "https://www.widepoint.com/managed-mobility-services/",
+      "additional_website": "https://www.widepoint.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1998",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

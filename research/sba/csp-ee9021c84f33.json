@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-ee9021c84f33",
+  "providerName": "Adobe",
+  "retrievedAt": "2026-10-30T09:09:10.916Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "V6QLDTQZ7ZF7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Adobe",
+      "status": "success",
+      "results": 399,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

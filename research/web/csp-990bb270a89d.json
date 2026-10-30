@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-990bb270a89d",
+  "retrievedAt": "2026-10-30T09:12:03.336Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.teamviewer.com/en-us/products/dex/",
+      "finalUrl": "https://www.teamviewer.com/en-us/products/dex/",
+      "status": "success",
+      "sha256": "26784eb36bc86c07d5007f3d35ef079eb081af57ad5e05971ba41c35f553b96a",
+      "title": "TeamViewer DEX | TeamViewer",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "l use Access devices from anywhere Small businesses Simplify remote access and support Large businesses Scale and s"
+        },
+        {
+          "kind": "size",
+          "excerpt": "stomers last year. \\r\\n&quot;}}\"> $232 million + The amount of ROI generated for DEX customers last year. Take the "
+        }
+      ]
+    }
+  ]
+}

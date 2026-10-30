@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-029724022e53",
+  "providerName": "Nexthink",
+  "retrievedAt": "2026-10-30T09:12:04.736Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Nexthink",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

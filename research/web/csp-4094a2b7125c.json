@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4094a2b7125c",
+  "retrievedAt": "2026-10-30T09:11:55.080Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.rubrik.com",
+      "finalUrl": "https://www.rubrik.com/",
+      "status": "success",
+      "sha256": "1cb661f80f2c104938cf42a663cd4092a1862d21f4d0ee4e8049e7fd6307bece",
+      "title": "Agentic Cyber Resilience &amp; Data Security | Rubrik",
+      "signals": []
+    }
+  ]
+}

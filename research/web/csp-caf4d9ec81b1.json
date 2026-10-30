@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-caf4d9ec81b1",
+  "retrievedAt": "2026-10-30T09:12:10.531Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://securecasemanagement.com/",
+      "finalUrl": "https://securecasemanagement.com/",
+      "status": "success",
+      "sha256": "740106a83ff1db3961395cec1ff4b1228ba6dc1c950bf7980d26436c904cd32d",
+      "title": "CMTS | Investigative Case Management &amp; Tracking System",
+      "signals": []
+    }
+  ]
+}

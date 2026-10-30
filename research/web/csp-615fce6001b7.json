@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-615fce6001b7",
+  "retrievedAt": "2026-10-30T09:10:58.524Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.atompower.com/",
+      "finalUrl": "https://www.atompower.com/",
+      "status": "success",
+      "sha256": "6790af1be524f5e17b8bc85bfe8af0cb82c37e24fd33f88a48080279a5e24ad0",
+      "title": "Solid-State Circuit Breakers &amp; Power Distribution | Atom Power",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c55e61c1ecae",
+  "providerName": "Infor",
+  "retrievedAt": "2026-10-30T09:11:02.040Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Infor",
+      "status": "success",
+      "results": 17724,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

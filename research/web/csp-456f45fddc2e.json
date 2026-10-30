@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-456f45fddc2e",
+  "retrievedAt": "2026-10-30T09:11:36.763Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.lumen.com/en-us/communications/contact-center.html",
+      "finalUrl": "https://www.lumen.com/en-us/contact-us.html",
+      "status": "success",
+      "sha256": "7c8a4aca7e1a1f240b5d5fdaaff46991eda405fbb8d5d2bf860a04ba1654329d",
+      "title": "Contact Us | Lumen Technologies",
+      "signals": []
+    }
+  ]
+}

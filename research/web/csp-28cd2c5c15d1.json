@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-28cd2c5c15d1",
+  "retrievedAt": "2026-10-30T09:11:30.985Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.island.io",
+      "finalUrl": "https://www.island.io/",
+      "status": "success",
+      "sha256": "19f6879e8aeb7d8be60c14bfa81ed2f12e1a1a601595b5933a4d26e4788623a0",
+      "title": "Island | The Enterprise Agentic Control Plane | AI, Network, Data Protection",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ployee end-user devices and saves $2 million with Island Read full story “From my perspective, AI and Island are so"
+        }
+      ]
+    }
+  ]
+}

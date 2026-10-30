@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-593438e65f38",
+  "providerName": "Enel X North America",
+  "retrievedAt": "2026-10-30T09:10:24.243Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Enel X North America",
+      "status": "success",
+      "results": 7,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

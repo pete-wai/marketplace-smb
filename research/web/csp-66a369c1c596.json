@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-66a369c1c596",
+  "retrievedAt": "2026-10-30T09:11:22.435Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.everbridge.com/",
+      "finalUrl": "https://www.everbridge.com/",
+      "status": "success",
+      "sha256": "a371abe4905aa62f1285009263db779722a503f436621fd3e6cbdbe8c8f814a2",
+      "title": "Empowering Enterprise Resilience - Everbridge",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "00+ organizations, protecting over 2 billion people in 195 countries Find out why Everbridge 360 AI Everbridge 360 "
+        }
+      ]
+    }
+  ]
+}

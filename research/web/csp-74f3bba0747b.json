@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-74f3bba0747b",
+  "retrievedAt": "2026-10-30T09:10:56.663Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cursor.com",
+      "finalUrl": "https://cursor.com/",
+      "status": "success",
+      "sha256": "4b6bec3298b3fa32a21bbc05cd85cd9707179ab1967c692841cc3072a517fd18",
+      "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+      "signals": []
+    }
+  ]
+}

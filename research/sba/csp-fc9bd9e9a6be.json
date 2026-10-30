@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-fc9bd9e9a6be",
+  "providerName": "Valid8 Financial",
+  "retrievedAt": "2026-10-30T09:13:35.685Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "J9Q2C6NFLYV5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "VALID8 FINANCIAL, INC",
+      "dba_name": "",
+      "uei": "J9Q2C6NFLYV5",
+      "cage_code": "97SD6",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541211"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541211"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1784592000,
+      "website": "https://www.valid8financial.com/",
+      "additional_website": "https://www.valid8financial.com/",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2014",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

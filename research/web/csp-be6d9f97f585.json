@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-be6d9f97f585",
+  "retrievedAt": "2026-10-30T09:12:05.937Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://acqbot.com/",
+      "finalUrl": "https://acqbot.com/",
+      "status": "success",
+      "sha256": "0b2f8b7bf673fef98e480460b50a39890d0b3830fad77845eba0f69039afacec",
+      "title": "AcqBot: The Future of Government Acquisition",
+      "signals": []
+    }
+  ]
+}

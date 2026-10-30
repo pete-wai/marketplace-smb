@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-6fe7c22ccc60",
+  "providerName": "HB Healthcare Safety, SBC",
+  "retrievedAt": "2026-10-30T09:10:55.595Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MSFQLTACVNZ5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "HB HEALTHCARE SAFETY SBC",
+      "dba_name": "HB HEALTHCARE SAFETY",
+      "uei": "MSFQLTACVNZ5",
+      "cage_code": "8CK09",
+      "naics_primary": "541618",
+      "naics_all_codes": [
+        "541618"
+      ],
+      "naics_small_codes": [
+        "541618"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1767830400,
+      "website": "http://www.hbhealthcaresafety.org/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2015",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-77633e4c62e7",
+  "retrievedAt": "2026-10-30T09:11:17.037Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.digicert.com",
+      "finalUrl": "https://www.digicert.com/",
+      "status": "success",
+      "sha256": "263d774b081eff0debf9fc1d4d13547dfd3ab45158adcbc36634b563bde0a2a6",
+      "title": "TLS/SSL Certificate Authority | Leader in Digital Trust | DigiCert",
+      "signals": []
+    }
+  ]
+}

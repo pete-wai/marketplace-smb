@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8c9a924aad0d",
+  "retrievedAt": "2026-10-30T09:11:30.262Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://intrepid-networks.com/",
+      "finalUrl": "https://www.intrepid-networks.com/",
+      "status": "success",
+      "sha256": "20bb805a5ad64208f3adb6c2022f5694d5e0979ea177784e0d264a944a4b61a1",
+      "title": "Intrepid Networks | Communication | Situational Awareness | United States",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9e557d81cec2",
+  "providerName": "Rackspace Government Solutions",
+  "retrievedAt": "2026-10-30T09:12:31.515Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Rackspace Government Solutions",
+      "status": "success",
+      "results": 8,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

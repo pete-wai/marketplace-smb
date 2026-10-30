@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5910003416a6",
+  "retrievedAt": "2026-10-30T09:11:43.219Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.norc.org/about/departments/advanced-data-solutions-center.html",
+      "finalUrl": "https://www.norc.org/about/departments/advanced-data-solutions-center.html",
+      "status": "success",
+      "sha256": "cda6a3a294011f35203387ee6a1ecbf4bdbecd31f62b12106d52a1b2a0360ef0",
+      "title": "Advanced Data Solutions | NORC at the University of Chicago",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-42e4bcc761f9",
+  "retrievedAt": "2026-10-30T09:11:11.336Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.concur.com/",
+      "finalUrl": "https://www.concur.com/",
+      "status": "success",
+      "sha256": "0bd6d35c0bac3bb9c79cc9a545e1748c2b67f8f40cc3edee862407067eab25d3",
+      "title": "Spend Management Software for Travel, Expense, Invoice | SAP Concur",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "leader IT leader Travel leader For small business Getting started Premium Assistant Service Assistant All solutions"
+        },
+        {
+          "kind": "size",
+          "excerpt": "s from companies of all sizes &lt; 500 Employees “The automation not only saves time for employees and finance team"
+        }
+      ]
+    }
+  ]
+}

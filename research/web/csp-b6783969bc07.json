@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b6783969bc07",
+  "retrievedAt": "2026-10-30T09:11:24.573Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.forcepoint.com/",
+      "finalUrl": "https://www.forcepoint.com/",
+      "status": "success",
+      "sha256": "c3e00cd5f02a354d1789d95d6bd63e137952dd0b9f1fb2a3a8e4e58e2e1b18a7",
+      "title": "Forcepoint: AI Data Security | Secure Agents, Stop Shadow AI",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "int vs. Varonis Forcepoint vs. Cyera OUR COMPANY Newsroom Work With Us Contact Us Forcepoint Trust Center Forcepoin"
+        }
+      ]
+    }
+  ]
+}

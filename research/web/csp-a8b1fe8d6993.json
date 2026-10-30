@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a8b1fe8d6993",
+  "retrievedAt": "2026-10-30T09:12:10.249Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.wellspring.com/",
+      "finalUrl": "https://www.wellspring.com/",
+      "status": "success",
+      "sha256": "83b3119fe3bca315468aaf99d47a6df7833437fc25d3697a74cbeefeaa597977",
+      "title": "Innovation, Technology Transfer &amp; IP Management Solutions | Wellspring",
+      "signals": []
+    }
+  ]
+}

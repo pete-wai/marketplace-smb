@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c29299f9cf93",
+  "retrievedAt": "2026-10-30T09:11:13.432Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ciswired.com",
+      "finalUrl": "https://www.ciswired.com/",
+      "status": "success",
+      "sha256": "7673ece46cebdc79897de94d8244caa01db136d9146aca2a06a5f424bf421dff",
+      "title": "Travel Management Operations and Automation | Cornerstone",
+      "signals": []
+    }
+  ]
+}

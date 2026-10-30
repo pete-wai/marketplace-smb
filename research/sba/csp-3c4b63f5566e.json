@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-3c4b63f5566e",
+  "providerName": "GDC Integration, Inc.",
+  "retrievedAt": "2026-10-30T09:10:35.952Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "GDC Integration, .",
+      "status": "success",
+      "results": 14,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "GDC INTEGRATION, INC.",
+      "dba_name": "GDC INTEGRATION",
+      "uei": "Z7NGCYXV6Y16",
+      "cage_code": "3UFK7",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541612",
+        "541618"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541612",
+        "541618"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789603200,
+      "website": "http://www.gdcii.com",
+      "additional_website": "http://gclaunch@gdcii.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2004",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,66 @@
+{
+  "providerId": "csp-6b3977c6227a",
+  "providerName": "Canon U.S.A., Inc.",
+  "retrievedAt": "2026-10-30T09:09:34.806Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Canon U.S.A., .",
+      "status": "success",
+      "results": 540,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CANON U.S.A., INC.",
+      "dba_name": "",
+      "uei": "DTQLFAEKKCP5",
+      "cage_code": "4J871",
+      "naics_primary": "532420",
+      "naics_all_codes": [
+        "323111",
+        "323120",
+        "333248",
+        "333310",
+        "334118",
+        "334220",
+        "334290",
+        "334310",
+        "339940",
+        "423420",
+        "423430",
+        "459410",
+        "532420",
+        "541511",
+        "561210",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "459410",
+        "532420",
+        "541511",
+        "561210",
+        "811210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792713600,
+      "website": "https://www.usa.canon.com/business/industries/government-solutions",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1965",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

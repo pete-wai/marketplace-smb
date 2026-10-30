@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-aa015a5d79c6",
+  "providerName": "Pearson VUE",
+  "retrievedAt": "2026-10-30T09:12:14.323Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Pearson VUE",
+      "status": "success",
+      "results": 831,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "NCS PEARSON, INC.",
+      "dba_name": "",
+      "uei": "HKD8ENC9F271",
+      "cage_code": "70FB5",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541380",
+        "541512",
+        "541519",
+        "541611",
+        "541612",
+        "541990",
+        "611420",
+        "611430",
+        "611691",
+        "611699",
+        "611710",
+        "921190",
+        "926150"
+      ],
+      "naics_small_codes": [
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "https://home.pearsonvue.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1962",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

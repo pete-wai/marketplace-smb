@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ebc48871a1f2",
+  "retrievedAt": "2026-10-30T09:11:47.050Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.owndata.com/",
+      "finalUrl": "https://www.owndata.com/",
+      "status": "success",
+      "sha256": "c27dd5344cc96dc76bb27ba3f6554d0702243d60842ba5989f61b50491fb6243",
+      "title": "Own from Salesforce | Protect &amp; Manage Your SaaS Data",
+      "signals": []
+    }
+  ]
+}

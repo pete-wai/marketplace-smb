@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-47ea218e03df",
+  "providerName": "Repario",
+  "retrievedAt": "2026-10-30T09:12:37.920Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KC7YXS1GY7F4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MODUS EDISCOVERY, INC.",
+      "dba_name": "",
+      "uei": "KC7YXS1GY7F4",
+      "cage_code": "89B89",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "541199",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "561210",
+        "561410",
+        "561439"
+      ],
+      "naics_small_codes": [
+        "541519",
+        "561210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1787961600,
+      "website": "www.discovermodus.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2010",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-620dbdac812d",
+  "providerName": "Cyera",
+  "retrievedAt": "2026-10-30T09:09:58.420Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "T9M2M1H16HS9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CYERA US INC.",
+      "dba_name": "",
+      "uei": "T9M2M1H16HS9",
+      "cage_code": "9XQP7",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1773878400,
+      "website": "https://www.cyera.io",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

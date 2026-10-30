@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ae443dd591bd",
+  "retrievedAt": "2026-10-30T09:12:07.710Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.usu.com/en/it-asset-management/itam-for-government",
+      "finalUrl": "https://www.usu.com/en/it-asset-management/itam-for-government",
+      "status": "success",
+      "sha256": "08798a187febf33301620358984eef48607643eb0f5f50a968e05918256faa4e",
+      "title": "IT Asset Management for Government | Optimize Costs &amp; Compliance",
+      "signals": []
+    }
+  ]
+}

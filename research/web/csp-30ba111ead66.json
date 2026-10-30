@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-30ba111ead66",
+  "retrievedAt": "2026-10-30T09:15:04.539Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://unanet.com",
+      "finalUrl": "https://unanet.com/",
+      "status": "success",
+      "sha256": "9d9c9d03cf85bca5d07a455f083ba2637c440ec8e5d1a48f0a7e48a2b9145708",
+      "title": "Unanet | Modern Solutions for Your Project-Driven Business",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": " efficiency. GovCon ERP GovCon CRM Small Business Architecture &amp; Engineering Unanet empowers architecture and e"
+        }
+      ]
+    }
+  ]
+}

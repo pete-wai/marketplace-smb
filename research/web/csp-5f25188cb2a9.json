@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5f25188cb2a9",
+  "retrievedAt": "2026-10-30T09:12:08.118Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://valleyit.com/",
+      "finalUrl": "https://valleyit.com/",
+      "status": "success",
+      "sha256": "27327db18458d64da98a4065914ad60ac1138d2b3db00789a9596548d8ba91e6",
+      "title": "Valley IT — C6ISR Software &amp; Government IT Consulting",
+      "signals": []
+    }
+  ]
+}

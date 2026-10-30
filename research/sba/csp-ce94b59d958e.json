@@ -1,0 +1,48 @@
+{
+  "providerId": "csp-ce94b59d958e",
+  "providerName": "Perplexity AI",
+  "retrievedAt": "2026-10-30T09:12:15.743Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "P9N9FFAUBLQ4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "PERPLEXITY AI, INC",
+      "dba_name": "",
+      "uei": "P9N9FFAUBLQ4",
+      "cage_code": "15SW3",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "519290"
+      ],
+      "naics_small_codes": [
+        "519290"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788480000,
+      "website": "https://www.perplexity.ai/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2022",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

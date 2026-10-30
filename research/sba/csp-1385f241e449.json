@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1385f241e449",
+  "providerName": "M.C. Dean, Inc.",
+  "retrievedAt": "2026-10-30T09:11:44.520Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "M.C. Dean, .",
+      "status": "success",
+      "results": 6634,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-02e19ea8d338",
+  "retrievedAt": "2026-10-30T09:11:19.252Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://dtexsystems.com",
+      "finalUrl": "https://www.dtex.ai/",
+      "status": "success",
+      "sha256": "400df514e65080fecdc2336cac0d5b2192297c20ee8650e2bfa7d9bd542b2dd2",
+      "title": "DTEX | The Risk-Adaptive Security Platform for the Human and AI Enterprise",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9e15f7a83b31",
+  "providerName": "Perceptyx",
+  "retrievedAt": "2026-10-30T09:12:15.330Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MMBNNNHE86C6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Perceptyx",
+      "status": "success",
+      "results": 119,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

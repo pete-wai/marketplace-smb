@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-fc7647bee720",
+  "providerName": "BlackBerry",
+  "retrievedAt": "2026-10-30T09:09:29.734Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "BlackBerry",
+      "status": "success",
+      "results": 47,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

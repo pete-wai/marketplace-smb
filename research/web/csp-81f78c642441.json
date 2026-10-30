@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-81f78c642441",
+  "retrievedAt": "2026-10-30T09:10:58.120Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.asato.ai",
+      "finalUrl": "https://www.asato.ai/",
+      "status": "success",
+      "sha256": "f20047237008f3ae6d8a467804a5da68669a06a8aadf7a1fdf76213a7e898385",
+      "title": "AI-Native IT Asset Optimization Platform | Asato",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "dware spend a year), which open on 5,000 employees, $7M and $2M, and a link, \"Open the ROI calculator\", that carrie"
+        }
+      ]
+    }
+  ]
+}

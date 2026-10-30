@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8f912ddc2b21",
+  "retrievedAt": "2026-10-30T09:11:48.372Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pega.com/industries/government",
+      "finalUrl": "https://www.pega.com/industries/government",
+      "status": "success",
+      "sha256": "37ae9a14863fba0fbb765386d845c831b4ac71b73f8a4b5ed732e32a916981f5",
+      "title": "Government software to engage citizens &amp; modernize processes | Pega",
+      "signals": []
+    }
+  ]
+}

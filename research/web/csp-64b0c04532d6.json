@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-64b0c04532d6",
+  "retrievedAt": "2026-10-30T09:11:41.306Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.bitrip.com",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

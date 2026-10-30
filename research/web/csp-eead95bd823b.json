@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-eead95bd823b",
+  "retrievedAt": "2026-10-30T09:11:48.673Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pepelwerk.com",
+      "finalUrl": "https://www.pepelwerk.com/",
+      "status": "success",
+      "sha256": "294684e8347ab7dc630ba72a0bdf003f8584516267dd03fd29e6ea230703d983",
+      "title": "pepelwerk &#8211; AI-Driven Career Matching and Workforce Solutions—Connecting People and Employers with Purpose",
+      "signals": []
+    }
+  ]
+}

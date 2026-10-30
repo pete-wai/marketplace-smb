@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-76db4b71394c",
+  "retrievedAt": "2026-10-30T09:11:19.608Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.econsys.com/fedhr-navigator/",
+      "finalUrl": "https://www.econsys.com/fedhr-navigator/",
+      "status": "success",
+      "sha256": "365074d5284ee4f8905a323faaffb2bc334b226dc1ae4d273b770a3171667c63",
+      "title": "FedHR Navigator &#8211; EconSys",
+      "signals": []
+    }
+  ]
+}

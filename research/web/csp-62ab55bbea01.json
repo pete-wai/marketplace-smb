@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-62ab55bbea01",
+  "retrievedAt": "2026-10-30T09:12:01.480Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cloudlcms.com/",
+      "finalUrl": "https://cloudlcms.com/",
+      "status": "success",
+      "sha256": "73458941a89b87888e2e850ce87eb2c2c28907e12835318a412cf61a24dcfafe",
+      "title": "CloudLCMS - Empower Your Learning",
+      "signals": []
+    }
+  ]
+}

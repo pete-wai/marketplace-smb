@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-fbc835d2c63c",
+  "retrievedAt": "2026-10-30T09:11:37.515Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://mari.com/",
+      "finalUrl": "https://mari.com/",
+      "status": "success",
+      "sha256": "1dd17541ea4435fa6054561f19fa43da1f119e3ac08c1f03dfeebbd4bd403cc3",
+      "title": "MARi Website Development",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-210285902b7d",
+  "retrievedAt": "2026-10-30T09:11:51.039Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ptfs.com",
+      "finalUrl": "https://ptfs.com/",
+      "status": "success",
+      "sha256": "b1652b4084effe547ae3cb467a510e6d56ec914634768f16a13f66b9fb591d59",
+      "title": "Home - PTFS",
+      "signals": []
+    }
+  ]
+}

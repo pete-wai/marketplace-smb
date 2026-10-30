@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-85401a05834a",
+  "providerName": "ReliaQuest",
+  "retrievedAt": "2026-10-30T09:12:35.553Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KGF7KBFCL6E7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "ReliaQuest",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ed168fed6757",
+  "retrievedAt": "2026-10-30T09:11:41.271Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.myevaluations.com/",
+      "finalUrl": "https://www.myevaluations.com/",
+      "status": "success",
+      "sha256": "4b7015cf0f99be3db408c0a4c0197a34cf446b27fcb2ee5f595effb366d74224",
+      "title": "MyEvaluations | The Human Approach in Medical Education Management™",
+      "signals": []
+    }
+  ]
+}

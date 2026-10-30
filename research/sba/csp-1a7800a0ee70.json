@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1a7800a0ee70",
+  "providerName": "Wolters Kluwer",
+  "retrievedAt": "2026-10-30T09:13:44.077Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Wolters Kluwer",
+      "status": "success",
+      "results": 57,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

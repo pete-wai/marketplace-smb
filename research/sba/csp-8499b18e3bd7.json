@@ -1,0 +1,51 @@
+{
+  "providerId": "csp-8499b18e3bd7",
+  "providerName": "Acalvio Technology",
+  "retrievedAt": "2026-10-30T09:14:44.901Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Acalvio Technology",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ACALVIO TECHNOLOGIES INC",
+      "dba_name": "",
+      "uei": "GLVJML93KQU5",
+      "cage_code": "83AG8",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "541511",
+        "541690",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541690",
+        "541715"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1787875200,
+      "website": "www.acalvio.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2015",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

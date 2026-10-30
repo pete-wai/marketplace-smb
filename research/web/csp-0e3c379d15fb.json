@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-0e3c379d15fb",
+  "retrievedAt": "2026-10-30T09:11:07.218Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.chainalysis.com/",
+      "finalUrl": "https://www.chainalysis.com/",
+      "status": "success",
+      "sha256": "e0adde7851feec95d11cb43c6cf3dc99df10ef02b5578be896ef8790f5dd3615",
+      "title": "The Blockchain Data Platform - Chainalysis",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": " crypto exchanges use Chainalysis $34 billion illicit funds seized, frozen or recovered with Chainalysis data 50+ r"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-b3704083f1b6",
+  "providerName": "Unison",
+  "retrievedAt": "2026-10-30T09:13:32.275Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Unison",
+      "status": "success",
+      "results": 536,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

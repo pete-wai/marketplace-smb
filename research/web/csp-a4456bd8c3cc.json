@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a4456bd8c3cc",
+  "retrievedAt": "2026-10-30T09:11:26.668Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://halcyon.ai",
+      "finalUrl": "https://www.halcyon.ai/",
+      "status": "success",
+      "sha256": "bd5f193e121bca196a152b6bd6ab0e8959ec88ebcf6aba0dfd74e56a0fdc712a",
+      "title": "Halcyon Anti Ransomware and Cyber Resilience Platform",
+      "signals": []
+    }
+  ]
+}

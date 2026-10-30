@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-514b529a8c80",
+  "retrievedAt": "2026-10-30T09:11:57.227Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://securin.io",
+      "finalUrl": "https://www.securin.io/",
+      "status": "success",
+      "sha256": "56bd444e2833e78dde936b4609bc7fb166fa7b80bf28fa1503c7bf9e859f0f3f",
+      "title": "Preemptive Exposure Management | Securin",
+      "signals": []
+    }
+  ]
+}

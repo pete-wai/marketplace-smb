@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c7941b6920e2",
+  "retrievedAt": "2026-10-30T09:11:37.146Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.withmagenta.com/",
+      "finalUrl": "https://www.withmagenta.com/",
+      "status": "success",
+      "sha256": "17b5cf01f17f6adc8edc7e259fc5a1ecdf8283d156826bf28bcd6a9472082991",
+      "title": "Magenta AI - AI for Manufacturing Workflows",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "Instructions FMEA Documentation CAPA Documentation Company About Careers © 2026 Magenta AI. All rights reserved. Pr"
+        }
+      ]
+    }
+  ]
+}

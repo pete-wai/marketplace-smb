@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-ca5c22b740e5",
+  "providerName": "OpenClinica LLC",
+  "retrievedAt": "2026-10-30T09:12:10.347Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "VJWGYQDM2X28",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "OPENCLINICA LLC",
+      "dba_name": "",
+      "uei": "VJWGYQDM2X28",
+      "cage_code": "9AU39",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541690",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541690",
+        "541990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1779667200,
+      "website": "https://www.openclinica.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2006",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-b799578946b1",
+  "providerName": "Tanium",
+  "retrievedAt": "2026-10-30T09:13:04.286Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Tanium",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

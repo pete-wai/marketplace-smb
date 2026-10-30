@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c8b5580b9ce8",
+  "retrievedAt": "2026-10-30T09:12:09.162Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://verkada.com/government",
+      "finalUrl": "https://www.verkada.com/solutions/government-grade/",
+      "status": "success",
+      "sha256": "c9e3192b1fb8bb275ff7b475e787176e2745b342845595ef33b32a6e6838d8c6",
+      "title": "Government Security System and Solutions | Cameras, Gateways, Sensors, and more",
+      "signals": []
+    }
+  ]
+}

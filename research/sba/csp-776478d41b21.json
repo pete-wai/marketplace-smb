@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-776478d41b21",
+  "providerName": "Relocation Management Worldwide (RMW)",
+  "retrievedAt": "2026-10-30T09:12:35.925Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Relocation Management Worldwide (RMW)",
+      "status": "success",
+      "results": 4741,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "RELOCATION MANAGEMENT WORLDWIDE, INC.",
+      "dba_name": "",
+      "uei": "PV8NV27KRJC7",
+      "cage_code": "3V7L9",
+      "naics_primary": "484210",
+      "naics_all_codes": [
+        "484210",
+        "488510",
+        "488991",
+        "513210",
+        "541511",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "484210",
+        "488510",
+        "488991",
+        "513210",
+        "541511",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790640000,
+      "website": "https://relomw.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2002",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

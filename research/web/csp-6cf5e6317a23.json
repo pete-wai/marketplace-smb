@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-6cf5e6317a23",
+  "retrievedAt": "2026-10-30T09:11:59.342Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.smartsheet.com/solutions/federal-government",
+      "finalUrl": "https://www.smartsheet.com/solutions/government",
+      "status": "success",
+      "sha256": "0c4dc3cb52d87c0c147b3461743b394ec3ca15eb004acd36fdcaffb87abc0a74",
+      "title": "Government solutions | Smartsheet",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "updates Developers &amp; API Watch a demo Company Company About us Leadership Newsroom Corporate responsibility Cus"
+        }
+      ]
+    }
+  ]
+}

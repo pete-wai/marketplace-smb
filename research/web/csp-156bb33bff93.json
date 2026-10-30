@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-156bb33bff93",
+  "retrievedAt": "2026-10-30T09:15:03.937Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.rchilli.com",
+      "finalUrl": "https://www.rchilli.com/",
+      "status": "success",
+      "sha256": "3dea113543689a3ffd39eff3c3c0ccfb5310d259f834342a3569dc23b8defabe",
+      "title": "RChilli AI Agents &amp; Solutions to Streamline the Future of Recruitment",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": " you're managing 500 candidates or 5 million, our agents deliver consistent output without fatigue or errors. Seaml"
+        }
+      ]
+    }
+  ]
+}

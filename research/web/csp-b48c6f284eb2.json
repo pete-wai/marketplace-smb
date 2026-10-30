@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b48c6f284eb2",
+  "retrievedAt": "2026-10-30T09:11:22.601Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.everlaw.com/federal-government/",
+      "finalUrl": "https://www.everlaw.com/federal-government/",
+      "status": "success",
+      "sha256": "b2add8cf67a6e4c7a5416dd679e8f137b8141e471aaff51e2d16a5cbde7d28bf",
+      "title": "Everlaw for Federal Agencies ",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-926b98b8b9f2",
+  "providerName": "Boundera",
+  "retrievedAt": "2026-10-30T09:09:33.022Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Z7P7R1CJQB56",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "BOUNDERA INC.",
+      "dba_name": "",
+      "uei": "Z7P7R1CJQB56",
+      "cage_code": "239C4",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541512",
+        "541519",
+        "541690"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541512",
+        "541519",
+        "541690"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1786320000,
+      "website": "https://boundera.io",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2026",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

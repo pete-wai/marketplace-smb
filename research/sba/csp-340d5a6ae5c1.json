@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-340d5a6ae5c1",
+  "providerName": "Verint",
+  "retrievedAt": "2026-10-30T09:14:59.720Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LUBSP8AQS2E7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Verint",
+      "status": "success",
+      "results": 240,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4cfd4766e309",
+  "retrievedAt": "2026-10-30T09:11:47.510Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.palantir.com/offerings/fedstart/",
+      "finalUrl": "https://www.palantir.com/offerings/fedstart/",
+      "status": "success",
+      "sha256": "cf8330f405ef96e6866050d60dc04a960f49856d409d5ca363232c15eb0675b6",
+      "title": "Palantir FedStart",
+      "signals": []
+    }
+  ]
+}

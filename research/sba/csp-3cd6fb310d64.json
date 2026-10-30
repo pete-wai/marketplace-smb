@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-3cd6fb310d64",
+  "providerName": "911inform",
+  "retrievedAt": "2026-10-30T09:08:47.809Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "W2GGANP2APL9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "911INFORM LLC",
+      "dba_name": "",
+      "uei": "W2GGANP2APL9",
+      "cage_code": "9RYH0",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "561421",
+        "561499",
+        "561990"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "561421",
+        "561499",
+        "561990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792627200,
+      "website": "911inform.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2018",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

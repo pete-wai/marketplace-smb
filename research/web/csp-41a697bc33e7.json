@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-41a697bc33e7",
+  "retrievedAt": "2026-10-30T09:11:55.994Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://aqtiveguard.com/",
+      "finalUrl": "https://www.aqtiveguard.com/",
+      "status": "success",
+      "sha256": "03de24594936307bdd6baf76dc89217b9655a68e1aa9018b58251fc5cb071399",
+      "title": "Secure your Cryptographic Assets  | AQtive Guard",
+      "signals": []
+    }
+  ]
+}

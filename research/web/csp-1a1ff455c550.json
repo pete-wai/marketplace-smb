@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1a1ff455c550",
+  "retrievedAt": "2026-10-30T09:11:31.358Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.judi.health/",
+      "finalUrl": "https://www.judi.health/",
+      "status": "success",
+      "sha256": "cf1666e37316b43acb2e35aff07a6b1238776b060e9a16bd8528561a9105655d",
+      "title": "Unified Pharmacy &amp; Medical Benefit Management | Judi Health",
+      "signals": []
+    }
+  ]
+}

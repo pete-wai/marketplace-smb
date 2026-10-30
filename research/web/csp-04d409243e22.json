@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-04d409243e22",
+  "retrievedAt": "2026-10-30T09:11:33.361Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.labarchives.com/",
+      "finalUrl": "https://www.labarchives.com/",
+      "status": "success",
+      "sha256": "8571a9495a9b2c295d47815c19ffa71503353badd775c5e1509a9da9c382d91c",
+      "title": "The Modern Electronic Lab Notebook (ELN) - LabArchives",
+      "signals": []
+    }
+  ]
+}

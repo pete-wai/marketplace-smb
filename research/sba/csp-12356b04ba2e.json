@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-12356b04ba2e",
+  "providerName": "Keyfactor",
+  "retrievedAt": "2026-10-30T09:11:29.823Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "PD9UTGRAF852",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Keyfactor",
+      "status": "success",
+      "results": 8,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "KEYFACTOR INC",
+      "dba_name": "",
+      "uei": "PD9UTGRAF8S2",
+      "cage_code": "9BWE6",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "334111",
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "334111"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1776038400,
+      "website": "www.keyfactor.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

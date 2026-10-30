@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-94e58916161f",
+  "retrievedAt": "2026-10-30T09:11:39.639Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.microstrategy.com/",
+      "finalUrl": "https://software.strategy.com/",
+      "status": "success",
+      "sha256": "516ec0bdbafc6f71586eeec6fd001338dc57306cce6b610b3a406a70ae6a4e56",
+      "title": "Strategy Software | Mosaic Universal Semantic Layer for Governed AI",
+      "signals": []
+    }
+  ]
+}

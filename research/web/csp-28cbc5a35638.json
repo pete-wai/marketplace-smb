@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-28cbc5a35638",
+  "retrievedAt": "2026-10-30T09:11:31.531Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.juniper.net/us/en/products/mist-ai.html",
+      "finalUrl": "https://www.hpe.com/us/en/products/networking/marvis.html",
+      "status": "success",
+      "sha256": "263ee63a7f13b7c6df707548038e7e840eb765cf2c68d8ccfd6241a95fe74f13",
+      "title": "Marvis AI | HPE",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-101e21bef69a",
+  "providerName": "Splunk",
+  "retrievedAt": "2026-10-30T09:12:59.375Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Splunk",
+      "status": "success",
+      "results": 149,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

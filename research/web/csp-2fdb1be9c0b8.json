@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2fdb1be9c0b8",
+  "retrievedAt": "2026-10-30T09:11:38.958Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cgc.cloud/",
+      "finalUrl": "https://cgc.cloud/",
+      "status": "success",
+      "sha256": "5e08a53e43896d4d35184430385c714d52cf1dbab8d5c38ec5b0ee899f2e82b9",
+      "title": "CGC",
+      "signals": []
+    }
+  ]
+}

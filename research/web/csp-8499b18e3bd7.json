@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8499b18e3bd7",
+  "retrievedAt": "2026-10-30T09:15:01.444Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://acalvio.com",
+      "finalUrl": "https://www.acalvio.com/",
+      "status": "success",
+      "sha256": "78953da4d1d76b39658663a65542eaf603b06ea7bcc3596c841894ec24325fed",
+      "title": "Acalvio | Cyber Deception Technology for Preemptive Cybersecurity",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5529594bb5d3",
+  "retrievedAt": "2026-10-30T09:12:03.010Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.talkdesk.com/call-center-solutions/government-education/government/",
+      "finalUrl": "https://www.talkdesk.com/call-center-solutions/government-education/government/",
+      "status": "success",
+      "sha256": "6a3a1a88acef8cda4969f684ebcecca0b816b827400124fcc4099cf2f08dfacb",
+      "title": "Government Contact Center Solutions | Talkdesk CX Cloud Government Edition",
+      "signals": []
+    }
+  ]
+}

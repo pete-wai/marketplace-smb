@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-846774e6abd6",
+  "retrievedAt": "2026-10-30T09:12:06.770Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tylertech.com/solutions/transformative-technology/data-insights",
+      "finalUrl": "https://www.tylertech.com/solutions/transformative-technology/data-insights",
+      "status": "success",
+      "sha256": "4c4da01053547c0299de72360d4da12568e873bd151003be9c24e4841ed56924",
+      "title": "\r\n\tData & Insights | Transformative Technology | Tyler Technologies\r\n",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ment Contract Procurement Vehicles Small Business Program Technology Partners Tyler Platform Alliance PRODUCT NAME "
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "uine care for being more than just a technology company. Corporate Responsibility Leadership Team Board of Director"
+        }
+      ]
+    }
+  ]
+}

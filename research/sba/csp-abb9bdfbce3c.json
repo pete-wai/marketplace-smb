@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-abb9bdfbce3c",
+  "providerName": "TransUnion LLC",
+  "retrievedAt": "2026-10-30T09:13:27.684Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "F6FDTGCVN3U4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "TransUnion",
+      "status": "success",
+      "results": 1422,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

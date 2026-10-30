@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2940d111d514",
+  "retrievedAt": "2026-10-30T09:11:39.829Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mimecast.com/products/incydr/federal-agencies/",
+      "finalUrl": "https://www.mimecast.com/products/mimecast-plans/",
+      "status": "success",
+      "sha256": "4ecedc7259df005ac30a1eab920d5e25ff1e1e6d9346f9a923a1c9fc71e9edc4",
+      "title": "Mimecast Plans | Mimecast",
+      "signals": []
+    }
+  ]
+}

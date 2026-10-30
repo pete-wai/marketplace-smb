@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-a7f5da6139a3",
+  "providerName": "SOFware LLC",
+  "retrievedAt": "2026-10-30T09:12:58.366Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LEBYGUQX4297",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SOFWARE LLC",
+      "dba_name": "",
+      "uei": "LEBYGUQX4297",
+      "cage_code": "6CXR7",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "334610",
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "541612",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "334610",
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "541612",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1779926400,
+      "website": "https://sofwarellc.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2023-10-06",
+          "exitDate": "2028-04-06",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-10-06",
+          "exitDate": "2028-04-06",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

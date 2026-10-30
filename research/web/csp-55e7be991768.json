@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-55e7be991768",
+  "retrievedAt": "2026-10-30T09:11:07.909Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.checkpoint.com",
+      "finalUrl": "https://www.checkpoint.com/",
+      "status": "success",
+      "sha256": "b61ffe47c955177452dc9b348f84a75681332cf1ccacd532c4cef581c1f4aabd",
+      "title": "Check Point Software: Leader in Cyber Security Solutions",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-51d161adc004",
+  "retrievedAt": "2026-10-30T09:11:11.073Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.thecomplianceaide.com/",
+      "finalUrl": "https://www.thecomplianceaide.com/",
+      "status": "success",
+      "sha256": "549f439a2daea68809c630518c93ceb41feb0e0d88baa07dfe73e211da11993f",
+      "title": "ComplianceAide | Agentic AI for Compliance Readiness",
+      "signals": []
+    }
+  ]
+}

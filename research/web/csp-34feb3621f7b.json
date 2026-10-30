@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-34feb3621f7b",
+  "retrievedAt": "2026-10-30T09:11:23.861Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.feith.com/",
+      "finalUrl": "https://www.feith.com/",
+      "status": "success",
+      "sha256": "e43406d5b26e941ec16bd5691a7600e273398ae6e847f050c0f8cb580603d9fc",
+      "title": "Audit-grade AI platform for federal records | Feith Systems",
+      "signals": []
+    }
+  ]
+}

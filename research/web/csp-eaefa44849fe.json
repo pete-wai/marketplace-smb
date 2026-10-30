@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-eaefa44849fe",
+  "retrievedAt": "2026-10-30T09:11:41.725Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://net-inspect.com",
+      "finalUrl": "https://www.net-inspect.com/",
+      "status": "success",
+      "sha256": "3529f82c337208d78941365a01ee7b322980ae7e6863e048c154275205cefc5f",
+      "title": "Supply Chain Management and Quality Management Software | Net-Inspect",
+      "signals": []
+    }
+  ]
+}

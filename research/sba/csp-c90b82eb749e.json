@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c90b82eb749e",
+  "providerName": "Envisage Technologies LLC",
+  "retrievedAt": "2026-10-30T09:10:24.797Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Envisage Technologies",
+      "status": "success",
+      "results": 10,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

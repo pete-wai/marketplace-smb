@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-febc7b0a7fac",
+  "retrievedAt": "2026-10-30T09:11:36.393Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://lucid.co/solutions/government",
+      "finalUrl": "https://lucid.co/solutions/government",
+      "status": "success",
+      "sha256": "bf379c293c40dabb263a0b1fc3c5f31520d96f0dd5577afeb8854864a0fe3b17",
+      "title": "Lucid for Public Sector Teams | Lucid",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8e7fefbeb15e",
+  "retrievedAt": "2026-10-30T09:11:23.276Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.exostar.com/",
+      "finalUrl": "https://www.exostar.com/",
+      "status": "success",
+      "sha256": "46b9d364210d2c060d753d2c97902f5b07fefa9762a04a143c93c6a170702c4d",
+      "title": "Secure &amp; Compliant Collaboration Platform | Exostar",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-cbc92cdc93f7",
+  "retrievedAt": "2026-10-30T09:11:15.406Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.databank.com/",
+      "finalUrl": "https://www.databank.com/",
+      "status": "success",
+      "sha256": "3cb49908aa887670832363099c461cb6c530e74125cb9dec539063d9eb52aa4f",
+      "title": "Data Center Solutions in More U.S. Metros",
+      "signals": []
+    }
+  ]
+}

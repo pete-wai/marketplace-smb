@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-448c4d22f5b1",
+  "retrievedAt": "2026-10-30T09:11:31.574Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.jupiterone.com",
+      "finalUrl": "https://www.jupiterone.com/",
+      "status": "success",
+      "sha256": "7a03700d24662842efb5c06fe2edc85e39dd2a4194230effdcbc7b8a4eb2fb1d",
+      "title": "JupiterOne | Surface the Risks That Actually Matter",
+      "signals": []
+    }
+  ]
+}

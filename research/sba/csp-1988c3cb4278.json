@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-1988c3cb4278",
+  "providerName": "International Vending Management, Inc.",
+  "retrievedAt": "2026-10-30T09:11:18.592Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "X7PFXJTGKKC4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "INTERNATIONAL VENDING MANAGEMENT INC",
+      "dba_name": "IVM",
+      "uei": "X7PFXJTGKKC4",
+      "cage_code": "3VPS7",
+      "naics_primary": "332999",
+      "naics_all_codes": [
+        "332439",
+        "332999",
+        "334111",
+        "337215",
+        "445132",
+        "518210",
+        "532490",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "332439",
+        "332999",
+        "334111",
+        "337215",
+        "445132",
+        "518210",
+        "532490",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1776297600,
+      "website": "https://www.ivminc.com",
+      "additional_website": "https://www.ivminc.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1991",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

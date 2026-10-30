@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f776b2e0418c",
+  "retrievedAt": "2026-10-30T09:11:09.576Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.clearview.ai/gov",
+      "finalUrl": "https://www.clearview.ai/gov",
+      "status": "success",
+      "sha256": "311c55a5a4ab7a285e14536f5122f0ac557174776d1d6c7e57f8deea4ff83d2c",
+      "title": "Gov | Clearview AI",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "hing mugshot photos (99.85% with a 12 million photo sample), VISA borders photos (99.86% with a 1.6 million photo s"
+        }
+      ]
+    }
+  ]
+}

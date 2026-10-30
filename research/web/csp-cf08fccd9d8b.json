@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-cf08fccd9d8b",
+  "retrievedAt": "2026-10-30T09:11:17.341Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.diligent.com/",
+      "finalUrl": "https://www.diligent.com/",
+      "status": "success",
+      "sha256": "6c67d7306cbda9fb1a35fcda22f14d3895d59445276cd028ecc45fd7415a077a",
+      "title": "The leading AI platform for GRC | Diligent",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "t Market Intelligence Entity &amp; Subsidiary Management Resources Blog Research &amp; Reports Podcasts Guides News"
+        }
+      ]
+    }
+  ]
+}

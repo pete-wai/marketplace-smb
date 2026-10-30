@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1d937a376e02",
+  "retrievedAt": "2026-10-30T09:11:53.492Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.regscale.com",
+      "finalUrl": "https://regscale.com/",
+      "status": "success",
+      "sha256": "98478ecc3b2a7c5399d6e8e0b53fc5c7e1f1a4e413bea4294854699a5a7342dc",
+      "title": "RegScale | Continuous Controls Monitoring Platform for Cyber Resilience",
+      "signals": []
+    }
+  ]
+}

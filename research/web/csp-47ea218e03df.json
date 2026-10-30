@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-47ea218e03df",
+  "retrievedAt": "2026-10-30T09:11:54.093Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://repariodata.com/",
+      "finalUrl": "https://repariodata.com/",
+      "status": "success",
+      "sha256": "780b7ff5a49373dc7659f47d1536502db912338f1f86bf6dd373e7c995f1ba9d",
+      "title": "Repario Data | Collaboration with Human Intelligence &amp; Technology",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-266cfc407ad7",
+  "providerName": "Avature Federal Platform",
+  "retrievedAt": "2026-10-30T09:09:26.420Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EGJ6E53XY2W7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Avature Federal Platform",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

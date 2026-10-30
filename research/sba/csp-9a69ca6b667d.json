@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9a69ca6b667d",
+  "providerName": "Tyler Federal, LLC",
+  "retrievedAt": "2026-10-30T09:13:30.491Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "M23WHK6U2RJ3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Tyler Federal,",
+      "status": "success",
+      "results": 164,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

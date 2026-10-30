@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-66a369c1c596",
+  "providerName": "Everbridge",
+  "retrievedAt": "2026-10-30T09:10:26.028Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Everbridge",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

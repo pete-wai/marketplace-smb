@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9b51eb20d167",
+  "retrievedAt": "2026-10-30T09:11:40.406Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://discover.motorolasolutions.com/fedramp-marketplace",
+      "finalUrl": "https://discover.motorolasolutions.com/fedramp-marketplace",
+      "status": "success",
+      "sha256": "438fc3b8ac3d1f75d8a2149dafd1ff7b50db875c1e0b50fb4fc149acbef15ed6",
+      "title": "FedRAMP Certified Cloud Solutions | Enhance Cyber Resilience | Motorola Solutions",
+      "signals": []
+    }
+  ]
+}

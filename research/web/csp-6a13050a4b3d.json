@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6a13050a4b3d",
+  "retrievedAt": "2026-10-30T09:11:31.764Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.juvare.com/",
+      "finalUrl": "https://www.juvare.com/",
+      "status": "success",
+      "sha256": "126a2a81bcd71cbb0df368507354f332abdf34247f383e0d43dfbe60f90b8312",
+      "title": "Juvare | Unified Critical Operations Management Software",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-462922cd73c6",
+  "retrievedAt": "2026-10-30T09:11:15.266Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dailypay.com/industries/public-sector/#public-sector-tabs",
+      "finalUrl": "https://www.dailypay.com/industries/public-sector/",
+      "status": "success",
+      "sha256": "8ae524b82c2a920cb861d10c6e742649b05f612fc0fd6f85f999a5026fc8893b",
+      "title": "Earned Wage Access for Public Sector Employees | DailyPay",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "rm Industry-leading On-Demand Pay. Small Business New On-Demand Pay for businesses under 500 employees. DailyPay Vi"
+        },
+        {
+          "kind": "size",
+          "excerpt": "On-Demand Pay for businesses under 500 employees. DailyPay Visa ® Prepaid Card Reach even more employees with On-De"
+        }
+      ]
+    }
+  ]
+}

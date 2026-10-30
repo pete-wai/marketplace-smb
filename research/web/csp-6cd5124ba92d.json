@@ -1,0 +1,25 @@
+{
+  "providerId": "csp-6cd5124ba92d",
+  "retrievedAt": "2026-10-30T09:10:53.005Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.accenture.com/us-en/afs-industry-index.aspx",
+      "status": "unavailable",
+      "reason": "HTTP 502"
+    },
+    {
+      "url": "https://www.accenture.com/us-en/industries/accenture-federal-services",
+      "finalUrl": "https://www.accenture.com/en-us/industries/accenture-federal-services?country=US",
+      "status": "success",
+      "sha256": "e0828fffa4018f846b9180b97a3846a0f131977b660e7a992b4a80e268ad1e0a",
+      "title": "Accenture Federal Services",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ncy-specific solutions. Learn more Small Business Partners We work with a wide range of small business partners to "
+        }
+      ]
+    }
+  ]
+}

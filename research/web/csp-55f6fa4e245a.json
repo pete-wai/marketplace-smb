@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-55f6fa4e245a",
+  "retrievedAt": "2026-10-30T09:11:57.507Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://mysecuritycontrol.com",
+      "finalUrl": "https://mysecuritycontrol.com/",
+      "status": "success",
+      "sha256": "4c59d848b6fee8c08105ab4126aedb5bd70384c047f919f5cad35e11c953f721",
+      "title": "Security Control",
+      "signals": []
+    }
+  ]
+}

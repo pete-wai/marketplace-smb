@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ac222d9ab9f3",
+  "retrievedAt": "2026-10-30T09:12:05.120Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.threadai.com",
+      "finalUrl": "https://www.threadai.com/",
+      "status": "success",
+      "sha256": "5f2049ab199b73c964167a3931e1e7720dfd4d5ea8c41595e3c6bfe93a1b4c92",
+      "title": "Enterprise AI Workflow Orchestration | Thread AI",
+      "signals": []
+    }
+  ]
+}

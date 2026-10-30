@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-e1c8073165fc",
+  "retrievedAt": "2026-10-30T09:12:08.418Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://vasion.com/",
+      "finalUrl": "https://vasion.com/",
+      "status": "success",
+      "sha256": "7f20b585e3b0e6d64e319b2f8008d29e191ec476ebce521dea2aaca28d1f7248",
+      "title": "Vasion is Intelligent Print Automation",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "st Management Advanced Security Beta Program Company chevron_right Company About Us Visit Us Events Careers Giving "
+        }
+      ]
+    }
+  ]
+}

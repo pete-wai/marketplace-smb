@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-7dd3555da0b9",
+  "providerName": "Evidence Prime",
+  "retrievedAt": "2026-10-30T09:10:26.965Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Evidence Prime",
+      "status": "success",
+      "results": 879,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

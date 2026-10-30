@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3908eaadb3d4",
+  "retrievedAt": "2026-10-30T09:10:58.261Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.asksage.ai",
+      "finalUrl": "https://www.asksage.ai/",
+      "status": "success",
+      "sha256": "03ef69f1bb094c7bf18c6bd63f06a6fbe8389561049b4ff0f077644b18763755",
+      "title": "Home - Ask Sage - Generative AI Platform",
+      "signals": []
+    }
+  ]
+}

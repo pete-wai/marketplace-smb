@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-069206e01527",
+  "retrievedAt": "2026-10-30T09:12:08.569Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://vbrick.com/",
+      "finalUrl": "https://vbrick.com/",
+      "status": "success",
+      "sha256": "aac214128d7523e02290e6cda21e17d16ba3eb83b61af4644a5e9d2fd046987f",
+      "title": "Vbrick | Enterprise Video Solutions",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-39918274b585",
+  "providerName": "Software AG Government Solutions",
+  "retrievedAt": "2026-10-30T09:12:53.632Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Software AG Government Solutions",
+      "status": "success",
+      "results": 15092,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

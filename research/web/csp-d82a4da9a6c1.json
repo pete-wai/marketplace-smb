@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d82a4da9a6c1",
+  "retrievedAt": "2026-10-30T09:11:49.061Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.phenom.com/government-public-sector",
+      "finalUrl": "https://www.phenom.com/industries/public-sector",
+      "status": "success",
+      "sha256": "e9606713a0c224ec33d107143e4e24f7e0f6a46e9151dfb9fa945a95cf987479",
+      "title": "Public Sector AI Recruiting and Talent Management | Phenom",
+      "signals": []
+    }
+  ]
+}

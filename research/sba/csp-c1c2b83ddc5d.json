@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c1c2b83ddc5d",
+  "providerName": "HackerOne",
+  "retrievedAt": "2026-10-30T09:10:54.694Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HackerOne",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

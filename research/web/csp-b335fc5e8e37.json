@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b335fc5e8e37",
+  "retrievedAt": "2026-10-30T09:12:06.860Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://uberether.com/iam-advantage/",
+      "finalUrl": "https://uberether.com/iam-advantage/",
+      "status": "success",
+      "sha256": "dc4d9cdf05e7947cba0a7358fa1f1fa9279a6f7b073d8c0ad70c1a8d292ca417",
+      "title": "IAM Advantage - UberEther",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ructure &#8211; Domestically owned small business focused entirely on Identity, Credential, and Access Management ("
+        }
+      ]
+    }
+  ]
+}

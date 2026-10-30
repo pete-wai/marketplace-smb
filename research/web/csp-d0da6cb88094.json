@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-d0da6cb88094",
+  "retrievedAt": "2026-10-30T09:11:04.169Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.helixops.ai/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

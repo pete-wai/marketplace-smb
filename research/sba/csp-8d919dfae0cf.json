@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-8d919dfae0cf",
+  "providerName": "LexisNexis Legal and Professional",
+  "retrievedAt": "2026-10-30T09:11:41.668Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LKAAJG8KK4U1",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "LexisNexis Legal and Professional",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

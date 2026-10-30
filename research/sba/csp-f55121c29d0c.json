@@ -1,0 +1,137 @@
+{
+  "providerId": "csp-f55121c29d0c",
+  "providerName": "Armada",
+  "retrievedAt": "2026-10-30T09:09:20.762Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Armada",
+      "status": "success",
+      "results": 63,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ARMADA SYSTEMS, INC.",
+      "dba_name": "",
+      "uei": "UWXDAXHYDNF5",
+      "cage_code": "9MG32",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210"
+      ],
+      "naics_small_codes": [
+        "518210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1775520000,
+      "website": "www.armada.ai",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2022",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    },
+    {
+      "legal_business_name": "ARMADA, LTD.",
+      "dba_name": "",
+      "uei": "WA9AY2GKXYG8",
+      "cage_code": "44N33",
+      "naics_primary": "541611",
+      "naics_all_codes": [
+        "334290",
+        "334512",
+        "541330",
+        "541380",
+        "541512",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541990",
+        "561110",
+        "561210",
+        "561320",
+        "561611",
+        "561612",
+        "561621",
+        "611430",
+        "611512",
+        "611519",
+        "611692",
+        "611699",
+        "611710",
+        "624230",
+        "624310",
+        "922190",
+        "928110",
+        "928120"
+      ],
+      "naics_small_codes": [
+        "334290",
+        "334512",
+        "541330",
+        "541380",
+        "541512",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541990",
+        "561210",
+        "561320",
+        "561611",
+        "561612",
+        "561621",
+        "611512",
+        "611519",
+        "611699",
+        "611710",
+        "624230"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791504000,
+      "website": "https://www.armadausa.com/",
+      "additional_website": "https://www.armadausa.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2005",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2023-05-01",
+          "exitDate": "2027-11-01",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-05-01",
+          "exitDate": "2027-11-01",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

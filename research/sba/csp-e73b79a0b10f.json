@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-e73b79a0b10f",
+  "providerName": "CISCO",
+  "retrievedAt": "2026-10-30T09:09:41.020Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CISCO",
+      "status": "success",
+      "results": 1087,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Cisco",
+      "status": "success",
+      "results": 1087,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

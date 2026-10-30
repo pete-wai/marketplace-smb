@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ee0467041651",
+  "retrievedAt": "2026-10-30T09:11:53.162Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://rectitude369.com/",
+      "finalUrl": "https://rectitude.com/",
+      "status": "success",
+      "sha256": "603a1da26fb9d7774607e8d4c4531c9963ea33b255ab28cb8a6cd58008d01a29",
+      "title": "Rectitude, LLC - Critical Networks. Reliably Engineered.",
+      "signals": []
+    }
+  ]
+}

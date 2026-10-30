@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-83d152812bf0",
+  "retrievedAt": "2026-10-30T09:11:06.599Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cellebritefsi.com/",
+      "finalUrl": "https://www.cellebritefsi.com/",
+      "status": "success",
+      "sha256": "1ca1218587f8ba00f5c0fb6432aab4fcf32ebab6f99fc34ffdce84fb3925232a",
+      "title": "Home - Cellebrite Federal Solutions",
+      "signals": []
+    }
+  ]
+}

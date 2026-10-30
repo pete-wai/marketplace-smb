@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-15601c50a458",
+  "retrievedAt": "2026-10-30T09:10:58.865Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.aurigo.com/masterworks-cloud-platform/",
+      "finalUrl": "https://www.aurigo.com/masterworks-cloud-platform/",
+      "status": "success",
+      "sha256": "e1e26793d592e38f0f4ab01571e90c6c92a566393952bb406eeb90174f1e0b7b",
+      "title": "Masterworks Cloud Platform - Aurigo Software Technologies",
+      "signals": []
+    }
+  ]
+}

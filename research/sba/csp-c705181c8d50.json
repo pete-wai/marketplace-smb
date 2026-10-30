@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c705181c8d50",
+  "providerName": "Aprimo US, LLC",
+  "retrievedAt": "2026-10-30T09:09:20.092Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Aprimo US,",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

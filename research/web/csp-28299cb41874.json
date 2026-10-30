@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-28299cb41874",
+  "retrievedAt": "2026-10-30T09:11:34.734Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.levelaccess.com/",
+      "finalUrl": "https://www.levelaccess.com/",
+      "status": "success",
+      "sha256": "13c8375d914861222785cffdc4f8bb6bb409354215bf3c69f056c267b5b60e4f",
+      "title": "End-to-End Digital Accessibility | Level Access",
+      "signals": []
+    }
+  ]
+}

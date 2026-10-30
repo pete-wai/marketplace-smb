@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c8b5580b9ce8",
+  "providerName": "Verkada Inc",
+  "retrievedAt": "2026-10-30T09:13:39.455Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "UFN8CLHC7NP3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Verkada",
+      "status": "success",
+      "results": 8,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1768c21fc468",
+  "providerName": "Trello",
+  "retrievedAt": "2026-10-30T09:14:59.323Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Trello",
+      "status": "success",
+      "results": 38,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

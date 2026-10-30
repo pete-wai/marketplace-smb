@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f5d0c7bc8a3c",
+  "retrievedAt": "2026-10-30T09:11:49.350Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pitneybowes.com/us",
+      "finalUrl": "https://www.pitneybowes.com/us",
+      "status": "success",
+      "sha256": "3797b54775c31d2626924eb7e4fd404ea722680380efa21bdffff5cf3b884370",
+      "title": "Pitney Bowes US | Shipping, Mailing, Financial Services",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "al Pharmacy Retail &amp; ecommerce Small business By use case Digital certified mail Order management Multicarrier "
+        }
+      ]
+    }
+  ]
+}

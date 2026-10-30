@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c55e61c1ecae",
+  "retrievedAt": "2026-10-30T09:11:29.099Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.infor.com/",
+      "finalUrl": "https://www.infor.com/",
+      "status": "success",
+      "sha256": "a5112f30a844ed7efa706d6127903df6d498c32bddcd8fae939401e0ffee946a",
+      "title": "Infor | Cloud Enterprise Software &amp; AI for Your Industry",
+      "signals": []
+    }
+  ]
+}

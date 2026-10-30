@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9bbe82f34ce4",
+  "providerName": "Emburse",
+  "retrievedAt": "2026-10-30T09:10:22.740Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LVF6SRG7MUY4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Emburse",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

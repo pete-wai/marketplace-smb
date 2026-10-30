@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-0d917a8164be",
+  "retrievedAt": "2026-10-30T09:11:51.776Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.qualtrics.com/",
+      "finalUrl": "https://www.qualtrics.com/",
+      "status": "success",
+      "sha256": "c43d9573c2006b28e292d8b73ff8bc7d7d6d7aa40b846f90579563a51669dc6a",
+      "title": "Qualtrics XM AI: The Future of Experience Management - Qualtrics",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": ". As the gap grows, customers leave, employees disengage, loyalty fades, and revenue walks out the door forever. XM"
+        }
+      ]
+    }
+  ]
+}

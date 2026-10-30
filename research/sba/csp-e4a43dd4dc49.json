@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-e4a43dd4dc49",
+  "providerName": "FM:Systems",
+  "retrievedAt": "2026-10-30T09:10:34.170Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CYC1K9AT5SZ1",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "FM:Systems",
+      "status": "success",
+      "results": 195,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "FM SYSTEMS, INC.",
+      "dba_name": "FM SYSTEMS INC",
+      "uei": "RQDZFNCHBVS9",
+      "cage_code": "0UYF6",
+      "naics_primary": "334220",
+      "naics_all_codes": [
+        "334220",
+        "334290",
+        "334310",
+        "334515",
+        "334519"
+      ],
+      "naics_small_codes": [
+        "334220",
+        "334290",
+        "334310",
+        "334515",
+        "334519"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1773014400,
+      "website": "HTTP://WWW.FMSYSTEMS-INC.COM",
+      "additional_website": "http://www.fmsystems-inc.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1979",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

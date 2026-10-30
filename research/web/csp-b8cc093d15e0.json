@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b8cc093d15e0",
+  "retrievedAt": "2026-10-30T09:11:52.673Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.rapid7.com/",
+      "finalUrl": "https://www.rapid7.com/",
+      "status": "success",
+      "sha256": "cc06d4e8eb8357f5d1f72b0b9163eb3a4953ec4421eac54b4c81273f8c0513af",
+      "title": "Rapid7 Managed Cybersecurity: Outpace Attackers",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "here your customers need it Become a partner Company Company About Us Leadership Team Our Customers Careers Contact"
+        }
+      ]
+    }
+  ]
+}

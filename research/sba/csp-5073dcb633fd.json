@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5073dcb633fd",
+  "providerName": "Synack",
+  "retrievedAt": "2026-10-30T09:13:01.158Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EDRWE6PRKL85",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Synack",
+      "status": "success",
+      "results": 337,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

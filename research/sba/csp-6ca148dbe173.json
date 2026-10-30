@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-6ca148dbe173",
+  "providerName": "Cora Systems",
+  "retrievedAt": "2026-10-30T09:14:48.902Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WASCVP1DMA45",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Cora Systems",
+      "status": "success",
+      "results": 14,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-04f893a1a754",
+  "retrievedAt": "2026-10-30T09:12:00.350Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://specset.com",
+      "finalUrl": "https://www.specset.com/",
+      "status": "success",
+      "sha256": "53070dd3072d2610d74420884bc51172861288a569ae9de244ffdd0e48fd44f2",
+      "title": "Specset: AI document control from design to operations",
+      "signals": []
+    }
+  ]
+}

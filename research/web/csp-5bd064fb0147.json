@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5bd064fb0147",
+  "retrievedAt": "2026-10-30T09:11:45.664Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ontic.co/industries/government/",
+      "finalUrl": "https://ontic.co/industries/government/",
+      "status": "success",
+      "sha256": "23c1c826091a14af799597f06d0c607775ec53a65521973d88d0cd87a7b5d25d",
+      "title": "Government Security Solution - Ontic",
+      "signals": []
+    }
+  ]
+}

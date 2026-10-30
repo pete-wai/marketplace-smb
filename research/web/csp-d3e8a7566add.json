@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d3e8a7566add",
+  "retrievedAt": "2026-10-30T09:11:25.393Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.geotab.com/",
+      "finalUrl": "https://www.geotab.com/",
+      "status": "success",
+      "sha256": "8120fb386aff7d18f020ab2821728b1abeee838ce7af805ed0972045a1939339",
+      "title": "One Platform - Total Fleet Management | Geotab",
+      "signals": []
+    }
+  ]
+}

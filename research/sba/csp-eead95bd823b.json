@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-eead95bd823b",
+  "providerName": "Pepelwerk LLC",
+  "retrievedAt": "2026-10-30T09:12:15.247Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Pepelwerk",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "PEPELWERK LLC",
+      "dba_name": "",
+      "uei": "HDSMFJN1GLE5",
+      "cage_code": "8C4V1",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "561311",
+        "611430",
+        "611513",
+        "624310"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "561311",
+        "611430",
+        "611513",
+        "624310"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1780444800,
+      "website": "https://www.pepelwerk.com/",
+      "additional_website": "https://www.pepelwerk.com/",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2018",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

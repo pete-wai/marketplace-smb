@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-537c700f6e61",
+  "providerName": "IT-CNP",
+  "retrievedAt": "2026-10-30T09:11:21.028Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "IT-CNP",
+      "status": "success",
+      "results": 17763,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "IT-CNP INC",
+      "dba_name": "",
+      "uei": "Z2C2EMHA2KG7",
+      "cage_code": "1XVF0",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "334111",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541690",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541690",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1767225600,
+      "website": "http://WWW.IT-CNP.COM",
+      "additional_website": "http://it-cnp.com/contract-vehicles",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

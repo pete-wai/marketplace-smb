@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-0b7504771bb1",
+  "providerName": "NextgenID, Inc.",
+  "retrievedAt": "2026-10-30T09:12:04.698Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MG92A8AJK343",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "NEXTGENID INC",
+      "dba_name": "",
+      "uei": "MG92A8AJK343",
+      "cage_code": "1XTG3",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "334111",
+        "532420",
+        "541511",
+        "541513",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "532420",
+        "541511",
+        "541513",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1782777600,
+      "website": "www.nextgenid.com",
+      "additional_website": "http://www.nextgenid.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2005",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

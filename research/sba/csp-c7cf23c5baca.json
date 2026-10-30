@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c7cf23c5baca",
+  "providerName": "Bonterra",
+  "retrievedAt": "2026-10-30T09:14:45.279Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CCKSCMKJDAH5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Bonterra",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

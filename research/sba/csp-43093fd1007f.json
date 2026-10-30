@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-43093fd1007f",
+  "providerName": "NavigatorCRE",
+  "retrievedAt": "2026-10-30T09:11:58.272Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "YT26Z67BZZA4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "NavigatorCRE",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8f8b3a1e7b48",
+  "retrievedAt": "2026-10-30T09:15:02.889Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.infotekconsulting.net/fedramp-hosting/",
+      "finalUrl": "https://www.infotekconsulting.net/fedramp-hosting/",
+      "status": "success",
+      "sha256": "d1e49221cc8098d0c7d0a2432c333e137d32ac7e5b955b10fc6a463766cd4792",
+      "title": "FedRAMP Hosting | Infotek Consulting",
+      "signals": []
+    }
+  ]
+}

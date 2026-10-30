@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-3afbd5577a87",
+  "providerName": "PDQ",
+  "retrievedAt": "2026-10-30T09:12:13.569Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ULKXVE4KBJ13",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "PDQ",
+      "status": "success",
+      "results": 31,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "PDQ, INC",
+      "dba_name": "",
+      "uei": "G8CKXK8MSQE8",
+      "cage_code": "3G2E0",
+      "naics_primary": "332710",
+      "naics_all_codes": [
+        "332710",
+        "332721",
+        "332722",
+        "332999",
+        "333517",
+        "334511",
+        "336992"
+      ],
+      "naics_small_codes": [
+        "332710",
+        "332721",
+        "332722",
+        "332999",
+        "333517",
+        "334511",
+        "336992"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1762992000,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1989",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

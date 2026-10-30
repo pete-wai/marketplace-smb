@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-5d15b133d376",
+  "retrievedAt": "2026-10-30T09:11:43.038Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.nintex.com/",
+      "finalUrl": "https://www.nintex.com/",
+      "status": "success",
+      "sha256": "471d85fa8347eabaf473cf3da036f62ff4512e8dfb65488278cc05ca2b9f3400",
+      "title": "Process Management &amp; Workflow Automation Software | Nintex",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ganization. Verified Reviewer | 51-200 employees Easy to use Workflow Automation Software for SharePoint We use Nin"
+        }
+      ]
+    }
+  ]
+}

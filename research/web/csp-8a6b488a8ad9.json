@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-8a6b488a8ad9",
+  "retrievedAt": "2026-10-30T09:11:40.766Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mural.co/",
+      "finalUrl": "https://www.mural.co/",
+      "status": "success",
+      "sha256": "64cdd0b566b4cd9db4088bc5c9effa3228108b8129ada656f82adab3a4ab43ac",
+      "title": "AI-powered visual workspace for team collaboration | Mural",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "A Institute, LLC is a wholly-owned subsidiary of Tactivos, Inc. d/b/a Mural. The Mural name and logo are trademarks"
+        }
+      ]
+    }
+  ]
+}

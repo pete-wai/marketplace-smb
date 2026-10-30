@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9d96d9d5b1ad",
+  "providerName": "GitLab",
+  "retrievedAt": "2026-10-30T09:10:42.634Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "N2E6J5DFLSP3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "GitLab",
+      "status": "success",
+      "results": 40,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

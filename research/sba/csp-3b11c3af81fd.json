@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-3b11c3af81fd",
+  "providerName": "Articulate Global LLC",
+  "retrievedAt": "2026-10-30T09:09:21.974Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "J8VML9HY5GN4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Articulate Global",
+      "status": "success",
+      "results": 136,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

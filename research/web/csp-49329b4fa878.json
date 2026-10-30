@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-49329b4fa878",
+  "retrievedAt": "2026-10-30T09:10:56.114Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://amplifire.com/",
+      "finalUrl": "https://amplifire.com/",
+      "status": "success",
+      "sha256": "1fe2eab75f37a393d6551d7919885b807069c15be36cc4633c220ad20dd34561",
+      "title": "AI Learning Platform Built on Brain Science | Amplifire",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-8f1486a2e479",
+  "retrievedAt": "2026-10-30T09:10:53.502Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.actsoft.com/government-demo/",
+      "finalUrl": "https://www.actsoft.com/government-capabilities-meeting/",
+      "status": "success",
+      "sha256": "843061ad2af2ffea475a73caa670665a17d33f77ffa16dc63df415b64f1a24fd",
+      "title": "Government Customized Demo",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Intra-Company Messaging Soundbite A plumbing company&#8217;s customers were frustrated when provided four to six h"
+        },
+        {
+          "kind": "size",
+          "excerpt": "sing our Mobile Timekeeping feature, employees clocked in and out and recorded breaks/lunches on their mobile devic"
+        }
+      ]
+    }
+  ]
+}

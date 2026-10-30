@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-531a1cfd2cf5",
+  "retrievedAt": "2026-10-30T09:11:02.181Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.bentley.com",
+      "finalUrl": "https://www.bentley.com/",
+      "status": "success",
+      "sha256": "0b5977d20ded8b3908feff3595acde31877158a08285d86e0cbdc13b7db5e300",
+      "title": "Bentley Systems | Infrastructure Engineering Software",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "edback program Venture Fund Become a partner Company info About us Contact us Investors (opens in new tab) Careers "
+        }
+      ]
+    }
+  ]
+}

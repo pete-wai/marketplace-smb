@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-3b83d5c31807",
+  "retrievedAt": "2026-10-30T09:11:15.809Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://datavant.com/",
+      "finalUrl": "https://www.datavant.com/",
+      "status": "success",
+      "sha256": "bdc23ccf188b7cd15f89a2c263ee128396f2fd80a4613877d37f0397d5ccf511",
+      "title": "Datavant | The Data Collaboration Platform Trusted for Healthcare",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "sights. Datavant enables more than 60 million healthcare records to move between thousands of organizations across "
+        }
+      ]
+    }
+  ]
+}

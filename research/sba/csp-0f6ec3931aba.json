@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-0f6ec3931aba",
+  "providerName": "Leadership Connect, Inc.",
+  "retrievedAt": "2026-10-30T09:11:33.083Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "YMUDLKMEEC65",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "LEADERSHIP CONNECT, INC.",
+      "dba_name": "",
+      "uei": "YMUDLKMEEC65",
+      "cage_code": "0F8R5",
+      "naics_primary": "519290",
+      "naics_all_codes": [
+        "519290"
+      ],
+      "naics_small_codes": [
+        "519290"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1776902400,
+      "website": "http://www.leadershipconnect.io",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1969",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

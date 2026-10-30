@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2dc010636b9d",
+  "retrievedAt": "2026-10-30T09:11:15.477Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.databricks.com/solutions/industries/federal-government",
+      "finalUrl": "https://www.databricks.com/solutions/industries/federal-government",
+      "status": "success",
+      "sha256": "cca0cdbf1c8a7e2f46f8721a86e2e6208455928f06f67b2fc31878bdde0736e1",
+      "title": "Data and AI Driven solutions for Federal Government | Databricks",
+      "signals": []
+    }
+  ]
+}

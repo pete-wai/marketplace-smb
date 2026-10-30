@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f84bd0f20382",
+  "retrievedAt": "2026-10-30T09:10:57.279Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.archive360.com/",
+      "finalUrl": "https://www.archive360.com/",
+      "status": "success",
+      "sha256": "3b6a12476e8d233103d65635bc634b2e61fde0dec9cf495fa50a80259bf41298",
+      "title": "Archive360.",
+      "signals": []
+    }
+  ]
+}

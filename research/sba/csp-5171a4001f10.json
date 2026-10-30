@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5171a4001f10",
+  "providerName": "86Borders LLC",
+  "retrievedAt": "2026-10-30T09:08:47.634Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "86Borders",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

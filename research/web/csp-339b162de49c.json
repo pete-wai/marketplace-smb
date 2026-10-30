@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-339b162de49c",
+  "retrievedAt": "2026-10-30T09:11:13.239Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://corelight.com/ ",
+      "finalUrl": "https://corelight.com/",
+      "status": "success",
+      "sha256": "a04b8ddf2661855d8f7ba67079dac49ef32d139f9f50e0aa1a70da1185a76dca",
+      "title": "Corelight | Evidence-Based NDR &amp; Threat Hunting Platform",
+      "signals": []
+    }
+  ]
+}

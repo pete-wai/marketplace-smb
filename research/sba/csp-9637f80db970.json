@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9637f80db970",
+  "providerName": "LMI Solutions",
+  "retrievedAt": "2026-10-30T09:11:42.910Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LMI Solutions",
+      "status": "success",
+      "results": 23,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

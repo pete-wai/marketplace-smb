@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-60a539de7bb0",
+  "retrievedAt": "2026-10-30T09:11:31.180Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ivanti.com/",
+      "finalUrl": "https://www.ivanti.com/",
+      "status": "success",
+      "sha256": "bdb64abeed8edd942a742c4484128be1d1fce599284bc32b1c41dc004986d5db",
+      "title": "Ivanti | Data Authority. Governed Autonomy. Proactive IT.",
+      "signals": []
+    }
+  ]
+}

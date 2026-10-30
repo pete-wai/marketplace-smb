@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-6efd03c45b42",
+  "retrievedAt": "2026-10-30T09:12:01.298Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sprinklr.com/",
+      "finalUrl": "https://www.sprinklr.com/",
+      "status": "success",
+      "sha256": "f42822c117bce43f0ba3e04f756ca8db91e03df54dc04101d3a48168d84b9b80",
+      "title": "Sprinklr: The Definitive AI-Native Customer Experience Platform",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "from them daily, and that makes 3M a better company.&quot; Kirsten Salmanowicz Sr. Manager, Global Media Tech &amp;"
+        },
+        {
+          "kind": "size",
+          "excerpt": "r real results. Microsoft analyzed 8.6 billion mentions and turned them into actionable VoC insights &quot;We can s"
+        }
+      ]
+    }
+  ]
+}

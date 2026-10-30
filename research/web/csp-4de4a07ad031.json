@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-4de4a07ad031",
+  "retrievedAt": "2026-10-30T09:10:57.919Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://asana.com/product/asana-gov",
+      "finalUrl": "https://asana.com/product/asana-gov",
+      "status": "success",
+      "sha256": "967ba28b8ce3098ad8cf51c040c0dd61b33630c0908096a7a1e8c2c09a67b87f",
+      "title": "Asana Gov FedRAMP Platform for Government IT  • Asana • Asana",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "re release Company Type Enterprise Small business Nonprofit Agencies Teams Operations Marketing IT Leaders Industri"
+        }
+      ]
+    }
+  ]
+}

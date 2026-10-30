@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1ce86bd34924",
+  "retrievedAt": "2026-10-30T09:11:09.323Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://clarivate.com/",
+      "finalUrl": "https://clarivate.com/",
+      "status": "success",
+      "sha256": "4a504030b84d94c84a9f76126f8e0c7fc17cff67725bb572913b499fae04ddc4",
+      "title": "\n            Clarivate - Leading Global Transformative Intelligence        ",
+      "signals": []
+    }
+  ]
+}

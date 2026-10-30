@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-b335fc5e8e37",
+  "providerName": "UberEther",
+  "retrievedAt": "2026-10-30T09:13:31.135Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TBQ8EKVY9CG4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "UBERETHER, INC.",
+      "dba_name": "UBERETHER INC",
+      "uei": "TBQ8EKVY9CG4",
+      "cage_code": "6JW51",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541690",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541690",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1769644800,
+      "website": "http://uberether.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

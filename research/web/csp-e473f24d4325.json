@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-e473f24d4325",
+  "retrievedAt": "2026-10-30T09:12:11.451Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.zendesk.com/",
+      "finalUrl": "https://www.zendesk.com/",
+      "status": "success",
+      "sha256": "91386b90f11e0c7c12d6b927f5e667984bb1f43730a323f594f7e4b2caee656a",
+      "title": "AI-Powered Customer Service Platform | Zendesk",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "Zendesk for Enterprise Zendesk for Small Business Zendesk for Startups Features AI agents Specialized AI agents Cop"
+        }
+      ]
+    }
+  ]
+}

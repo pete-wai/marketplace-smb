@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-2955da5eadb6",
+  "retrievedAt": "2026-10-30T09:10:57.521Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.armedia.com",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

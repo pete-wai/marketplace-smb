@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-a79f352c4b77",
+  "retrievedAt": "2026-10-30T09:11:41.911Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.netcomm.net/",
+      "finalUrl": "https://www.netcomm.net/",
+      "status": "success",
+      "sha256": "04dd78b5619499b755badc08e7547c416f6950dab03731a45302888603a36b3d",
+      "title": "Welcome to NetComm, Inc. | Beacon Application Platform",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "tComm became the first Women-Owned Small Business (WOSB) to achieve FedRAMP Compliant certification with a HHS/ NIH"
+        }
+      ]
+    }
+  ]
+}

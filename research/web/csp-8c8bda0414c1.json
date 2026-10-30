@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-8c8bda0414c1",
+  "retrievedAt": "2026-10-30T09:11:57.711Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sentilink.com/",
+      "finalUrl": "https://www.sentilink.com/",
+      "status": "success",
+      "sha256": "9eac4899d560dfca1dc68df83b6cf230aabc58ab176d27387c0c3c7f9e046cce",
+      "title": "SentiLink: The fraud experts",
+      "signals": []
+    }
+  ]
+}

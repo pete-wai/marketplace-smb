@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-b7b27ea467e4",
+  "retrievedAt": "2026-10-30T09:15:04.858Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.versa-networks.com",
+      "finalUrl": "https://versa-networks.com/",
+      "status": "success",
+      "sha256": "1a02c2b6a58911c92c5ca875be16391a46546e11998d4244efbe0fcacb0e73a9",
+      "title": "Secure Access Service Edge (SASE) vendor | Versa Networks",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Implementation Guides Company Versa Central Company Overview Leadership Team Our Investors Awards Contact Us Versa"
+        },
+        {
+          "kind": "size",
+          "excerpt": "30 countries, supporting more than 10,000 employees, the company has transformed its WAN infrastructure and totally"
+        }
+      ]
+    }
+  ]
+}

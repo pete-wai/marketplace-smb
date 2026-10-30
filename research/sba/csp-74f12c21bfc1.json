@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-74f12c21bfc1",
+  "providerName": "Deltek - Replicon",
+  "retrievedAt": "2026-10-30T09:10:04.078Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Deltek - Replicon",
+      "status": "success",
+      "results": 32,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

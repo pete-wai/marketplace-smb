@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9e15f7a83b31",
+  "retrievedAt": "2026-10-30T09:11:48.756Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://go.perceptyx.com/platform/people-insights-platform",
+      "finalUrl": "https://go.perceptyx.com/platform",
+      "status": "success",
+      "sha256": "3743d9a4deb9083f8855de7a1c4515c0660675358da070203f6e207e616848fa",
+      "title": "People Activation System | Close the Gap Between Knowing and Doing",
+      "signals": []
+    }
+  ]
+}

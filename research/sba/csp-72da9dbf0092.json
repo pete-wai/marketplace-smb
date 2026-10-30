@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-72da9dbf0092",
+  "providerName": "Aruba Networks",
+  "retrievedAt": "2026-10-30T09:09:22.382Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Aruba Networks",
+      "status": "success",
+      "results": 99,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

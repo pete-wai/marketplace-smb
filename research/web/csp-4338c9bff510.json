@@ -1,0 +1,28 @@
+{
+  "providerId": "csp-4338c9bff510",
+  "retrievedAt": "2026-10-30T09:11:43.151Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.noblis.org",
+      "finalUrl": "https://noblis.org/",
+      "status": "success",
+      "sha256": "7b6d987bc7f037fe68f5adf8d549695d454cda31c196af41e07eef2b066cce47",
+      "title": "For the Best of Reasons | Noblis",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ces Work With Us Contract Vehicles Small Business University Programs Ventures search Locations Contact Us Careers "
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "e $20 Million Navy Contract Noblis subsidiary, Noblis MSD, and TDI Technologies have formed Defense Technical Solut"
+        },
+        {
+          "kind": "size",
+          "excerpt": ". Learn More News Noblis MSD Wins $151 Million in U.S. Navy Contracts to Support Warship Modernization Noblis MSD h"
+        }
+      ]
+    }
+  ]
+}

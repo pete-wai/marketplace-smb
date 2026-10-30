@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-8def3bf5d78a",
+  "retrievedAt": "2026-10-30T09:11:38.581Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.melissa.com/govcloud-address-suite",
+      "finalUrl": "https://www.melissa.com/govcloud-address-suite",
+      "status": "success",
+      "sha256": "99179f0cdea6d5569a2394460e3223efd60cfb1ccbcdedc04b0968a10bd74828",
+      "title": "Govcloud Address(TM) Suite By Melissa",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "Verify &amp; Append Access data on 2.1 billion consumer records. Business Verify &amp; Append Get firmographic data"
+        }
+      ]
+    }
+  ]
+}

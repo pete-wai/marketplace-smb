@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-4de4a07ad031",
+  "providerName": "Asana Inc.",
+  "retrievedAt": "2026-10-30T09:09:22.605Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "F2BAHEMPW8R4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Asana .",
+      "status": "success",
+      "results": 69,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

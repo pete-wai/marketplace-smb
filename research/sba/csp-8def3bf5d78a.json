@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-8def3bf5d78a",
+  "providerName": "Melissa",
+  "retrievedAt": "2026-10-30T09:11:50.827Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SEE8CF1DJHA4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MELISSA DATA CORPORATION",
+      "dba_name": "MELISSA",
+      "uei": "SEE8CF1DJHA4",
+      "cage_code": "36BE4",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "513140",
+        "513210",
+        "518210",
+        "541511"
+      ],
+      "naics_small_codes": [
+        "513140"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1767052800,
+      "website": "http://www.melissa.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1985",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

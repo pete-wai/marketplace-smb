@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9fbf261b62c1",
+  "providerName": "Microsoft",
+  "retrievedAt": "2026-10-30T09:11:51.667Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Microsoft",
+      "status": "success",
+      "results": 2194,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

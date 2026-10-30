@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-434483c9664f",
+  "retrievedAt": "2026-10-30T09:11:57.606Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.securityscorecard.com",
+      "finalUrl": "https://securityscorecard.com/",
+      "status": "success",
+      "sha256": "eb3c2e85e745b9fb26d22285c80805fa3db30458487ab3544e401af4cf4db1f4",
+      "title": "SecurityScorecard | Supply Chain &amp; Third-Party Risk Platform",
+      "signals": []
+    }
+  ]
+}

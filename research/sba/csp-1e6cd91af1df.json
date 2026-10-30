@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1e6cd91af1df",
+  "providerName": "Elastic Cloud Hosted",
+  "retrievedAt": "2026-10-30T09:10:21.733Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Elastic Cloud Hosted",
+      "status": "success",
+      "results": 88,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

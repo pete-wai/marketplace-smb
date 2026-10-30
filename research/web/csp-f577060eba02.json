@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f577060eba02",
+  "retrievedAt": "2026-10-30T09:11:24.900Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.fulcrumpro.com",
+      "finalUrl": "https://fulcrumpro.com/",
+      "status": "success",
+      "sha256": "10bc3d3c52099082fd5269f6fdd1380ff46c847982b52b1a6346d790553160e8",
+      "title": "Fulcrum | Cloud Manufacturing Software",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-be1e7d8f5a99",
+  "retrievedAt": "2026-10-30T09:11:02.319Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.bizagi.com/",
+      "finalUrl": "https://www.bizagi.com/en",
+      "status": "success",
+      "sha256": "8e8c220e1de5df8d5be3eba0106f710019f7bdcbb9419d69ac614766561f5244",
+      "title": "Business Orchestration for AI Impact | Bizagi",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "strates the enterprise with Bizagi 5 million cases processed per year Read the full story Read the IDC Study: The B"
+        }
+      ]
+    }
+  ]
+}

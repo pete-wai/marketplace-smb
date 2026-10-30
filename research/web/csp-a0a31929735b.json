@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a0a31929735b",
+  "retrievedAt": "2026-10-30T09:11:25.512Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.getwellnetwork.com/",
+      "finalUrl": "https://www.getwellnetwork.com/",
+      "status": "success",
+      "sha256": "384a4cabc7d187c859bad610a6f6cebc4deed8fdf8f732aa0f45b5478cb1dbe3",
+      "title": "Get Well | GW RhythmX Digital Patient Engagement Platform",
+      "signals": []
+    }
+  ]
+}

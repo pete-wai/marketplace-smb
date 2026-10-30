@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-fa5346597b66",
+  "providerName": "Casepoint LLC",
+  "retrievedAt": "2026-10-30T09:09:34.972Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NNBKLLXPY4L6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Casepoint",
+      "status": "success",
+      "results": 34,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

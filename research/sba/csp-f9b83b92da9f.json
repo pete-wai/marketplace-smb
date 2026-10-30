@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-f9b83b92da9f",
+  "providerName": "Flock Safety",
+  "retrievedAt": "2026-10-30T09:10:33.970Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Flock Safety",
+      "status": "success",
+      "results": 26,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

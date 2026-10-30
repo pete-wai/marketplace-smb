@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-fbd6dde46a2d",
+  "retrievedAt": "2026-10-30T09:15:01.457Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://research.data-commons.org/",
+      "finalUrl": "https://research.data-commons.org/",
+      "status": "success",
+      "sha256": "ae0d4223b761a0e18923dd58e191b4f329bc9524e220cc8a290f564d394c5d26",
+      "title": null,
+      "signals": []
+    }
+  ]
+}

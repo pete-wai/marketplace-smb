@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-b5738c169b69",
+  "providerName": "ServiceNow",
+  "retrievedAt": "2026-10-30T09:12:48.197Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ServiceNow",
+      "status": "success",
+      "results": 354,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-f85266e98d4b",
+  "retrievedAt": "2026-10-30T09:12:01.533Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.stackarmor.com/solutions/clarity",
+      "finalUrl": "https://stackarmor.com/solutions/clarity/",
+      "status": "success",
+      "sha256": "9f3d59eddd5bd49f0a31dafa44cc4571c99a1db71239d4972f6354869823d8f4",
+      "title": "Clarity host by stackArmor &#8211; FedRAMP Moderate | Strategic Portfolio Management by Stack Armor",
+      "signals": []
+    }
+  ]
+}

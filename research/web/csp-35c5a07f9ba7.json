@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-35c5a07f9ba7",
+  "retrievedAt": "2026-10-30T09:11:05.806Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.butterflynetwork.com/",
+      "finalUrl": "https://www.butterflynetwork.com/",
+      "status": "success",
+      "sha256": "d993969a7831e1fa58a4705a5ace943db3ebe82ec9d7bdea1edbfbd6a1bf7a06",
+      "title": "The clear answer in point-of-care ultrasound | Butterfly iQ3",
+      "signals": []
+    }
+  ]
+}

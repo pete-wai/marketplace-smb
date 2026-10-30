@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-a753983b5b6c",
+  "providerName": "Sixtyfourai",
+  "retrievedAt": "2026-10-30T09:12:51.457Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Sixtyfourai",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

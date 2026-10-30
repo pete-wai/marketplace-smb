@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-e0f5c2c60fac",
+  "providerName": "Silkline, Inc.",
+  "retrievedAt": "2026-10-30T09:12:50.328Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TSMASM53QHE4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Silkline, .",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-39e12b3371c2",
+  "providerName": "Document Storage Systems, Inc. (DSS, Inc.)",
+  "retrievedAt": "2026-10-30T09:10:11.935Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "EJL2XFJ1BZJ1",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Document Storage Systems, . (DSS, .)",
+      "status": "success",
+      "results": 3189,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

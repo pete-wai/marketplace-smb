@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-81b69e1ce336",
+  "retrievedAt": "2026-10-30T09:11:34.147Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://lcptracker.com",
+      "finalUrl": "https://lcptracker.com/",
+      "status": "success",
+      "sha256": "a9fd50227f5d1a23c04118097506eb165af9e974458b1463a80c3d18743e780f",
+      "title": "Certified Payroll &amp; Prevailing Wage Software | LCPtracker",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "labor compliance efforts for over $550 billion in projects for clients across the U.S. Its growth is driven by a st"
+        }
+      ]
+    }
+  ]
+}

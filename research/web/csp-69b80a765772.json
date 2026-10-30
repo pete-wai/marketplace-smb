@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-69b80a765772",
+  "retrievedAt": "2026-10-30T09:11:37.637Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.mastercontrol.com/qxgov ",
+      "finalUrl": "https://www.mastercontrol.com/quality/fedramp-authorized-quality-management-software/",
+      "status": "success",
+      "sha256": "0f896c7a08fba091e5206cf0874b75e3fd57a3ba044e2c8bc6ca27b6116a45d0",
+      "title": "\r\n\tMasterControl Quality Excellence Gov FedRamp Approved QMS for Government&#160;\r\n",
+      "signals": []
+    }
+  ]
+}

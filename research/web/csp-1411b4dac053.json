@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1411b4dac053",
+  "retrievedAt": "2026-10-30T09:10:52.900Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.absolute.com/",
+      "finalUrl": "https://www.absolute.com/",
+      "status": "success",
+      "sha256": "b38c56ab3e769f309448e7805cd579274699b5b6137d9fa8f29e318900775d6e",
+      "title": "Stop Downtime &amp; Business Disruption | Absolute Security",
+      "signals": []
+    }
+  ]
+}

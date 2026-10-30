@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c89b9174c0f0",
+  "providerName": "Citrix Systems, Inc.",
+  "retrievedAt": "2026-10-30T09:09:44.195Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LGZ7VZW7G724",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Citrix Systems, .",
+      "status": "success",
+      "results": 122,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

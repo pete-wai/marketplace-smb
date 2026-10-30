@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-fb41be4dda7b",
+  "retrievedAt": "2026-10-30T09:11:13.860Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.knoxsystems.com/",
+      "finalUrl": "https://knoxsystems.com/",
+      "status": "success",
+      "sha256": "b55c338352ed0a92c7960e48d8f456145ce32e9cbd62308f2d28ca6234d30ba0",
+      "title": "Knox Systems | FedRAMP in 90 Days for 90% Less",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": " Vulnerabilities patched each week 16 Million Determinate Nix installs &gt;1.5 Billion Monthly FlakeHub Cache reque"
+        }
+      ]
+    }
+  ]
+}

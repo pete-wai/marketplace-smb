@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-1e6cd91af1df",
+  "retrievedAt": "2026-10-30T09:11:20.083Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://elastic.co",
+      "finalUrl": "https://www.elastic.co/",
+      "status": "success",
+      "sha256": "af067a1b22945b9983fbad10f59fb59352d00f333096005e079f81b0ee9a9721",
+      "title": "Elastic: The search database for AI | Search, AI agents, Observability, and Security | Elastic",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "lastic What is Elastic? Elastic is a technology company. Elastic builds the Elastic Stack — a suite of products tha"
+        },
+        {
+          "kind": "size",
+          "excerpt": " found 34% faster investigations, $1 million in projected savings with automated triage Queries up to 30x faster th"
+        }
+      ]
+    }
+  ]
+}

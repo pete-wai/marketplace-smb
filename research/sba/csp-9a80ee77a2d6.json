@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9a80ee77a2d6",
+  "providerName": "PDRI by Pearson",
+  "retrievedAt": "2026-10-30T09:12:13.943Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KGZ7ELR8QJM6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "PDRI by Pearson",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

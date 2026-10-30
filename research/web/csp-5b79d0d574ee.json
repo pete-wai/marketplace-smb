@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5b79d0d574ee",
+  "retrievedAt": "2026-10-30T09:11:23.868Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.figma.com",
+      "finalUrl": "https://www.figma.com/",
+      "status": "success",
+      "sha256": "64aa92358dfdb88be84271eb11de9814d86f194f8b7fd2af112d56f873928ff7",
+      "title": "Figma: The collaborative canvas for design, code, and AI",
+      "signals": []
+    }
+  ]
+}

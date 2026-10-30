@@ -1,0 +1,64 @@
+{
+  "providerId": "csp-0093292572cc",
+  "providerName": "3rd Eye Technologies LLC.",
+  "retrievedAt": "2026-10-30T09:08:47.598Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "UZYNJMEQGAY4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "3RD EYE TECHNOLOGIES LLC",
+      "dba_name": "",
+      "uei": "UZYNJMEQGAY4",
+      "cage_code": "7VEC5",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "334111",
+        "513210",
+        "517121",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "513210",
+        "517121",
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788220800,
+      "website": "https://3rdeyetechinc.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2026",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

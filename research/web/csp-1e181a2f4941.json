@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1e181a2f4941",
+  "retrievedAt": "2026-10-30T09:11:26.022Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.govdash.com",
+      "finalUrl": "https://www.govdash.com/",
+      "status": "success",
+      "sha256": "3e18e67480b6dd520fb04fa81ea597b0269e74f463f94cac8832f803a9f94724",
+      "title": "GovDash | Dash, the AI for Government Contractors",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ions Pricing Book a Demo Solutions Small Business Mid-Market Enterprise Business Development Capture Managers Propo"
+        }
+      ]
+    }
+  ]
+}

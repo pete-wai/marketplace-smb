@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-273a0ab7d791",
+  "retrievedAt": "2026-10-30T09:10:56.157Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.anecdotes.ai/",
+      "finalUrl": "https://www.anecdotes.ai/",
+      "status": "success",
+      "sha256": "be9978edd590e7bbef7de86bcd59ab84bad7c066bedfc37b99e44c8546b00b56",
+      "title": "Enterprise GRC Platform Powered by Agentic AI | Anecdotes",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-243f6fc9fcad",
+  "retrievedAt": "2026-10-30T09:12:10.071Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.walkme.com/",
+      "finalUrl": "https://www.walkme.com/",
+      "status": "success",
+      "sha256": "40e627a40ae27641ad29690fce796c3e5a8f0d57a592b526d8b96ce49f6a3d9a",
+      "title": "WalkMe - Digital Adoption Platform | AI That Delivers Real ROI",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "nstitute Glossary Help Center Open a ticket Company About us Leadership Awards &amp; recognition Careers Contact us"
+        },
+        {
+          "kind": "size",
+          "excerpt": "nd intentional.&#8221; “With WalkMe, employees are empowered to move fluidly between processes and applications, an"
+        }
+      ]
+    }
+  ]
+}

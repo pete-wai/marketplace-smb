@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-f8c1c49e93af",
+  "providerName": "Duo Security (a Cisco Company)",
+  "retrievedAt": "2026-10-30T09:10:20.091Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Duo Security (a Cisco Company)",
+      "status": "success",
+      "results": 53,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

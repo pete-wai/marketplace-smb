@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1153b46a665b",
+  "retrievedAt": "2026-10-30T09:11:05.618Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.bugcrowd.com/solutions/government/",
+      "finalUrl": "https://www.bugcrowd.com/solutions/government/",
+      "status": "success",
+      "sha256": "b3b8a9b54e4dc379a99ae791a3ae14ae11e63cbd3dec798d98efab8c95ec6abe",
+      "title": "Government Cybersecurity Solutions | Bugcrowd",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ybersecurity jobs in 2022 will top 1.8 million. As attack surfaces and creative threats increase, there aren’t enou"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-effb48d86ebb",
+  "retrievedAt": "2026-10-30T09:12:02.291Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://sustainment.com",
+      "finalUrl": "https://www.sustainment.com/",
+      "status": "success",
+      "sha256": "989f2802e2e9a7d1c5d6d10083cb45510aa41af2150ccabea25431a0cd3ebef2",
+      "title": "Sustainment | The System of Action for Modern Supply Chains",
+      "signals": []
+    }
+  ]
+}

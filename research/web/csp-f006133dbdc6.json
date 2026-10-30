@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f006133dbdc6",
+  "retrievedAt": "2026-10-30T09:11:16.964Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dewberry.com/services/technology/dimensionalview",
+      "finalUrl": "https://www.dewberry.com/services/technology/dimensionalview",
+      "status": "success",
+      "sha256": "6653deb4c29ba4b05a43d78a9c14ffbe82c5fbe388f21be1a4b7a11a6f80656c",
+      "title": "\r\n\tDimensionalView\r\n",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "m Sustainability Contact Locations Small Businesses 703.849.0100 © 2026 Dewberry Portals Status Legal Disclaimer Pr"
+        }
+      ]
+    }
+  ]
+}

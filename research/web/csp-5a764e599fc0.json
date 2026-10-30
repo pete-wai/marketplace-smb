@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5a764e599fc0",
+  "retrievedAt": "2026-10-30T09:11:15.028Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cylogic.com",
+      "finalUrl": "https://cylogic.com/",
+      "status": "success",
+      "sha256": "59f0a7b993284ab1b2d8927dc6f224a513774df32fd596c39ef0bfc1b3249911",
+      "title": "Home",
+      "signals": []
+    }
+  ]
+}

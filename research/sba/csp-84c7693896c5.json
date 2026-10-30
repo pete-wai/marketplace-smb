@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-84c7693896c5",
+  "providerName": "SunStone Secure, LLC",
+  "retrievedAt": "2026-10-30T09:13:00.919Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KLL2SDMGF7W9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SUNSTONE SECURE, LLC",
+      "dba_name": "",
+      "uei": "KLL2SDMGF7W9",
+      "cage_code": "9GPD9",
+      "naics_primary": "813920",
+      "naics_all_codes": [
+        "813920"
+      ],
+      "naics_small_codes": [
+        "813920"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1787875200,
+      "website": "www.sunstonesecure.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2020",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

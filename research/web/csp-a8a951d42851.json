@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a8a951d42851",
+  "retrievedAt": "2026-10-30T09:11:24.611Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.forescout.com/",
+      "finalUrl": "https://www.forescout.com/",
+      "status": "success",
+      "sha256": "6d9cafb2d808d3329006a4de97916b755a337dc18970123d8047deeb96d95863",
+      "title": "Forescout – Manage cyber risk and mitigate threats, continuously.",
+      "signals": []
+    }
+  ]
+}

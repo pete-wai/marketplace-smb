@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-6b6e739fae1e",
+  "retrievedAt": "2026-10-30T09:12:06.151Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.trisotech.com/digital-enterprise-suite/",
+      "finalUrl": "https://www.trisotech.com/digital-enterprise-suite/",
+      "status": "success",
+      "sha256": "85607ab5e188ddeae8c46cdaf174945d60c9786e5750b0a45baedd5a94c73e5a",
+      "title": "Digital Enterprise Suite",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Operations at The FEAC Institute, A Zachman company With minimal training, executives through business analysts ar"
+        }
+      ]
+    }
+  ]
+}

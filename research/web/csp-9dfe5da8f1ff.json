@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9dfe5da8f1ff",
+  "retrievedAt": "2026-10-30T09:12:01.821Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.boltline.com",
+      "finalUrl": "https://boltline.com/",
+      "status": "success",
+      "sha256": "cad614c49e65ac063019b0aab8825bdfcb493c5d8d2a9907b241de0f0bd27660",
+      "title": "Manufacturing Execution Engine for Hardware Teams",
+      "signals": []
+    }
+  ]
+}

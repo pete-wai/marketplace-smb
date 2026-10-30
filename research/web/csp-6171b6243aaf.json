@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6171b6243aaf",
+  "retrievedAt": "2026-10-30T09:11:57.796Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sentinelone.com/",
+      "finalUrl": "https://www.sentinelone.com/",
+      "status": "success",
+      "sha256": "a34a68382dab1b6e2cefb25a6f125ffba80e41a59994be0ee67b79357799c237",
+      "title": "SentinelOne | AI-Powered Enterprise Cybersecurity Platform",
+      "signals": []
+    }
+  ]
+}

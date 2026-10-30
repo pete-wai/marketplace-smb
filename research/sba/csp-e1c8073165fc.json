@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-e1c8073165fc",
+  "providerName": "Vasion",
+  "retrievedAt": "2026-10-30T09:13:37.378Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Vasion",
+      "status": "success",
+      "results": 3707,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9bbe82f34ce4",
+  "retrievedAt": "2026-10-30T09:11:20.636Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.emburse.com/",
+      "finalUrl": "https://www.emburse.com/",
+      "status": "success",
+      "sha256": "f4261e618abd9a52c86a924489300b91cba9d4acd90a76303d31c950d736a3cb",
+      "title": "Travel and expense management software solutions",
+      "signals": []
+    }
+  ]
+}

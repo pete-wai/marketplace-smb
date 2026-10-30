@@ -1,0 +1,48 @@
+{
+  "providerId": "csp-c8408805a687",
+  "providerName": "Granicus",
+  "retrievedAt": "2026-10-30T09:10:53.157Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Granicus",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "GRANICUS, INC.",
+      "dba_name": "GRANICUS, NLW",
+      "uei": "K9T5UDU632S4",
+      "cage_code": "4SA94",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790121600,
+      "website": "http://www.granicus.com",
+      "additional_website": "https://granicus.com/",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1999",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

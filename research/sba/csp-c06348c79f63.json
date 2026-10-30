@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c06348c79f63",
+  "providerName": "National Institute of Building Sciences (NIBS)",
+  "retrievedAt": "2026-10-30T09:14:52.807Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "National Institute of Building Sciences (NIBS)",
+      "status": "success",
+      "results": 3863,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

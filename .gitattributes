@@ -1,0 +1,5 @@
+# Preserve original source bytes for checksum reproducibility.
+data/sources/** -text -whitespace
+data/history/** -text -whitespace
+# RFC 4180 exports intentionally use CRLF.
+static/downloads/*.csv -text whitespace=cr-at-eol

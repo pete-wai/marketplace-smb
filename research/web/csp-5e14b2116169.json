@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-5e14b2116169",
+  "retrievedAt": "2026-10-30T09:11:07.419Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.chargepoint.com",
+      "finalUrl": "https://www.chargepoint.com/",
+      "status": "success",
+      "sha256": "44e03c9346216daf2cfd282404d102f6e474fc4d0efb62859cc0f00361ac4571",
+      "title": "EVSE | Electric Vehicle (EV) Charging Stations | ChargePoint",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "hen they want to charge. Reach our 4 million+ EV drivers and draw them to your stations via our mobile app and in-d"
+        }
+      ]
+    }
+  ]
+}

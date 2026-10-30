@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1912ced5f656",
+  "retrievedAt": "2026-10-30T09:11:03.636Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.blinkcharging.com/",
+      "finalUrl": "https://blinkcharging.com/",
+      "status": "success",
+      "sha256": "68a8d6668031deaa08ad4d0810edf9de5ba414199afaadaaff8057d6591e576c",
+      "title": "EV Charging Stations for Residences &amp; Businesses | Blink Charging",
+      "signals": []
+    }
+  ]
+}

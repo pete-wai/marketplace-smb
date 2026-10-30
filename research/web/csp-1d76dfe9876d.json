@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1d76dfe9876d",
+  "retrievedAt": "2026-10-30T09:11:35.419Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://litmas.ai",
+      "finalUrl": "https://litmas.ai/",
+      "status": "success",
+      "sha256": "023b38dc59679555eee4f22d41d2d813382bc91ec045a57db7bcfa8e7fb14e89",
+      "title": "Litmas AI | Legal AI Software for Litigation",
+      "signals": []
+    }
+  ]
+}

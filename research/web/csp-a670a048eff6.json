@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-a670a048eff6",
+  "retrievedAt": "2026-10-30T09:11:10.007Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://codesignal.com",
+      "finalUrl": "https://codesignal.com/",
+      "status": "success",
+      "sha256": "07c298f42b070324c947811181040e3b506006034863c244500ece9a72cbe72b",
+      "title": "CodeSignal | Agentic Skills Intelligence &amp; Validation Platform",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "lthcare Hiring for your startup or small business? Plans built for small teams making big hiring decisions. Learn m"
+        }
+      ]
+    }
+  ]
+}

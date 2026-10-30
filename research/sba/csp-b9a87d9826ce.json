@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-b9a87d9826ce",
+  "providerName": "Seven Bridges Genomics, Inc",
+  "retrievedAt": "2026-10-30T09:12:48.493Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Seven Bridges Genomics,",
+      "status": "success",
+      "results": 834,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SEVEN BRIDGES GENOMICS INC",
+      "dba_name": "",
+      "uei": "KHTTXQEGW995",
+      "cage_code": "6VSC7",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541714",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541714",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1769385600,
+      "website": "https://www.sevenbridges.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2009",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

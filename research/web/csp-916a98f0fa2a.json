@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-916a98f0fa2a",
+  "retrievedAt": "2026-10-30T09:11:27.778Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ibm.com/products/maas360",
+      "finalUrl": "https://www.ibm.com/products/maas360",
+      "status": "success",
+      "sha256": "4378aa4d668270d102fcea42131e94ec6da769c0f344cbdb25fd92af840d19e9",
+      "title": "IBM MaaS360",
+      "signals": []
+    }
+  ]
+}

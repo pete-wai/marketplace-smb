@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-5a764e599fc0",
+  "providerName": "CyLogic",
+  "retrievedAt": "2026-10-30T09:09:58.495Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MBX7D3Q84VM5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CYLOGIC INC",
+      "dba_name": "",
+      "uei": "MBX7D3Q84VM5",
+      "cage_code": "8TAM6",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210"
+      ],
+      "naics_small_codes": [
+        "518210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1786579200,
+      "website": "www.cylogic.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2017",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

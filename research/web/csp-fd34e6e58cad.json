@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-fd34e6e58cad",
+  "retrievedAt": "2026-10-30T09:11:59.829Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.socure.com/",
+      "finalUrl": "https://www.socure.com/",
+      "status": "success",
+      "sha256": "bba85b2dffd70b03d3d6563c5dd693dcefeb30a1e0103113251ad1a399724561",
+      "title": "Identity Verification Platform for AI Risk Decisioning | Socure",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "he most historical known outcomes (40 billion), the largest identity graph (100s of billions) and the most comprehe"
+        }
+      ]
+    }
+  ]
+}

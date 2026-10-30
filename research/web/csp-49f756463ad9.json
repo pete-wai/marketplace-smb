@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-49f756463ad9",
+  "retrievedAt": "2026-10-30T09:11:26.926Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.harness.io",
+      "finalUrl": "https://www.harness.io/",
+      "status": "success",
+      "sha256": "890391d50b38593b478a4b2cd31acb9cd797d7b6b92e35a53839341307d46840",
+      "title": "Harness: AI Platform for the Autonomous SDLC",
+      "signals": []
+    }
+  ]
+}

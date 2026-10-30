@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-4cfd4766e309",
+  "providerName": "Palantir Technologies",
+  "retrievedAt": "2026-10-30T09:12:12.584Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Palantir Technologies",
+      "status": "success",
+      "results": 19,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Palantir Technologies .",
+      "status": "success",
+      "results": 19,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

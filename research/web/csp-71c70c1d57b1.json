@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-71c70c1d57b1",
+  "retrievedAt": "2026-10-30T09:11:17.711Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://dmetrics.com",
+      "finalUrl": "https://dmetrics.com/",
+      "status": "success",
+      "sha256": "962f25db4d4daa10548752d84a7d6a9a575f1d78c8e4691f5945f52a8be92e89",
+      "title": "dMetrics — Intelligence is a team sport.",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "IR awards for its research, and is a portfolio company of the Defense Innovation Unit (DIU), with clients that incl"
+        }
+      ]
+    }
+  ]
+}

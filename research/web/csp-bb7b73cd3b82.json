@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-bb7b73cd3b82",
+  "retrievedAt": "2026-10-30T09:11:01.829Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://bamboohealth.com/",
+      "finalUrl": "https://bamboohealth.com/",
+      "status": "success",
+      "sha256": "e948c8d174b3dfa1e902d0e4816a7d17481132399471e30b8bfd12da4019368a",
+      "title": "Bamboo Health",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ollaboration Network in the Nation 3 Billion Care Moments Supported per Year 100% Top 10 Hospitals 52 States and Te"
+        }
+      ]
+    }
+  ]
+}

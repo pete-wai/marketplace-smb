@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-4259bbeceb42",
+  "providerName": "T-Metrics, Inc.",
+  "retrievedAt": "2026-10-30T09:13:01.673Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "PLA5ANKFM4K3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "T-METRICS, LLC",
+      "dba_name": "",
+      "uei": "PLA5ANKFM4K3",
+      "cage_code": "1RFH9",
+      "naics_primary": "334210",
+      "naics_all_codes": [
+        "334111",
+        "334112",
+        "334210",
+        "513210",
+        "541519",
+        "561421"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "334112",
+        "334210",
+        "513210",
+        "541519",
+        "561421"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789603200,
+      "website": "http://www.tmetrics.com",
+      "additional_website": "http://www.tmetrics.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1989",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

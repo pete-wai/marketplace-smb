@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c9cfabddd9c6",
+  "providerName": "Veritone, Inc.",
+  "retrievedAt": "2026-10-30T09:13:39.265Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Veritone, .",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

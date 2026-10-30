@@ -1,0 +1,90 @@
+{
+  "providerId": "csp-31a2eaf79f57",
+  "providerName": "Illumio, Inc.",
+  "retrievedAt": "2026-10-30T09:10:59.462Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Illumio, .",
+      "status": "success",
+      "results": 9,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ILLUMIO, INC.",
+      "dba_name": "ILLUMIO INC",
+      "uei": "MCUBG6MGTJK9",
+      "cage_code": "84HP4",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541715",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1782172800,
+      "website": "www.illumio.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": [
+    {
+      "legal_business_name": "ILLUMIO GOVERNMENT SOLUTIONS, LLC",
+      "dba_name": "",
+      "uei": "D4S7M4UNFLR3",
+      "cage_code": "06S31",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541715",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792713600,
+      "website": "www.illumio.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2024",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

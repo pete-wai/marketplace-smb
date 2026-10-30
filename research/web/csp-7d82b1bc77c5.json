@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-7d82b1bc77c5",
+  "retrievedAt": "2026-10-30T09:12:02.640Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://syneren.com",
+      "finalUrl": "https://syneren.com/",
+      "status": "success",
+      "sha256": "2d7ce4736dcc14cf5e6d47d99b7d009e70772fc50a0bd642f8001fc8b6ecec9e",
+      "title": "Syneren - Homepage",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "2018 and ISO 27001:2022 certified, woman owned small business provider of high-quality technology solutions for the"
+        }
+      ]
+    }
+  ]
+}

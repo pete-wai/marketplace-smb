@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1e3bd9448dc9",
+  "providerName": "CoLab",
+  "retrievedAt": "2026-10-30T09:09:48.448Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CoLab",
+      "status": "success",
+      "results": 3036,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

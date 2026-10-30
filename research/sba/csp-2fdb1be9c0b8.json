@@ -1,0 +1,79 @@
+{
+  "providerId": "csp-2fdb1be9c0b8",
+  "providerName": "Merlin International",
+  "retrievedAt": "2026-10-30T09:11:51.214Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Merlin International",
+      "status": "success",
+      "results": 79,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "MERLIN INTERNATIONAL, INC.",
+      "dba_name": "MERLIN TECHNICAL SOLUTIONS",
+      "uei": "GDQLRDFJNRD3",
+      "cage_code": "1XAZ0",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "334111",
+        "334112",
+        "334220",
+        "335999",
+        "423430",
+        "423450",
+        "513210",
+        "516210",
+        "517111",
+        "517112",
+        "517121",
+        "518210",
+        "519290",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541690",
+        "541715",
+        "611420",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "334112",
+        "334220",
+        "335999",
+        "423430",
+        "423450",
+        "517111",
+        "517112",
+        "517121",
+        "519290",
+        "541519",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1773273600,
+      "website": "http://www.merlincyber.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1997",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

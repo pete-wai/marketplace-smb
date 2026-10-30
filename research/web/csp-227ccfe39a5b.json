@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-227ccfe39a5b",
+  "retrievedAt": "2026-10-30T09:11:53.915Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://remedio.io",
+      "finalUrl": "https://remedio.io/",
+      "status": "success",
+      "sha256": "4de7630da3d0c9bdc6c04a9867bc09c03f29f0a2c670ae05fe9187dc349aad50",
+      "title": "Remedio: Autonomous Exposure Remediation Platform for Devices and AI",
+      "signals": []
+    }
+  ]
+}

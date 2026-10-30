@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c8ec03ed9ce7",
+  "retrievedAt": "2026-10-30T09:11:19.097Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://dossier.com",
+      "finalUrl": "https://dossier.com/",
+      "status": "success",
+      "sha256": "7d25c27be5a3d47dbcd1c88739639930e5f095eadb6bc5137431fbc98c0b4235",
+      "title": "Competency Management Software for Healthcare | Dossier",
+      "signals": []
+    }
+  ]
+}

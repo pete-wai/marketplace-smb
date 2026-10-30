@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-82b5282989fa",
+  "retrievedAt": "2026-10-30T09:11:52.800Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ravemobilesafety.com/",
+      "finalUrl": "https://www.motorolasolutions.com/en_us/products/command-center-software/rave.html",
+      "status": "success",
+      "sha256": "e9efcb93bb09117a647ab6c5ebf1a9a6c00acc8172193e866a51c13f1cd3bdc0",
+      "title": "Rave Mobile Safety Suite  - Motorola Solutions",
+      "signals": []
+    }
+  ]
+}

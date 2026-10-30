@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-55e7be991768",
+  "providerName": "Check Point Software Technologies, Inc.",
+  "retrievedAt": "2026-10-30T09:09:39.683Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LKDTJYJEME67",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Check Point Software Technologies, .",
+      "status": "success",
+      "results": 1139,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

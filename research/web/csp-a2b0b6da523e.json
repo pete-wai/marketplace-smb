@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-a2b0b6da523e",
+  "retrievedAt": "2026-10-30T09:10:51.355Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.3mhis.com",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-2f950f206549",
+  "providerName": "Meridian Knowledge Solutions, LLC",
+  "retrievedAt": "2026-10-30T09:11:51.176Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MM9LQ3WBY5V7",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MERIDIAN KNOWLEDGE SOLUTIONS LLC",
+      "dba_name": "MERIDIAN KNOWLEDGE SOLUTIONS",
+      "uei": "MM9LQ3WBY5V7",
+      "cage_code": "1ETX4",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "611420",
+        "611430",
+        "611699",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "611420",
+        "611430",
+        "611699",
+        "611710"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1782432000,
+      "website": "www.meridianks.com",
+      "additional_website": "http://www.meridianksi.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1997",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-de5a1adf4fed",
+  "retrievedAt": "2026-10-30T09:11:59.702Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.snowflake.com/",
+      "finalUrl": "https://www.snowflake.com/en/",
+      "status": "success",
+      "sha256": "409f019c8697825aecd3c2055185c237671c28be578f5c74d56a9b2472d96e2d",
+      "title": "Snowflake AI Data Cloud",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-1446fb6558d1",
+  "providerName": "ThreatLocker, Inc.",
+  "retrievedAt": "2026-10-30T09:13:26.568Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "D1P3HWDMJNF4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "ThreatLocker, .",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

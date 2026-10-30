@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-d0936b21e8db",
+  "retrievedAt": "2026-10-30T09:11:46.448Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://gooptimal.io/nineline",
+      "finalUrl": "https://gooptimal.io/nineline/",
+      "status": "success",
+      "sha256": "07b3a339b1cbfd05f790d7b52d60c0d5f208a97305ef2b1f253594c6256ff573",
+      "title": "9line — AI-native software &amp; supply-chain security from Optimal",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ied Service-Disabled Veteran-Owned Small Business. Sovereign by default. Services Managed GCC High Do I need GCC Hi"
+        }
+      ]
+    }
+  ]
+}

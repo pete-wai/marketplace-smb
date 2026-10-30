@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b5738c169b69",
+  "retrievedAt": "2026-10-30T09:11:57.856Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.servicenow.com",
+      "finalUrl": "https://www.servicenow.com/",
+      "status": "success",
+      "sha256": "61a89765d41c8f68ab7c1d2c6bc7bc9c488282fa7f7ed02942485be8b1f062b3",
+      "title": "ServiceNow - Put AI to Work",
+      "signals": []
+    }
+  ]
+}

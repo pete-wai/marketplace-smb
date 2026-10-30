@@ -1,0 +1,28 @@
+{
+  "providerId": "csp-738e22f0acab",
+  "providerName": "Cloudflare",
+  "retrievedAt": "2026-10-30T09:09:46.094Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "JV9YXS9MLA48",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Cloudflare",
+      "status": "success",
+      "results": 19,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Cloudflare, .",
+      "status": "success",
+      "results": 18,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-2940d111d514",
+  "providerName": "Mimecast",
+  "retrievedAt": "2026-10-30T09:11:53.122Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Mimecast",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

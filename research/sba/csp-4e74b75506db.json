@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-4e74b75506db",
+  "providerName": "Eightfold AI Inc.",
+  "retrievedAt": "2026-10-30T09:10:21.115Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NVUAEHWNWDJ8",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Eightfold AI .",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

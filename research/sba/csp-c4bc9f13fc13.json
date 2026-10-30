@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c4bc9f13fc13",
+  "providerName": "Checkmarx",
+  "retrievedAt": "2026-10-30T09:09:40.417Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Checkmarx",
+      "status": "success",
+      "results": 18,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

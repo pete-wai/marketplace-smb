@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c06348c79f63",
+  "retrievedAt": "2026-10-30T09:15:03.084Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.projnet.com/",
+      "finalUrl": "https://www.projnet.com/",
+      "status": "success",
+      "sha256": "b17bc0695a22d7382efd0a380fe2206229ba229ec91ea036fde67b64fad0dd7d",
+      "title": "ProjNet",
+      "signals": []
+    }
+  ]
+}

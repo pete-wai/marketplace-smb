@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-acf3def04427",
+  "retrievedAt": "2026-10-30T09:11:35.014Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://lifebit.ai/",
+      "finalUrl": "https://lifebit.ai/",
+      "status": "success",
+      "sha256": "757e6ffc6ad92b451ea65f50bda978a31ebb00b84a93829622d07194c2c4c551",
+      "title": "Lifebit — Federated Trusted Research Environment &amp; Sovereign AI",
+      "signals": []
+    }
+  ]
+}

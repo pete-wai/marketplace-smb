@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6fae58359fae",
+  "retrievedAt": "2026-10-30T09:11:50.262Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pecinc.com/platform/",
+      "finalUrl": "https://www.pecinc.com/platform/",
+      "status": "success",
+      "sha256": "08a59bc1891eb37f51a44973ac9e1460760b9f2ec6aa082200ffbbe572ac21a0",
+      "title": "PEC Proximal - Next-Gen Virtual Learning Solution | PEC",
+      "signals": []
+    }
+  ]
+}

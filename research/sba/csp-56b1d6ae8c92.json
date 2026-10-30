@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-56b1d6ae8c92",
+  "providerName": "SailPoint Technologies, Inc.",
+  "retrievedAt": "2026-10-30T09:12:43.176Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SailPoint Technologies, .",
+      "status": "success",
+      "results": 40,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SAILPOINT TECHNOLOGIES, INC.",
+      "dba_name": "",
+      "uei": "K7ZRW8DEMLZ3",
+      "cage_code": "6EZP0",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541512",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541512",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790726400,
+      "website": "http://www.sailpoint.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2004",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

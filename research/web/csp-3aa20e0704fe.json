@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3aa20e0704fe",
+  "retrievedAt": "2026-10-30T09:12:08.827Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.veracode.com/",
+      "finalUrl": "https://www.veracode.com/",
+      "status": "success",
+      "sha256": "6f739ff0cb9a60a9de05c8ba204eec2416f7a99afcd2ef7b55d3ab8779367aa5",
+      "title": "Application Risk Management: Secure Your Software",
+      "signals": []
+    }
+  ]
+}

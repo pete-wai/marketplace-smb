@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-ba9d19e7d8f0",
+  "providerName": "Xerox Corporation",
+  "retrievedAt": "2026-10-30T09:13:44.905Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Xerox",
+      "status": "success",
+      "results": 129,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

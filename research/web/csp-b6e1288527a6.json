@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-b6e1288527a6",
+  "retrievedAt": "2026-10-30T09:11:23.691Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.f5.com/",
+      "finalUrl": "https://www.f5.com/",
+      "status": "success",
+      "sha256": "0c5662038c702334654ce9e69c7e22bc9f9c2d91226fdbe824942e087c34f8cf",
+      "title": "Hybrid Multicloud App Security &amp; Delivery for the AI Era | F5",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "s reliable contract management for 1 billion users &quot;The F5 solution bridges the gap between complex network de"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-414bc5965721",
+  "retrievedAt": "2026-10-30T09:11:57.195Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://secureframe.com/",
+      "finalUrl": "https://secureframe.com/",
+      "status": "success",
+      "sha256": "8ffa9b06b501fe1d20f29904417b3f8c1ba4362a20b818843de683ff486af1a2",
+      "title": "Secureframe: Build trust. Unlock growth.",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ates Pricing Marketplace Solutions Small Business Enterprise Defense contractors Frameworks CMMC 2.0 SOC 2 ISO 2700"
+        }
+      ]
+    }
+  ]
+}

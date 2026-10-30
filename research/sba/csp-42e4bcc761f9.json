@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-42e4bcc761f9",
+  "providerName": "Concur Technologies, Inc.",
+  "retrievedAt": "2026-10-30T09:09:51.809Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WYWDHGHWCQ54",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Concur Technologies, .",
+      "status": "success",
+      "results": 12,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,60 @@
+{
+  "providerId": "csp-e9bcdbe1d8e7",
+  "providerName": "DOMA Technologies, LLC",
+  "retrievedAt": "2026-10-30T09:14:49.519Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ZL4UC4TMFY19",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "DOMA TECHNOLOGIES, LLC",
+      "dba_name": "COMMENCE",
+      "uei": "ZL4UC4TMFY19",
+      "cage_code": "1ZC27",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "518210",
+        "519290",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541715",
+        "541990",
+        "561499"
+      ],
+      "naics_small_codes": [
+        "519290",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1768176000,
+      "website": "http://www.domaonline.com",
+      "additional_website": "http://www.domatechnologies.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

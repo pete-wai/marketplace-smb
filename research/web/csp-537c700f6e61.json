@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-537c700f6e61",
+  "retrievedAt": "2026-10-30T09:11:31.072Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.govdatahosting.com/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

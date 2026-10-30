@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-99a5cbcb6d85",
+  "retrievedAt": "2026-10-30T09:12:07.215Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.usai.io/",
+      "finalUrl": "https://www.usai.io/",
+      "status": "success",
+      "sha256": "8efa11ea77c16db5b76bc456d54e59692194d3e285d9228ed8aac5b99f1f2cd2",
+      "title": "Home | (US) AI",
+      "signals": []
+    }
+  ]
+}

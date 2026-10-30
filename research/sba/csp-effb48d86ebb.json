@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-effb48d86ebb",
+  "providerName": "Sustainment Technologies Inc.",
+  "retrievedAt": "2026-10-30T09:13:01.130Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "FYX9J759QPE4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SUSTAINMENT TECHNOLOGIES INC",
+      "dba_name": "",
+      "uei": "FYX9J759QPE4",
+      "cage_code": "8JF03",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "513210",
+        "541420",
+        "541490",
+        "541511",
+        "541512",
+        "541519",
+        "541618",
+        "541690",
+        "541715",
+        "541990"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541420",
+        "541490",
+        "541511",
+        "541512",
+        "541519",
+        "541618",
+        "541690",
+        "541715",
+        "541990"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1766361600,
+      "website": "www.sustainment.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2020",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-03be89b3b5d1",
+  "retrievedAt": "2026-10-30T09:11:17.445Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://distributedinc.com/",
+      "finalUrl": "https://distributedinc.com/",
+      "status": "success",
+      "sha256": "6a88efe36901065e52f5196c953f0868a21ac15b9016713003d957ef64543d08",
+      "title": "Distributed Solutions, Inc. | Solutions to Empower",
+      "signals": []
+    }
+  ]
+}

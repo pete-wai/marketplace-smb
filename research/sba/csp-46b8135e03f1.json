@@ -1,0 +1,86 @@
+{
+  "providerId": "csp-46b8135e03f1",
+  "providerName": "ATX Defense",
+  "retrievedAt": "2026-10-30T09:09:25.608Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "H6YBMH9MN3D3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ATX CAPITAL PARTNERS, LLC",
+      "dba_name": "",
+      "uei": "H6YBMH9MN3D3",
+      "cage_code": "8U9V5",
+      "naics_primary": "541611",
+      "naics_all_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541613",
+        "541618",
+        "541690",
+        "541715",
+        "561210",
+        "611420",
+        "611430",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541613",
+        "541618",
+        "541690",
+        "541715",
+        "561210",
+        "611420",
+        "611430",
+        "611710"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1763337600,
+      "website": "https://www.atxdefense.com",
+      "additional_website": "https://www.atxdefense.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2019",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2021-03-12",
+          "exitDate": "2029-09-12",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2021-03-12",
+          "exitDate": "2029-09-12",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

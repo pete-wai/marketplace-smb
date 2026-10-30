@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-3ccbd9105a45",
+  "providerName": "Salesforce",
+  "retrievedAt": "2026-10-30T09:12:43.219Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Salesforce",
+      "status": "success",
+      "results": 500,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

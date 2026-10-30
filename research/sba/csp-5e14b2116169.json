@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-5e14b2116169",
+  "providerName": "ChargePoint, Inc.",
+  "retrievedAt": "2026-10-30T09:09:39.285Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "E3Y8C7CU9RD8",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "ChargePoint, .",
+      "status": "success",
+      "results": 13,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

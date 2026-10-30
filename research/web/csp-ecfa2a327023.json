@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-ecfa2a327023",
+  "retrievedAt": "2026-10-30T09:15:01.455Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.myaidin.com",
+      "finalUrl": "https://www.myaidin.com/",
+      "status": "success",
+      "sha256": "28a3ed827e83ac1b2a6d43f2c08cc5aca4a862c71499d265e47f40299e009531",
+      "title": "Aidin: Referral Management Software for Better Patient Outcomes",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "er Patient Outcomes Aidin has been acquired by LeanTaaS! Learn more, here . Who We Serve Hospitals &#038; Healthcar"
+        }
+      ]
+    }
+  ]
+}

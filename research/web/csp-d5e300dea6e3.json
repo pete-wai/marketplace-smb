@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d5e300dea6e3",
+  "retrievedAt": "2026-10-30T09:11:10.469Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://helios.gov-cohesity.com/",
+      "finalUrl": "https://helios.gov-cohesity.com/",
+      "status": "success",
+      "sha256": "4d1a56a537dc78188b55aa4b650b11c345e4d3de702d3a667a1a6d4beb3f2b52",
+      "title": "",
+      "signals": []
+    }
+  ]
+}

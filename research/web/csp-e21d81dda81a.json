@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-e21d81dda81a",
+  "retrievedAt": "2026-10-30T09:12:06.390Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.trmlabs.com",
+      "finalUrl": "https://www.trmlabs.com/",
+      "status": "success",
+      "sha256": "c75c02605a6ee895fe3afb8e9815e36af8409aac8ab08e44e3bc936c1c08146e",
+      "title": "TRM Labs | AI Investigations and Blockchain Intelligence",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "n analyst asks whether any of a data center company’s critical vendors appeared on ransomware leak sites without di"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-391f4c4cf12e",
+  "retrievedAt": "2026-10-30T09:12:11.166Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cartn.com",
+      "finalUrl": "https://www.cartn.com/",
+      "status": "success",
+      "sha256": "6b5de1a5a6fc4d889247e1ef3003098953b6aacd4d70a785f3d68c47bb00167d",
+      "title": "CARTN — Continously Aware Realtime Tracking Network",
+      "signals": []
+    }
+  ]
+}

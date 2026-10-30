@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-ae443dd591bd",
+  "providerName": "USU Solutions Inc.",
+  "retrievedAt": "2026-10-30T09:13:35.365Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "USU Solutions .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

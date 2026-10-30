@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-8d5946703c38",
+  "retrievedAt": "2026-10-30T09:10:53.270Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://acquia.com",
+      "finalUrl": "https://www.acquia.com/",
+      "status": "success",
+      "sha256": "79fe7c101bcc74d6a3b5d8ca1ec850b035ac1f86e5c4857bba2fc5bdb8e274e5",
+      "title": "Digital Experience Platform for Content, Community, Commerce | Acquia",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "d platform University of Georgia’s 1 Million Assets University of Georgia’s 1 Million Assets Image University of Ge"
+        }
+      ]
+    }
+  ]
+}

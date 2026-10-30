@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-90ef4aa71696",
+  "retrievedAt": "2026-10-30T09:11:14.740Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://curapatient.com/",
+      "finalUrl": "https://curapatient.com/",
+      "status": "success",
+      "sha256": "a1749b1312e541bd2fd5e18310313b23a9a9e38c5e76b7038e001a144afe8c1d",
+      "title": "CuraPatient · CuraClaims — Every claim has DNA. We read it.",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": " week. Not a sample every few years. Employees' wrong bills and denials, fixed too. No carrier change. A free scree"
+        }
+      ]
+    }
+  ]
+}

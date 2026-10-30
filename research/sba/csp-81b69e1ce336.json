@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-81b69e1ce336",
+  "providerName": "LCptracker Inc",
+  "retrievedAt": "2026-10-30T09:11:33.037Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LCptracker",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "LCPTRACKER, INC.",
+      "dba_name": "",
+      "uei": "HM6WNQWHZBA8",
+      "cage_code": "4YCJ4",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789430400,
+      "website": "http://www.lcptracker.com",
+      "additional_website": "http://www.lcptracker.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1992",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

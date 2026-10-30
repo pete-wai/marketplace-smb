@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9d0dc93908a1",
+  "providerName": "Eptura, Inc",
+  "retrievedAt": "2026-10-30T09:10:24.988Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Eptura,",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

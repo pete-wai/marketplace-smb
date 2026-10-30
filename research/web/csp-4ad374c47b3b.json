@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4ad374c47b3b",
+  "retrievedAt": "2026-10-30T09:11:33.504Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://laerdal.com/products/simulation-training/operate-assess-debrief/simcapture/",
+      "finalUrl": "https://www.laerdal.com/us/products/simulation-training/operate-assess-debrief/simcapture/",
+      "status": "success",
+      "sha256": "b1f72b5373df745b42d62256725b307962f0002eceb2d35c99841ec5aee722d8",
+      "title": "SimCapture | Laerdal Medical",
+      "signals": []
+    }
+  ]
+}

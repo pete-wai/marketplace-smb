@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-19e77442fa2e",
+  "retrievedAt": "2026-10-30T09:15:02.412Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://formassembly.com",
+      "finalUrl": "https://www.formassembly.com/",
+      "status": "success",
+      "sha256": "d2df226009857506c3e8cde16f0314d2fc945354203660a01907e7ed51ca3e02",
+      "title": "FormAssembly | Secure Web Forms &amp; Salesforce Data Collection",
+      "signals": []
+    }
+  ]
+}

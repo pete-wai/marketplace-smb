@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-30c73757d835",
+  "retrievedAt": "2026-10-30T09:11:45.529Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://finvi.com/",
+      "finalUrl": "https://finvi.com/",
+      "status": "success",
+      "sha256": "47edd618d283e3841bcd1e71f0b8b3d32fb1179ac0834e2cf2e342b8be603a1e",
+      "title": "Homepage - Finvi",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "tions workflow platform that helps small businesses and start-up debt collection agencies improve agent productivit"
+        }
+      ]
+    }
+  ]
+}

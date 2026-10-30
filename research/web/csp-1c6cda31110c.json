@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1c6cda31110c",
+  "retrievedAt": "2026-10-30T09:11:47.363Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://PagerDuty.com",
+      "finalUrl": "https://www.pagerduty.com/",
+      "status": "success",
+      "sha256": "159f599f76f8e10b44b7ce0ff0d6d86c97e38409f2d18f808946c134af54a228",
+      "title": "PagerDuty: The AI-First Operations Platform",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "y platform in the category. Alerts 12 Billion + events per year Incidents 952 Million + events per year Workflows 1"
+        }
+      ]
+    }
+  ]
+}

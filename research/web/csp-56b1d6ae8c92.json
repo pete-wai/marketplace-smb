@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-56b1d6ae8c92",
+  "retrievedAt": "2026-10-30T09:11:55.275Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sailpoint.com/identity-security-cloud/",
+      "finalUrl": "https://www.sailpoint.com/products/human-fabric",
+      "status": "success",
+      "sha256": "0057bbcac6d405626bed98794c767c1b5e667a6ef3a2b89bb42e28d673ee2808",
+      "title": "SailPoint Human Fabric",
+      "signals": []
+    }
+  ]
+}

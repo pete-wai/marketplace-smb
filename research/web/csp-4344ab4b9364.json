@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-4344ab4b9364",
+  "retrievedAt": "2026-10-30T09:15:02.893Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.riskrecon.com/",
+      "finalUrl": "https://www.riskrecon.com/",
+      "status": "success",
+      "sha256": "c15a67e9223c130c635a58553e6c96a8cf88421acaae05f8457cb72d19ec2514",
+      "title": "Manage Cyber Security Risks | Risk Management —RiskRecon by Mastercard",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "k. Learn More Own Enterprise &amp; Subsidiary Monitoring An organization’s internet surface area is often larger an"
+        }
+      ]
+    }
+  ]
+}

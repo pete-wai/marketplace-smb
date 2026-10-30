@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-3834722ecf43",
+  "retrievedAt": "2026-10-30T09:15:02.319Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://embrava.com",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

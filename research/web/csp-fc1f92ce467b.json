@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-fc1f92ce467b",
+  "retrievedAt": "2026-10-30T09:11:55.711Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://eschat.com/",
+      "finalUrl": "https://eschat.com/",
+      "status": "success",
+      "sha256": "43146b0c012c43d0f9ba4b62938eeddee69a6cd0a0fac3b002a74153804303a5",
+      "title": "Home - ESChat is the leading PTT solution in North America",
+      "signals": []
+    }
+  ]
+}

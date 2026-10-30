@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-0200ecb113b1",
+  "providerName": "Government Retirement & Benefits, Inc.",
+  "retrievedAt": "2026-10-30T09:10:46.755Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Government Retirement & Benefits, .",
+      "status": "success",
+      "results": 20069,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "GOVERNMENT RETIREMENT & BENEFITS, INC.",
+      "dba_name": "GOVERNMENT RETIREMENT & BENEFITS INC",
+      "uei": "NU28U7M5HGX6",
+      "cage_code": "0AMR7",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "524292",
+        "541214",
+        "541612",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "524292",
+        "541214",
+        "541612",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790208000,
+      "website": "http://www.grbinc.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1986",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

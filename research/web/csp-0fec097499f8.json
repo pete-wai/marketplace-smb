@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-0fec097499f8",
+  "retrievedAt": "2026-10-30T09:11:53.509Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.relativity.com/",
+      "finalUrl": "https://www.relativity.com/",
+      "status": "success",
+      "sha256": "46edd08e916b4769fd98326398c611efe25363cbe4f4d1216099ad0930142b16",
+      "title": "AI-Powered Legal Data Software",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "rtal Login Partner Learning Become a Partner Company Meet Relativity Our mission is to help customers organize data"
+        },
+        {
+          "kind": "size",
+          "excerpt": "m, saving us [&hellip;] more than $2.3 million in costs. Just as importantly, it accelerated our witness preparatio"
+        }
+      ]
+    }
+  ]
+}

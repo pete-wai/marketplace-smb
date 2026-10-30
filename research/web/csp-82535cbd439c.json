@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-82535cbd439c",
+  "retrievedAt": "2026-10-30T09:11:42.298Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.netskope.com/solutions/public-sector/govcloud",
+      "finalUrl": "https://www.netskope.com/solutions/public-sector/govcloud",
+      "status": "success",
+      "sha256": "6863275bf2065b769d42873d5f287af59aac2e2bbabb7cfc9e893f3f61e72586",
+      "title": "Netskope NewEdge Government for federal agencies",
+      "signals": []
+    }
+  ]
+}

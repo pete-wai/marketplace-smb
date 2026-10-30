@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3c4b63f5566e",
+  "retrievedAt": "2026-10-30T09:11:25.133Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://gdcii.com/",
+      "finalUrl": "https://gdcii.com/",
+      "status": "success",
+      "sha256": "94c91ef6722facf4f9048ebb9a0836262ce6be947853c1360b2e7fac818c148b",
+      "title": "GDCI",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+[
+  {
+    "providerId": "csp-a2b0b6da523e",
+    "providerName": "3M",
+    "cik": 66740,
+    "ticker": "MMM",
+    "secName": "3M CO",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-ee9021c84f33",
+    "providerName": "Adobe",
+    "cik": 796343,
+    "ticker": "ADBE",
+    "secName": "ADOBE INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-a3c4d61dbeba",
+    "providerName": "Akamai",
+    "cik": 1086222,
+    "ticker": "AKAM",
+    "secName": "AKAMAI TECHNOLOGIES INC",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-cbc62794911f",
+    "providerName": "Amazon",
+    "cik": 1018724,
+    "ticker": "AMZN",
+    "secName": "AMAZON COM INC",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-fc6a1e9e9547",
+    "providerName": "Appian",
+    "cik": 1441683,
+    "ticker": "APPN",
+    "secName": "APPIAN CORP",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-4de4a07ad031",
+    "providerName": "Asana Inc.",
+    "cik": 1477720,
+    "ticker": "ASAN",
+    "secName": "Asana, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-651b2c67d536",
+    "providerName": "Atlassian",
+    "cik": 1650372,
+    "ticker": "TEAM",
+    "secName": "Atlassian Corp",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-320d597682ed",
+    "providerName": "Autodesk",
+    "cik": 769397,
+    "ticker": "ADSK",
+    "secName": "Autodesk, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-03b010e0b875",
+    "providerName": "AvePoint Inc.",
+    "cik": 1777921,
+    "ticker": "AVPT",
+    "secName": "AvePoint, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-99a2ac41d64f",
+    "providerName": "Axon",
+    "cik": 1069183,
+    "ticker": "AXON",
+    "secName": "AXON ENTERPRISE, INC.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-531a1cfd2cf5",
+    "providerName": "Bentley Systems, Incorporated",
+    "cik": 1031308,
+    "ticker": "BSY",
+    "secName": "BENTLEY SYSTEMS INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-fc7647bee720",
+    "providerName": "BlackBerry",
+    "cik": 1070235,
+    "ticker": "BB",
+    "secName": "BLACKBERRY Ltd",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-ea5c392d2cc9",
+    "providerName": "BlackLine Systems, Inc.",
+    "cik": 1666134,
+    "ticker": "BL",
+    "secName": "BLACKLINE, INC.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-1912ced5f656",
+    "providerName": "BLINK CHARGING",
+    "cik": 1429764,
+    "ticker": "BLNK",
+    "secName": "Blink Charging Co.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-36a436ef9b24",
+    "providerName": "Booz Allen Hamilton",
+    "cik": 1443646,
+    "ticker": "BAH",
+    "secName": "Booz Allen Hamilton Holding Corp",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-26f8567f2569",
+    "providerName": "Box Inc.",
+    "cik": 1372612,
+    "ticker": "BOX",
+    "secName": "BOX INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-35c5a07f9ba7",
+    "providerName": "Butterfly Network Inc.",
+    "cik": 1804176,
+    "ticker": "BFLY",
+    "secName": "Butterfly Network, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-0c6dfb0bf1b2",
+    "providerName": "Ceribell",
+    "cik": 1861107,
+    "ticker": "CBLL",
+    "secName": "Ceribell, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-5e14b2116169",
+    "providerName": "ChargePoint, Inc.",
+    "cik": 1777393,
+    "ticker": "CHPT",
+    "secName": "ChargePoint Holdings, Inc.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-55e7be991768",
+    "providerName": "Check Point Software Technologies, Inc.",
+    "cik": 1015922,
+    "ticker": "CHKP",
+    "secName": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-e73b79a0b10f",
+    "providerName": "CISCO",
+    "cik": 858877,
+    "ticker": "CSCO",
+    "secName": "CISCO SYSTEMS, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-dca89f6476d6",
+    "providerName": "Cisco Systems, Inc.",
+    "cik": 858877,
+    "ticker": "CSCO",
+    "secName": "CISCO SYSTEMS, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-738e22f0acab",
+    "providerName": "Cloudflare",
+    "cik": 1477333,
+    "ticker": "NET",
+    "secName": "Cloudflare, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-68469687a548",
+    "providerName": "Commvault Systems, Inc.",
+    "cik": 1169561,
+    "ticker": "CVLT",
+    "secName": "COMMVAULT SYSTEMS INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-21c211debb17",
+    "providerName": "Confluent",
+    "cik": 1699838,
+    "ticker": "CFLT (historical)",
+    "secName": "CONFLUENT, INC.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-c626c6a2e289",
+    "providerName": "Consensus Cloud Solutions",
+    "cik": 1866633,
+    "ticker": "CCSI",
+    "secName": "Consensus Cloud Solutions, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-101958dadd6e",
+    "providerName": "CrowdStrike, Inc.",
+    "cik": 1535527,
+    "ticker": "CRWD",
+    "secName": "CrowdStrike Holdings, Inc.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-4d8bd97f0310",
+    "providerName": "Datadog",
+    "cik": 1561550,
+    "ticker": "DDOG",
+    "secName": "Datadog, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-739bde84abd7",
+    "providerName": "Dexcom Inc.",
+    "cik": 1093557,
+    "ticker": "DXCM",
+    "secName": "DEXCOM INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-a66f937e9f4f",
+    "providerName": "DLH Corporation",
+    "cik": 785557,
+    "ticker": "DLHC",
+    "secName": "DLH Holdings Corp.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-79f0e91bc044",
+    "providerName": "Docebo",
+    "cik": 1829959,
+    "ticker": "DCBO",
+    "secName": "Docebo Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-24415532349d",
+    "providerName": "DocuSign",
+    "cik": 1261333,
+    "ticker": "DOCU",
+    "secName": "DOCUSIGN, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-9e1d80b47a17",
+    "providerName": "Dynatrace",
+    "cik": 1773383,
+    "ticker": "DT",
+    "secName": "Dynatrace, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-7076a9b233b8",
+    "providerName": "eGain Corporation",
+    "cik": 1066194,
+    "ticker": "EGAN",
+    "secName": "EGAIN Corp",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-986051385fea",
+    "providerName": "Elastic",
+    "cik": 1707753,
+    "ticker": "ESTC",
+    "secName": "Elastic N.V.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-b6e1288527a6",
+    "providerName": "F5, Inc.",
+    "cik": 1048695,
+    "ticker": "FFIV",
+    "secName": "F5, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-5b79d0d574ee",
+    "providerName": "Figma",
+    "cik": 1579878,
+    "ticker": "FIG",
+    "secName": "Figma, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-8ab95df603f7",
+    "providerName": "Freshworks",
+    "cik": 1544522,
+    "ticker": "FRSH",
+    "secName": "Freshworks Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-9d96d9d5b1ad",
+    "providerName": "GitLab",
+    "cik": 1653482,
+    "ticker": "GTLB",
+    "secName": "Gitlab Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-bbdefa2950f4",
+    "providerName": "Google",
+    "cik": 1652044,
+    "ticker": "GOOGL",
+    "secName": "Alphabet Inc.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-93969d193161",
+    "providerName": "HP Inc.",
+    "cik": 47217,
+    "ticker": "HPQ",
+    "secName": "HP INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-916a98f0fa2a",
+    "providerName": "IBM",
+    "cik": 51143,
+    "ticker": "IBM",
+    "secName": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-65f96528b346",
+    "providerName": "Iron Mountain",
+    "cik": 1020569,
+    "ticker": "IRM",
+    "secName": "IRON MOUNTAIN INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-455a707cc506",
+    "providerName": "Knightscope, Inc.",
+    "cik": 1600983,
+    "ticker": "KSCP",
+    "secName": "Knightscope, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-b93b3f8889c7",
+    "providerName": "Manhattan Associates, Inc.",
+    "cik": 1056696,
+    "ticker": "MANH",
+    "secName": "MANHATTAN ASSOCIATES INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-97599235748f",
+    "providerName": "MAXIMUS Inc.",
+    "cik": 1032220,
+    "ticker": "MMS",
+    "secName": "MAXIMUS, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-9fbf261b62c1",
+    "providerName": "Microsoft",
+    "cik": 789019,
+    "ticker": "MSFT",
+    "secName": "MICROSOFT CORP",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-94e58916161f",
+    "providerName": "MicroStrategy",
+    "cik": 1050446,
+    "ticker": "MSTR",
+    "secName": "Strategy Inc",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-1cc9a79bdaf0",
+    "providerName": "MongoDB",
+    "cik": 1441816,
+    "ticker": "MDB",
+    "secName": "MongoDB, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-9b51eb20d167",
+    "providerName": "Motorola Solutions",
+    "cik": 68505,
+    "ticker": "MSI",
+    "secName": "Motorola Solutions, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-82535cbd439c",
+    "providerName": "Netskope, Inc.",
+    "cik": 2063196,
+    "ticker": "NTSK",
+    "secName": "Netskope Inc",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-65819e198c32",
+    "providerName": "Okta",
+    "cik": 1660134,
+    "ticker": "OKTA",
+    "secName": "Okta, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-ab91dd928254",
+    "providerName": "OneSpan Inc.",
+    "cik": 1044777,
+    "ticker": "OSPN",
+    "secName": "OneSpan Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-9202af6ce925",
+    "providerName": "Oracle",
+    "cik": 1341439,
+    "ticker": "ORCL",
+    "secName": "ORACLE CORP",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-1c6cda31110c",
+    "providerName": "PagerDuty",
+    "cik": 1568100,
+    "ticker": "PD",
+    "secName": "PagerDuty, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-4cfd4766e309",
+    "providerName": "Palantir Technologies",
+    "cik": 1321655,
+    "ticker": "PLTR",
+    "secName": "Palantir Technologies Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-099d99207621",
+    "providerName": "Palo Alto Networks, Inc.",
+    "cik": 1327567,
+    "ticker": "PANW",
+    "secName": "Palo Alto Networks Inc",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-8f912ddc2b21",
+    "providerName": "Pegasystems",
+    "cik": 1013857,
+    "ticker": "PEGA",
+    "secName": "PEGASYSTEMS INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-f5d0c7bc8a3c",
+    "providerName": "Pitney Bowes",
+    "cik": 78814,
+    "ticker": "PBI",
+    "secName": "PITNEY BOWES INC /DE/",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-013144c7d63b",
+    "providerName": "Procore Technologies, Inc",
+    "cik": 1611052,
+    "ticker": "PCOR",
+    "secName": "PROCORE TECHNOLOGIES, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-1e7d5ea11009",
+    "providerName": "PTC",
+    "cik": 857005,
+    "ticker": "PTC",
+    "secName": "PTC INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-5cc935b4ad65",
+    "providerName": "Qualys",
+    "cik": 1107843,
+    "ticker": "QLYS",
+    "secName": "QUALYS, INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-b8cc093d15e0",
+    "providerName": "Rapid7",
+    "cik": 1560327,
+    "ticker": "RPD",
+    "secName": "Rapid7, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-4094a2b7125c",
+    "providerName": "Rubrik",
+    "cik": 1943896,
+    "ticker": "RBRK",
+    "secName": "Rubrik, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-56b1d6ae8c92",
+    "providerName": "SailPoint Technologies, Inc.",
+    "cik": 2030781,
+    "ticker": "SAIL",
+    "secName": "SailPoint, Inc.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-3ccbd9105a45",
+    "providerName": "Salesforce",
+    "cik": 1108524,
+    "ticker": "CRM",
+    "secName": "Salesforce, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-2b219c9dc0a7",
+    "providerName": "Samsara Inc.",
+    "cik": 1642896,
+    "ticker": "IOT",
+    "secName": "Samsara Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-6171b6243aaf",
+    "providerName": "SentinelOne",
+    "cik": 1583708,
+    "ticker": "S",
+    "secName": "SentinelOne, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-b5738c169b69",
+    "providerName": "ServiceNow",
+    "cik": 1373715,
+    "ticker": "NOW",
+    "secName": "ServiceNow, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-fe9fd34c81a7",
+    "providerName": "Skillsoft",
+    "cik": 1774675,
+    "ticker": "SKIL",
+    "secName": "Skillsoft Corp.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-de5a1adf4fed",
+    "providerName": "Snowflake Inc.",
+    "cik": 1640147,
+    "ticker": "SNOW",
+    "secName": "Snowflake Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-0a22765acf2b",
+    "providerName": "Solventum",
+    "cik": 1964738,
+    "ticker": "SOLV",
+    "secName": "Solventum Corp",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-6efd03c45b42",
+    "providerName": "Sprinklr, Inc.",
+    "cik": 1569345,
+    "ticker": "CXM",
+    "secName": "Sprinklr, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-c987adc38cb5",
+    "providerName": "Telos Corporation",
+    "cik": 320121,
+    "ticker": "TLS",
+    "secName": "TELOS CORP",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-3464f13b5948",
+    "providerName": "Tenable",
+    "cik": 1660280,
+    "ticker": "TENB",
+    "secName": "Tenable Holdings, Inc.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-cb571403f03f",
+    "providerName": "Thomson Reuters",
+    "cik": 1075124,
+    "ticker": "TRI",
+    "secName": "THOMSON REUTERS CORP /CAN/",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-abb9bdfbce3c",
+    "providerName": "TransUnion LLC",
+    "cik": 1552033,
+    "ticker": "TRU",
+    "secName": "TransUnion",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-9044b6bac0e6",
+    "providerName": "Trimble Inc.",
+    "cik": 864749,
+    "ticker": "TRMB",
+    "secName": "TRIMBLE INC.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-f19600b9e18f",
+    "providerName": "UiPath",
+    "cik": 1734722,
+    "ticker": "PATH",
+    "secName": "UiPath, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-aba20fea803f",
+    "providerName": "Varonis",
+    "cik": 1361113,
+    "ticker": "VRNS",
+    "secName": "VARONIS SYSTEMS INC",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-c9cfabddd9c6",
+    "providerName": "Veritone, Inc.",
+    "cik": 1615165,
+    "ticker": "VERI",
+    "secName": "Veritone, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-4e44ddffb6da",
+    "providerName": "Workday Inc.",
+    "cik": 1327811,
+    "ticker": "WDAY",
+    "secName": "Workday, Inc.",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-e785b65f250d",
+    "providerName": "Workiva",
+    "cik": 1445305,
+    "ticker": "WK",
+    "secName": "WORKIVA INC",
+    "matchBasis": "exact normalized legal name"
+  },
+  {
+    "providerId": "csp-ba9d19e7d8f0",
+    "providerName": "Xerox Corporation",
+    "cik": 1770450,
+    "ticker": "XRX",
+    "secName": "Xerox Holdings Corp",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-78d29618630f",
+    "providerName": "Zeta Global Corp.",
+    "cik": 1851003,
+    "ticker": "ZETA",
+    "secName": "Zeta Global Holdings Corp.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-194dbd4fb732",
+    "providerName": "Zoom Video Communications, LLC",
+    "cik": 1585521,
+    "ticker": "ZM",
+    "secName": "Zoom Communications, Inc.",
+    "matchBasis": "reviewed corporate name alias"
+  },
+  {
+    "providerId": "csp-b1b40dcb8dfa",
+    "providerName": "Zscaler, Inc.",
+    "cik": 1713683,
+    "ticker": "ZS",
+    "secName": "Zscaler, Inc.",
+    "matchBasis": "exact normalized legal name"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-33b37983fc91",
+  "retrievedAt": "2026-10-30T09:10:57.424Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ardoq.com",
+      "finalUrl": "https://www.ardoq.com/",
+      "status": "success",
+      "sha256": "b9e3cc86b27e0bd7525bea954a6e27ce59bc68600621103532746f30af5e3557",
+      "title": "Enterprise Architecture Software | Ardoq",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "erta Simmons dreamt big and saved $5 million by implementing a smarter, data-driven approach to Enterprise Architec"
+        }
+      ]
+    }
+  ]
+}

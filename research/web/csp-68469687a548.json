@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-68469687a548",
+  "retrievedAt": "2026-10-30T09:11:10.864Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.commvault.com/news/introducing-commvault-cloud-powered-by-metallic-ai",
+      "finalUrl": "https://www.commvault.com/news/introducing-commvault-cloud-powered-by-metallic-ai",
+      "status": "success",
+      "sha256": "e016c81b8d2c86231b5f7c785c40d91beb965a6c0d0b6e8f60068559402de914",
+      "title": "Introducing Commvault Cloud Powered by Metallic AI | News",
+      "signals": []
+    }
+  ]
+}

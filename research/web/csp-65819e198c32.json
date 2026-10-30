@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-65819e198c32",
+  "retrievedAt": "2026-10-30T09:11:44.556Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.okta.com/",
+      "finalUrl": "https://www.okta.com/",
+      "status": "success",
+      "sha256": "c25bb521ea76e72c6ce773c8578db78e81d1d305857b87f9bc2b02a2572faea3",
+      "title": "Secure Identity for Employees, Customers, and AI | Okta",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ality Technology Non-Profit Energy Small Business Free Trial Pricing Product Innovation Product Training Customer S"
+        },
+        {
+          "kind": "size",
+          "excerpt": "ty from AI agents to your customers, employees, and partners. Free Trial Pricing Product Innovation Product Trainin"
+        }
+      ]
+    }
+  ]
+}

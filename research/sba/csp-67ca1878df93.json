@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-67ca1878df93",
+  "providerName": "KnowBe4, Inc.",
+  "retrievedAt": "2026-10-30T09:11:30.297Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KnowBe4, .",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

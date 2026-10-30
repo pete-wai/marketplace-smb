@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-1988c3cb4278",
+  "retrievedAt": "2026-10-30T09:11:29.694Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ivminc.com",
+      "finalUrl": "https://www.ivminc.com/",
+      "status": "success",
+      "sha256": "ff4d3f5289237c4360cdd693fb9579aa91ef6c6137ced8a3838168f04069a4b6",
+      "title": "Smart Vending Solutions | Technology That Works Harder, So Your Team Can Work Smarter",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "udy Intel Anyone who has worked in a large company knows what it is like to wait a half-day for a new computer whil"
+        },
+        {
+          "kind": "size",
+          "excerpt": "ductivity and employee satisfaction. Employees need easy access to critical PPE (Personal Protective Equipment) and"
+        }
+      ]
+    }
+  ]
+}

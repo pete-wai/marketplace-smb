@@ -1,0 +1,217 @@
+{
+  "retrievedAt": "2026-10-30T09:18:14.783Z",
+  "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002030781.json",
+  "cik": "0002030781",
+  "entityName": "SailPoint, Inc.",
+  "facts": {
+    "RevenueFromContractWithCustomerExcludingAssessedTax": {
+      "label": "Revenue from Contract with Customer, Excluding Assessed Tax",
+      "description": "Amount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.",
+      "units": {
+        "USD": [
+          {
+            "start": "2023-02-01",
+            "end": "2024-01-31",
+            "val": 699572000,
+            "accn": "0002030781-26-000003",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-03-19",
+            "frame": "CY2023"
+          },
+          {
+            "start": "2024-02-01",
+            "end": "2024-04-30",
+            "val": 187656000,
+            "accn": "0002030781-25-000024",
+            "fy": 2026,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2025-06-12",
+            "frame": "CY2024Q1"
+          },
+          {
+            "start": "2024-02-01",
+            "end": "2024-07-31",
+            "val": 386231000,
+            "accn": "0002030781-25-000035",
+            "fy": 2026,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-09-10"
+          },
+          {
+            "start": "2024-05-01",
+            "end": "2024-07-31",
+            "val": 198575000,
+            "accn": "0002030781-25-000035",
+            "fy": 2026,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-09-10",
+            "frame": "CY2024Q2"
+          },
+          {
+            "start": "2024-02-01",
+            "end": "2024-10-31",
+            "val": 621490000,
+            "accn": "0002030781-25-000051",
+            "fy": 2026,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2025-12-10"
+          },
+          {
+            "start": "2024-08-01",
+            "end": "2024-10-31",
+            "val": 235259000,
+            "accn": "0002030781-25-000051",
+            "fy": 2026,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2025-12-10",
+            "frame": "CY2024Q3"
+          },
+          {
+            "start": "2024-02-01",
+            "end": "2025-01-31",
+            "val": 861611000,
+            "accn": "0002030781-26-000003",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-03-19",
+            "frame": "CY2024"
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-04-30",
+            "val": 230468000,
+            "accn": "0002030781-25-000024",
+            "fy": 2026,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2025-06-12"
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-04-30",
+            "val": 230468000,
+            "accn": "0002030781-26-000011",
+            "fy": 2027,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2026-06-10",
+            "frame": "CY2025Q1"
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-07-31",
+            "val": 494827000,
+            "accn": "0002030781-25-000035",
+            "fy": 2026,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-09-10"
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-07-31",
+            "val": 494827000,
+            "accn": "0002030781-26-000021",
+            "fy": 2027,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2026-09-10"
+          },
+          {
+            "start": "2025-05-01",
+            "end": "2025-07-31",
+            "val": 264359000,
+            "accn": "0002030781-25-000035",
+            "fy": 2026,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2025-09-10"
+          },
+          {
+            "start": "2025-05-01",
+            "end": "2025-07-31",
+            "val": 264359000,
+            "accn": "0002030781-26-000021",
+            "fy": 2027,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2026-09-10",
+            "frame": "CY2025Q2"
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2025-10-31",
+            "val": 776769000,
+            "accn": "0002030781-25-000051",
+            "fy": 2026,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2025-12-10"
+          },
+          {
+            "start": "2025-08-01",
+            "end": "2025-10-31",
+            "val": 281942000,
+            "accn": "0002030781-25-000051",
+            "fy": 2026,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2025-12-10",
+            "frame": "CY2025Q3"
+          },
+          {
+            "start": "2025-02-01",
+            "end": "2026-01-31",
+            "val": 1071416000,
+            "accn": "0002030781-26-000003",
+            "fy": 2026,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2026-03-19",
+            "frame": "CY2025"
+          },
+          {
+            "start": "2026-02-01",
+            "end": "2026-04-30",
+            "val": 280142000,
+            "accn": "0002030781-26-000011",
+            "fy": 2027,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2026-06-10",
+            "frame": "CY2026Q1"
+          },
+          {
+            "start": "2026-02-01",
+            "end": "2026-07-31",
+            "val": 588955000,
+            "accn": "0002030781-26-000021",
+            "fy": 2027,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2026-09-10"
+          },
+          {
+            "start": "2026-05-01",
+            "end": "2026-07-31",
+            "val": 308813000,
+            "accn": "0002030781-26-000021",
+            "fy": 2027,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2026-09-10",
+            "frame": "CY2026Q2"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6cb91e356a54",
+  "retrievedAt": "2026-10-30T09:11:37.377Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://maplarge.com/",
+      "finalUrl": "https://maplarge.com/",
+      "status": "success",
+      "sha256": "28dac62d620d9c4df96dd8fa8d4beba81be1955427d897d62bf4f666b9db0b39",
+      "title": "Rapid Last Mile Applications for Operational AI",
+      "signals": []
+    }
+  ]
+}

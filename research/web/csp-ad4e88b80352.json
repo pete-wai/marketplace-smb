@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ad4e88b80352",
+  "retrievedAt": "2026-10-30T09:11:34.752Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://levelblue.com/xdr/tdr-for-government",
+      "finalUrl": "https://www.levelblue.com/xdr-for-government",
+      "status": "success",
+      "sha256": "d02eb654107b9562b2e80eb02aecaa4436410a709e6b4332cd914790cb1ece25",
+      "title": "Extended Detection and Response Solution for Government | LevelBlue",
+      "signals": []
+    }
+  ]
+}

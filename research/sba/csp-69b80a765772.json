@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-69b80a765772",
+  "providerName": "MasterControl",
+  "retrievedAt": "2026-10-30T09:11:48.996Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "PQTMKNMMJFW3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "MasterControl",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

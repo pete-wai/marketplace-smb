@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-593438e65f38",
+  "retrievedAt": "2026-10-30T09:11:20.786Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.enelx.com/n-a/",
+      "finalUrl": "https://www.enelnorthamerica.com/",
+      "status": "success",
+      "sha256": "b901bd9fec5d4ad96cc3b9d0ed061651bee0334918d2f60e246fd977429241d3",
+      "title": "Your Clean Energy Partner | Enel North America ",
+      "signals": []
+    }
+  ]
+}

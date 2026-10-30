@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-3b57886c008d",
+  "providerName": "Leidos Digital Solutions, Inc.",
+  "retrievedAt": "2026-10-30T09:11:33.178Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "R8DWHMDFAFF1",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Leidos Digital Solutions, .",
+      "status": "success",
+      "results": 13,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

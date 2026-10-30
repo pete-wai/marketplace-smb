@@ -1,0 +1,57 @@
+{
+  "providerId": "csp-8c9a924aad0d",
+  "providerName": "Intrepid Networks LLC",
+  "retrievedAt": "2026-10-30T09:11:18.859Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LU9HZUP959K9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "INTREPID NETWORKS L.L.C.",
+      "dba_name": "INTREPID NETWORKS LLC",
+      "uei": "LU9HZUP959K9",
+      "cage_code": "6VYD3",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789603200,
+      "website": "www.intrepid-networks.com",
+      "additional_website": "https://Intrepid-Networks.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2011",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

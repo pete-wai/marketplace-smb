@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1614ce6ad253",
+  "retrievedAt": "2026-10-30T09:11:40.533Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://movius.ai",
+      "finalUrl": "https://movius.ai/",
+      "status": "success",
+      "sha256": "9d730c29d5e54a832d8338736bb1bd709f26da6763ba0702543ea4c65dac7327",
+      "title": "Home | Movius",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "re Education Construction Services Small Business Trucking MultiLine Solutions By Use Movius Phantom® Alloy for Mic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c032e4b7015e",
+  "retrievedAt": "2026-10-30T09:11:35.877Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.longevityconsulting.com/riskuity/",
+      "finalUrl": "https://www.longevityconsulting.com/riskuity/",
+      "status": "success",
+      "sha256": "3f31d436cb0d26a3829fb3fe14d75360e22ecd9ac87f6979edfa975623c32ec0",
+      "title": "Riskuity - Longevity",
+      "signals": []
+    }
+  ]
+}

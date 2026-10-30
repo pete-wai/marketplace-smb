@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-eb8c0ab84091",
+  "retrievedAt": "2026-10-30T09:12:01.643Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://stell-engineering.com/",
+      "finalUrl": "https://stell-engineering.com/",
+      "status": "success",
+      "sha256": "4b59df0db69c525eb8d15ddc85383c45cf3e4e6d3fcbc37a8b7c17c44afb6ba7",
+      "title": "Stell — Secure, AI-Native, Requirements Management Software",
+      "signals": []
+    }
+  ]
+}

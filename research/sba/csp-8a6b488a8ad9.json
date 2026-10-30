@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-8a6b488a8ad9",
+  "providerName": "Mural Tactivos Inc., DBA Mural",
+  "retrievedAt": "2026-10-30T09:11:55.609Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Mural Tactivos ., DBA Mural",
+      "status": "success",
+      "results": 185,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

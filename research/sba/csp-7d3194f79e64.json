@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-7d3194f79e64",
+  "providerName": "OpenAI",
+  "retrievedAt": "2026-10-30T09:12:10.089Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "OpenAI",
+      "status": "success",
+      "results": 213,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

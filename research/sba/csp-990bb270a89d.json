@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-990bb270a89d",
+  "providerName": "TeamViewer",
+  "retrievedAt": "2026-10-30T09:13:05.538Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TeamViewer",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

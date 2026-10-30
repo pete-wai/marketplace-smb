@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9e1dcf013ad2",
+  "retrievedAt": "2026-10-30T09:11:16.858Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.devresults.com/",
+      "finalUrl": "https://www.devresults.com/",
+      "status": "success",
+      "sha256": "08bcea1a33cb7020466b3369513a4f3271dc6f2fe171abc4aa0105822c46dd9b",
+      "title": "Welcome | DevResults: Monitoring &amp; evaluation software for global development.",
+      "signals": []
+    }
+  ]
+}

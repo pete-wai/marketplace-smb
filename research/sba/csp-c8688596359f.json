@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c8688596359f",
+  "providerName": "IntelliGRC, Inc.",
+  "retrievedAt": "2026-10-30T09:11:16.438Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "IntelliGRC, .",
+      "status": "success",
+      "results": 28,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

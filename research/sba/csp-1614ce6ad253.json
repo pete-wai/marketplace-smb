@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-1614ce6ad253",
+  "providerName": "Movius Interactive Corporation",
+  "retrievedAt": "2026-10-30T09:11:54.542Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ZC7FMFLN48H3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MOVIUS INTERACTIVE CORPORATION",
+      "dba_name": "",
+      "uei": "ZC7FMFLN48H3",
+      "cage_code": "8RKK0",
+      "naics_primary": "541715",
+      "naics_all_codes": [
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1783641600,
+      "website": "https://movius.ai",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2008",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

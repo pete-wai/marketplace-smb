@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-85cb1fe29985",
+  "providerName": "SMX (Formerly Smartronix)",
+  "retrievedAt": "2026-10-30T09:12:53.007Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SMX (Formerly Smartronix)",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

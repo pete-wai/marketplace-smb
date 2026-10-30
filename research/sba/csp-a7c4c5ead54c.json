@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-a7c4c5ead54c",
+  "providerName": "Files.com",
+  "retrievedAt": "2026-10-30T09:10:32.788Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "E41FM27LQUY7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Files.com",
+      "status": "success",
+      "results": 1436,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

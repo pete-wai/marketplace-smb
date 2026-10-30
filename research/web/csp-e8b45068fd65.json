@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e8b45068fd65",
+  "retrievedAt": "2026-10-30T09:10:56.885Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://appomni.com/industry-solutions/public-sector/",
+      "finalUrl": "https://appomni.com/industry-solutions/public-sector/",
+      "status": "success",
+      "sha256": "09345c29ee1172b15560f90077b1fa56557c8229afd07bf737a2061c5c3ead57",
+      "title": "SaaS Security for the Public Sector - AppOmni",
+      "signals": []
+    }
+  ]
+}

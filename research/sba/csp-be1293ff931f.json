@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-be1293ff931f",
+  "providerName": "iBoss",
+  "retrievedAt": "2026-10-30T09:10:58.614Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "iBoss",
+      "status": "success",
+      "results": 10,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "IBOSS, INC.",
+      "dba_name": "",
+      "uei": "U3GMKAUG3HH8",
+      "cage_code": "50QA9",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "334111",
+        "423430",
+        "513210",
+        "541511",
+        "541512",
+        "541519",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "334111",
+        "423430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1767657600,
+      "website": "https://www.iboss.com",
+      "additional_website": "http://www.ibosswebfilters.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2004",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

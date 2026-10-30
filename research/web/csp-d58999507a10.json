@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d58999507a10",
+  "retrievedAt": "2026-10-30T09:11:43.180Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.nominal.io",
+      "finalUrl": "https://nominal.io/",
+      "status": "success",
+      "sha256": "bd6a702984124b14719c1ea65f55de2b834f2406e570b86d1cf24a34daa4dbc0",
+      "title": "Nominal | The unified software suite to test and operate hardware",
+      "signals": []
+    }
+  ]
+}

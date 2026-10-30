@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-cb571403f03f",
+  "retrievedAt": "2026-10-30T09:12:04.995Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://legal.thomsonreuters.com/en/westlaw",
+      "finalUrl": "https://legal.thomsonreuters.com/en/westlaw",
+      "status": "success",
+      "sha256": "798e1fe860f66fb7eb24558c780568b3e087affe51550732a4aa7788bcd8b53a",
+      "title": "Westlaw – Legal Research Platforms | Thomson Reuters",
+      "signals": []
+    }
+  ]
+}

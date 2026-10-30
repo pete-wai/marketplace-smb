@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-13eaa72609cd",
+  "retrievedAt": "2026-10-30T09:11:32.399Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.keepersecurity.com/industries/public-sector.html",
+      "finalUrl": "https://www.keepersecurity.com/government-cloud/",
+      "status": "success",
+      "sha256": "acb1de56ed60a0954fbc506ded83cfb998162717dc74fab27a6165ff358ba2de",
+      "title": "FedRAMP Password Manager and PAM for Agencies | Keeper",
+      "signals": []
+    }
+  ]
+}

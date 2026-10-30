@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-98897d264d40",
+  "retrievedAt": "2026-10-30T09:11:02.034Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://beam.org/en-us",
+      "finalUrl": "https://beam.org/en-us",
+      "status": "success",
+      "sha256": "3f1a5cce994730d034aeb370bc698546b3f8eb65e6b3a72d20b204ac665d4a1c",
+      "title": "Beam",
+      "signals": []
+    }
+  ]
+}

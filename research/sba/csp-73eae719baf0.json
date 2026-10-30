@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-73eae719baf0",
+  "providerName": "Mycroft Technologies Inc",
+  "retrievedAt": "2026-10-30T09:11:56.396Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Mycroft Technologies",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

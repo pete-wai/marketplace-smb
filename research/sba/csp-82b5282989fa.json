@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-82b5282989fa",
+  "providerName": "Rave Mobile Safety",
+  "retrievedAt": "2026-10-30T09:12:33.632Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DPLBA7E1GJQ4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Rave Mobile Safety",
+      "status": "success",
+      "results": 30,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

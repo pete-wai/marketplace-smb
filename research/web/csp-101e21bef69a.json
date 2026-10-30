@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-101e21bef69a",
+  "retrievedAt": "2026-10-30T09:12:00.936Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.splunk.com/",
+      "finalUrl": "https://www.splunk.com/",
+      "status": "success",
+      "sha256": "9fa37ee229f276fa43a09cdc87b95d5653184116dca050aee4fa868cf5fb7b49",
+      "title": "Splunk | Data Platform for Security, Observability &amp; AI",
+      "signals": []
+    }
+  ]
+}

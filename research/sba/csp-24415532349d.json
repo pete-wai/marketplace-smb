@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-24415532349d",
+  "providerName": "DocuSign",
+  "retrievedAt": "2026-10-30T09:10:13.317Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DocuSign",
+      "status": "success",
+      "results": 15,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

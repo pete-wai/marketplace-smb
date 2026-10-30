@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-74bec9be9c8f",
+  "providerName": "Medallia Inc.",
+  "retrievedAt": "2026-10-30T09:11:50.136Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Medallia .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Medallia, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

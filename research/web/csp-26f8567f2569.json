@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-26f8567f2569",
+  "retrievedAt": "2026-10-30T09:11:04.606Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.box.com/",
+      "finalUrl": "https://www.box.com/",
+      "status": "success",
+      "sha256": "bd349f6889dc3d9816fafc7698d2bc1d1822a4af4b14b6c8fb04740ebbeeaccd",
+      "title": "Box | AI-Powered Content Management, Workflow &amp; Collaboration",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "nking State &amp; Local Government Small Business Education Professional Services Law Firms Insurance Manufacturing"
+        }
+      ]
+    }
+  ]
+}

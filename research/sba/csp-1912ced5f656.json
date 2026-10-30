@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-1912ced5f656",
+  "providerName": "BLINK CHARGING",
+  "retrievedAt": "2026-10-30T09:09:31.574Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "BLINK CHARGING",
+      "status": "success",
+      "results": 334,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "BLINK CHARGING CO.",
+      "dba_name": "BLINK CHARGING CO",
+      "uei": "RDL2FXZ8VV53",
+      "cage_code": "7D1U8",
+      "naics_primary": "336320",
+      "naics_all_codes": [
+        "336110",
+        "336120",
+        "336320",
+        "488999",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "336110",
+        "336120",
+        "336320"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1777334400,
+      "website": "https://blinkcharging.com/",
+      "additional_website": "http://www.carcharging.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2006",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

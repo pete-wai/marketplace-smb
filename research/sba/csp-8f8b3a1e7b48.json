@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-8f8b3a1e7b48",
+  "providerName": "Infotek Consulting LLC",
+  "retrievedAt": "2026-10-30T09:14:52.395Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Infotek Consulting",
+      "status": "success",
+      "results": 21,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

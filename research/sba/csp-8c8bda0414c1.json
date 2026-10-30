@@ -1,0 +1,48 @@
+{
+  "providerId": "csp-8c8bda0414c1",
+  "providerName": "SentiLink Corp",
+  "retrievedAt": "2026-10-30T09:12:47.738Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SentiLink",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SENTILINK CORP",
+      "dba_name": "",
+      "uei": "WJ6LCDBFQTZ4",
+      "cage_code": "9AZ36",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "561450"
+      ],
+      "naics_small_codes": [
+        "561450"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788220800,
+      "website": "www.sentilink.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2017",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

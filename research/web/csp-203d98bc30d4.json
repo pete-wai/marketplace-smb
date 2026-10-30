@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-203d98bc30d4",
+  "retrievedAt": "2026-10-30T09:12:06.646Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tpgsi.com",
+      "finalUrl": "https://www.tpgsi.com/",
+      "status": "success",
+      "sha256": "1e83b5adce77f451122ecb83fadca72399bee5b4ce42b050f5e38a2ad2c6054c",
+      "title": "TurningPoint Global Solutions | Innovative IT & Telecom Services",
+      "signals": []
+    }
+  ]
+}

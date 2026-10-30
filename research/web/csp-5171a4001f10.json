@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5171a4001f10",
+  "retrievedAt": "2026-10-30T09:10:51.703Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.86borders.com",
+      "finalUrl": "https://www.86borders.com/",
+      "status": "success",
+      "sha256": "20cdbccbf54783f99ab6f3192848d98effd2c09c8352557fa9d85aa190f23e4b",
+      "title": "86Borders &#8211; Member focused. Performance Driven.",
+      "signals": []
+    }
+  ]
+}

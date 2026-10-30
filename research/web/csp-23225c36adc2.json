@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-23225c36adc2",
+  "retrievedAt": "2026-10-30T09:15:04.335Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.transform9.com/",
+      "finalUrl": "https://www.transform9.com/",
+      "status": "success",
+      "sha256": "600aadc773ded01c178d18452795669b2ef9949c11b3d8f3a7e17882ead02202",
+      "title": "Transform9 — Maximize Every Call with a Custom AI Agent",
+      "signals": []
+    }
+  ]
+}

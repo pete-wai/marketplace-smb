@@ -1,0 +1,67 @@
+{
+  "providerId": "csp-6e32ef193882",
+  "providerName": "Information First, Inc.",
+  "retrievedAt": "2026-10-30T09:14:52.317Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "L4YRB111WR81",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "INFORMATION FIRST, INC.",
+      "dba_name": "",
+      "uei": "L4YRB111WR81",
+      "cage_code": "3C5L1",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541512",
+        "541519",
+        "541611",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541512",
+        "541519",
+        "541611",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1792368000,
+      "website": "http://www.info-first.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2002",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "WOSB",
+          "active": true,
+          "entranceDate": "2024-10-09",
+          "exitDate": "2027-10-09",
+          "pending": false,
+          "suspended": false,
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

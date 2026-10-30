@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-aa705ca3c030",
+  "retrievedAt": "2026-10-30T09:11:39.194Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://meterbox.ai/",
+      "finalUrl": "https://meterbox.ai/",
+      "status": "success",
+      "sha256": "86fe0bd7135fa66c3405dd522a413ebfc2f6dd906db951864cd3acf130d68d24",
+      "title": "Meterbox | The operating system for software monetization",
+      "signals": []
+    }
+  ]
+}

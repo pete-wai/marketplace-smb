@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-fd1db23bd55a",
+  "providerName": "ThreatConnect",
+  "retrievedAt": "2026-10-30T09:13:26.218Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "KAL6DBDDMCM4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "ThreatConnect",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-81937a7b4fb6",
+  "providerName": "Bizzdesign US",
+  "retrievedAt": "2026-10-30T09:09:29.370Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "THG8K8T7MJR3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Bizzdesign US",
+      "status": "success",
+      "results": 6,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

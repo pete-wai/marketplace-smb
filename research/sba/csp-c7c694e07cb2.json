@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-c7c694e07cb2",
+  "providerName": "Advent Business Company Inc.",
+  "retrievedAt": "2026-10-30T09:09:11.432Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Advent Business Company .",
+      "status": "success",
+      "results": 61,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "ADVENT BUSINESS COMPANY INC.",
+      "dba_name": "",
+      "uei": "C7LGVA7B5JT1",
+      "cage_code": "627S4",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541513",
+        "541519"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541512",
+        "541513",
+        "541519"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1789948800,
+      "website": "https://adventbusiness.com",
+      "additional_website": "https://enablement.us",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2012-11-26",
+          "exitDate": "2023-04-05",
+          "caseNumber": "21775",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": null,
+          "officeId": null
+        },
+        {
+          "name": "WOSB",
+          "active": true,
+          "entranceDate": "2026-09-26",
+          "pending": true,
+          "suspended": false,
+          "status": "Pending"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

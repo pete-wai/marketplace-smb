@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3783f0c3352e",
+  "retrievedAt": "2026-10-30T09:11:26.360Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://groupize.ai/",
+      "finalUrl": "https://groupize.ai/",
+      "status": "success",
+      "sha256": "2533b1e5384cba175a698d3af08618202d7236dd264c3e0daf29ea8d496e67df",
+      "title": "Groupize AI",
+      "signals": []
+    }
+  ]
+}

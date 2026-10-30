@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-87913f0addf4",
+  "retrievedAt": "2026-10-30T09:11:06.590Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cavhq.ai/",
+      "finalUrl": "https://cavhq.ai/",
+      "status": "success",
+      "sha256": "b05a9479529086dfe8447e382c7bd6ff4e2d8154a0acdd993eadaae802064704",
+      "title": "Continuous Cyber Compliance and GRC Automation | Cav",
+      "signals": []
+    }
+  ]
+}

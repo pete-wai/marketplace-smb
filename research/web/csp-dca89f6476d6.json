@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-dca89f6476d6",
+  "retrievedAt": "2026-10-30T09:11:09.002Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://umbrella.cisco.com/products/cloud-access-security-broker-casb",
+      "finalUrl": "https://umbrella.cisco.com/products/cloud-access-security-broker-casb",
+      "status": "success",
+      "sha256": "97c8d8ee39c2900a47aa6d4fb906a0405a40656a24bf37aacdf30603b869d7ad",
+      "title": "Cisco Secure Access, the evolution of Cisco Umbrella - Cisco Umbrella",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "Security Enterprise Cloud Security Small Business Cybersecurity Resources Content Library Top Resources Research Re"
+        }
+      ]
+    }
+  ]
+}

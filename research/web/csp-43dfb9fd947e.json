@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-43dfb9fd947e",
+  "retrievedAt": "2026-10-30T09:11:25.705Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.globaltelehealthservices.com/",
+      "finalUrl": "https://www.globaltelehealthservices.com/",
+      "status": "success",
+      "sha256": "ad60982cd7a91262352234ad956faaa8abba22b0fe5ba69d0ab2531d181fbdbd",
+      "title": "HOME - Global Telehealth Services",
+      "signals": []
+    }
+  ]
+}

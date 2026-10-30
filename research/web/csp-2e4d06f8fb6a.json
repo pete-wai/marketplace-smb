@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-2e4d06f8fb6a",
+  "retrievedAt": "2026-10-30T09:12:04.064Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ttecdigital.com/solutions/humanify-g",
+      "finalUrl": "https://www.ttecdigital.com/solutions/humanify-g",
+      "status": "success",
+      "sha256": "710d16726e7485d5d9cde1293ad0f21d66cbab1ccb65ec7b5ab7f1a09b464175",
+      "title": "Humanify G | TTEC Digital",
+      "signals": []
+    }
+  ]
+}

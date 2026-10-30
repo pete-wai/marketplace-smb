@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-c128771337c2",
+  "providerName": "Magnet Forensics",
+  "retrievedAt": "2026-10-30T09:11:46.544Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Magnet Forensics",
+      "status": "success",
+      "results": 256,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

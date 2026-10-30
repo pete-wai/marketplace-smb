@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-4094a2b7125c",
+  "providerName": "Rubrik",
+  "retrievedAt": "2026-10-30T09:12:42.794Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HHKMMMELQG55",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Rubrik",
+      "status": "success",
+      "results": 16,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

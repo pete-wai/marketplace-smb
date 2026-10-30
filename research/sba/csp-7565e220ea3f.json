@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-7565e220ea3f",
+  "providerName": "AINS dba OPEXUS",
+  "retrievedAt": "2026-10-30T09:09:12.094Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "AINS dba OPEXUS",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

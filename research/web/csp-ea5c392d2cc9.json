@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ea5c392d2cc9",
+  "retrievedAt": "2026-10-30T09:11:03.047Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.blackline.com/products/financial-close/",
+      "finalUrl": "https://www.blackline.com/products/financial-close/",
+      "status": "success",
+      "sha256": "f8ba865b28a822a37b2f8584a1a7051313cae02058f5c1771919a9f4be905dcb",
+      "title": "Financial Close Management Software | BlackLine",
+      "signals": []
+    }
+  ]
+}

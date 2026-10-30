@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-d00a12b998e1",
+  "providerName": "RQI Partners LLC",
+  "retrievedAt": "2026-10-30T09:12:42.377Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "J8YVVD8BAW74",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "RQI Partners",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

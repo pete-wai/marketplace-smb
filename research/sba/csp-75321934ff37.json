@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-75321934ff37",
+  "providerName": "Armis Federal LLC",
+  "retrievedAt": "2026-10-30T09:09:21.008Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Armis Federal",
+      "status": "success",
+      "results": 731,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

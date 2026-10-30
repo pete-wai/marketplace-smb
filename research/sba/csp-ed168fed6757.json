@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-ed168fed6757",
+  "providerName": "MyEvaluations.com Inc.",
+  "retrievedAt": "2026-10-30T09:11:56.592Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MyEvaluations.com .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MYEVALUATIONS.COM INC",
+      "dba_name": "",
+      "uei": "FEDJJEGJMRP3",
+      "cage_code": "4AQ35",
+      "naics_primary": "611710",
+      "naics_all_codes": [
+        "513210",
+        "541513",
+        "541611",
+        "611420",
+        "611430",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541513",
+        "541611",
+        "611710"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1770163200,
+      "website": "http://www.MyEvaluations.com",
+      "additional_website": "https://www.myevaluations.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2004",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

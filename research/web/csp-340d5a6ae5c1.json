@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-340d5a6ae5c1",
+  "retrievedAt": "2026-10-30T09:15:04.716Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.verint.com/customer-self-service/",
+      "finalUrl": "https://www.verint.com/customer-self-service/",
+      "status": "success",
+      "sha256": "4c3b1c8a65d1904f686a29dadc879d15d65208a46d5df1189d31a91635f55038",
+      "title": "Customer Self-Service to Improve CX and Reduce Support Costs",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "interactions. 30% Revenue Increase A travel company achieved 95% containment and a 30% increase in revenue per book"
+        },
+        {
+          "kind": "size",
+          "excerpt": "ance Provider Generates Estimated $12 Million in Annual Value With Verint QM Intelligence The Best Contact Center I"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-4cad2cc2778c",
+  "retrievedAt": "2026-10-30T09:12:02.818Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://tvasolution.com",
+      "finalUrl": "https://tvasolution.com/",
+      "status": "success",
+      "sha256": "2ab0b4e7e8bb85d79f1e3bddb201a84217bc787b9d1dfe332a24d810027ed5ee",
+      "title": "Total Visibility Anywhere - Supply Chain Platform",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "l blind spots. Is TVA suitable for small businesses or only large enterprises? TVA scales to fit organizations of a"
+        }
+      ]
+    }
+  ]
+}

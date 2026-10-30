@@ -1,0 +1,50 @@
+{
+  "providerId": "csp-0dc8f791ab4b",
+  "providerName": "Scale AI, Inc",
+  "retrievedAt": "2026-10-30T09:12:45.176Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Scale AI,",
+      "status": "success",
+      "results": 3429,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SCALE AI, INC.",
+      "dba_name": "",
+      "uei": "CNE4V1J27PM9",
+      "cage_code": "9BQ70",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1776556800,
+      "website": "www.scale.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2016",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

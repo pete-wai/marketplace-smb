@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d509b707bf2d",
+  "retrievedAt": "2026-10-30T09:11:50.710Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.prymeinfil.com/",
+      "finalUrl": "https://www.prymeinfil.com/",
+      "status": "success",
+      "sha256": "cbaa24bf30af26f2932ad4b0fcc971eb6200f02ddcd82949d6ce465f18a5b834",
+      "title": "Pryme Infil - For The Prepared",
+      "signals": []
+    }
+  ]
+}

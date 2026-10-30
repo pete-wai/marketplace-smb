@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1e3bd9448dc9",
+  "retrievedAt": "2026-10-30T09:11:10.668Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.colabsoftware.com",
+      "finalUrl": "https://www.colabsoftware.com/",
+      "status": "success",
+      "sha256": "8c878f119830b8993a89d341b2049dc189c923359a6ee0ae79f157c5d992b962",
+      "title": "CoLab | AI-Powered Design Review for Engineering Teams",
+      "signals": []
+    }
+  ]
+}

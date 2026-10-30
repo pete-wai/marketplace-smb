@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-9e74ff9f4c7f",
+  "providerName": "MaintainX",
+  "retrievedAt": "2026-10-30T09:11:46.810Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MaintainX",
+      "status": "success",
+      "results": 4040,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

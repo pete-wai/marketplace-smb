@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-34feb3621f7b",
+  "providerName": "Feith Sytems and Software, Inc.",
+  "retrievedAt": "2026-10-30T09:10:31.833Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Feith Sytems and Software, .",
+      "status": "success",
+      "results": 404,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "FEITH SYSTEMS & SOFTWARE, INC",
+      "dba_name": "",
+      "uei": "HXLKB5PUEUM7",
+      "cage_code": "0JWE6",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541614"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791849600,
+      "website": "http://www.feith.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1979",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

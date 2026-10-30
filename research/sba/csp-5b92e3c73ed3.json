@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5b92e3c73ed3",
+  "providerName": "Wiz, Inc.",
+  "retrievedAt": "2026-10-30T09:13:43.888Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Wiz, .",
+      "status": "success",
+      "results": 16,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

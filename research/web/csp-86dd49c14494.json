@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-86dd49c14494",
+  "retrievedAt": "2026-10-30T09:11:05.742Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://platform.gomoderniza.ai",
+      "finalUrl": "https://platform.gomoderniza.ai/",
+      "status": "success",
+      "sha256": "6fcddec53b1f3dc85d3b7006b85fbcffd790c665004a403ae2a2e6e46c41d112",
+      "title": "BI Moderniza",
+      "signals": []
+    }
+  ]
+}

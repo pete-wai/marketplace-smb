@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-3afbd5577a87",
+  "retrievedAt": "2026-10-30T09:11:48.111Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pdq.com/",
+      "finalUrl": "https://www.pdq.com/",
+      "status": "success",
+      "sha256": "1c77ae5bc438760bb06c944b96afdd99f065618caccaf6a09fc531d167b7a909",
+      "title": "PDQ: Software Deployment &amp; Inventory Management done right",
+      "signals": []
+    }
+  ]
+}

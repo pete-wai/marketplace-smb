@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6cbd5043adea",
+  "retrievedAt": "2026-10-30T09:11:40.641Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.isitellc.com/",
+      "finalUrl": "https://www.isitellc.com/",
+      "status": "success",
+      "sha256": "0732c959a394e3d4d3885dc330dcc57bc40e26f5f8cd9c9bd00ed30aacd0a6f8",
+      "title": "iSite iCMP, iPMO, and REALTIME Products",
+      "signals": []
+    }
+  ]
+}

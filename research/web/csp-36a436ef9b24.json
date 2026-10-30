@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-36a436ef9b24",
+  "retrievedAt": "2026-10-30T09:11:04.386Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.boozallen.com/",
+      "finalUrl": "https://www.boozallen.com/",
+      "status": "success",
+      "sha256": "b0d9e9844eb6ae8321bfc3f594425fce63c2666ec15a13cc8fd1e75c10b033f0",
+      "title": "Booz Allen",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "estors Contract Officers Suppliers Small Businesses INDUSTRIES Finance and Banking Government &amp; Civil Agencies "
+        }
+      ]
+    }
+  ]
+}

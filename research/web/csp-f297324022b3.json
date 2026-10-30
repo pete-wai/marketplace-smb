@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-f297324022b3",
+  "retrievedAt": "2026-10-30T09:11:52.218Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://quzara.com/solutions/cybertorch/mxdr",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

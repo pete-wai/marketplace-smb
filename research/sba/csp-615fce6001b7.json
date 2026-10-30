@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-615fce6001b7",
+  "providerName": "ATOM EVSE",
+  "retrievedAt": "2026-10-30T09:09:25.397Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LD9PWKTD7N35",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ATOM POWER INC",
+      "dba_name": "",
+      "uei": "LD9PWKTD7N35",
+      "cage_code": "7MDK8",
+      "naics_primary": "335313",
+      "naics_all_codes": [
+        "335313"
+      ],
+      "naics_small_codes": [
+        "335313"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1763596800,
+      "website": "www.atompower.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2014",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

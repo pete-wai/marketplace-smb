@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-da3809198e62",
+  "retrievedAt": "2026-10-30T09:11:59.032Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sirsidynix.com/",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

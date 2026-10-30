@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-9dfe5da8f1ff",
+  "providerName": "Stoke Space Technologies, Inc.",
+  "retrievedAt": "2026-10-30T09:13:00.614Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "QDQ6V2X12WF1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "STOKE SPACE TECHNOLOGIES, INC.",
+      "dba_name": "",
+      "uei": "QDQ6V2X12WF1",
+      "cage_code": "8EGX9",
+      "naics_primary": "481212",
+      "naics_all_codes": [
+        "336414",
+        "481212",
+        "513210",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "336414",
+        "481212",
+        "513210",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1777334400,
+      "website": "www.stokespace.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2019",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

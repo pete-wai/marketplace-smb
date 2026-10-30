@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c9fceacba090",
+  "retrievedAt": "2026-10-30T09:12:11.722Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.zlti.com/",
+      "finalUrl": "https://www.zlti.com/",
+      "status": "success",
+      "sha256": "5d3e8bbad5f74e2b832a18ed2bb449ef74c67cae166f72769f6df56ed5b083bc",
+      "title": "Information Management, Compliance, and Analytics Solutions - ZL Tech",
+      "signals": []
+    }
+  ]
+}

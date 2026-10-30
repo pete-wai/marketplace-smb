@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b363e0296ba0",
+  "retrievedAt": "2026-10-30T09:11:49.490Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pointblue.org/",
+      "finalUrl": "https://www.pointblue.org/",
+      "status": "success",
+      "sha256": "8d148eb7134f700ace0175111a86d3e1ab750860975fee3d0c5be2b8bee9f093",
+      "title": "Conservation Science for a Healthy Planet - Point Blue",
+      "signals": []
+    }
+  ]
+}

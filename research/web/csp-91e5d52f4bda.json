@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-91e5d52f4bda",
+  "retrievedAt": "2026-10-30T09:12:00.752Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.spiderstrategies.com",
+      "finalUrl": "https://www.spiderstrategies.com/",
+      "status": "success",
+      "sha256": "3318cda37bc2c61108c19675c6200d891d238aa946dd57182b7ec53f49075ed4",
+      "title": "The Ultimate Strategy Software | Spider Strategies",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "livers 177,000 dashboards tracking 7 million data points, providing decision-makers with critical information from "
+        }
+      ]
+    }
+  ]
+}

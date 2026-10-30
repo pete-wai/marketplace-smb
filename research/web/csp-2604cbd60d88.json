@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-2604cbd60d88",
+  "retrievedAt": "2026-10-30T09:11:30.797Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ironcladapp.com/request-demo",
+      "finalUrl": "https://ironcladapp.com/request-demo",
+      "status": "success",
+      "sha256": "02e6c04dfb97eb2c4256afdfdf7e2e7345334ffe9f2aa07ac89898aea0ef0385",
+      "title": "Get a CLM Demo, Customized for You | Ironclad",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "12, 2026 Press Ironclad Surpasses $200 Million in Annual Recurring Revenue, Entering a New Phase of AI Growth Event"
+        }
+      ]
+    }
+  ]
+}

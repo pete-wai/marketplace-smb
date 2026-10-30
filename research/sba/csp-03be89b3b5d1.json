@@ -1,0 +1,69 @@
+{
+  "providerId": "csp-03be89b3b5d1",
+  "providerName": "Distributed Solutions, Inc.",
+  "retrievedAt": "2026-10-30T09:10:11.372Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "YZP2G9722L48",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "DISTRIBUTED SOLUTIONS, INC",
+      "dba_name": "",
+      "uei": "YZP2G9722L48",
+      "cage_code": "070P6",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541720",
+        "541910",
+        "541990",
+        "561110",
+        "611420",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541720",
+        "541910"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789603200,
+      "website": "www.distributedinc.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1998",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

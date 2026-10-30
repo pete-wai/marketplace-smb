@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-df38c38deeaf",
+  "retrievedAt": "2026-10-30T09:11:53.434Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://getekko.io/",
+      "status": "unavailable",
+      "reason": "fetch failed"
+    }
+  ]
+}

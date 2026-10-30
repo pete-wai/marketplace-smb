@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-877c48a4b7e8",
+  "providerName": "Ex Libris",
+  "retrievedAt": "2026-10-30T09:10:27.451Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Ex Libris",
+      "status": "success",
+      "results": 138,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

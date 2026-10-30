@@ -1,0 +1,92 @@
+{
+  "providerId": "csp-916a98f0fa2a",
+  "providerName": "IBM",
+  "retrievedAt": "2026-10-30T09:10:58.099Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HQE7ENQ5K9K4",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "IBM",
+      "status": "success",
+      "results": 460,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "4 WALLS IT BUSINESS SOLUTIONS LLC",
+      "dba_name": "IBM",
+      "uei": "VYK6E3QPX4J5",
+      "cage_code": "9HXV4",
+      "naics_primary": "238220",
+      "naics_all_codes": [
+        "238220",
+        "493110",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541618",
+        "541690",
+        "541990",
+        "561720",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "238220",
+        "493110",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541618",
+        "541690",
+        "541990",
+        "561720",
+        "611430"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1777852800,
+      "website": "www.4wallsit.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2023",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2023-06-15",
+          "exitDate": "2027-12-15",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-06-15",
+          "exitDate": "2027-12-15",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

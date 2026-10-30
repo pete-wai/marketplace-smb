@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-7bc7ddb9a302",
+  "retrievedAt": "2026-10-30T09:12:09.857Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.vlogicsystems.com/",
+      "finalUrl": "https://www.vlogicsystems.com/",
+      "status": "success",
+      "sha256": "74e0d6c463c6e2e8a29b2213c28fb44e640515633533048c1b960869c810084a",
+      "title": "Home | VLogic Systems",
+      "signals": []
+    }
+  ]
+}

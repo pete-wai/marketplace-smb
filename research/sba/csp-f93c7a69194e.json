@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-f93c7a69194e",
+  "providerName": "Trend Micro Inc.",
+  "retrievedAt": "2026-10-30T09:13:29.168Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "G8TAKW3NE283",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Trend Micro .",
+      "status": "success",
+      "results": 476,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

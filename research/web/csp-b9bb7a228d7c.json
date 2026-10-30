@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-b9bb7a228d7c",
+  "retrievedAt": "2026-10-30T09:11:48.011Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://patlytics.ai",
+      "finalUrl": "https://www.patlytics.ai/",
+      "status": "success",
+      "sha256": "b63b92118fa73c353ed9419b966536700fbf87c6a2f28e8f5ed7e958ec2e0ce8",
+      "title": "Patlytics • Premier AI-Powered Patent Intelligence",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "sted by ✉ hello@patlytics.com Book a Demo Company Home About Us Careers Customers Community Events News Blog Platfo"
+        },
+        {
+          "kind": "size",
+          "excerpt": "by 200+ Skills → Patlytics Raises $40 Million Series B to Expand the AI Platform Purpose-Built for IP Work → Meet A"
+        }
+      ]
+    }
+  ]
+}

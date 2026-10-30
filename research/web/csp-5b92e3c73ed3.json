@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5b92e3c73ed3",
+  "retrievedAt": "2026-10-30T09:12:10.727Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.wiz.io/",
+      "finalUrl": "https://www.wiz.io/",
+      "status": "success",
+      "sha256": "f869a28454f63840ba5012629e7e4266f3f4fd95307d2d08f2d4d1253d24438a",
+      "title": "Wiz: AI Cybersecurity for All Your Cloud and AI Applications",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-fce309626826",
+  "retrievedAt": "2026-10-30T09:11:45.919Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.opentext.com/products/fortify-on-demand",
+      "finalUrl": "https://www.opentext.com/products/fortify-on-demand",
+      "status": "success",
+      "sha256": "e81d1beddf128dbc610ac43d444a9b456776625fbb166b20ca54946f6d4b9fdc",
+      "title": "AppSec Testing as a Service | Fortify on Demand | OpenText",
+      "signals": []
+    }
+  ]
+}

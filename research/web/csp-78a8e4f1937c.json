@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-78a8e4f1937c",
+  "retrievedAt": "2026-10-30T09:11:45.318Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://onspring.com/solutions/grc-software-for-the-federal-government/",
+      "finalUrl": "https://onspring.com/products/govcloud/",
+      "status": "success",
+      "sha256": "642ae9b5259a66a544e9c6503a4252de9bf4f5f18869a034bc1e23428e6b42ee",
+      "title": "GovCloud - Government Compliance Software | Onspring",
+      "signals": []
+    }
+  ]
+}

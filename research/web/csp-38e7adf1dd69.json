@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-38e7adf1dd69",
+  "retrievedAt": "2026-10-30T09:11:27.650Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.hypori.com/",
+      "finalUrl": "https://www.hypori.com/",
+      "status": "success",
+      "sha256": "353a630e1c597e71669a7b446cbd41a23f845f4ffa5221876f39937c19520e5c",
+      "title": "One Device, Zero Worries™ | Hypori",
+      "signals": []
+    }
+  ]
+}

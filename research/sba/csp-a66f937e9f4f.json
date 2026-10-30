@@ -1,0 +1,74 @@
+{
+  "providerId": "csp-a66f937e9f4f",
+  "providerName": "DLH Corporation",
+  "retrievedAt": "2026-10-30T09:10:11.409Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DLH",
+      "status": "success",
+      "results": 50,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "DLH, LLC",
+      "dba_name": "",
+      "uei": "NQL3JEME2443",
+      "cage_code": "1RTX7",
+      "naics_primary": "541330",
+      "naics_all_codes": [
+        "334220",
+        "334290",
+        "335999",
+        "336411",
+        "336413",
+        "541330",
+        "541380",
+        "541420",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541620",
+        "541690",
+        "541715",
+        "541990",
+        "561110",
+        "561210",
+        "561499",
+        "561720",
+        "561990",
+        "621210",
+        "622110"
+      ],
+      "naics_small_codes": [
+        "334220",
+        "336411",
+        "336413",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790380800,
+      "website": "http://www.DLHCORP.com",
+      "additional_website": "http://www.grsi.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2000",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

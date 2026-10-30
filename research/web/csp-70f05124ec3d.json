@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-70f05124ec3d",
+  "retrievedAt": "2026-10-30T09:12:02.268Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://Superfile.com",
+      "finalUrl": "https://superfile.com/",
+      "status": "success",
+      "sha256": "023e851e25de79b22ee1d0838446d95d266b49790e46a93cd4aecc503ca66910",
+      "title": "Secure File Sharing and Unsharing",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-36b6d9566b60",
+  "retrievedAt": "2026-10-30T09:11:32.533Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.kiteworks.com/solutions/government/",
+      "finalUrl": "https://www.kiteworks.com/solutions/government/",
+      "status": "success",
+      "sha256": "c8693d9aac104c41dc57125f5fa6de4982b9ef1501aa709eee9b1f0a123fb586",
+      "title": "Secure Government Solutions: Encrypted File Transfer &amp; Email Service",
+      "signals": []
+    }
+  ]
+}

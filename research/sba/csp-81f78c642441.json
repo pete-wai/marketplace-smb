@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-81f78c642441",
+  "providerName": "Asato Corporation",
+  "retrievedAt": "2026-10-30T09:09:23.002Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Asato",
+      "status": "success",
+      "results": 164,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

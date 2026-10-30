@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-46f48e7103ca",
+  "retrievedAt": "2026-10-30T09:11:44.368Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.oclc.org/",
+      "finalUrl": "https://www.oclc.org/",
+      "status": "success",
+      "sha256": "990e5eede9b0bfa8201563dc4beacacf84341b096b57c44661978fd7800509d9",
+      "title": null,
+      "signals": []
+    }
+  ]
+}

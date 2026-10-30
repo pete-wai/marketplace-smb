@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-dc2107e57740",
+  "providerName": "Aztec Software",
+  "retrievedAt": "2026-10-30T09:09:28.006Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Aztec Software",
+      "status": "success",
+      "results": 121,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "AZTEC SOFTWARE, LLC",
+      "dba_name": "",
+      "uei": "HX8LYEBBF2J1",
+      "cage_code": "0EZ65",
+      "naics_primary": "611710",
+      "naics_all_codes": [
+        "611710"
+      ],
+      "naics_small_codes": [
+        "611710"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1788480000,
+      "website": "www.aztecsoftware.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2020",
+      "legal_structure": "ZZ",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6b3977c6227a",
+  "retrievedAt": "2026-10-30T09:11:06.060Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://usa.canon.com/officecloud",
+      "finalUrl": "https://www.usa.canon.com/business/products/canon-office-cloud",
+      "status": "success",
+      "sha256": "0fa7a17ed95971b5c84630cd262f237b82ae88227a6ec397a832b3dd12a269e9",
+      "title": "Canon Office Cloud | Canon U.S.A., Inc.",
+      "signals": []
+    }
+  ]
+}

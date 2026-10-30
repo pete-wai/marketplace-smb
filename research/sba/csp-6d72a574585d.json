@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-6d72a574585d",
+  "providerName": "Research Dataware LLC",
+  "retrievedAt": "2026-10-30T09:12:38.354Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Research Dataware",
+      "status": "success",
+      "results": 9990,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

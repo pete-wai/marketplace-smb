@@ -1,0 +1,103 @@
+{
+  "providerId": "csp-51e53f45f169",
+  "providerName": "PowerTrain Inc.",
+  "retrievedAt": "2026-10-30T09:12:22.619Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "FFFBN9JMAKK3",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "POWERTRAIN, INC.",
+      "dba_name": "POWERTRAIN INC",
+      "uei": "FFFBN9JMAKK3",
+      "cage_code": "1ZLY7",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "236220",
+        "238910",
+        "238990",
+        "423430",
+        "512110",
+        "513130",
+        "513199",
+        "513210",
+        "516110",
+        "516210",
+        "518210",
+        "519290",
+        "541330",
+        "541350",
+        "541380",
+        "541430",
+        "541490",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541613",
+        "541614",
+        "541618",
+        "541690",
+        "541714",
+        "541715",
+        "541720",
+        "541910",
+        "541922",
+        "541990",
+        "561110",
+        "561210",
+        "561330",
+        "561422",
+        "561621",
+        "611420",
+        "611430",
+        "611512",
+        "611699",
+        "611710",
+        "624230",
+        "624310"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "541714",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1793059200,
+      "website": "http://www.powertrain.com",
+      "additional_website": "http://www.powertrain.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1994",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "WOSB",
+          "active": true,
+          "entranceDate": "2025-12-05",
+          "exitDate": "2028-12-05",
+          "pending": false,
+          "suspended": false,
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

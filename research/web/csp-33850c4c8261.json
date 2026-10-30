@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-33850c4c8261",
+  "retrievedAt": "2026-10-30T09:11:28.848Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ineight.com/products/ineight-document/",
+      "finalUrl": "https://ineight.com/products/ineight-document/",
+      "status": "success",
+      "sha256": "86671dbbf20cf487b1e8e944af6f27b9d0222db005e1dd8c64adf80a3e95f560",
+      "title": "Construction Document Control Software | InEight Document",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1d73beacb4e5",
+  "retrievedAt": "2026-10-30T09:11:50.051Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.precisely.com/solution/data-integrity-suite-for-government",
+      "finalUrl": "https://www.precisely.com/solution/data-integrity-suite-for-government/",
+      "status": "success",
+      "sha256": "a4e1b9bc1d2be9b699e7bc92b2c644134bdbed2e88d5061c445f320bf01e03dd",
+      "title": "FedRAMP® Data Integrity Suite for Government | Precisely",
+      "signals": []
+    }
+  ]
+}

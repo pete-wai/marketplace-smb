@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-af58337f50b5",
+  "retrievedAt": "2026-10-30T09:11:09.141Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.citrix.com/",
+      "finalUrl": "https://www.citrix.com/",
+      "status": "success",
+      "sha256": "59402d2eef9654aceffc0223ce5158176c8ff796958cb31aadf61cb706fc06f2",
+      "title": "Explore the Enhanced Citrix Platform: Secure, Scalable, and High-Performing IT Solutions - Citrix",
+      "signals": []
+    }
+  ]
+}

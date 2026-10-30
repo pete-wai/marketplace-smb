@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-d7b18b2dcdeb",
+  "retrievedAt": "2026-10-30T09:11:29.686Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://intelliworxit.com/",
+      "finalUrl": "https://intelliworxit.com/",
+      "status": "success",
+      "sha256": "f95c4f5b3af54eec8972bf341fc6fa9ee1817ed6c9f62a18144c6e6ceca60387",
+      "title": "Intelliworx | Automate Any Business Process You Can Imagine",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " FedRAMP Certified 21st Century IDEA Company Company About Intelliworx Leadership Customers Careers Contact Us News"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "providerId": "csp-d7b18b2dcdeb",
+  "providerName": "Intelliworx",
+  "retrievedAt": "2026-10-30T09:11:18.554Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ZD7ZTDMLKWR1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "HRWORX, LLC",
+      "dba_name": "INTELLIWORX",
+      "uei": "ZD7ZTDMLKWR1",
+      "cage_code": "3E6R9",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1779926400,
+      "website": "https://www.itwx.com",
+      "additional_website": "http://www.intelliworxit.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2003",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2024-01-22",
+          "exitDate": "2028-07-07",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2024-01-22",
+          "exitDate": "2028-07-07",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,95 @@
+{
+  "providerId": "csp-5289be6b0f01",
+  "providerName": "End To End Computing",
+  "retrievedAt": "2026-10-30T09:10:23.115Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "End To End Computing",
+      "status": "success",
+      "results": 2937,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "END TO END ENTERPRISE SOLUTIONS, LLC",
+      "dba_name": "",
+      "uei": "CT49EMG48HQ7",
+      "cage_code": "6Q9Y9",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "541211",
+        "541219",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541690",
+        "541714",
+        "541715",
+        "541720"
+      ],
+      "naics_small_codes": [
+        "541211",
+        "541219",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541690",
+        "541714",
+        "541715",
+        "541720"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1788134400,
+      "website": "https://www.eecomputing.com",
+      "additional_website": "https://www.eecomputing.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2012",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": true,
+          "entranceDate": "2019-07-16",
+          "exitDate": "2027-07-15",
+          "caseNumber": "58399",
+          "suspended": false,
+          "status": "Active",
+          "servicingOffice": "Washington Metropolitan Area District Office",
+          "officeId": "0353"
+        },
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2021-08-18",
+          "exitDate": "2027-07-16",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-04-05",
+          "exitDate": "2027-07-16",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

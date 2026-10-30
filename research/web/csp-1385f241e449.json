@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1385f241e449",
+  "retrievedAt": "2026-10-30T09:11:37.120Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.infralink.com/",
+      "finalUrl": "https://www.infralink.com/",
+      "status": "success",
+      "sha256": "af1496f411a39a7a35d2fd98ea62f1dc01ad676535c3db461b14ce706ace6a57",
+      "title": "InfraLink",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9e80a2bf4f31",
+  "retrievedAt": "2026-10-30T09:11:08.212Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://chronus.com/",
+      "finalUrl": "https://chronus.com/",
+      "status": "success",
+      "sha256": "58162d4e81f968f519da1740f1b2a115125b955a4b103be3ca57ba203d59c09a",
+      "title": "Chronus | AI coaching and mentoring for workforce readiness",
+      "signals": []
+    }
+  ]
+}

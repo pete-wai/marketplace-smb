@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9e1d80b47a17",
+  "retrievedAt": "2026-10-30T09:11:19.465Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dynatrace.com/",
+      "finalUrl": "https://www.dynatrace.com/",
+      "status": "success",
+      "sha256": "7a1c11361fd970903dfc8a359f7a939895cd724ecc6f3bae6b622ad09cc914f0",
+      "title": "Dynatrace | Observability built for the age of AI",
+      "signals": []
+    }
+  ]
+}

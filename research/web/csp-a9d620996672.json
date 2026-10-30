@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a9d620996672",
+  "retrievedAt": "2026-10-30T09:11:26.643Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.haivision.com/products/haivision-hub/",
+      "finalUrl": "https://www.haivision.com/products/",
+      "status": "success",
+      "sha256": "74d969500f2ed0ad6c405c144da47a71216acee36a9808c1023a242f6a25394b",
+      "title": "Haivision Video Networking &amp; Video Wall Products",
+      "signals": []
+    }
+  ]
+}

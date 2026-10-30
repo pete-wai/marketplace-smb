@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c626c6a2e289",
+  "retrievedAt": "2026-10-30T09:11:11.727Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.consensus.com/products/ecfax/",
+      "finalUrl": "https://www.efax.com/products/ecfax",
+      "status": "success",
+      "sha256": "0be7abdc1e1b6200518476b90d1a2732111f00c94b9b8f6902b3514f160e7cbe",
+      "title": "ECFax | Cloud Fax for Federal Government Agencies",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": " View All Industries BUSINESS SIZE Small Business Mid-Market Enterprise Featured FEATURED Streamline workflows with"
+        }
+      ]
+    }
+  ]
+}

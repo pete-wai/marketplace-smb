@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-6b517fc5a13e",
+  "retrievedAt": "2026-10-30T09:11:40.055Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.mis-sciences.com",
+      "finalUrl": "https://www.mis-sciences.com/",
+      "status": "success",
+      "sha256": "0fd16f651f805014f74d99cc6bba5f653fbab00e054e64a19585370b10c6e113",
+      "title": "GovPoint | FedRAMP JAB ATO IaaS PaaS SaaS AUaaS | Private FedRAMP Cloud  | MIS Sciences Corporation",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": ". MIS Sciences is an SBA certified Woman Owned Small Business. Documents GovPoint Authorization as a Service GovPoi"
+        }
+      ]
+    }
+  ]
+}

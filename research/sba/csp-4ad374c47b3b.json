@@ -1,0 +1,48 @@
+{
+  "providerId": "csp-4ad374c47b3b",
+  "providerName": "Laerdal Labs D.C.",
+  "retrievedAt": "2026-10-30T09:11:32.382Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Laerdal Labs D.C.",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "LAERDAL MEDICAL CORPORATION",
+      "dba_name": "",
+      "uei": "CLZKN2N6KX41",
+      "cage_code": "63783",
+      "naics_primary": "423450",
+      "naics_all_codes": [
+        "423450",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "811210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1786492800,
+      "website": "http://www.laerdal.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1967",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

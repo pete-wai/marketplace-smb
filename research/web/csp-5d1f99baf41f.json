@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-5d1f99baf41f",
+  "retrievedAt": "2026-10-30T09:12:10.328Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.widepoint.com/",
+      "finalUrl": "https://www.widepoint.com/",
+      "status": "success",
+      "sha256": "854f252940c418a88d60f4a9c092ca539891c482c2c17464783585865dbeca29",
+      "title": "WidePoint Corporation | Providing innovative IT solutions to government and commercial markets.",
+      "signals": []
+    }
+  ]
+}

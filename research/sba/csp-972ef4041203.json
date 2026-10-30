@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-972ef4041203",
+  "providerName": "Paperless Innovations, Inc.",
+  "retrievedAt": "2026-10-30T09:12:13.383Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MJAKA6Q9ADF8",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "PAPERLESS INNOVATIONS INC",
+      "dba_name": "",
+      "uei": "MJAKA6Q9ADF8",
+      "cage_code": "8GA84",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "425120",
+        "513210",
+        "518210",
+        "522320",
+        "522390",
+        "541219",
+        "541511",
+        "541519",
+        "541611",
+        "541614",
+        "561110",
+        "561210",
+        "561499"
+      ],
+      "naics_small_codes": [
+        "425120",
+        "513210",
+        "518210",
+        "522320",
+        "522390",
+        "541219",
+        "541511",
+        "541519",
+        "541611",
+        "541614",
+        "561110",
+        "561210",
+        "561499"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1789603200,
+      "website": "https://paperless-innovations.com",
+      "additional_website": "https://www.paperless-innovations.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2019",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-9b261107355f",
+  "retrievedAt": "2026-10-30T09:11:16.143Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cybersecgru.com",
+      "finalUrl": "https://cybersecgru.com/",
+      "status": "success",
+      "sha256": "c4caeb6ddc5fe96cb95d202ef0431d5781d5fa162531969d4b85333f9b0993e5",
+      "title": "Defense Cybersecurity Group | Real CMMC Compliance for the DIB",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "Controls and Assessment Objectives SDVOSB Service-Disabled Veteran-Owned What's New Where to Start The Sequence Cli"
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "s Consulting Midwatch Enclave Book a Consultation Company About DCG Our Team Our Approach LinkedIn Contact [email p"
+        }
+      ]
+    }
+  ]
+}

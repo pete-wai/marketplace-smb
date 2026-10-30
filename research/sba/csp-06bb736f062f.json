@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-06bb736f062f",
+  "providerName": "Anomali",
+  "retrievedAt": "2026-10-30T09:09:17.424Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Anomali",
+      "status": "success",
+      "results": 127,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

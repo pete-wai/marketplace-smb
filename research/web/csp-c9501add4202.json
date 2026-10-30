@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-c9501add4202",
+  "retrievedAt": "2026-10-30T09:12:01.980Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.sumologic.com/public-sector/",
+      "finalUrl": "https://www.sumologic.com/solutions/public-sector",
+      "status": "success",
+      "sha256": "ba7500731a67d8932e961a0517c07de2c79fca03fda02f5152a80ec453de0698",
+      "title": "Public sector cloud migration, security and log management",
+      "signals": []
+    }
+  ]
+}

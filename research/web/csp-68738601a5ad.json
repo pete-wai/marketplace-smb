@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-68738601a5ad",
+  "retrievedAt": "2026-10-30T09:11:08.722Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.appdynamics.com/",
+      "finalUrl": "https://www.splunk.com/en_us/appdynamics-joins-splunk.html?301=appdynamics",
+      "status": "success",
+      "sha256": "3f4f34aa8fa3fcc1ee5c3f3842c717497bc8a75247d20cbb88309bda245a4746",
+      "title": "AppDynamics joins the Splunk Observability portfolio | Splunk",
+      "signals": []
+    }
+  ]
+}

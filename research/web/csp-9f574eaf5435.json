@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9f574eaf5435",
+  "retrievedAt": "2026-10-30T09:11:49.159Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.pinecone.io",
+      "finalUrl": "https://www.pinecone.io/",
+      "status": "success",
+      "sha256": "791b4ddd6cec86fc84984aaa2afdfe7e774f6b3381b59cdaa4699bf034b57426",
+      "title": "The trusted AI knowledge company | Pinecone",
+      "signals": []
+    }
+  ]
+}

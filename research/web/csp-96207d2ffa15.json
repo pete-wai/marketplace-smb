@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-96207d2ffa15",
+  "retrievedAt": "2026-10-30T09:10:55.335Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://identity.clearme.com/",
+      "finalUrl": "https://identity.clearme.com/",
+      "status": "success",
+      "sha256": "3b581b1dfc5058adaee32eb4777edcb65c71c9e95d77ebb911166f3e757eff6d",
+      "title": "CLEAR1 | Identity for Business - Healthcare, Workforce, &amp; More",
+      "signals": []
+    }
+  ]
+}

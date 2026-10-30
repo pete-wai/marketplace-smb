@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-a0952472b4de",
+  "providerName": "Dayforce",
+  "retrievedAt": "2026-10-30T09:10:00.888Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "QGPGFM9BFXC9",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Dayforce",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-029724022e53",
+  "retrievedAt": "2026-10-30T09:11:42.620Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://nexthink.com/platform/government",
+      "finalUrl": "https://nexthink.com/solutions/industries/government",
+      "status": "success",
+      "sha256": "c980a1d0bce838c935c9e725b342090cebb63c7472d721c55e108e1163e0bb7a",
+      "title": "Government | Nexthink",
+      "signals": []
+    }
+  ]
+}

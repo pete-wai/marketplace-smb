@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-3a064b6a6c26",
+  "providerName": "Darktrace Federal Inc.",
+  "retrievedAt": "2026-10-30T09:09:58.937Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CJTXF51LYM58",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Darktrace Federal .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

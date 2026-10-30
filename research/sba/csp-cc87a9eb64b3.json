@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-cc87a9eb64b3",
+  "providerName": "Joint Commission Resources",
+  "retrievedAt": "2026-10-30T09:11:27.030Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "RB5HMSXE5P63",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Joint Commission Resources",
+      "status": "success",
+      "results": 2035,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

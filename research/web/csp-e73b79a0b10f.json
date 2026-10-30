@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e73b79a0b10f",
+  "retrievedAt": "2026-10-30T09:11:08.616Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/dna-spaces/index.html",
+      "finalUrl": "https://www.cisco.com/site/us/en/solutions/networking/cisco-spaces/index.html",
+      "status": "success",
+      "sha256": "de58436a3e1ca8148873ab3f6dd2340d3838b192ea6195ac539b0ce3c28a250c",
+      "title": "Cisco Spaces | Turning Buildings into Smart Spaces - Cisco",
+      "signals": []
+    }
+  ]
+}

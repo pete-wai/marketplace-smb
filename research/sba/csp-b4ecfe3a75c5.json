@@ -1,0 +1,54 @@
+{
+  "providerId": "csp-b4ecfe3a75c5",
+  "providerName": "CORAS",
+  "retrievedAt": "2026-10-30T09:09:54.859Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "N2D4L65472N5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "CORASCLOUD, INC.",
+      "dba_name": "CORAS",
+      "uei": "N2D4L65472N5",
+      "cage_code": "3VMA8",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541519",
+        "541715",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541519",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "http://www.coras.ai",
+      "additional_website": "http://www.corasworks.net",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2003",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

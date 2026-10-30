@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1befca0298bc",
+  "retrievedAt": "2026-10-30T09:11:21.179Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.entratus.us/",
+      "finalUrl": "https://www.entratus.us/",
+      "status": "success",
+      "sha256": "2a8a50f011072e6eca7ab9a3c65a7bd20da555f7132f48b11d1472f1cb742cca",
+      "title": "AI Voice Agents for Modern Government",
+      "signals": []
+    }
+  ]
+}

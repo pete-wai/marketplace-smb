@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-07ad65c5afba",
+  "retrievedAt": "2026-10-30T09:11:28.155Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.icertis.com/solutions/industry/public-sector/government/",
+      "finalUrl": "https://www.icertis.com/solutions/pre-configured-solutions/government/",
+      "status": "success",
+      "sha256": "d720f42faa7bd55bd135e4548258f28d2607c63e6cf2b9b7ddd0ce3afcf25599",
+      "title": "Icertis Federal Government Edition | Icertis",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "plify our contracting motions. All 220,000 employees can act as procurement agents and seamlessly flow through our "
+        }
+      ]
+    }
+  ]
+}

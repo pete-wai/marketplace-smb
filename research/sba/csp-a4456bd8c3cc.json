@@ -1,0 +1,49 @@
+{
+  "providerId": "csp-a4456bd8c3cc",
+  "providerName": "Halcyon Tech, Inc.",
+  "retrievedAt": "2026-10-30T09:10:54.928Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "PK9FZJ44PN21",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "HALCYON TECH, INC",
+      "dba_name": "",
+      "uei": "PK9FZJ44PN21",
+      "cage_code": "98EM7",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1773619200,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2021",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

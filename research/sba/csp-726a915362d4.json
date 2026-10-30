@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-726a915362d4",
+  "providerName": "Persona Identities, LLC",
+  "retrievedAt": "2026-10-30T09:12:15.782Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Persona Identities,",
+      "status": "success",
+      "results": 4063,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

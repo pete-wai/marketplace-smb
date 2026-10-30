@@ -1,0 +1,55 @@
+{
+  "providerId": "csp-fd34e6e58cad",
+  "providerName": "Socure, Inc.",
+  "retrievedAt": "2026-10-30T09:12:53.589Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HMULLC9YKLC4",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SOCURE INC",
+      "dba_name": "",
+      "uei": "HMULLC9YKLC4",
+      "cage_code": "9A5W6",
+      "naics_primary": "518210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "519290",
+        "541511",
+        "541512",
+        "541519",
+        "541690",
+        "541990",
+        "561421"
+      ],
+      "naics_small_codes": [
+        "519290"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1776124800,
+      "website": "https://www.socure.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2012",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-af42cdbd9265",
+  "retrievedAt": "2026-10-30T09:12:05.415Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.toonimo.com",
+      "finalUrl": "https://www.toonimo.com/en",
+      "status": "success",
+      "sha256": "d228ae7e49f3550cb9816b84f00fe95e7f5fbace73c45e0cf0f215b430d341bd",
+      "title": "Digital Adoption Platform for AI Transformation | Toonimo",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "es. With NetSuite OneWorld's multi-subsidiary complexity, Toonimo's walkthroughs ensure consistent global adoption "
+        },
+        {
+          "kind": "size",
+          "excerpt": " hundreds of thousands clients and 8.39 Billion dollars in sal...\\\",\\\"body\\\":\\\"$65\\\"},\\\"post-how-a-human-voice-can-"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-9b261107355f",
+  "providerName": "Defense Cybersecurity Group",
+  "retrievedAt": "2026-10-30T09:10:01.305Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "X8M3VQX188Y8",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Defense Cybersecurity Group",
+      "status": "success",
+      "results": 6574,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

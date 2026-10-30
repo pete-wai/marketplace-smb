@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-2f31a0d4cdb7",
+  "retrievedAt": "2026-10-30T09:11:27.583Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.fedhive.com/",
+      "finalUrl": "https://www.fedhive.com/",
+      "status": "success",
+      "sha256": "7dc3bf311a7d17069cf3310bec13498f8208859dcdf24f0fe189ab81609ea292",
+      "title": "FedRAMP &amp; DoD ATO Accelerator | FedHIVE",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "nt since 1986. GSA Contract Holder HUBZone Certified NASPO FedRAMP TX-RAMP StateRAMP GovRAMP DOW IL4 / IL5 CMMC (LE"
+        }
+      ]
+    }
+  ]
+}

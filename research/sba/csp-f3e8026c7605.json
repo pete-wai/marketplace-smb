@@ -1,0 +1,63 @@
+{
+  "providerId": "csp-f3e8026c7605",
+  "providerName": "OmniSync",
+  "retrievedAt": "2026-10-30T09:14:54.231Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "P1SLE2SMWLX5",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "OMNISYNC INCORPORATED",
+      "dba_name": "OMNISYNC INC",
+      "uei": "P1SLE2SMWLX5",
+      "cage_code": "8FBW7",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "541511",
+        "541611",
+        "541690",
+        "541715",
+        "541990",
+        "561110",
+        "561410",
+        "561499"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "541511",
+        "541611",
+        "541690",
+        "541715",
+        "541990",
+        "561110",
+        "561410",
+        "561499"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "www.omnisync.io",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2019",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-2663d0bf60d2",
+  "providerName": "Linear Orbit, Inc.",
+  "retrievedAt": "2026-10-30T09:11:42.417Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Linear Orbit, .",
+      "status": "success",
+      "results": 369,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

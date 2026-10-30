@@ -1,0 +1,65 @@
+{
+  "providerId": "csp-8d1ad0e53be7",
+  "providerName": "Covergent Solutions Inc dba Exiger Government Solutions (EGS)",
+  "retrievedAt": "2026-10-30T09:09:56.364Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Covergent Solutions  dba Exiger Government Solutions (EGS)",
+      "status": "success",
+      "results": 76,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "CONVERGENT SOLUTIONS, INC.",
+      "dba_name": "EXIGER GOVERNMENT SOLUTIONS",
+      "uei": "DM2MD3UXYZ25",
+      "cage_code": "1UZV3",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "519290",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "541690",
+        "541715",
+        "541990",
+        "561110",
+        "561210",
+        "561320",
+        "561611",
+        "561990"
+      ],
+      "naics_small_codes": [
+        "519290",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1769644800,
+      "website": "www.exiger.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1996",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "website domain; identity review needed"
+    }
+  ]
+}

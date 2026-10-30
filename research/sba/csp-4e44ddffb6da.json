@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-4e44ddffb6da",
+  "providerName": "Workday Inc.",
+  "retrievedAt": "2026-10-30T09:13:44.278Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Workday .",
+      "status": "success",
+      "results": 71,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-15c0edb69e72",
+  "retrievedAt": "2026-10-30T09:11:21.903Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.ey.com/en_us/alliances/ey-grants-accelerator",
+      "finalUrl": "https://www.ey.com/en_us/alliances/ey-grants-accelerator",
+      "status": "success",
+      "sha256": "31720be057bbf8c43a6bb0a029e2de91307e6b2c8d6ac2e302fe63a85a2b8daf",
+      "title": "EY Grants Accelerator grants management solution | EY - US",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "st &amp;amp; Young Global Limited, a UK company limited by guarantee, does not provide services to clients.&lt;/p>\\"
+        }
+      ]
+    }
+  ]
+}

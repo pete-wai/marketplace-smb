@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-49d660e3eaf3",
+  "retrievedAt": "2026-10-30T09:11:54.762Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://rohirrim.ai",
+      "finalUrl": "https://rohirrim.ai/",
+      "status": "success",
+      "sha256": "d8b1c9978463e2cc0efeb87f520c3eda07483373dadbc32d834ef9713cf97472",
+      "title": "Rohirrim | AI-Native Unified Acquisition Platform",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-d4d4a9397323",
+  "retrievedAt": "2026-10-30T09:12:00.375Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.spectrocloud.com/",
+      "finalUrl": "https://www.spectrocloud.com/",
+      "status": "success",
+      "sha256": "9f82bfd7546ccdf707df94f1e1f1f55c7f648caa0ef528575b7bff85281e0f03",
+      "title": "AI infrastructure management platform | Spectro Cloud",
+      "signals": []
+    }
+  ]
+}

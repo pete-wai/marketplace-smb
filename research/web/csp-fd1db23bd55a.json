@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-fd1db23bd55a",
+  "retrievedAt": "2026-10-30T09:12:05.127Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://threatconnect.com",
+      "finalUrl": "https://www.dataminr.com/",
+      "status": "success",
+      "sha256": "2b1ec8edeb098f36cf8f8b5d5ff58d953e3172f3535348d95a6e271a39c59d0d",
+      "title": "AI-Powered Real-Time Event, Threat &amp; Risk Intelligence - Dataminr",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ert Advanced and Secures Landmark $318 Million Contract with the U.S. Department of War Learn more Partners Partner"
+        }
+      ]
+    }
+  ]
+}

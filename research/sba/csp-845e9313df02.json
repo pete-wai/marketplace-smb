@@ -1,0 +1,47 @@
+{
+  "providerId": "csp-845e9313df02",
+  "providerName": "ETHERFAX",
+  "retrievedAt": "2026-10-30T09:10:25.992Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "XDQFEKBVGHP6",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ETHERFAX, LLC",
+      "dba_name": "ETHERFAX LLC",
+      "uei": "XDQFEKBVGHP6",
+      "cage_code": "9SJ70",
+      "naics_primary": "517810",
+      "naics_all_codes": [
+        "517810"
+      ],
+      "naics_small_codes": [
+        "517810"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1774483200,
+      "website": "www.etherfax.net",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2009",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

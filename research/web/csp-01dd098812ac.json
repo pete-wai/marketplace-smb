@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-01dd098812ac",
+  "retrievedAt": "2026-10-30T09:10:57.309Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.aframesolutions.com/",
+      "finalUrl": "https://www.aframesolutions.com/",
+      "status": "success",
+      "sha256": "27d275c187d77cb89ff19351357fe5256719851d1ae4d614420e9eaf886d95e3",
+      "title": "ArcSuite AI | AI-Powered, No-Code Government Operations Platform",
+      "signals": []
+    }
+  ]
+}

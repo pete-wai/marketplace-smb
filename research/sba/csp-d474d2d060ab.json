@@ -1,0 +1,59 @@
+{
+  "providerId": "csp-d474d2d060ab",
+  "providerName": "38North Security, LLC",
+  "retrievedAt": "2026-10-30T09:08:47.043Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DMVZSLQUHEK7",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "38NORTH SECURITY L.L.C.",
+      "dba_name": "",
+      "uei": "DMVZSLQUHEK7",
+      "cage_code": "6YRU9",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541690"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541690"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1791244800,
+      "website": "www.38northsecurity.com",
+      "additional_website": "http://www.38northsecurity.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2012",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

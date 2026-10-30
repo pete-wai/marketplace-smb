@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-0d917a8164be",
+  "providerName": "Qualtrics, LLC",
+  "retrievedAt": "2026-10-30T09:12:28.584Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DT8KJHZXVJH5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Qualtrics,",
+      "status": "success",
+      "results": 7,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

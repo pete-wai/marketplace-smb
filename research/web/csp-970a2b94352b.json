@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-970a2b94352b",
+  "retrievedAt": "2026-10-30T09:11:05.862Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cableteque.com/",
+      "finalUrl": "https://cableteque.com/",
+      "status": "success",
+      "sha256": "8dece8011cf50c62c178a6b607f2c65175d9d6cef320d63974535117fe012af1",
+      "title": "Cableteque | The Operating System for Wire Harness Manufacturers",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ctrical/Electronic Manufacturing · Small Business Read on G2 → 5/5 Verified review on G2 “Cableteque has transforme"
+        }
+      ]
+    }
+  ]
+}

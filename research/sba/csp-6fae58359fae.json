@@ -1,0 +1,81 @@
+{
+  "providerId": "csp-6fae58359fae",
+  "providerName": "Progressive Expert Consulting",
+  "retrievedAt": "2026-10-30T09:12:23.708Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NJEFME8MJRR1",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "PROGRESSIVE EXPERT CONSULTING, INC.",
+      "dba_name": "PROGRESSIVE EXPERT CONSULTING",
+      "uei": "NJEFME8MJRR1",
+      "cage_code": "0NW41",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "519290",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541930",
+        "611420",
+        "611430",
+        "611630",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "519290",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541930",
+        "611420",
+        "611430",
+        "611630",
+        "611710"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1792368000,
+      "website": "http://WWW.PECINC.COM",
+      "additional_website": "http://www.SmallBizMall.gov",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1987",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": false,
+          "entranceDate": "2006-03-13",
+          "exitDate": "2009-03-13",
+          "caseNumber": "32237",
+          "suspended": false,
+          "status": "Expired",
+          "servicingOffice": null,
+          "officeId": null
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

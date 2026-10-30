@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-9bb148fd4b7b",
+  "retrievedAt": "2026-10-30T09:11:12.154Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://contentguru.com/en-us",
+      "finalUrl": "https://www.contentguru.com/en-us/",
+      "status": "success",
+      "sha256": "ac2dddf167bc495a10822f522e33fa73604d27421f18dacc4854e09ffc01f0ef",
+      "title": "Cloud CX Solutions - Content Guru Inc.",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "unications providers , with around 92,000 employees, operating in 15 countries and partnering in a further 46 world"
+        }
+      ]
+    }
+  ]
+}

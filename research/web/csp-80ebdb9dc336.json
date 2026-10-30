@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-80ebdb9dc336",
+  "retrievedAt": "2026-10-30T09:11:14.315Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.crestron.com",
+      "finalUrl": "https://www.crestron.com/",
+      "status": "success",
+      "sha256": "053f3a0d417c3e4c1c91597616e25e088b79f594ea2c7c0ef11e53d541bedb0d",
+      "title": "\r\n\tControl Systems for Home Automation, Campus &amp; Building Control by Crestron Electronics\r\n [Crestron Electronics, Inc.]\r\n",
+      "signals": []
+    }
+  ]
+}

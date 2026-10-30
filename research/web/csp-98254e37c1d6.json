@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-98254e37c1d6",
+  "retrievedAt": "2026-10-30T09:11:42.595Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.nexgenam.com",
+      "finalUrl": "https://www.nexgenam.com/",
+      "status": "success",
+      "sha256": "37672a87e519e1d9d34ae892399d4e1f68ec14dfd9211358d0e1eef59ebf864d",
+      "title": "NEXGEN | A Future-First Asset Management &amp; CMMS Software Solution",
+      "signals": []
+    }
+  ]
+}

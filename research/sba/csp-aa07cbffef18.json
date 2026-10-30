@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-aa07cbffef18",
+  "providerName": "LogicMonitor",
+  "retrievedAt": "2026-10-30T09:11:43.107Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "V1B7DNM1DUB5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "LogicMonitor",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

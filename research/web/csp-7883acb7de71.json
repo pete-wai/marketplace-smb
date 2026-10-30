@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-7883acb7de71",
+  "retrievedAt": "2026-10-30T09:11:01.004Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.axiad.com/axiad-cloud/",
+      "finalUrl": "https://www.axiad.ai/axiad-conductor",
+      "status": "success",
+      "sha256": "921ddf22fe42c57ab79eb977433e3472f444d49ee4c42d6cb526039552ce3a64",
+      "title": "Axiad Conductor - Automate Identity Credential Management",
+      "signals": []
+    }
+  ]
+}

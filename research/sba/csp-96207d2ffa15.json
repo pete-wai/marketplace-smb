@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-96207d2ffa15",
+  "providerName": "Alclear Healthcare LLC (d/b/a CLEAR)",
+  "retrievedAt": "2026-10-30T09:09:13.030Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "S6ERTJZD1CP3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Alclear Healthcare  (d/b/a CLEAR)",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

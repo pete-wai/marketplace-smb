@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-2e74dafd61e7",
+  "providerName": "Digital Science UK Limited",
+  "retrievedAt": "2026-10-30T09:10:05.614Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Digital Science UK Limited",
+      "status": "success",
+      "results": 8446,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

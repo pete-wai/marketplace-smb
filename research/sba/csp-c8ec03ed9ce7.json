@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-c8ec03ed9ce7",
+  "providerName": "Dossier",
+  "retrievedAt": "2026-10-30T09:10:13.508Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TJBRVXCUT2M3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Dossier",
+      "status": "success",
+      "results": 9,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

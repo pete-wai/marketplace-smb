@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-8d1ae0ed034c",
+  "providerName": "UKG Inc.",
+  "retrievedAt": "2026-10-30T09:13:31.569Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "UKG .",
+      "status": "success",
+      "results": 5,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

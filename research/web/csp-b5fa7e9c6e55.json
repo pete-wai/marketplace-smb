@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-b5fa7e9c6e55",
+  "retrievedAt": "2026-10-30T09:11:52.963Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.recaccess.com",
+      "finalUrl": "https://www.recaccess.com/",
+      "status": "success",
+      "sha256": "abb59e4277e1a967674e4e171fdc624772f8341fdeb912f51c3aae0ac2895ad1",
+      "title": "RecAccess | Outdoor Recreation Program Management Software",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-1e7d5ea11009",
+  "retrievedAt": "2026-10-30T09:11:51.028Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.ptc.com/services/cloud",
+      "finalUrl": "https://www.ptc.com/en/customer-success",
+      "status": "success",
+      "sha256": "f0df7e3f5bcbf18bde476f97f7c074ca7b9d43d0b5b8d5c639cc7c9fce705016",
+      "title": "Customer Success | PTC",
+      "signals": []
+    }
+  ]
+}

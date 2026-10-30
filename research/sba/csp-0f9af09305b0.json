@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-0f9af09305b0",
+  "providerName": "SAP National Security Services Inc. (SAP NS2)",
+  "retrievedAt": "2026-10-30T09:12:43.981Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "SAP National Security Services . (SAP NS2)",
+      "status": "success",
+      "results": 710,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

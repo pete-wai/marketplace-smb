@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-23d59a8662d6",
+  "retrievedAt": "2026-10-30T09:11:39.903Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://mimic.com",
+      "finalUrl": "https://mimic.com/",
+      "status": "success",
+      "sha256": "438c01a8e143f2ff7b40b857ffe2797ecc27b2fba306282580b610880e7a2ce6",
+      "title": "Mimic Networks: Known-Good Enforcement for the Enterprise",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "Closes the Supply Chain Gap Blog ↗ 275 Million Records, 90 Seconds to Exploit: The Case for Machine-Speed Defense B"
+        }
+      ]
+    }
+  ]
+}

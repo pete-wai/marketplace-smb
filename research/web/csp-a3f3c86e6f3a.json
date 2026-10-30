@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-a3f3c86e6f3a",
+  "retrievedAt": "2026-10-30T09:11:51.312Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.qlik.com/us/solutions/industries/public-sector/us-public-sector",
+      "finalUrl": "https://www.qlik.com/us/solutions/industry/us-public-sector",
+      "status": "success",
+      "sha256": "04774b30223379de02d1be4021ffcd93300da6a4b2153fd89b045b455cd8fca4",
+      "title": "Public Sector Data Analytics: Cloud Data &amp; Analytics | Qlik",
+      "signals": []
+    }
+  ]
+}

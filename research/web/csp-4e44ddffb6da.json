@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-4e44ddffb6da",
+  "retrievedAt": "2026-10-30T09:12:10.761Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.workday.com/",
+      "finalUrl": "https://www.workday.com/",
+      "status": "success",
+      "sha256": "5b9bd09d341be6370150be61c1118b87f59761e9b25bd3104da72e068465e8a5",
+      "title": "\n      The Enterprise AI Platform for HR, Finance, and IT | Workday\n    ",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "providerId": "csp-1b9fc2dd04a8",
+  "providerName": "mLINQS",
+  "retrievedAt": "2026-10-30T09:11:53.437Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "mLINQS",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "MLINQS, LLC",
+      "dba_name": "MLINQS",
+      "uei": "FYXQSLS7MH63",
+      "cage_code": "3FFD8",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "561110",
+        "561410",
+        "561599",
+        "611420"
+      ],
+      "naics_small_codes": [],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1764806400,
+      "website": "http://www.mlinqs.net",
+      "additional_website": "http://www.mlinqs.net",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2003",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2021-07-08",
+          "exitDate": "2027-01-08",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2021-07-08",
+          "exitDate": "2027-01-08",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

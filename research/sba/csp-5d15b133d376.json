@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5d15b133d376",
+  "providerName": "Nintex",
+  "retrievedAt": "2026-10-30T09:12:05.216Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Nintex",
+      "status": "success",
+      "results": 19,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

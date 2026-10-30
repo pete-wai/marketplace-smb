@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-1d76dfe9876d",
+  "providerName": "Litmas, Inc.",
+  "retrievedAt": "2026-10-30T09:11:42.709Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Litmas, .",
+      "status": "success",
+      "results": 3,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-c8408805a687",
+  "retrievedAt": "2026-10-30T09:11:26.254Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.granicus.com",
+      "finalUrl": "https://granicus.com/",
+      "status": "success",
+      "sha256": "0f7e3a050d447b95b0df7e56a1bf96f48689ce574ddeb7cd5c5bc19286d10358",
+      "title": "Granicus | The Citizen Experience Platform for Government",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ublic sector leaders and Granicus’ 30 billion annual interactions. Download the report Solutions AI HUB AI for publ"
+        }
+      ]
+    }
+  ]
+}

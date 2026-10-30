@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-68651c6711e4",
+  "retrievedAt": "2026-10-30T09:11:34.976Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://risk.lexisnexis.com/government",
+      "finalUrl": "https://risk.lexisnexis.com/government",
+      "status": "success",
+      "sha256": "a81915190afab6b9efd2e0f348d20a5025832d674876082241e9450f2bf93c7f",
+      "title": "Government Data, Analytics &amp; Linking Technology|LexisNexis Risk Solutions",
+      "signals": []
+    }
+  ]
+}

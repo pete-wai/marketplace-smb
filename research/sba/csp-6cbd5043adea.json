@@ -1,0 +1,116 @@
+{
+  "providerId": "csp-6cbd5043adea",
+  "providerName": "MSM Group, Inc.",
+  "retrievedAt": "2026-10-30T09:11:54.616Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "MSM Group, .",
+      "status": "success",
+      "results": 22,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "MSM GROUP INC",
+      "dba_name": "",
+      "uei": "HFGTTGQP2MN7",
+      "cage_code": "3CNF9",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "541219",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618"
+      ],
+      "naics_small_codes": [
+        "541219",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1786665600,
+      "website": "http://www.msmgroupinc.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1999",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2023-01-27",
+          "exitDate": "2027-07-27",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2023-01-27",
+          "exitDate": "2027-07-27",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    },
+    {
+      "legal_business_name": "MSM GROUP, INC.",
+      "dba_name": "MSM GROUP INC",
+      "uei": "YSFDHN3W85D5",
+      "cage_code": "7W8J0",
+      "naics_primary": "541611",
+      "naics_all_codes": [
+        "541110",
+        "541611",
+        "541618",
+        "561311",
+        "561330",
+        "621610"
+      ],
+      "naics_small_codes": [
+        "541110",
+        "541611",
+        "541618",
+        "561311",
+        "561330",
+        "621610"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1778112000,
+      "website": "https://www.msmgroupincorporated.com",
+      "additional_website": "http://www.massstarmanagement.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2017",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

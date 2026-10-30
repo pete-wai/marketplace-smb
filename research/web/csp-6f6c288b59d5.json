@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-6f6c288b59d5",
+  "retrievedAt": "2026-10-30T09:12:09.169Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://researchcloud.vibrenthealth.com",
+      "finalUrl": "https://researchcloud.vibrenthealth.com/",
+      "status": "success",
+      "sha256": "7e801cde4f0ca91d93305d48bcdff37a057c5ffe54da80670f7eaec16fb2718d",
+      "title": null,
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-11d1854bc90c",
+  "retrievedAt": "2026-10-30T09:11:09.606Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cleat.ai",
+      "finalUrl": "https://www.cleat.ai/",
+      "status": "success",
+      "sha256": "7bf376c2becf5dfcc2dae02ab0262abba3ab678db56b64f0b01711ca5b7a5cba",
+      "title": "CLEATUS | AI for Government Contracting",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "designed for? CLEATUS is built for small businesses, emerging primes, and experienced GovCon teams alike. If you're"
+        }
+      ]
+    }
+  ]
+}

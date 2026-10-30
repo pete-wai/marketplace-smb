@@ -1,0 +1,61 @@
+{
+  "providerId": "csp-9044b6bac0e6",
+  "providerName": "Trimble Inc.",
+  "retrievedAt": "2026-10-30T09:13:29.679Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "XNL9Q2AZ3M47",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "TRIMBLE INC.",
+      "dba_name": "",
+      "uei": "XNL9Q2AZ3M47",
+      "cage_code": "4VEY7",
+      "naics_primary": "334511",
+      "naics_all_codes": [
+        "334111",
+        "334112",
+        "334210",
+        "334511",
+        "513210",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541618",
+        "611420",
+        "611430",
+        "811210"
+      ],
+      "naics_small_codes": [
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": null,
+      "website": "https://www.trimble.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1978",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,89 @@
+{
+  "providerId": "csp-2f31a0d4cdb7",
+  "providerName": "Human Resources Technologies, Inc. (HRTec)",
+  "retrievedAt": "2026-10-30T09:10:57.184Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "GJ4HVG535VM9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "HUMAN RESOURCES TECHNOLOGIES, INC.",
+      "dba_name": "HUMAN RESOURCES TECHNOLOGIES INC",
+      "uei": "GJ4HVG535VM9",
+      "cage_code": "0VG65",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "513210",
+        "517810",
+        "518210",
+        "519290",
+        "541330",
+        "541420",
+        "541430",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541618",
+        "541720",
+        "541910",
+        "611420",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "517810",
+        "518210",
+        "519290",
+        "541330",
+        "541420",
+        "541430",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541618",
+        "541720",
+        "541910",
+        "611420",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1786406400,
+      "website": "http://WWW.HRTEC.NET",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1986",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "HUBZone",
+          "active": true,
+          "entranceDate": "2019-06-07",
+          "exitDate": "2027-06-07",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

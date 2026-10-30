@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-3834722ecf43",
+  "providerName": "Embrava USA, Inc.",
+  "retrievedAt": "2026-10-30T09:14:51.759Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "M1FEX9525BZ5",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Embrava USA, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

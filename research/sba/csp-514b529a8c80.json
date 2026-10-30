@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-514b529a8c80",
+  "providerName": "Securin, Inc.",
+  "retrievedAt": "2026-10-30T09:12:46.820Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "HZAXKKL3ZTP1",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Securin, .",
+      "status": "success",
+      "results": 265,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

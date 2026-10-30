@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-7076a9b233b8",
+  "retrievedAt": "2026-10-30T09:11:19.656Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.egain.com/",
+      "finalUrl": "https://www.egain.com/",
+      "status": "success",
+      "sha256": "1d33fd294d5fe1ad41d1b0ef9f4685f7ff62040dde26f60993c1116b6862cc93",
+      "title": "AI Knowledge Platform for CX and Customer Service Automation | eGain",
+      "signals": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-67b9fee03c89",
+  "retrievedAt": "2026-10-30T09:12:07.361Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.ocio.usda.gov/about-ocio/data-center-operations/nitc-cloud-services",
+      "finalUrl": "https://www.usda.gov/about-usda/policies-and-links/departmental-directives",
+      "status": "success",
+      "sha256": "96917c65ffde546df91810b783b65fc2c297650e93e2fc2103821812d257ccdc",
+      "title": "Departmental Directives | USDA",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "More Press Release USDA Announces $472.5 Million Food Purchase to Support U.S. Producers and Strengthen America’s F"
+        }
+      ]
+    }
+  ]
+}

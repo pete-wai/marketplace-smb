@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9e74ff9f4c7f",
+  "retrievedAt": "2026-10-30T09:11:37.297Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.getmaintainx.com",
+      "finalUrl": "https://www.getmaintainx.com/",
+      "status": "success",
+      "sha256": "22ce1a7a273f80f0644902c95eef2b510e336ba47cea2774aaea204575695e5f",
+      "title": "MaintainX | Modern Maintenance and Asset Management Software",
+      "signals": []
+    }
+  ]
+}

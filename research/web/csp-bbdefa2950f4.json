@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-bbdefa2950f4",
+  "retrievedAt": "2026-10-30T09:11:25.876Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cloud.google.com/",
+      "finalUrl": "https://cloud.google.com/",
+      "status": "success",
+      "sha256": "00ae4782e33760b965bbe37487e2d48651f56a56992caf32967f4efc36db79ca",
+      "title": "AI and Cloud Computing Services | Google Cloud",
+      "signals": []
+    }
+  ]
+}

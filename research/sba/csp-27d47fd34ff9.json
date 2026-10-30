@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-27d47fd34ff9",
+  "providerName": "ID.me",
+  "retrievedAt": "2026-10-30T09:10:58.828Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "ID.me",
+      "status": "success",
+      "results": 620,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

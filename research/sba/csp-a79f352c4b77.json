@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-a79f352c4b77",
+  "providerName": "NetComm",
+  "retrievedAt": "2026-10-30T09:12:00.767Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "NetComm",
+      "status": "success",
+      "results": 25,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

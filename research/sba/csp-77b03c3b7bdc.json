@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-77b03c3b7bdc",
+  "providerName": "Kaseware, Inc",
+  "retrievedAt": "2026-10-30T09:11:29.255Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "DAE5L844FFB3",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Kaseware,",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

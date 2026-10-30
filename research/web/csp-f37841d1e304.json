@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-f37841d1e304",
+  "retrievedAt": "2026-10-30T09:11:57.000Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "http://www.secondfront.com/products/game-warden/",
+      "finalUrl": "http://www.secondfront.com/products/game-warden/",
+      "status": "success",
+      "sha256": "a28d3813c1dee34d23ad909332a1706b2c90fff3598ec7af0bc48d98913fefe0",
+      "title": "Game Warden: Accredited DevSecOps for DoD &amp; FedRAMP",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "ographic—your front-row pass to a $12 billion federal cloud market opportunity! Download now Trusted. Proven. Relen"
+        }
+      ]
+    }
+  ]
+}

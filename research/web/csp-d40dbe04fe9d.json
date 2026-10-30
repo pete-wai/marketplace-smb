@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-d40dbe04fe9d",
+  "retrievedAt": "2026-10-30T09:11:38.747Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.menlosecurity.com/",
+      "finalUrl": "https://www.menlosecurity.com/",
+      "status": "success",
+      "sha256": "370934e76f4656d22d4c0cfbd05c86b92152804ca3853b6d2f804b62bc91ffee",
+      "title": "Browser Security for Humans and Agents | Menlo Security",
+      "signals": [
+        {
+          "kind": "size",
+          "excerpt": "y: Government Gov&#x27;t/PS/ED &lt;5,000 Employees See Full Review &quot;Distributed Workforces Benefit from Menlo "
+        }
+      ]
+    }
+  ]
+}

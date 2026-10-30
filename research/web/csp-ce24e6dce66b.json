@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-ce24e6dce66b",
+  "retrievedAt": "2026-10-30T09:15:01.629Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://cocoondata.com/file-sharing",
+      "status": "unavailable",
+      "reason": "HTTP 404"
+    }
+  ]
+}

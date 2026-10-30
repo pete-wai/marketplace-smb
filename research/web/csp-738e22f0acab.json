@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-738e22f0acab",
+  "retrievedAt": "2026-10-30T09:11:09.928Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.cloudflare.com/cloudflare-for-government/",
+      "finalUrl": "https://www.cloudflare.com/cloudflare-for-government/",
+      "status": "success",
+      "sha256": "acacf622e5eb2cf56a5cb8fca14ced18af7c0d8916f5fa73b62ca6e5d53e2b36",
+      "title": "Cloudflare for Government | Cloudflare",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "For large and medium organizations Small business For small organizations Partner Become a Cloudflare partner use c"
+        }
+      ]
+    }
+  ]
+}

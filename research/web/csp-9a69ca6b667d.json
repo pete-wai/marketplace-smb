@@ -1,0 +1,24 @@
+{
+  "providerId": "csp-9a69ca6b667d",
+  "retrievedAt": "2026-10-30T09:12:06.647Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.tylertech.com/",
+      "finalUrl": "https://www.tylertech.com/",
+      "status": "success",
+      "sha256": "aacf008e2b9a3eb16590987179b19f5572169cc7e5c250c1e9279d044fba2c43",
+      "title": "\r\n\tSoftware & Services for the Public Sector | Tyler Technologies\r\n",
+      "signals": [
+        {
+          "kind": "small-business",
+          "excerpt": "ment Contract Procurement Vehicles Small Business Program Technology Partners Tyler Platform Alliance PRODUCT NAME "
+        },
+        {
+          "kind": "ownership",
+          "excerpt": "uine care for being more than just a technology company. Corporate Responsibility Leadership Team Board of Director"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-0dc8f791ab4b",
+  "retrievedAt": "2026-10-30T09:11:56.693Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://scale.com/federal",
+      "finalUrl": "https://scale.com/public-sector",
+      "status": "success",
+      "sha256": "6ec8c1181f8a107d978a2d5f2cd833989960b980483e60b33d0bbf4075a03c74",
+      "title": "Scale is the Super Intelligence (SI) partner for the US Public Sector | Scale",
+      "signals": []
+    }
+  ]
+}

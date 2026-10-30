@@ -1,0 +1,48 @@
+{
+  "providerId": "csp-8cb0f11dba8f",
+  "providerName": "Snyk",
+  "retrievedAt": "2026-10-30T09:12:53.404Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Snyk",
+      "status": "success",
+      "results": 4,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "SNYK INC",
+      "dba_name": "",
+      "uei": "LLF2KMCLNWR5",
+      "cage_code": "8TS72",
+      "naics_primary": "513210",
+      "naics_all_codes": [
+        "513210",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513210"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1743638400,
+      "website": "",
+      "additional_website": "https://snyk.io/",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2016",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

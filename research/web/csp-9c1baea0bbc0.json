@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9c1baea0bbc0",
+  "retrievedAt": "2026-10-30T09:11:38.338Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://vastian.com",
+      "finalUrl": "https://www.vastian.com/",
+      "status": "success",
+      "sha256": "fb8f8d8b9e6f3048fcce3a3092b1d64aedfd6910f82a2509756d808f36dfe26f",
+      "title": "Vastian (formerly MediaLab) | Quality Management for Hospitals, Health Systems &amp; Labs",
+      "signals": []
+    }
+  ]
+}

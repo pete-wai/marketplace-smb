@@ -1,0 +1,96 @@
+{
+  "providerId": "csp-31dbe0b42e18",
+  "providerName": "Skyward IT Solutions",
+  "retrievedAt": "2026-10-30T09:12:52.098Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "JHH5NXX58DM4",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SKYWARD IT SOLUTIONS, LLC",
+      "dba_name": "",
+      "uei": "JHH5NXX58DM4",
+      "cage_code": "745E7",
+      "naics_primary": "541511",
+      "naics_all_codes": [
+        "513199",
+        "513210",
+        "518210",
+        "519290",
+        "524292",
+        "541219",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541618",
+        "541690",
+        "541714",
+        "541715",
+        "541720",
+        "541990",
+        "561422",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "513199",
+        "513210",
+        "518210",
+        "519290",
+        "524292",
+        "541219",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541614",
+        "541714",
+        "541715",
+        "541720",
+        "541990",
+        "561422"
+      ],
+      "self_small_boolean": true,
+      "sam_extract_code": "A",
+      "last_update_date": 1792454400,
+      "website": "www.skywarditsolutions.com",
+      "additional_website": "https://www.skywarditsolutions.com",
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2013",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "8(a)",
+          "active": true,
+          "entranceDate": "2017-05-23",
+          "exitDate": "2027-05-23",
+          "caseNumber": "24023",
+          "suspended": false,
+          "status": "Active",
+          "servicingOffice": "Washington Metropolitan Area District Office",
+          "officeId": "0353"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

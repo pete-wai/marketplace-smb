@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-0a22765acf2b",
+  "retrievedAt": "2026-10-30T09:12:00.133Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.solventum.com/",
+      "finalUrl": "https://www.solventum.com/en-us/home/",
+      "status": "success",
+      "sha256": "2d79dd689b68f93c46e28d11666ca1af3fa9e26e6c8fb5b31f387b53f26ac268",
+      "title": "Enabling better, smarter, safer healthcare | Solventum",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": "nswers and links on our history as a healthcare company, current leadership, purpose, values, impact, our global fo"
+        }
+      ]
+    }
+  ]
+}

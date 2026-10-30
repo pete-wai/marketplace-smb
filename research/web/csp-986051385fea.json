@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-986051385fea",
+  "retrievedAt": "2026-10-30T09:11:19.933Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.elastic.co/industries/public-sector/fedramp",
+      "finalUrl": "https://www.elastic.co/industries/public-sector/fedramp",
+      "status": "success",
+      "sha256": "962cb43431f350d424d45278e3ab6bf607c61c36c586e3a2f3acb11be54bd336",
+      "title": "Elastic FedRAMP authorized cloud offerings for government users | Elastic",
+      "signals": []
+    }
+  ]
+}

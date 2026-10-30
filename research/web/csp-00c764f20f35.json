@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-00c764f20f35",
+  "retrievedAt": "2026-10-30T09:11:02.615Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.blackboard.com/government",
+      "finalUrl": "https://www.blackboard.com/government",
+      "status": "success",
+      "sha256": "255e5ab73b21cdbd1be53e41a049c82d0c9c28c6487ef7fc585d83509ee4c15f",
+      "title": "Training LMS for Government Agencies &amp; Workforce | Blackboard",
+      "signals": []
+    }
+  ]
+}

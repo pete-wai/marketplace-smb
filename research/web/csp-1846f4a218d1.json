@@ -1,0 +1,20 @@
+{
+  "providerId": "csp-1846f4a218d1",
+  "retrievedAt": "2026-10-30T09:11:44.017Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://ocient.com",
+      "finalUrl": "https://ocient.com/",
+      "status": "success",
+      "sha256": "35e7ab81199c7138abfc29484119f2a3212d12afd479bda4e4dd644c340654a7",
+      "title": "OcientAIQ | Production AI at Enterprise Scale",
+      "signals": [
+        {
+          "kind": "ownership",
+          "excerpt": " Shea, VP Engineering, Beachfront (Acquired by Seedtag) Production AI demands more than great software Software alo"
+        }
+      ]
+    }
+  ]
+}

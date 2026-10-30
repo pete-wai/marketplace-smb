@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-5df0a07efe0c",
+  "providerName": "Geographic Solutions Inc.",
+  "retrievedAt": "2026-10-30T09:10:40.708Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Geographic Solutions .",
+      "status": "success",
+      "results": 490,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

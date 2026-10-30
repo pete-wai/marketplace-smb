@@ -1,0 +1,75 @@
+{
+  "providerId": "csp-76db4b71394c",
+  "providerName": "Economic Systems",
+  "retrievedAt": "2026-10-30T09:10:20.493Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "RUG6TVTY19U9",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "ECONOMIC SYSTEMS INC",
+      "dba_name": "",
+      "uei": "RUG6TVTY19U9",
+      "cage_code": "1U142",
+      "naics_primary": "541611",
+      "naics_all_codes": [
+        "513210",
+        "516210",
+        "541214",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541618",
+        "541910",
+        "561311",
+        "561312",
+        "611430"
+      ],
+      "naics_small_codes": [
+        "513210",
+        "516210",
+        "541214",
+        "541330",
+        "541511",
+        "541512",
+        "541513",
+        "541519",
+        "541611",
+        "541612",
+        "541618",
+        "541910",
+        "561311",
+        "561312",
+        "611430"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1790640000,
+      "website": "https://www.econsys.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "1990",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

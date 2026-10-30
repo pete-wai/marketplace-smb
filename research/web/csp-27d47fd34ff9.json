@@ -1,0 +1,12 @@
+{
+  "providerId": "csp-27d47fd34ff9",
+  "retrievedAt": "2026-10-30T09:11:28.182Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.id.me/business/identity-gateway",
+      "status": "unavailable",
+      "reason": "HTTP 403"
+    }
+  ]
+}

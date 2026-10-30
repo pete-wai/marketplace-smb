@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-108f8078fb77",
+  "providerName": "Ultra Security, Inc.",
+  "retrievedAt": "2026-10-30T09:13:31.755Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "CSF7MCSGCEA7",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Ultra Security, .",
+      "status": "success",
+      "results": 416,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

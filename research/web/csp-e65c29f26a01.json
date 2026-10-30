@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-e65c29f26a01",
+  "retrievedAt": "2026-10-30T09:11:51.281Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.qgenda.com/federal/",
+      "finalUrl": "https://www.qgenda.com/federal/",
+      "status": "success",
+      "sha256": "3badbb828a90571e619977b5e017b5f6f4f78be80e548ddd287e1f31a6a3745d",
+      "title": "Who We Serve | By Industry - Federal - QGenda",
+      "signals": []
+    }
+  ]
+}

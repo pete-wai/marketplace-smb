@@ -1,0 +1,76 @@
+{
+  "providerId": "csp-0fd087777304",
+  "providerName": "IndirectTek LLC",
+  "retrievedAt": "2026-10-30T09:11:00.078Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "WHPENK95HC68",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "INDIRECTTEK LLC",
+      "dba_name": "",
+      "uei": "WHPENK95HC68",
+      "cage_code": "1AZH1",
+      "naics_primary": "541512",
+      "naics_all_codes": [
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541715",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "518210",
+        "541330",
+        "541511",
+        "541512",
+        "541519",
+        "541611",
+        "541715",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1778803200,
+      "website": "https://www.indirecttek.com",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2022",
+      "legal_structure": "2K",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [
+        {
+          "name": "VOSB",
+          "active": true,
+          "entranceDate": "2026-05-12",
+          "exitDate": "2029-05-12",
+          "status": "Active"
+        },
+        {
+          "name": "SDVOSB",
+          "active": true,
+          "entranceDate": "2026-05-12",
+          "exitDate": "2029-05-12",
+          "status": "Active"
+        }
+      ],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

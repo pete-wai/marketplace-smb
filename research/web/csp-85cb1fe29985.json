@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-85cb1fe29985",
+  "retrievedAt": "2026-10-30T09:11:59.683Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.smxtech.com/",
+      "finalUrl": "https://www.smxtech.com/",
+      "status": "success",
+      "sha256": "587a8ea02b4bd2224dc19e0dda9d020314da4e0af80e5143747565c458dcdf7d",
+      "title": "SMX - Harness Technology to Realize Your Digital Future",
+      "signals": []
+    }
+  ]
+}

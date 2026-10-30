@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-b0d143e66228",
+  "providerName": "Tenable Public Sector (TPS)",
+  "retrievedAt": "2026-10-30T09:13:06.817Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "TEF5FKYHVKV9",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "Tenable Public Sector (TPS)",
+      "status": "success",
+      "results": 60,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

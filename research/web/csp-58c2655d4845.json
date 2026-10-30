@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-58c2655d4845",
+  "retrievedAt": "2026-10-30T09:12:08.240Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.vanta.com/",
+      "finalUrl": "https://www.vanta.com/",
+      "status": "success",
+      "sha256": "40af433a4cfbde3859066a4457d3cf57d4eea00202b63e08363abb620794758c",
+      "title": "SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance",
+      "signals": []
+    }
+  ]
+}

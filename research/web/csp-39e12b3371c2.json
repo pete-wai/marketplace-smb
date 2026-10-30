@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-39e12b3371c2",
+  "retrievedAt": "2026-10-30T09:11:18.347Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.dssinc.com/",
+      "finalUrl": "https://www.dssinc.com/",
+      "status": "success",
+      "sha256": "011e1dce475c625b50ea9b571d744e98348b9ea0c194ab12237d5d53f1f53d05",
+      "title": "DSS, Inc",
+      "signals": []
+    }
+  ]
+}

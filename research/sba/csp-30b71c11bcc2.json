@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-30b71c11bcc2",
+  "providerName": "Veridix, LLC",
+  "retrievedAt": "2026-10-30T09:13:38.978Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Veridix,",
+      "status": "success",
+      "results": 2,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": [
+    {
+      "legal_business_name": "MATTHEW A RAMSEY",
+      "dba_name": "VERIDIX",
+      "uei": "SDEJVH2ZCKU7",
+      "cage_code": "18VK9",
+      "naics_primary": "336411",
+      "naics_all_codes": [
+        "334413",
+        "334511",
+        "336411",
+        "541715"
+      ],
+      "naics_small_codes": [
+        "334413",
+        "334511",
+        "336411",
+        "541715"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1770681600,
+      "website": "veridix.systems",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2025",
+      "legal_structure": "2J",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact normalized name; identity review needed"
+    }
+  ]
+}

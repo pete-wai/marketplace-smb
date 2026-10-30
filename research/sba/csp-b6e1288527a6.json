@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-b6e1288527a6",
+  "providerName": "F5, Inc.",
+  "retrievedAt": "2026-10-30T09:10:28.709Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "LPH1U4GHAVY9",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "F5, .",
+      "status": "success",
+      "results": 51,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

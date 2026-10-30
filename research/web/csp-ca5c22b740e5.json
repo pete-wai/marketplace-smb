@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ca5c22b740e5",
+  "retrievedAt": "2026-10-30T09:11:45.902Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.openclinica.com/fedramp",
+      "finalUrl": "https://www.openclinica.com/fedramp/",
+      "status": "success",
+      "sha256": "95ed69808313b948989cde739a72795d46c1e634a081e2898370d38b0370f5bf",
+      "title": "FedRAMP for Clinical Research | OpenClinica",
+      "signals": []
+    }
+  ]
+}

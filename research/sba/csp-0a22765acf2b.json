@@ -1,0 +1,16 @@
+{
+  "providerId": "csp-0a22765acf2b",
+  "providerName": "Solventum",
+  "retrievedAt": "2026-10-30T09:12:58.420Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Solventum",
+      "status": "success",
+      "results": 226,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

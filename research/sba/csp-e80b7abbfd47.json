@@ -1,0 +1,53 @@
+{
+  "providerId": "csp-e80b7abbfd47",
+  "providerName": "Aqua Security Software Inc.",
+  "retrievedAt": "2026-10-30T09:09:20.272Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "UT1CMKQJZG78",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "AQUA SECURITY SOFTWARE INC",
+      "dba_name": "",
+      "uei": "UT1CMKQJZG78",
+      "cage_code": "8H6N5",
+      "naics_primary": "423430",
+      "naics_all_codes": [
+        "423430",
+        "513210",
+        "541519",
+        "611420"
+      ],
+      "naics_small_codes": [
+        "423430",
+        "513210",
+        "541519",
+        "611420"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1781136000,
+      "website": "",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2016",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact UEI"
+    }
+  ],
+  "candidates": []
+}

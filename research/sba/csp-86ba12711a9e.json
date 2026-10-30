@@ -1,0 +1,22 @@
+{
+  "providerId": "csp-86ba12711a9e",
+  "providerName": "HealthEdge Software, Inc.",
+  "retrievedAt": "2026-10-30T09:10:55.633Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "X8D9AX45NVG6",
+      "status": "success",
+      "results": 0,
+      "filter": "public_display = true"
+    },
+    {
+      "query": "HealthEdge Software, .",
+      "status": "success",
+      "results": 1,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [],
+  "candidates": []
+}

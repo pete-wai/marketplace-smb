@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-9044b6bac0e6",
+  "retrievedAt": "2026-10-30T09:12:06.126Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.trimble.com/en/industries/government",
+      "finalUrl": "https://www.trimble.com/en/industries/government",
+      "status": "success",
+      "sha256": "5d932c8887c815a9d3e233d524f3a46e6327e90535d08fa95678dab2e3ef911c",
+      "title": "Government Technology Solutions | Trimble",
+      "signals": []
+    }
+  ]
+}

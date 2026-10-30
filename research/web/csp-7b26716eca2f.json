@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-7b26716eca2f",
+  "retrievedAt": "2026-10-30T09:12:05.548Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://casco.com/",
+      "finalUrl": "https://casco.com/",
+      "status": "success",
+      "sha256": "eff849a7a365873c200aec0557f86ccccae6ed0aa8785e17f5192350b1d4ddcc",
+      "title": "Casco | AI-Native AppSec &amp; Continuous AI Pentesting",
+      "signals": []
+    }
+  ]
+}

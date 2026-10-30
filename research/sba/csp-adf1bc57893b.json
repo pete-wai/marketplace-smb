@@ -1,0 +1,52 @@
+{
+  "providerId": "csp-adf1bc57893b",
+  "providerName": "Orbus Software",
+  "retrievedAt": "2026-10-30T09:12:11.515Z",
+  "endpoint": "https://search.certifications.sba.gov/_api/v2/search",
+  "attempts": [
+    {
+      "query": "Orbus Software",
+      "status": "success",
+      "results": 32,
+      "filter": "public_display = true"
+    }
+  ],
+  "matches": [
+    {
+      "legal_business_name": "SEATTLE BUSINESS SOFTWARE, INC",
+      "dba_name": "ORBUS SOFTWARE",
+      "uei": "SU2XF8198M21",
+      "cage_code": "9VTB6",
+      "naics_primary": "541519",
+      "naics_all_codes": [
+        "541511",
+        "541512",
+        "541519",
+        "611710"
+      ],
+      "naics_small_codes": [
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "self_small_boolean": false,
+      "sam_extract_code": "A",
+      "last_update_date": 1773619200,
+      "website": "https://www.orbussoftware.com/",
+      "additional_website": null,
+      "business_size": null,
+      "annual_revenue": null,
+      "year_established": "2005",
+      "legal_structure": "2L",
+      "size_protest": false,
+      "size_protest_naics": [],
+      "size_protest_date": null,
+      "size_determination_description": null,
+      "certs": [],
+      "public_display": true,
+      "public_display_limited": false,
+      "matchBasis": "exact name and website domain"
+    }
+  ],
+  "candidates": []
+}

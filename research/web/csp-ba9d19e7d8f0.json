@@ -1,0 +1,15 @@
+{
+  "providerId": "csp-ba9d19e7d8f0",
+  "retrievedAt": "2026-10-30T09:12:11.082Z",
+  "purpose": "Homepage screening for identity, ownership, and size disclosures; candidate evidence requires review.",
+  "attempts": [
+    {
+      "url": "https://www.xerox.com/en-us/services/government-solutions/insights/fedramp-approved-cloud-mps",
+      "finalUrl": "https://www.xerox.com/en-us/services/government-solutions/insights/fedramp-approved-cloud-mps",
+      "status": "success",
+      "sha256": "6cc0fe175ea13662b92727c3756fbf10d01ff86670faa9a45a47b7abb7c90ed2",
+      "title": "FedRAMP Approved Cloud MPS - Xerox",
+      "signals": []
+    }
+  ]
+}
